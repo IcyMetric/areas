@@ -13,15 +13,15 @@
   loot:
   - name: Security Shotgun
     type: gun
-    percent: 0.18
+    percent: 0.36
     attack: 10
     defense: 14
-    energy for 1: 7083.333333333334
-    exp for 1: 2250.0
-    attack for energy: 0.0014117647058823528
-    defense for energy: 0.001976470588235294
-    attack for exp: 0.0044444444444444444
-    defense for exp: 0.006222222222222222
+    energy for 1: 3541.666666666667
+    exp for 1: 1125.0
+    attack for energy: 0.0028235294117647056
+    defense for energy: 0.003952941176470588
+    attack for exp: 0.008888888888888889
+    defense for exp: 0.012444444444444444
 - target: Pizza Parlor
   job: Hunt for Treasure
   energy: 218
@@ -36,15 +36,15 @@
   loot:
   - name: GMC Yukon
     type: car
-    percent: 0.19
+    percent: 0.38
     attack: 3
     defense: 6
-    energy for 1: 3442.1052631578946
-    exp for 1: 1010.5263157894736
-    attack for energy: 0.000871559633027523
-    defense for energy: 0.001743119266055046
-    attack for exp: 0.00296875
-    defense for exp: 0.0059375
+    energy for 1: 1721.0526315789473
+    exp for 1: 505.2631578947368
+    attack for energy: 0.001743119266055046
+    defense for energy: 0.003486238532110092
+    attack for exp: 0.0059375
+    defense for exp: 0.011875
 - target: Pizza Parlor
   job: Forge Paperwork
   energy: 168
@@ -71,15 +71,15 @@
   loot:
   - name: Riot Grenade Launcher
     type: gun
-    percent: 0.24
+    percent: 0.48
     attack: 14
     defense: 13
-    energy for 1: 14000.0
-    exp for 1: 5733.333333333334
-    attack for energy: 0.001
-    defense for energy: 0.0009285714285714286
-    attack for exp: 0.002441860465116279
-    defense for exp: 0.002267441860465116
+    energy for 1: 7000.0
+    exp for 1: 2866.666666666667
+    attack for energy: 0.002
+    defense for energy: 0.0018571428571428571
+    attack for exp: 0.004883720930232558
+    defense for exp: 0.004534883720930232
 - target: Amanda Kale
   job: Make an Offer
   energy: 137
@@ -118,15 +118,15 @@
   loot:
   - name: Killer Machine Gun
     type: gun
-    percent: 0.24
+    percent: 0.48
     attack: 13
     defense: 11
-    energy for 1: 9537.5
-    exp for 1: 3850.0
-    attack for energy: 0.001363040629095675
-    defense for energy: 0.0011533420707732635
-    attack for exp: 0.0033766233766233766
-    defense for exp: 0.002857142857142857
+    energy for 1: 4768.75
+    exp for 1: 1925.0
+    attack for energy: 0.00272608125819135
+    defense for energy: 0.002306684141546527
+    attack for exp: 0.006753246753246753
+    defense for exp: 0.005714285714285714
 - target: Pizza Parlor
   job: Plant Bomb
   energy: 181
@@ -141,15 +141,15 @@
   loot:
   - name: SCAR
     type: gun
-    percent: 0.21
+    percent: 0.42
     attack: 7
     defense: 7
-    energy for 1: 2585.714285714286
-    exp for 1: 957.1428571428572
-    attack for energy: 0.0027071823204419887
-    defense for energy: 0.0027071823204419887
-    attack for exp: 0.007313432835820895
-    defense for exp: 0.007313432835820895
+    energy for 1: 1292.857142857143
+    exp for 1: 478.5714285714286
+    attack for energy: 0.0054143646408839775
+    defense for energy: 0.0054143646408839775
+    attack for exp: 0.01462686567164179
+    defense for exp: 0.01462686567164179
 - target: Charlene DeSanto
   job: Clip
   energy: 256
@@ -164,15 +164,15 @@
   loot:
   - name: ARX160
     type: gun
-    percent: 0.22
+    percent: 0.44
     attack: 13
     defense: 10
-    energy for 1: 6981.818181818182
-    exp for 1: 2727.2727272727275
-    attack for energy: 0.0018619791666666667
-    defense for energy: 0.0014322916666666666
-    attack for exp: 0.0047666666666666664
-    defense for exp: 0.0036666666666666666
+    energy for 1: 3490.909090909091
+    exp for 1: 1363.6363636363637
+    attack for energy: 0.0037239583333333335
+    defense for energy: 0.002864583333333333
+    attack for exp: 0.009533333333333333
+    defense for exp: 0.007333333333333333
 - target: Joe Scarletti
   job: Defeat
   energy: 400
@@ -232,15 +232,15 @@
   loot:
   - name: PP19 SMG
     type: gun
-    percent: 0.21
+    percent: 0.42
     attack: 4
     defense: 7
-    energy for 1: 1542.857142857143
-    exp for 1: 552.3809523809524
-    attack for energy: 0.0025925925925925925
-    defense for energy: 0.004537037037037037
-    attack for exp: 0.007241379310344827
-    defense for exp: 0.012672413793103448
+    energy for 1: 771.4285714285714
+    exp for 1: 276.1904761904762
+    attack for energy: 0.005185185185185185
+    defense for energy: 0.009074074074074075
+    attack for exp: 0.014482758620689654
+    defense for exp: 0.025344827586206896
 - target: Janitor Ricki
   job: Sell Drugs
   energy: 150
@@ -267,15 +267,15 @@
   loot:
   - name: Kunai
     type: melee
-    percent: 0.19
+    percent: 0.38
     attack: 12
     defense: 14
-    energy for 1: 7631.578947368421
-    exp for 1: 3105.2631578947367
-    attack for energy: 0.0015724137931034483
-    defense for energy: 0.0018344827586206896
-    attack for exp: 0.003864406779661017
-    defense for exp: 0.004508474576271186
+    energy for 1: 3815.7894736842104
+    exp for 1: 1552.6315789473683
+    attack for energy: 0.0031448275862068966
+    defense for energy: 0.0036689655172413792
+    attack for exp: 0.007728813559322034
+    defense for exp: 0.009016949152542373
 - target: Pizza Parlor
   job: Break In
   energy: 242
@@ -290,15 +290,15 @@
   loot:
   - name: Rusty M4 A1
     type: gun
-    percent: 0.2
+    percent: 0.4
     attack: 7
     defense: 11
-    energy for 1: 3630.0
-    exp for 1: 1110.0
-    attack for energy: 0.001928374655647383
-    defense for energy: 0.0030303030303030303
-    attack for exp: 0.006306306306306306
-    defense for exp: 0.00990990990990991
+    energy for 1: 1815.0
+    exp for 1: 555.0
+    attack for energy: 0.003856749311294766
+    defense for energy: 0.006060606060606061
+    attack for exp: 0.012612612612612612
+    defense for exp: 0.01981981981981982
 - target: Pizza Parlor
   job: Lock Out Workers
   energy: 176
@@ -313,15 +313,15 @@
   loot:
   - name: Police Armor
     type: armor
-    percent: 0.2
+    percent: 0.4
     attack: 5
     defense: 14
-    energy for 1: 3520.0
-    exp for 1: 1180.0
-    attack for energy: 0.0014204545454545455
-    defense for energy: 0.003977272727272727
-    attack for exp: 0.00423728813559322
-    defense for exp: 0.011864406779661017
+    energy for 1: 1760.0
+    exp for 1: 590.0
+    attack for energy: 0.002840909090909091
+    defense for energy: 0.007954545454545454
+    attack for exp: 0.00847457627118644
+    defense for exp: 0.023728813559322035
 - target: Pizza Parlor
   job: Steal Inventory
   energy: 369
@@ -336,15 +336,15 @@
   loot:
   - name: SG 550
     type: gun
-    percent: 0.21
+    percent: 0.42
     attack: 10
     defense: 7
-    energy for 1: 8785.714285714286
-    exp for 1: 2714.285714285714
-    attack for energy: 0.0011382113821138211
-    defense for energy: 0.0007967479674796747
-    attack for exp: 0.0036842105263157894
-    defense for exp: 0.0025789473684210526
+    energy for 1: 4392.857142857143
+    exp for 1: 1357.142857142857
+    attack for energy: 0.0022764227642276423
+    defense for energy: 0.0015934959349593494
+    attack for exp: 0.007368421052631579
+    defense for exp: 0.005157894736842105
 - target: Pizza Parlor
   job: Offer Protection
   energy: 154
