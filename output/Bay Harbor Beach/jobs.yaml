@@ -1,0 +1,404 @@
+---
+- target: Pizza Parlor
+  job: Set Up Hideout
+  energy: 184
+  exp: 80
+  money max: 39744
+  money min: 13248
+  clicks needed: 2
+  total energy: 368
+  total exp: 160
+  average money per energy: 72
+  average money per exp: 165
+  loot:
+  - name: The Iron Fist
+    type: melee
+    percent: 0.15
+    attack: 30
+    defense: 19
+    energy for 1: 2453.3333333333335
+    exp for 1: 1066.6666666666667
+    attack for energy: 0.012228260869565216
+    defense for energy: 0.007744565217391304
+    attack for exp: 0.028124999999999997
+    defense for exp: 0.0178125
+- target: Pizza Parlor
+  job: Extort Money
+  energy: 239
+  exp: 104
+  money max: 51624
+  money min: 17208
+  clicks needed: 2
+  total energy: 478
+  total exp: 208
+  average money per energy: 72
+  average money per exp: 165
+  loot:
+  - name: Doomsday Rifle
+    type: gun
+    percent: 0.4
+    attack: 33
+    defense: 19
+    energy for 1: 1195.0
+    exp for 1: 520.0
+    attack for energy: 0.027615062761506277
+    defense for energy: 0.015899581589958158
+    attack for exp: 0.06346153846153846
+    defense for exp: 0.03653846153846154
+- target: Pizza Parlor
+  job: Bribe Cops
+  energy: 103
+  exp: 45
+  money max: 11124
+  money min: 3708
+  clicks needed: 1
+  total energy: 103
+  total exp: 45
+  average money per energy: 72
+  average money per exp: 164
+  loot: []
+- target: Pizza Parlor
+  job: Rob Hotel
+  energy: 509
+  exp: 221
+  money max: 164916
+  money min: 54972
+  clicks needed: 3
+  total energy: 1527
+  total exp: 663
+  average money per energy: 72
+  average money per exp: 165
+  loot:
+  - name: Gooch's Roaster
+    type: gun
+    percent: 0.25
+    attack: 42
+    defense: 13
+    energy for 1: 6108.0
+    exp for 1: 2652.0
+    attack for energy: 0.0068762278978389
+    defense for energy: 0.002128356254092993
+    attack for exp: 0.01583710407239819
+    defense for exp: 0.004901960784313725
+- target: Pizza Parlor
+  job: Convince Sports Bar
+  energy: 469
+  exp: 204
+  money max: 101304
+  money min: 33768
+  clicks needed: 2
+  total energy: 938
+  total exp: 408
+  average money per energy: 72
+  average money per exp: 165
+  loot:
+  - name: The Iron Fist
+    type: melee
+    percent: 0.15
+    attack: 30
+    defense: 19
+    energy for 1: 6253.333333333334
+    exp for 1: 2720.0
+    attack for energy: 0.004797441364605543
+    defense for energy: 0.0030383795309168442
+    attack for exp: 0.011029411764705883
+    defense for exp: 0.006985294117647059
+- target: Pizza Parlor
+  job: Assure Techno Club
+  energy: 426
+  exp: 185
+  money max: 138024
+  money min: 46008
+  clicks needed: 3
+  total energy: 1278
+  total exp: 555
+  average money per energy: 72
+  average money per exp: 165
+  loot:
+  - name: Doomsday Rifle
+    type: gun
+    percent: 0.15
+    attack: 33
+    defense: 19
+    energy for 1: 8520.0
+    exp for 1: 3700.0
+    attack for energy: 0.0038732394366197184
+    defense for energy: 0.0022300469483568074
+    attack for exp: 0.00891891891891892
+    defense for exp: 0.005135135135135135
+- target: Pizza Parlor
+  job: Burn Loft
+  energy: 386
+  exp: 168
+  money max: 166752
+  money min: 55584
+  clicks needed: 4
+  total energy: 1544
+  total exp: 672
+  average money per energy: 72
+  average money per exp: 165
+  loot:
+  - name: Gooch's Roaster
+    type: gun
+    percent: 0.25
+    attack: 42
+    defense: 13
+    energy for 1: 6176.0
+    exp for 1: 2688.0
+    attack for energy: 0.006800518134715026
+    defense for energy: 0.0021049222797927462
+    attack for exp: 0.015625
+    defense for exp: 0.004836309523809524
+- target: Pizza Parlor
+  job: Shootup
+  energy: 331
+  exp: 144
+  money max: 178740
+  money min: 59580
+  clicks needed: 5
+  total energy: 1655
+  total exp: 720
+  average money per energy: 72
+  average money per exp: 165
+  loot:
+  - name: Getaway Runner Plus
+    type: car
+    percent: 0.15
+    attack: 21
+    defense: 37
+    energy for 1: 11033.333333333334
+    exp for 1: 4800.0
+    attack for energy: 0.0019033232628398792
+    defense for energy: 0.0033534743202416916
+    attack for exp: 0.004375
+    defense for exp: 0.0077083333333333335
+- target: Pizza Parlor
+  job: Steal Ticket Sales
+  energy: 291
+  exp: 127
+  money max: 157140
+  money min: 52380
+  clicks needed: 5
+  total energy: 1455
+  total exp: 635
+  average money per energy: 72
+  average money per exp: 164
+  loot:
+  - name: Doomsday Rifle
+    type: gun
+    percent: 0.25
+    attack: 33
+    defense: 19
+    energy for 1: 5820.0
+    exp for 1: 2540.0
+    attack for energy: 0.005670103092783505
+    defense for energy: 0.0032646048109965637
+    attack for exp: 0.012992125984251968
+    defense for exp: 0.007480314960629921
+- target: Pizza Parlor
+  job: Rob Tiki Bar
+  energy: 319
+  exp: 139
+  money max: 172260
+  money min: 57420
+  clicks needed: 5
+  total energy: 1595
+  total exp: 695
+  average money per energy: 72
+  average money per exp: 165
+  loot:
+  - name: Gooch's Roaster
+    type: gun
+    percent: 0.4
+    attack: 42
+    defense: 13
+    energy for 1: 3987.5
+    exp for 1: 1737.5
+    attack for energy: 0.010532915360501568
+    defense for energy: 0.0032601880877742946
+    attack for exp: 0.024172661870503598
+    defense for exp: 0.007482014388489209
+- target: Pizza Parlor
+  job: Remove Witnesses
+  energy: 279
+  exp: 121
+  money max: 180792
+  money min: 60264
+  clicks needed: 6
+  total energy: 1674
+  total exp: 726
+  average money per energy: 72
+  average money per exp: 166
+  loot:
+  - name: Getaway Runner Plus
+    type: car
+    percent: 0.15
+    attack: 21
+    defense: 37
+    energy for 1: 11160.0
+    exp for 1: 4840.0
+    attack for energy: 0.001881720430107527
+    defense for energy: 0.003315412186379928
+    attack for exp: 0.0043388429752066115
+    defense for exp: 0.007644628099173554
+- target: Pizza Parlor
+  job: Set Up Weapon Depot
+  energy: 524
+  exp: 228
+  money max: 56592
+  money min: 18864
+  clicks needed: 1
+  total energy: 524
+  total exp: 228
+  average money per energy: 72
+  average money per exp: 165
+  loot: []
+- target: Pizza Parlor
+  job: Rob Store
+  energy: 484
+  exp: 211
+  money max: 261360
+  money min: 87120
+  clicks needed: 5
+  total energy: 2420
+  total exp: 1055
+  average money per energy: 72
+  average money per exp: 165
+  loot:
+  - name: Face Guard
+    type: armor
+    percent: 0.25
+    attack: 12
+    defense: 48
+    energy for 1: 9680.0
+    exp for 1: 4220.0
+    attack for energy: 0.0012396694214876034
+    defense for energy: 0.0049586776859504135
+    attack for exp: 0.002843601895734597
+    defense for exp: 0.011374407582938388
+- target: Frank Trafficante
+  job: Meet Ally
+  energy: 204
+  exp: 89
+  money max: 22032
+  money min: 7344
+  clicks needed: 1
+  total energy: 204
+  total exp: 89
+  average money per energy: 72
+  average money per exp: 165
+  loot: []
+- target: Amanda Hurt
+  job: Beat the Truth Out
+  energy: 164
+  exp: 71
+  money max: 123984
+  money min: 41328
+  clicks needed: 7
+  total energy: 1148
+  total exp: 497
+  average money per energy: 72
+  average money per exp: 166
+  loot:
+  - name: Gooch's Roaster
+    type: gun
+    percent: 0.4
+    attack: 42
+    defense: 13
+    energy for 1: 2870.0
+    exp for 1: 1242.5
+    attack for energy: 0.014634146341463415
+    defense for energy: 0.004529616724738676
+    attack for exp: 0.03380281690140845
+    defense for exp: 0.010462776659959759
+- target: Gisel Estrada
+  job: Eliminate Gang Soldier
+  energy: 290
+  exp: 126
+  money max: 281880
+  money min: 93960
+  clicks needed: 9
+  total energy: 2610
+  total exp: 1134
+  average money per energy: 72
+  average money per exp: 165
+  loot:
+  - name: Getaway Runner Plus
+    type: car
+    percent: 0.4
+    attack: 21
+    defense: 37
+    energy for 1: 6525.0
+    exp for 1: 2835.0
+    attack for energy: 0.003218390804597701
+    defense for energy: 0.005670498084291188
+    attack for exp: 0.007407407407407408
+    defense for exp: 0.013051146384479718
+- target: Rudy Machado
+  job: Kill Gang Lieutenant
+  energy: 250
+  exp: 109
+  money max: 216000
+  money min: 72000
+  clicks needed: 8
+  total energy: 2000
+  total exp: 872
+  average money per energy: 72
+  average money per exp: 165
+  loot:
+  - name: Face Guard
+    type: armor
+    percent: 0.15
+    attack: 12
+    defense: 48
+    energy for 1: 13333.333333333334
+    exp for 1: 5813.333333333334
+    attack for energy: 0.0009
+    defense for energy: 0.0036
+    attack for exp: 0.002064220183486238
+    defense for exp: 0.008256880733944953
+- target: The Executive
+  job: Defeat
+  energy: 1064
+  exp: 463
+  money max: 2298240
+  money min: 766080
+  clicks needed: 20
+  total energy: 21280
+  total exp: 9260
+  average money per energy: 72
+  average money per exp: 165
+  loot:
+  - name: Doomsday Rifle
+    type: gun
+    percent: 0.72
+    attack: 33
+    defense: 19
+    energy for 1: 29555.55555555556
+    exp for 1: 12861.111111111111
+    attack for energy: 0.0011165413533834585
+    defense for energy: 0.0006428571428571428
+    attack for exp: 0.0025658747300215984
+    defense for exp: 0.0014773218142548597
+  - name: AG36 Grenade Launcher
+    type: gun
+    percent: 0.22
+    attack: 77
+    defense: 26
+    energy for 1: 96727.27272727272
+    exp for 1: 42090.90909090909
+    attack for energy: 0.0007960526315789475
+    defense for energy: 0.00026879699248120304
+    attack for exp: 0.0018293736501079916
+    defense for exp: 0.0006177105831533478
+  - name: Obliterator
+    type: gun
+    percent: 0.06
+    attack: 101
+    defense: 67
+    energy for 1: 354666.6666666667
+    exp for 1: 154333.33333333334
+    attack for energy: 0.00028477443609022557
+    defense for energy: 0.00018890977443609022
+    attack for exp: 0.0006544276457883369
+    defense for exp: 0.0004341252699784017

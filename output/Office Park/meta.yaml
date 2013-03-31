@@ -1,0 +1,23 @@
+---
+name: Office Park
+unlock_level: 175
+is_available: 1
+is_coming_soon: 0
+mastery rewards:
+- level: 1
+  exp: 184
+  money: 840000
+- level: 2
+  exp: 184
+  respect: 1060
+- level: 3
+  exp: 184
+  item: Shadow Street Wear
+  item attack: 66
+  item defense: 117
+- level: 4
+  exp: 184
+  mafia: 1
+- level: 5
+  exp: 184
+  skill points: 1
