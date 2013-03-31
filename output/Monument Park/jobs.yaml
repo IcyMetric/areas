@@ -106,12 +106,12 @@
 - target: Malik Johnson
   job: Perform a hit
   energy: 264
-  exp: 87
+  exp: 88
   money max: 34200
   money min: 14400
   clicks needed: 6
   total energy: 1584
-  total exp: 522
+  total exp: 528
   average money per energy: 15
   average money per exp: 46
   loot:
@@ -121,11 +121,11 @@
     attack: 5
     defense: 5
     energy for 1: 4525.714285714286
-    exp for 1: 1491.4285714285716
+    exp for 1: 1508.5714285714287
     attack for energy: 0.0011047979797979798
     defense for energy: 0.0011047979797979798
-    attack for exp: 0.0033524904214559384
-    defense for exp: 0.0033524904214559384
+    attack for exp: 0.003314393939393939
+    defense for exp: 0.003314393939393939
 - target: Ronald Price
   job: Interrogate
   energy: 120
@@ -188,14 +188,14 @@
 - target: Voodoo Jenkins
   job: Defeat Voodoo Jenkins
   energy: 310
-  exp: 104
+  exp: 108
   money max: 126000
   money min: 30800
   clicks needed: 14
   total energy: 4340
-  total exp: 1456
+  total exp: 1512
   average money per energy: 18
-  average money per exp: 53
+  average money per exp: 51
   loot:
   - name: Rasta Machete
     type: melee
@@ -203,33 +203,33 @@
     attack: 8
     defense: 7
     energy for 1: 6027.777777777778
-    exp for 1: 2022.2222222222224
+    exp for 1: 2100.0
     attack for energy: 0.0013271889400921658
     defense for energy: 0.001161290322580645
-    attack for exp: 0.003956043956043956
-    defense for exp: 0.003461538461538461
+    attack for exp: 0.0038095238095238095
+    defense for exp: 0.0033333333333333335
   - name: Rasta Fatigues
     type: armor
     percent: 0.22
     attack: 8
     defense: 12
     energy for 1: 19727.272727272728
-    exp for 1: 6618.181818181818
+    exp for 1: 6872.727272727273
     attack for energy: 0.00040552995391705067
     defense for energy: 0.0006082949308755761
-    attack for exp: 0.0012087912087912088
-    defense for exp: 0.0018131868131868133
+    attack for exp: 0.001164021164021164
+    defense for exp: 0.001746031746031746
   - name: Dreadlock Garrote
     type: melee
     percent: 0.06
     attack: 20
     defense: 9
     energy for 1: 72333.33333333334
-    exp for 1: 24266.666666666668
+    exp for 1: 25200.0
     attack for energy: 0.0002764976958525345
     defense for energy: 0.00012442396313364055
-    attack for exp: 0.0008241758241758242
-    defense for exp: 0.00037087912087912085
+    attack for exp: 0.0007936507936507937
+    defense for exp: 0.00035714285714285714
 - target: Pizza Parlor
   job: Setup Lookout
   energy: 125
@@ -349,12 +349,12 @@
 - target: Rock Steady
   job: Ice Rasta soldier
   energy: 272
-  exp: 88
+  exp: 90
   money max: 25200
   money min: 10800
   clicks needed: 6
   total energy: 1632
-  total exp: 528
+  total exp: 540
   average money per energy: 11
-  average money per exp: 34
+  average money per exp: 33
   loot: []

@@ -2,38 +2,38 @@
 - target: Francine Withers
   job: Steal front row tickets
   energy: 140
-  exp: 25
+  exp: 26
   money max: 5000
   money min: 1000
   clicks needed: 1
   total energy: 140
-  total exp: 25
+  total exp: 26
   average money per energy: 21
-  average money per exp: 120
+  average money per exp: 115
   loot: []
 - target: Fifi Morgan
   job: Charm
   energy: 88
-  exp: 21
+  exp: 22
   money max: 1600
   money min: 700
   clicks needed: 1
   total energy: 88
-  total exp: 21
+  total exp: 22
   average money per energy: 13
-  average money per exp: 54
+  average money per exp: 52
   loot: []
 - target: Mr. Wolfe
   job: Break legs
   energy: 168
-  exp: 51
+  exp: 54
   money max: 11700
   money min: 3600
   clicks needed: 3
   total energy: 504
-  total exp: 153
+  total exp: 162
   average money per energy: 15
-  average money per exp: 50
+  average money per exp: 47
   loot:
   - name: Steyr AUG
     type: gun
@@ -41,22 +41,22 @@
     attack: 7
     defense: 6
     energy for 1: 1625.8064516129032
-    exp for 1: 493.5483870967742
+    exp for 1: 522.5806451612904
     attack for energy: 0.0043055555555555555
     defense for energy: 0.0036904761904761906
-    attack for exp: 0.014183006535947711
-    defense for exp: 0.01215686274509804
+    attack for exp: 0.013395061728395061
+    defense for exp: 0.011481481481481481
 - target: Ellis Bernard
   job: Beat up federal agent
   energy: 185
-  exp: 54
+  exp: 57
   money max: 17500
   money min: 10000
   clicks needed: 5
   total energy: 925
-  total exp: 270
+  total exp: 285
   average money per energy: 14
-  average money per exp: 50
+  average money per exp: 48
   loot:
   - name: Police Armor
     type: armor
@@ -64,22 +64,22 @@
     attack: 5
     defense: 14
     energy for 1: 3557.6923076923076
-    exp for 1: 1038.4615384615383
+    exp for 1: 1096.1538461538462
     attack for energy: 0.0014054054054054054
     defense for energy: 0.003935135135135135
-    attack for exp: 0.004814814814814815
-    defense for exp: 0.013481481481481483
+    attack for exp: 0.004561403508771929
+    defense for exp: 0.012771929824561403
 - target: Bartholomew Park
   job: Expose crooked cop
   energy: 200
-  exp: 60
+  exp: 63
   money max: 24000
   money min: 7500
   clicks needed: 5
   total energy: 1000
-  total exp: 300
+  total exp: 315
   average money per energy: 15
-  average money per exp: 52
+  average money per exp: 50
   loot:
   - name: Police Car
     type: car
@@ -87,22 +87,22 @@
     attack: 4
     defense: 6
     energy for 1: 5555.555555555556
-    exp for 1: 1666.6666666666667
+    exp for 1: 1750.0
     attack for energy: 0.0007199999999999999
     defense for energy: 0.00108
-    attack for exp: 0.0024
-    defense for exp: 0.0036
+    attack for exp: 0.002285714285714286
+    defense for exp: 0.0034285714285714284
 - target: Winston McCleary
   job: Pump for information
   energy: 122
-  exp: 31
+  exp: 33
   money max: 5200
   money min: 2200
   clicks needed: 2
   total energy: 244
-  total exp: 62
+  total exp: 66
   average money per energy: 15
-  average money per exp: 59
+  average money per exp: 56
   loot:
   - name: State Jacket
     type: armor
@@ -110,22 +110,22 @@
     attack: 3
     defense: 10
     energy for 1: 841.3793103448277
-    exp for 1: 213.79310344827587
+    exp for 1: 227.58620689655174
     attack for energy: 0.003565573770491803
     defense for energy: 0.011885245901639342
-    attack for exp: 0.014032258064516129
-    defense for exp: 0.04677419354838709
+    attack for exp: 0.01318181818181818
+    defense for exp: 0.04393939393939394
 - target: Agent Valdez
   job: Defeat Agent Valdez
   energy: 305
-  exp: 99
+  exp: 104
   money max: 103600
   money min: 42000
   clicks needed: 14
   total energy: 4270
-  total exp: 1386
+  total exp: 1456
   average money per energy: 17
-  average money per exp: 52
+  average money per exp: 50
   loot:
   - name: FBI SMG
     type: gun
@@ -133,44 +133,44 @@
     attack: 6
     defense: 8
     energy for 1: 5930.555555555556
-    exp for 1: 1925.0
+    exp for 1: 2022.2222222222224
     attack for energy: 0.0010117096018735362
     defense for energy: 0.0013489461358313817
-    attack for exp: 0.003116883116883117
-    defense for exp: 0.004155844155844156
+    attack for exp: 0.002967032967032967
+    defense for exp: 0.003956043956043956
   - name: Federal Kevlar Vest
     type: armor
     percent: 0.22
     attack: 4
     defense: 15
     energy for 1: 19409.090909090908
-    exp for 1: 6300.0
+    exp for 1: 6618.181818181818
     attack for energy: 0.00020608899297423888
     defense for energy: 0.0007728337236533958
-    attack for exp: 0.0006349206349206349
-    defense for exp: 0.002380952380952381
+    attack for exp: 0.0006043956043956044
+    defense for exp: 0.0022664835164835167
   - name: FBI Assault Rifle
     type: gun
     percent: 0.06
     attack: 16
     defense: 12
     energy for 1: 71166.66666666667
-    exp for 1: 23100.0
+    exp for 1: 24266.666666666668
     attack for energy: 0.00022482435597189694
     defense for energy: 0.0001686182669789227
-    attack for exp: 0.0006926406926406926
-    defense for exp: 0.0005194805194805195
+    attack for exp: 0.0006593406593406593
+    defense for exp: 0.0004945054945054945
 - target: Pizza Parlor
   job: Gun down gangster patron
   energy: 310
-  exp: 96
+  exp: 101
   money max: 46800
   money min: 19200
   clicks needed: 6
   total energy: 1860
-  total exp: 576
+  total exp: 606
   average money per energy: 17
-  average money per exp: 57
+  average money per exp: 54
   loot:
   - name: Mossberg 590 Shotgun
     type: gun
@@ -178,34 +178,34 @@
     attack: 50
     defense: 50
     energy for 1: 7750.0
-    exp for 1: 2400.0
+    exp for 1: 2525.0
     attack for energy: 0.0064516129032258064
     defense for energy: 0.0064516129032258064
-    attack for exp: 0.020833333333333332
-    defense for exp: 0.020833333333333332
+    attack for exp: 0.019801980198019802
+    defense for exp: 0.019801980198019802
 - target: Pizza Parlor
   job: Blackmail opera singer
   energy: 130
-  exp: 26
+  exp: 27
   money max: 4000
   money min: 1400
   clicks needed: 1
   total energy: 130
-  total exp: 26
+  total exp: 27
   average money per energy: 20
-  average money per exp: 103
+  average money per exp: 100
   loot: []
 - target: Pizza Parlor
   job: Steal play revenue
   energy: 210
-  exp: 41
+  exp: 43
   money max: 14000
   money min: 5000
   clicks needed: 2
   total energy: 420
-  total exp: 82
+  total exp: 86
   average money per energy: 22
-  average money per exp: 115
+  average money per exp: 110
   loot:
   - name: SWAT Pistol
     type: gun
@@ -213,34 +213,34 @@
     attack: 4
     defense: 8
     energy for 1: 1354.8387096774193
-    exp for 1: 264.51612903225805
+    exp for 1: 277.4193548387097
     attack for energy: 0.0029523809523809524
     defense for energy: 0.005904761904761905
-    attack for exp: 0.015121951219512196
-    defense for exp: 0.030243902439024393
+    attack for exp: 0.01441860465116279
+    defense for exp: 0.02883720930232558
 - target: Pizza Parlor
   job: Sell forged tickets
   energy: 100
-  exp: 17
+  exp: 18
   money max: 2500
   money min: 1000
   clicks needed: 1
   total energy: 100
-  total exp: 17
+  total exp: 18
   average money per energy: 17
-  average money per exp: 102
+  average money per exp: 97
   loot: []
 - target: Pizza Parlor
   job: Eliminate tailing FBI agent
   energy: 222
-  exp: 71
+  exp: 75
   money max: 30000
   money min: 10800
   clicks needed: 6
   total energy: 1332
-  total exp: 426
+  total exp: 450
   average money per energy: 15
-  average money per exp: 47
+  average money per exp: 45
   loot:
   - name: SA58 Carbine
     type: gun
@@ -248,22 +248,22 @@
     attack: 37
     defense: 41
     energy for 1: 3805.714285714286
-    exp for 1: 1217.142857142857
+    exp for 1: 1285.7142857142858
     attack for energy: 0.009722222222222222
     defense for energy: 0.010773273273273274
-    attack for exp: 0.030399061032863852
-    defense for exp: 0.03368544600938967
+    attack for exp: 0.028777777777777777
+    defense for exp: 0.03188888888888889
 - target: Pizza Parlor
   job: Stash federal agent corpses
   energy: 325
-  exp: 100
+  exp: 105
   money max: 19500
   money min: 12000
   clicks needed: 3
   total energy: 975
-  total exp: 300
+  total exp: 315
   average money per energy: 16
-  average money per exp: 52
+  average money per exp: 50
   loot:
   - name: Hot Box Van
     type: car
@@ -271,46 +271,46 @@
     attack: 7
     defense: 7
     energy for 1: 4875.0
-    exp for 1: 1500.0
+    exp for 1: 1575.0
     attack for energy: 0.001435897435897436
     defense for energy: 0.001435897435897436
-    attack for exp: 0.004666666666666667
-    defense for exp: 0.004666666666666667
+    attack for exp: 0.0044444444444444444
+    defense for exp: 0.0044444444444444444
 - target: Pizza Parlor
   job: Plant evidence
   energy: 80
-  exp: 20
+  exp: 21
   money max: 1600
   money min: 1100
   clicks needed: 1
   total energy: 80
-  total exp: 20
+  total exp: 21
   average money per energy: 16
-  average money per exp: 67
+  average money per exp: 64
   loot: []
 - target: Pizza Parlor
   job: Sell product
   energy: 85
-  exp: 15
+  exp: 16
   money max: 2100
   money min: 1200
   clicks needed: 1
   total energy: 85
-  total exp: 15
+  total exp: 16
   average money per energy: 19
-  average money per exp: 110
+  average money per exp: 103
   loot: []
 - target: Pizza Parlor
   job: Threaten staff
   energy: 110
-  exp: 29
+  exp: 30
   money max: 4500
   money min: 1500
   clicks needed: 2
   total energy: 220
-  total exp: 58
+  total exp: 60
   average money per energy: 13
-  average money per exp: 51
+  average money per exp: 50
   loot:
   - name: Carbine
     type: gun
@@ -318,22 +318,22 @@
     attack: 4
     defense: 6
     energy for 1: 709.6774193548387
-    exp for 1: 187.09677419354838
+    exp for 1: 193.5483870967742
     attack for energy: 0.005636363636363636
     defense for energy: 0.008454545454545456
-    attack for exp: 0.021379310344827585
-    defense for exp: 0.03206896551724138
+    attack for exp: 0.020666666666666667
+    defense for exp: 0.030999999999999996
 - target: Pizza Parlor
   job: Crack Safe
   energy: 400
-  exp: 89
+  exp: 93
   money max: 72000
   money min: 30000
   clicks needed: 6
   total energy: 2400
-  total exp: 534
+  total exp: 558
   average money per energy: 21
-  average money per exp: 95
+  average money per exp: 91
   loot:
   - name: M14 Sniper Rifle
     type: gun
@@ -341,22 +341,22 @@
     attack: 9
     defense: 7
     energy for 1: 6486.486486486487
-    exp for 1: 1443.2432432432433
+    exp for 1: 1508.1081081081081
     attack for energy: 0.0013875
     defense for energy: 0.0010791666666666666
-    attack for exp: 0.006235955056179775
-    defense for exp: 0.004850187265917603
+    attack for exp: 0.005967741935483871
+    defense for exp: 0.004641577060931899
 - target: Pizza Parlor
   job: Crash Performance
   energy: 102
-  exp: 26
+  exp: 27
   money max: 1900
   money min: 1000
   clicks needed: 1
   total energy: 102
-  total exp: 26
+  total exp: 27
   average money per energy: 14
-  average money per exp: 55
+  average money per exp: 53
   loot: []
 - target: Pizza Parlor
   job: Tape Illegal Bootleg
