@@ -140,15 +140,15 @@
   loot:
   - name: Survival Knife
     type: melee
-    percent: 0.36
+    percent: 0.18
     attack: 2
     defense: 5
-    energy for 1: 1805.5555555555557
-    exp for 1: 597.2222222222223
-    attack for energy: 0.0011076923076923076
-    defense for energy: 0.002769230769230769
-    attack for exp: 0.0033488372093023254
-    defense for exp: 0.008372093023255813
+    energy for 1: 3611.1111111111113
+    exp for 1: 1194.4444444444446
+    attack for energy: 0.0005538461538461538
+    defense for energy: 0.0013846153846153845
+    attack for exp: 0.0016744186046511627
+    defense for exp: 0.004186046511627906
 - target: Aurora Eaton
   job: Intimidate
   energy: 90
