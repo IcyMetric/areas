@@ -1,0 +1,404 @@
+---
+- target: Pizza Parlor
+  job: Wreck the Meat Factory
+  energy: 298
+  exp: 125
+  money max: 118008
+  money min: 39336
+  clicks needed: 4
+  total energy: 1192
+  total exp: 500
+  average money per energy: 66
+  average money per exp: 157
+  loot:
+  - name: Second Hand Shooter
+    type: gun
+    percent: 0.25
+    attack: 25
+    defense: 10
+    energy for 1: 4768.0
+    exp for 1: 2000.0
+    attack for energy: 0.005243288590604027
+    defense for energy: 0.0020973154362416107
+    attack for exp: 0.0125
+    defense for exp: 0.005
+- target: Pizza Parlor
+  job: Rob the apartments
+  energy: 289
+  exp: 121
+  money max: 28611
+  money min: 9537
+  clicks needed: 1
+  total energy: 289
+  total exp: 121
+  average money per energy: 66
+  average money per exp: 157
+  loot: []
+- target: Pizza Parlor
+  job: Question the Bartender
+  energy: 267
+  exp: 112
+  money max: 158598
+  money min: 52866
+  clicks needed: 6
+  total energy: 1602
+  total exp: 672
+  average money per energy: 66
+  average money per exp: 157
+  loot:
+  - name: Jack Hammer
+    type: melee
+    percent: 0.4
+    attack: 20
+    defense: 23
+    energy for 1: 4005.0
+    exp for 1: 1680.0
+    attack for energy: 0.004993757802746567
+    defense for energy: 0.005742821473158552
+    attack for exp: 0.011904761904761904
+    defense for exp: 0.01369047619047619
+- target: Pizza Parlor
+  job: Destroy the Surplus
+  energy: 357
+  exp: 150
+  money max: 141372
+  money min: 47124
+  clicks needed: 4
+  total energy: 1428
+  total exp: 600
+  average money per energy: 66
+  average money per exp: 157
+  loot:
+  - name: Gas Grill
+    type: armor
+    percent: 0.25
+    attack: 15
+    defense: 29
+    energy for 1: 5712.0
+    exp for 1: 2400.0
+    attack for energy: 0.0026260504201680674
+    defense for energy: 0.00507703081232493
+    attack for exp: 0.00625
+    defense for exp: 0.012083333333333333
+- target: Pizza Parlor
+  job: Sabotage the Factory
+  energy: 317
+  exp: 133
+  money max: 125532
+  money min: 41844
+  clicks needed: 4
+  total energy: 1268
+  total exp: 532
+  average money per energy: 66
+  average money per exp: 157
+  loot:
+  - name: Second Hand Shooter
+    type: gun
+    percent: 0.25
+    attack: 25
+    defense: 10
+    energy for 1: 5072.0
+    exp for 1: 2128.0
+    attack for energy: 0.004929022082018927
+    defense for energy: 0.001971608832807571
+    attack for exp: 0.011748120300751879
+    defense for exp: 0.004699248120300752
+- target: Pizza Parlor
+  job: Kill the Workers
+  energy: 272
+  exp: 114
+  money max: 134640
+  money min: 44880
+  clicks needed: 5
+  total energy: 1360
+  total exp: 570
+  average money per energy: 66
+  average money per exp: 157
+  loot:
+  - name: Jack Hammer
+    type: melee
+    percent: 0.25
+    attack: 20
+    defense: 23
+    energy for 1: 5440.0
+    exp for 1: 2280.0
+    attack for energy: 0.003676470588235294
+    defense for energy: 0.004227941176470588
+    attack for exp: 0.008771929824561403
+    defense for exp: 0.010087719298245614
+- target: Pizza Parlor
+  job: Steal the Steel
+  energy: 232
+  exp: 97
+  money max: 45936
+  money min: 15312
+  clicks needed: 2
+  total energy: 464
+  total exp: 194
+  average money per energy: 66
+  average money per exp: 157
+  loot:
+  - name: Gas Grill
+    type: armor
+    percent: 0.15
+    attack: 15
+    defense: 29
+    energy for 1: 3093.3333333333335
+    exp for 1: 1293.3333333333335
+    attack for energy: 0.004849137931034483
+    defense for energy: 0.009375
+    attack for exp: 0.011597938144329896
+    defense for exp: 0.02242268041237113
+- target: Pizza Parlor
+  job: Disable the Labor Force
+  energy: 278
+  exp: 117
+  money max: 137610
+  money min: 45870
+  clicks needed: 5
+  total energy: 1390
+  total exp: 585
+  average money per energy: 66
+  average money per exp: 156
+  loot:
+  - name: Homemade TNT
+    type: explosive
+    percent: 0.25
+    attack: 31
+    defense: 15
+    energy for 1: 5560.0
+    exp for 1: 2340.0
+    attack for energy: 0.005575539568345324
+    defense for energy: 0.002697841726618705
+    attack for exp: 0.013247863247863248
+    defense for exp: 0.00641025641025641
+- target: Pizza Parlor
+  job: Bust up Business
+  energy: 238
+  exp: 100
+  money max: 23562
+  money min: 7854
+  clicks needed: 1
+  total energy: 238
+  total exp: 100
+  average money per energy: 66
+  average money per exp: 157
+  loot: []
+- target: Pizza Parlor
+  job: Raid
+  energy: 245
+  exp: 103
+  money max: 72765
+  money min: 24255
+  clicks needed: 3
+  total energy: 735
+  total exp: 309
+  average money per energy: 66
+  average money per exp: 156
+  loot:
+  - name: Jack Hammer
+    type: melee
+    percent: 0.15
+    attack: 20
+    defense: 23
+    energy for 1: 4900.0
+    exp for 1: 2060.0
+    attack for energy: 0.004081632653061225
+    defense for energy: 0.004693877551020408
+    attack for exp: 0.009708737864077669
+    defense for exp: 0.01116504854368932
+- target: Pizza Parlor
+  job: Interrogate the Shark
+  energy: 205
+  exp: 86
+  money max: 142065
+  money min: 47355
+  clicks needed: 7
+  total energy: 1435
+  total exp: 602
+  average money per energy: 66
+  average money per exp: 157
+  loot:
+  - name: Gas Grill
+    type: armor
+    percent: 0.4
+    attack: 15
+    defense: 29
+    energy for 1: 3587.5
+    exp for 1: 1505.0
+    attack for energy: 0.004181184668989547
+    defense for energy: 0.008083623693379791
+    attack for exp: 0.009966777408637873
+    defense for exp: 0.019269102990033222
+- target: Pizza Parlor
+  job: Rob the Container Car
+  energy: 387
+  exp: 163
+  money max: 38313
+  money min: 12771
+  clicks needed: 1
+  total energy: 387
+  total exp: 163
+  average money per energy: 66
+  average money per exp: 156
+  loot: []
+- target: Aaren Pierce
+  job: Interrogate the Dealer
+  energy: 347
+  exp: 146
+  money max: 68706
+  money min: 22902
+  clicks needed: 2
+  total energy: 694
+  total exp: 292
+  average money per energy: 66
+  average money per exp: 156
+  loot:
+  - name: Homemade TNT
+    type: explosive
+    percent: 0.15
+    attack: 31
+    defense: 15
+    energy for 1: 4626.666666666667
+    exp for 1: 1946.6666666666667
+    attack for energy: 0.00670028818443804
+    defense for energy: 0.00324207492795389
+    attack for exp: 0.015924657534246576
+    defense for exp: 0.007705479452054794
+- target: Rufus Marshall
+  job: Rough up the Supplier
+  energy: 355
+  exp: 149
+  money max: 105435
+  money min: 35145
+  clicks needed: 3
+  total energy: 1065
+  total exp: 447
+  average money per energy: 66
+  average money per exp: 157
+  loot:
+  - name: Rusted Racer
+    type: car
+    percent: 0.15
+    attack: 27
+    defense: 24
+    energy for 1: 7100.0
+    exp for 1: 2980.0
+    attack for energy: 0.0038028169014084506
+    defense for energy: 0.0033802816901408453
+    attack for exp: 0.009060402684563758
+    defense for exp: 0.008053691275167786
+- target: Brad Baldwin
+  job: Question the Middle Man
+  energy: 315
+  exp: 132
+  money max: 93555
+  money min: 31185
+  clicks needed: 3
+  total energy: 945
+  total exp: 396
+  average money per energy: 66
+  average money per exp: 157
+  loot:
+  - name: Gas Grill
+    type: armor
+    percent: 0.15
+    attack: 15
+    defense: 29
+    energy for 1: 6300.0
+    exp for 1: 2640.0
+    attack for energy: 0.002380952380952381
+    defense for energy: 0.004603174603174603
+    attack for exp: 0.005681818181818182
+    defense for exp: 0.010984848484848484
+- target: Hank West
+  job: Assassinate the Underboss
+  energy: 468
+  exp: 197
+  money max: 370656
+  money min: 123552
+  clicks needed: 8
+  total energy: 3744
+  total exp: 1576
+  average money per energy: 66
+  average money per exp: 156
+  loot:
+  - name: Homemade TNT
+    type: explosive
+    percent: 0.4
+    attack: 31
+    defense: 15
+    energy for 1: 9360.0
+    exp for 1: 3940.0
+    attack for energy: 0.003311965811965812
+    defense for energy: 0.0016025641025641025
+    attack for exp: 0.007868020304568528
+    defense for exp: 0.0038071065989847717
+- target: Nick Lowe
+  job: Kill the Captain
+  energy: 428
+  exp: 180
+  money max: 338976
+  money min: 112992
+  clicks needed: 8
+  total energy: 3424
+  total exp: 1440
+  average money per energy: 66
+  average money per exp: 156
+  loot:
+  - name: Rusted Racer
+    type: car
+    percent: 0.4
+    attack: 27
+    defense: 24
+    energy for 1: 8560.0
+    exp for 1: 3600.0
+    attack for energy: 0.0031542056074766356
+    defense for energy: 0.002803738317757009
+    attack for exp: 0.0075
+    defense for exp: 0.006666666666666667
+- target: Devyn Bronte
+  job: Defeat
+  energy: 1002
+  exp: 421
+  money max: 1983960
+  money min: 661320
+  clicks needed: 20
+  total energy: 20040
+  total exp: 8420
+  average money per energy: 66
+  average money per exp: 157
+  loot:
+  - name: Jack Hammer
+    type: melee
+    percent: 0.72
+    attack: 20
+    defense: 23
+    energy for 1: 27833.333333333336
+    exp for 1: 11694.444444444445
+    attack for energy: 0.000718562874251497
+    defense for energy: 0.0008263473053892215
+    attack for exp: 0.0017102137767220902
+    defense for exp: 0.0019667458432304037
+  - name: Gang Chain
+    type: melee
+    percent: 0.22
+    attack: 56
+    defense: 24
+    energy for 1: 91090.90909090909
+    exp for 1: 38272.72727272727
+    attack for energy: 0.0006147704590818363
+    defense for energy: 0.0002634730538922156
+    attack for exp: 0.0014631828978622329
+    defense for exp: 0.0006270783847980997
+  - name: Hood Enforcer
+    type: gun
+    percent: 0.06
+    attack: 83
+    defense: 37
+    energy for 1: 334000.0
+    exp for 1: 140333.33333333334
+    attack for energy: 0.00024850299401197603
+    defense for energy: 0.00011077844311377246
+    attack for exp: 0.0005914489311163895
+    defense for exp: 0.00026365795724465554

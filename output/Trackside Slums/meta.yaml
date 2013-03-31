@@ -1,0 +1,23 @@
+---
+name: Trackside Slums
+unlock_level: 155
+is_available: 1
+is_coming_soon: 0
+mastery rewards:
+- level: 1
+  exp: 168
+  money: 720000
+- level: 2
+  exp: 168
+  respect: 940
+- level: 3
+  exp: 168
+  item: Hood Enforcer
+  item attack: 83
+  item defense: 37
+- level: 4
+  exp: 168
+  mafia: 1
+- level: 5
+  exp: 168
+  skill points: 1
