@@ -13,15 +13,15 @@
   loot:
   - name: Stone Hammer
     type: melee
-    percent: 0.34
+    percent: 0.17
     attack: 10
     defense: 9
-    energy for 1: 2082.3529411764703
-    exp for 1: 600.0
-    attack for energy: 0.00480225988700565
-    defense for energy: 0.004322033898305085
-    attack for exp: 0.016666666666666666
-    defense for exp: 0.015
+    energy for 1: 4164.7058823529405
+    exp for 1: 1200.0
+    attack for energy: 0.002401129943502825
+    defense for energy: 0.0021610169491525426
+    attack for exp: 0.008333333333333333
+    defense for exp: 0.0075
 - target: Pizza Parlor
   job: Lay Low
   energy: 160
@@ -48,15 +48,15 @@
   loot:
   - name: NATO Gas Mask
     type: armor
-    percent: 0.36
+    percent: 0.18
     attack: 4
     defense: 18
-    energy for 1: 3861.1111111111113
-    exp for 1: 1138.888888888889
-    attack for energy: 0.0010359712230215827
-    defense for energy: 0.004661870503597122
-    attack for exp: 0.0035121951219512196
-    defense for exp: 0.015804878048780488
+    energy for 1: 7722.222222222223
+    exp for 1: 2277.777777777778
+    attack for energy: 0.0005179856115107913
+    defense for energy: 0.002330935251798561
+    attack for exp: 0.0017560975609756098
+    defense for exp: 0.007902439024390244
 - target: Pizza Parlor
   job: Rob
   energy: 148
@@ -95,15 +95,15 @@
   loot:
   - name: SG 550
     type: gun
-    percent: 0.44
+    percent: 0.22
     attack: 10
     defense: 7
-    energy for 1: 3613.6363636363635
-    exp for 1: 1418.1818181818182
-    attack for energy: 0.002767295597484277
-    defense for energy: 0.0019371069182389938
-    attack for exp: 0.007051282051282051
-    defense for exp: 0.004935897435897436
+    energy for 1: 7227.272727272727
+    exp for 1: 2836.3636363636365
+    attack for energy: 0.0013836477987421384
+    defense for energy: 0.0009685534591194969
+    attack for exp: 0.0035256410256410257
+    defense for exp: 0.002467948717948718
 - target: Tippy Worthington
   job: Threaten
   energy: 175
@@ -130,15 +130,15 @@
   loot:
   - name: Riot Grenade Launcher
     type: gun
-    percent: 0.32
+    percent: 0.16
     attack: 14
     defense: 13
-    energy for 1: 6337.5
-    exp for 1: 2475.0
-    attack for energy: 0.0022090729783037473
-    defense for energy: 0.0020512820512820513
-    attack for exp: 0.0056565656565656566
-    defense for exp: 0.0052525252525252525
+    energy for 1: 12675.0
+    exp for 1: 4950.0
+    attack for energy: 0.0011045364891518737
+    defense for energy: 0.0010256410256410256
+    attack for exp: 0.0028282828282828283
+    defense for exp: 0.0026262626262626263
 - target: Tatiana Zhukova
   job: Eliminate
   energy: 365
@@ -153,15 +153,15 @@
   loot:
   - name: Desert Camo Vest
     type: armor
-    percent: 0.42
+    percent: 0.21
     attack: 8
     defense: 17
-    energy for 1: 6083.333333333334
-    exp for 1: 2416.666666666667
-    attack for energy: 0.0013150684931506848
-    defense for energy: 0.0027945205479452053
-    attack for exp: 0.0033103448275862064
-    defense for exp: 0.007034482758620689
+    energy for 1: 12166.666666666668
+    exp for 1: 4833.333333333334
+    attack for energy: 0.0006575342465753424
+    defense for energy: 0.0013972602739726026
+    attack for exp: 0.0016551724137931032
+    defense for exp: 0.0035172413793103444
 - target: Marshal Gunn
   job: Shut Down
   energy: 384
@@ -221,15 +221,15 @@
   loot:
   - name: Urban Warfare Vest
     type: armor
-    percent: 0.36
+    percent: 0.18
     attack: 11
     defense: 20
-    energy for 1: 5555.555555555556
-    exp for 1: 1805.5555555555557
-    attack for energy: 0.00198
-    defense for energy: 0.0036
-    attack for exp: 0.006092307692307692
-    defense for exp: 0.011076923076923076
+    energy for 1: 11111.111111111111
+    exp for 1: 3611.1111111111113
+    attack for energy: 0.00099
+    defense for energy: 0.0018
+    attack for exp: 0.003046153846153846
+    defense for exp: 0.005538461538461538
 - target: Pizza Parlor
   job: Case
   energy: 168
@@ -303,15 +303,15 @@
   loot:
   - name: Punker Pants
     type: armor
-    percent: 0.4
+    percent: 0.2
     attack: 9
     defense: 11
-    energy for 1: 3750.0
-    exp for 1: 1250.0
-    attack for energy: 0.0024
-    defense for energy: 0.0029333333333333334
-    attack for exp: 0.0072
-    defense for exp: 0.0088
+    energy for 1: 7500.0
+    exp for 1: 2500.0
+    attack for energy: 0.0012
+    defense for energy: 0.0014666666666666667
+    attack for exp: 0.0036
+    defense for exp: 0.0044
 - target: Pizza Parlor
   job: Collect with Interest
   energy: 145
