@@ -36,15 +36,15 @@
   loot:
   - name: Butterfly Knife
     type: melee
-    percent: 0.17
+    percent: 0.34
     attack: 5
     defense: 5
-    energy for 1: 2400.0
-    exp for 1: 441.17647058823525
-    attack for energy: 0.0020833333333333333
-    defense for energy: 0.0020833333333333333
-    attack for exp: 0.011333333333333334
-    defense for exp: 0.011333333333333334
+    energy for 1: 1200.0
+    exp for 1: 220.58823529411762
+    attack for energy: 0.004166666666666667
+    defense for energy: 0.004166666666666667
+    attack for exp: 0.02266666666666667
+    defense for exp: 0.02266666666666667
 - target: George Digges
   job: Bribe Gravedigger
   energy: 82
@@ -152,15 +152,15 @@
   loot:
   - name: Blow Torch
     type: gun
-    percent: 0.18
+    percent: 0.36
     attack: 8
     defense: 6
-    energy for 1: 7733.333333333334
-    exp for 1: 2466.666666666667
-    attack for energy: 0.0010344827586206895
-    defense for energy: 0.0007758620689655172
-    attack for exp: 0.0032432432432432426
-    defense for exp: 0.0024324324324324323
+    energy for 1: 3866.666666666667
+    exp for 1: 1233.3333333333335
+    attack for energy: 0.002068965517241379
+    defense for energy: 0.0015517241379310344
+    attack for exp: 0.006486486486486485
+    defense for exp: 0.004864864864864865
 - target: Pizza Parlor
   job: Burn Body
   energy: 300
@@ -324,15 +324,15 @@
   loot:
   - name: Police Baton
     type: melee
-    percent: 0.28
+    percent: 0.56
     attack: 3
     defense: 8
-    energy for 1: 6628.5714285714275
-    exp for 1: 1514.2857142857142
-    attack for energy: 0.0004525862068965518
-    defense for energy: 0.0012068965517241382
-    attack for exp: 0.0019811320754716984
-    defense for exp: 0.005283018867924529
+    energy for 1: 3314.2857142857138
+    exp for 1: 757.1428571428571
+    attack for energy: 0.0009051724137931036
+    defense for energy: 0.0024137931034482764
+    attack for exp: 0.003962264150943397
+    defense for exp: 0.010566037735849057
 - target: Pizza Parlor
   job: Slash Tires
   energy: 105
