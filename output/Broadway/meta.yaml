@@ -1,0 +1,23 @@
+---
+name: Broadway
+unlock_level: 48
+is_available: 1
+is_coming_soon: 0
+mastery rewards:
+- level: 1
+  exp: 52
+  money: 53000
+- level: 2
+  exp: 52
+  respect: 220
+- level: 3
+  exp: 52
+  item: FBI Silenced Pistol
+  item attack: 13
+  item defense: 20
+- level: 4
+  exp: 52
+  mafia: 1
+- level: 5
+  exp: 52
+  skill points: 1

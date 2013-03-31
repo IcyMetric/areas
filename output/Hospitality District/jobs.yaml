@@ -1,0 +1,431 @@
+---
+- target: Pizza Parlor
+  job: Chase Off Johns
+  energy: 255
+  exp: 88
+  money max: 52800
+  money min: 13800
+  clicks needed: 6
+  total energy: 1530
+  total exp: 528
+  average money per energy: 21
+  average money per exp: 63
+  loot:
+  - name: Punker Pants
+    type: armor
+    percent: 0.33
+    attack: 9
+    defense: 11
+    energy for 1: 4636.363636363636
+    exp for 1: 1600.0
+    attack for energy: 0.0019411764705882354
+    defense for energy: 0.0023725490196078434
+    attack for exp: 0.005625
+    defense for exp: 0.006875
+- target: Pizza Parlor
+  job: Turn Out Call Girls
+  energy: 156
+  exp: 46
+  money max: 9000
+  money min: 2000
+  clicks needed: 2
+  total energy: 312
+  total exp: 92
+  average money per energy: 17
+  average money per exp: 59
+  loot: []
+- target: Pepper
+  job: Put Hooker on Payroll
+  energy: 110
+  exp: 30
+  money max: 3300
+  money min: 1300
+  clicks needed: 1
+  total energy: 110
+  total exp: 30
+  average money per energy: 20
+  average money per exp: 76
+  loot: []
+- target: Pizza Parlor
+  job: Raid Pimp's Room
+  energy: 340
+  exp: 120
+  money max: 87500
+  money min: 35000
+  clicks needed: 7
+  total energy: 2380
+  total exp: 840
+  average money per energy: 25
+  average money per exp: 72
+  loot:
+  - name: Pimp's Sex Pistol
+    type: gun
+    percent: 0.27
+    attack: 14
+    defense: 10
+    energy for 1: 8814.814814814814
+    exp for 1: 3111.111111111111
+    attack for energy: 0.0015882352941176472
+    defense for energy: 0.0011344537815126052
+    attack for exp: 0.0045000000000000005
+    defense for exp: 0.0032142857142857147
+- target: Pizza Parlor
+  job: Loot Hotel Safe
+  energy: 480
+  exp: 132
+  money max: 144000
+  money min: 80000
+  clicks needed: 8
+  total energy: 3840
+  total exp: 1056
+  average money per energy: 29
+  average money per exp: 106
+  loot:
+  - name: Pimp's Lowrider
+    type: car
+    percent: 0.08
+    attack: 16
+    defense: 9
+    energy for 1: 48000.0
+    exp for 1: 13200.0
+    attack for energy: 0.0003333333333333333
+    defense for energy: 0.0001875
+    attack for exp: 0.0012121212121212121
+    defense for exp: 0.0006818181818181819
+- target: Doctor Smooth
+  job: Snatch Diamond Rings
+  energy: 285
+  exp: 75
+  money max: 30000
+  money min: 18000
+  clicks needed: 3
+  total energy: 855
+  total exp: 225
+  average money per energy: 28
+  average money per exp: 106
+  loot: []
+- target: Pizza Parlor
+  job: Make the Girls an Offer
+  energy: 122
+  exp: 41
+  money max: 3000
+  money min: 1100
+  clicks needed: 1
+  total energy: 122
+  total exp: 41
+  average money per energy: 16
+  average money per exp: 50
+  loot: []
+- target: Sweet T
+  job: Get Sweet T to Submit
+  energy: 225
+  exp: 80
+  money max: 33500
+  money min: 12500
+  clicks needed: 5
+  total energy: 1125
+  total exp: 400
+  average money per energy: 20
+  average money per exp: 57
+  loot:
+  - name: Trick Razor
+    type: melee
+    percent: 0.28
+    attack: 11
+    defense: 9
+    energy for 1: 4017.8571428571427
+    exp for 1: 1428.5714285714284
+    attack for energy: 0.0027377777777777778
+    defense for energy: 0.0022400000000000002
+    attack for exp: 0.007700000000000001
+    defense for exp: 0.006300000000000001
+- target: Trixie
+  job: Pull Trixie's Card
+  energy: 212
+  exp: 75
+  money max: 28000
+  money min: 11000
+  clicks needed: 5
+  total energy: 1060
+  total exp: 375
+  average money per energy: 18
+  average money per exp: 52
+  loot:
+  - name: S&M Choker
+    type: melee
+    percent: 0.2
+    attack: 17
+    defense: 7
+    energy for 1: 5300.0
+    exp for 1: 1875.0
+    attack for energy: 0.0032075471698113206
+    defense for energy: 0.0013207547169811322
+    attack for exp: 0.009066666666666667
+    defense for exp: 0.0037333333333333333
+- target: C-Money
+  job: Jump C-Money
+  energy: 295
+  exp: 106
+  money max: 54000
+  money min: 21000
+  clicks needed: 6
+  total energy: 1770
+  total exp: 636
+  average money per energy: 21
+  average money per exp: 58
+  loot:
+  - name: Punker Jacket
+    type: armor
+    percent: 0.43
+    attack: 6
+    defense: 10
+    energy for 1: 4116.279069767442
+    exp for 1: 1479.0697674418604
+    attack for energy: 0.0014576271186440678
+    defense for energy: 0.0024293785310734463
+    attack for exp: 0.004056603773584906
+    defense for exp: 0.006761006289308176
+- target: Magic Valentino
+  job: Ambush Pimp
+  energy: 310
+  exp: 112
+  money max: 60000
+  money min: 15000
+  clicks needed: 6
+  total energy: 1860
+  total exp: 672
+  average money per energy: 20
+  average money per exp: 55
+  loot:
+  - name: Skull Shotgun
+    type: gun
+    percent: 0.23
+    attack: 18
+    defense: 7
+    energy for 1: 8086.95652173913
+    exp for 1: 2921.7391304347825
+    attack for energy: 0.002225806451612903
+    defense for energy: 0.0008655913978494624
+    attack for exp: 0.006160714285714286
+    defense for exp: 0.0023958333333333336
+- target: Granddaddy Slick
+  job: Defeat
+  energy: 356
+  exp: 130
+  money max: 168000
+  money min: 96000
+  clicks needed: 16
+  total energy: 5696
+  total exp: 2080
+  average money per energy: 23
+  average money per exp: 63
+  loot:
+  - name: Mad Flash Coat
+    type: armor
+    percent: 0.72
+    attack: 7
+    defense: 10
+    energy for 1: 7911.111111111111
+    exp for 1: 2888.888888888889
+    attack for energy: 0.0008848314606741572
+    defense for energy: 0.0012640449438202246
+    attack for exp: 0.0024230769230769228
+    defense for exp: 0.003461538461538461
+  - name: Street Sweeper
+    type: gun
+    percent: 0.22
+    attack: 12
+    defense: 11
+    energy for 1: 25890.909090909092
+    exp for 1: 9454.545454545454
+    attack for energy: 0.0004634831460674157
+    defense for energy: 0.00042485955056179774
+    attack for exp: 0.0012692307692307692
+    defense for exp: 0.0011634615384615386
+  - name: Hustler's Shotgun
+    type: gun
+    percent: 0.06
+    attack: 23
+    defense: 11
+    energy for 1: 94933.33333333334
+    exp for 1: 34666.66666666667
+    attack for energy: 0.0002422752808988764
+    defense for energy: 0.00011587078651685392
+    attack for exp: 0.0006634615384615383
+    defense for exp: 0.00031730769230769226
+- target: Pizza Parlor
+  job: Hold Up Hotel Staff
+  energy: 198
+  exp: 48
+  money max: 14000
+  money min: 6000
+  clicks needed: 2
+  total energy: 396
+  total exp: 96
+  average money per energy: 25
+  average money per exp: 104
+  loot:
+  - name: Blow Torch
+    type: gun
+    percent: 0.31
+    attack: 8
+    defense: 6
+    energy for 1: 1277.4193548387098
+    exp for 1: 309.6774193548387
+    attack for energy: 0.006262626262626262
+    defense for energy: 0.004696969696969697
+    attack for exp: 0.025833333333333333
+    defense for exp: 0.019375
+- target: Pizza Parlor
+  job: Rob Rich Dinner Guests
+  energy: 137
+  exp: 30
+  money max: 5400
+  money min: 2200
+  clicks needed: 1
+  total energy: 137
+  total exp: 30
+  average money per energy: 27
+  average money per exp: 126
+  loot: []
+- target: Pizza Parlor
+  job: Steal Champagne
+  energy: 125
+  exp: 24
+  money max: 4000
+  money min: 2100
+  clicks needed: 1
+  total energy: 125
+  total exp: 24
+  average money per energy: 24
+  average money per exp: 127
+  loot: []
+- target: Pizza Parlor
+  job: Break up Playas meeting
+  energy: 400
+  exp: 144
+  money max: 98000
+  money min: 31500
+  clicks needed: 7
+  total energy: 2800
+  total exp: 1008
+  average money per energy: 23
+  average money per exp: 64
+  loot:
+  - name: Lowrider
+    type: car
+    percent: 0.35
+    attack: 6
+    defense: 6
+    energy for 1: 8000.000000000001
+    exp for 1: 2880.0
+    attack for energy: 0.0007499999999999999
+    defense for energy: 0.0007499999999999999
+    attack for exp: 0.0020833333333333333
+    defense for exp: 0.0020833333333333333
+- target: Pizza Parlor
+  job: Scalp tickets
+  energy: 115
+  exp: 27
+  money max: 3900
+  money min: 1600
+  clicks needed: 1
+  total energy: 115
+  total exp: 27
+  average money per energy: 23
+  average money per exp: 101
+  loot: []
+- target: Pizza Parlor
+  job: Steal patron's goods
+  energy: 195
+  exp: 52
+  money max: 40500
+  money min: 16000
+  clicks needed: 5
+  total energy: 975
+  total exp: 260
+  average money per energy: 28
+  average money per exp: 108
+  loot:
+  - name: NATO Gas Mask
+    type: armor
+    percent: 0.24
+    attack: 4
+    defense: 18
+    energy for 1: 4062.5
+    exp for 1: 1083.3333333333335
+    attack for energy: 0.0009846153846153846
+    defense for energy: 0.004430769230769231
+    attack for exp: 0.003692307692307692
+    defense for exp: 0.01661538461538461
+- target: Pizza Parlor
+  job: Dress Girls in Style
+  energy: 100
+  exp: 24
+  money max: 2400
+  money min: 900
+  clicks needed: 1
+  total energy: 100
+  total exp: 24
+  average money per energy: 16
+  average money per exp: 68
+  loot: []
+- target: Pizza Parlor
+  job: Steal lockbox
+  energy: 340
+  exp: 102
+  money max: 60000
+  money min: 24000
+  clicks needed: 4
+  total energy: 1360
+  total exp: 408
+  average money per energy: 30
+  average money per exp: 102
+  loot:
+  - name: Mark 2 Blade
+    type: melee
+    percent: 0.28
+    attack: 7
+    defense: 9
+    energy for 1: 4857.142857142857
+    exp for 1: 1457.142857142857
+    attack for energy: 0.0014411764705882354
+    defense for energy: 0.0018529411764705882
+    attack for exp: 0.004803921568627451
+    defense for exp: 0.0061764705882352946
+- target: Pizza Parlor
+  job: Recruit go-go dancers
+  energy: 132
+  exp: 34
+  money max: 3000
+  money min: 1800
+  clicks needed: 1
+  total energy: 132
+  total exp: 34
+  average money per energy: 18
+  average money per exp: 70
+  loot: []
+- target: Pizza Parlor
+  job: Employ girls
+  energy: 148
+  exp: 36
+  money max: 3800
+  money min: 2500
+  clicks needed: 1
+  total energy: 148
+  total exp: 36
+  average money per energy: 21
+  average money per exp: 87
+  loot: []
+- target: Pizza Parlor
+  job: Loot lingerie
+  energy: 125
+  exp: 25
+  money max: 3650
+  money min: 2700
+  clicks needed: 1
+  total energy: 125
+  total exp: 25
+  average money per energy: 25
+  average money per exp: 127
+  loot: []

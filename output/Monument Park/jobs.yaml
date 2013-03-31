@@ -1,0 +1,360 @@
+---
+- target: Pizza Parlor
+  job: Steal valuable art
+  energy: 300
+  exp: 75
+  money max: 57500
+  money min: 15000
+  clicks needed: 5
+  total energy: 1500
+  total exp: 375
+  average money per energy: 24
+  average money per exp: 96
+  loot:
+  - name: GMC Yukon
+    type: car
+    percent: 0.27
+    attack: 3
+    defense: 6
+    energy for 1: 5555.555555555555
+    exp for 1: 1388.8888888888887
+    attack for energy: 0.0005400000000000001
+    defense for energy: 0.0010800000000000002
+    attack for exp: 0.0021600000000000005
+    defense for exp: 0.004320000000000001
+- target: Pizza Parlor
+  job: Make art forgeries
+  energy: 240
+  exp: 62
+  money max: 18000
+  money min: 2500
+  clicks needed: 2
+  total energy: 480
+  total exp: 124
+  average money per energy: 21
+  average money per exp: 82
+  loot: []
+- target: Pizza Parlor
+  job: Peddle art forgeries
+  energy: 145
+  exp: 32
+  money max: 4800
+  money min: 2000
+  clicks needed: 1
+  total energy: 145
+  total exp: 32
+  average money per energy: 23
+  average money per exp: 106
+  loot:
+  - name: Trick Razor
+    type: melee
+    percent: 0.0
+    attack: 11
+    defense: 9
+    energy for 1: .inf
+    exp for 1: .inf
+    attack for energy: 0.0
+    defense for energy: 0.0
+    attack for exp: 0.0
+    defense for exp: 0.0
+- target: Pizza Parlor
+  job: Bust Rasta gang hideout
+  energy: 420
+  exp: 134
+  money max: 87500
+  money min: 17500
+  clicks needed: 7
+  total energy: 2940
+  total exp: 938
+  average money per energy: 17
+  average money per exp: 55
+  loot:
+  - name: Hunting Knife
+    type: melee
+    percent: 0.26
+    attack: 8
+    defense: 4
+    energy for 1: 11307.692307692307
+    exp for 1: 3607.6923076923076
+    attack for energy: 0.0007074829931972789
+    defense for energy: 0.00035374149659863946
+    attack for exp: 0.0022174840085287845
+    defense for exp: 0.0011087420042643922
+- target: Rasta Tom
+  job: Beat up
+  energy: 200
+  exp: 64
+  money max: 22500
+  money min: 9500
+  clicks needed: 5
+  total energy: 1000
+  total exp: 320
+  average money per energy: 16
+  average money per exp: 50
+  loot:
+  - name: DP MachineGun
+    type: gun
+    percent: 0.28
+    attack: 5
+    defense: 10
+    energy for 1: 3571.428571428571
+    exp for 1: 1142.8571428571427
+    attack for energy: 0.0014000000000000002
+    defense for energy: 0.0028000000000000004
+    attack for exp: 0.004375
+    defense for exp: 0.00875
+- target: Malik Johnson
+  job: Perform a hit
+  energy: 264
+  exp: 87
+  money max: 34200
+  money min: 14400
+  clicks needed: 6
+  total energy: 1584
+  total exp: 522
+  average money per energy: 15
+  average money per exp: 46
+  loot:
+  - name: Butterfly Knife
+    type: melee
+    percent: 0.35
+    attack: 5
+    defense: 5
+    energy for 1: 4525.714285714286
+    exp for 1: 1491.4285714285716
+    attack for energy: 0.0011047979797979798
+    defense for energy: 0.0011047979797979798
+    attack for exp: 0.0033524904214559384
+    defense for exp: 0.0033524904214559384
+- target: Ronald Price
+  job: Interrogate
+  energy: 120
+  exp: 32
+  money max: 5000
+  money min: 2000
+  clicks needed: 2
+  total energy: 240
+  total exp: 64
+  average money per energy: 14
+  average money per exp: 54
+  loot: []
+- target: Phyllis O'Toole
+  job: Threaten
+  energy: 112
+  exp: 30
+  money max: 5000
+  money min: 2200
+  clicks needed: 2
+  total energy: 224
+  total exp: 60
+  average money per energy: 16
+  average money per exp: 60
+  loot: []
+- target: Hunnie Dixon
+  job: Pay for information
+  energy: 85
+  exp: 16
+  money max: 2150
+  money min: 900
+  clicks needed: 1
+  total energy: 85
+  total exp: 16
+  average money per energy: 17
+  average money per exp: 95
+  loot:
+  - name: Nail Bat
+    type: melee
+    percent: 0.0
+    attack: 7
+    defense: 5
+    energy for 1: .inf
+    exp for 1: .inf
+    attack for energy: 0.0
+    defense for energy: 0.0
+    attack for exp: 0.0
+    defense for exp: 0.0
+- target: Dee Reeds
+  job: Intimidate
+  energy: 110
+  exp: 30
+  money max: 4500
+  money min: 1500
+  clicks needed: 2
+  total energy: 220
+  total exp: 60
+  average money per energy: 13
+  average money per exp: 50
+  loot: []
+- target: Voodoo Jenkins
+  job: Defeat Voodoo Jenkins
+  energy: 310
+  exp: 104
+  money max: 126000
+  money min: 30800
+  clicks needed: 14
+  total energy: 4340
+  total exp: 1456
+  average money per energy: 18
+  average money per exp: 53
+  loot:
+  - name: Rasta Machete
+    type: melee
+    percent: 0.72
+    attack: 8
+    defense: 7
+    energy for 1: 6027.777777777778
+    exp for 1: 2022.2222222222224
+    attack for energy: 0.0013271889400921658
+    defense for energy: 0.001161290322580645
+    attack for exp: 0.003956043956043956
+    defense for exp: 0.003461538461538461
+  - name: Rasta Fatigues
+    type: armor
+    percent: 0.22
+    attack: 8
+    defense: 12
+    energy for 1: 19727.272727272728
+    exp for 1: 6618.181818181818
+    attack for energy: 0.00040552995391705067
+    defense for energy: 0.0006082949308755761
+    attack for exp: 0.0012087912087912088
+    defense for exp: 0.0018131868131868133
+  - name: Dreadlock Garrote
+    type: melee
+    percent: 0.06
+    attack: 20
+    defense: 9
+    energy for 1: 72333.33333333334
+    exp for 1: 24266.666666666668
+    attack for energy: 0.0002764976958525345
+    defense for energy: 0.00012442396313364055
+    attack for exp: 0.0008241758241758242
+    defense for exp: 0.00037087912087912085
+- target: Pizza Parlor
+  job: Setup Lookout
+  energy: 125
+  exp: 33
+  money max: 3000
+  money min: 1000
+  clicks needed: 1
+  total energy: 125
+  total exp: 33
+  average money per energy: 16
+  average money per exp: 60
+  loot:
+  - name: Police Armor
+    type: armor
+    percent: 0.0
+    attack: 5
+    defense: 14
+    energy for 1: .inf
+    exp for 1: .inf
+    attack for energy: 0.0
+    defense for energy: 0.0
+    attack for exp: 0.0
+    defense for exp: 0.0
+- target: Pizza Parlor
+  job: Perform Heist
+  energy: 275
+  exp: 70
+  money max: 51000
+  money min: 19800
+  clicks needed: 6
+  total energy: 1650
+  total exp: 420
+  average money per energy: 21
+  average money per exp: 84
+  loot: []
+- target: Pizza Parlor
+  job: Research Narcotics
+  energy: 105
+  exp: 28
+  money max: 2500
+  money min: 800
+  clicks needed: 1
+  total energy: 105
+  total exp: 28
+  average money per energy: 15
+  average money per exp: 58
+  loot: []
+- target: Pizza Parlor
+  job: Entertain Partners
+  energy: 90
+  exp: 20
+  money max: 1775
+  money min: 750
+  clicks needed: 1
+  total energy: 90
+  total exp: 20
+  average money per energy: 14
+  average money per exp: 63
+  loot:
+  - name: Steyr AUG
+    type: gun
+    percent: 0.0
+    attack: 7
+    defense: 6
+    energy for 1: .inf
+    exp for 1: .inf
+    attack for energy: 0.0
+    defense for energy: 0.0
+    attack for exp: 0.0
+    defense for exp: 0.0
+- target: Pizza Parlor
+  job: Exchange Product
+  energy: 133
+  exp: 25
+  money max: 4200
+  money min: 1800
+  clicks needed: 1
+  total energy: 133
+  total exp: 25
+  average money per energy: 22
+  average money per exp: 120
+  loot:
+  - name: SG 550
+    type: gun
+    percent: 0.3
+    attack: 10
+    defense: 7
+    energy for 1: 443.33333333333337
+    exp for 1: 83.33333333333334
+    attack for energy: 0.022556390977443608
+    defense for energy: 0.015789473684210523
+    attack for exp: 0.11999999999999998
+    defense for exp: 0.08399999999999999
+- target: Travis Merholtz
+  job: Steal authentication docs
+  energy: 156
+  exp: 36
+  money max: 6900
+  money min: 3300
+  clicks needed: 3
+  total energy: 468
+  total exp: 108
+  average money per energy: 10
+  average money per exp: 47
+  loot:
+  - name: SCAR
+    type: gun
+    percent: 0.13
+    attack: 7
+    defense: 7
+    energy for 1: 3600.0
+    exp for 1: 830.7692307692307
+    attack for energy: 0.0019444444444444444
+    defense for energy: 0.0019444444444444444
+    attack for exp: 0.008425925925925927
+    defense for exp: 0.008425925925925927
+- target: Rock Steady
+  job: Ice Rasta soldier
+  energy: 272
+  exp: 88
+  money max: 25200
+  money min: 10800
+  clicks needed: 6
+  total energy: 1632
+  total exp: 528
+  average money per energy: 11
+  average money per exp: 34
+  loot: []

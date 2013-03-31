@@ -1,0 +1,466 @@
+---
+- target: Pizza Parlor
+  job: Sabotage control panel
+  energy: 320
+  exp: 75
+  money max: 70000
+  money min: 21000
+  clicks needed: 7
+  total energy: 2240
+  total exp: 525
+  average money per energy: 20
+  average money per exp: 86
+  loot:
+  - name: Mossberg 590 Shotgun
+    type: gun
+    percent: 0.29
+    attack: 50
+    defense: 50
+    energy for 1: 7724.137931034484
+    exp for 1: 1810.344827586207
+    attack for energy: 0.006473214285714285
+    defense for energy: 0.006473214285714285
+    attack for exp: 0.02761904761904762
+    defense for exp: 0.02761904761904762
+- target: Pizza Parlor
+  job: Hold hostages
+  energy: 390
+  exp: 84
+  money max: 75000
+  money min: 25000
+  clicks needed: 5
+  total energy: 1950
+  total exp: 420
+  average money per energy: 25
+  average money per exp: 119
+  loot:
+  - name: SA80 Assault Rifle
+    type: gun
+    percent: 0.2
+    attack: 13
+    defense: 10
+    energy for 1: 9750.0
+    exp for 1: 2100.0
+    attack for energy: 0.0013333333333333333
+    defense for energy: 0.0010256410256410256
+    attack for exp: 0.006190476190476191
+    defense for exp: 0.004761904761904762
+- target: Pizza Parlor
+  job: Tinker with speed
+  energy: 98
+  exp: 27
+  money max: 2750
+  money min: 500
+  clicks needed: 1
+  total energy: 98
+  total exp: 27
+  average money per energy: 16
+  average money per exp: 60
+  loot: []
+- target: Pizza Parlor
+  job: Ransack quarter machine
+  energy: 138
+  exp: 27
+  money max: 12000
+  money min: 1000
+  clicks needed: 2
+  total energy: 276
+  total exp: 54
+  average money per energy: 23
+  average money per exp: 120
+  loot: []
+- target: Pizza Parlor
+  job: Steal attendant uniform
+  energy: 118
+  exp: 24
+  money max: 3000
+  money min: 1800
+  clicks needed: 1
+  total energy: 118
+  total exp: 24
+  average money per energy: 20
+  average money per exp: 100
+  loot:
+  - name: State Jacket
+    type: armor
+    percent: 0.3
+    attack: 3
+    defense: 10
+    energy for 1: 393.33333333333337
+    exp for 1: 80.0
+    attack for energy: 0.007627118644067796
+    defense for energy: 0.02542372881355932
+    attack for exp: 0.0375
+    defense for exp: 0.125
+- target: Pizza Parlor
+  job: Steal Security Footage
+  energy: 162
+  exp: 48
+  money max: 10800
+  money min: 5100
+  clicks needed: 3
+  total energy: 486
+  total exp: 144
+  average money per energy: 16
+  average money per exp: 55
+  loot: []
+- target: Pizza Parlor
+  job: Lace with hallucinogens
+  energy: 175
+  exp: 55
+  money max: 8600
+  money min: 2600
+  clicks needed: 2
+  total energy: 350
+  total exp: 110
+  average money per energy: 16
+  average money per exp: 50
+  loot:
+  - name: Mark 2 Blade
+    type: melee
+    percent: 0.11
+    attack: 7
+    defense: 9
+    energy for 1: 3181.818181818182
+    exp for 1: 1000.0
+    attack for energy: 0.0021999999999999997
+    defense for energy: 0.0028285714285714286
+    attack for exp: 0.007
+    defense for exp: 0.009
+- target: Pizza Parlor
+  job: Acquire attack animal
+  energy: 148
+  exp: 44
+  money max: 13200
+  money min: 8000
+  clicks needed: 4
+  total energy: 592
+  total exp: 176
+  average money per energy: 17
+  average money per exp: 60
+  loot: []
+- target: Pizza Parlor
+  job: Win eating contest
+  energy: 90
+  exp: 24
+  money max: 2100
+  money min: 750
+  clicks needed: 1
+  total energy: 90
+  total exp: 24
+  average money per energy: 15
+  average money per exp: 59
+  loot: []
+- target: Pizza Parlor
+  job: Rob
+  energy: 130
+  exp: 25
+  money max: 4000
+  money min: 1500
+  clicks needed: 1
+  total energy: 130
+  total exp: 25
+  average money per energy: 21
+  average money per exp: 110
+  loot: []
+- target: Pizza Parlor
+  job: Play shooting game
+  energy: 135
+  exp: 42
+  money max: 3600
+  money min: 1100
+  clicks needed: 1
+  total energy: 135
+  total exp: 42
+  average money per energy: 17
+  average money per exp: 55
+  loot:
+  - name: M4 A1
+    type: gun
+    percent: 0.14
+    attack: 20
+    defense: 22
+    energy for 1: 964.2857142857142
+    exp for 1: 299.99999999999994
+    attack for energy: 0.020740740740740744
+    defense for energy: 0.022814814814814816
+    attack for exp: 0.06666666666666668
+    defense for exp: 0.07333333333333335
+- target: Pizza Parlor
+  job: Rob
+  energy: 130
+  exp: 25
+  money max: 4000
+  money min: 1500
+  clicks needed: 1
+  total energy: 130
+  total exp: 25
+  average money per energy: 21
+  average money per exp: 110
+  loot: []
+- target: Fifi the Bearded Lady
+  job: Remove undercover cop
+  energy: 272
+  exp: 88
+  money max: 45000
+  money min: 15000
+  clicks needed: 6
+  total energy: 1632
+  total exp: 528
+  average money per energy: 18
+  average money per exp: 56
+  loot:
+  - name: Police Armor
+    type: armor
+    percent: 0.29
+    attack: 5
+    defense: 14
+    energy for 1: 5627.5862068965525
+    exp for 1: 1820.689655172414
+    attack for energy: 0.0008884803921568626
+    defense for energy: 0.002487745098039215
+    attack for exp: 0.002746212121212121
+    defense for exp: 0.007689393939393939
+- target: Jojo the Clown
+  job: Combat childhood nightmare
+  energy: 266
+  exp: 84
+  money max: 35000
+  money min: 11000
+  clicks needed: 5
+  total energy: 1330
+  total exp: 420
+  average money per energy: 17
+  average money per exp: 54
+  loot:
+  - name: Punker Pants
+    type: armor
+    percent: 0.24
+    attack: 9
+    defense: 11
+    energy for 1: 5541.666666666667
+    exp for 1: 1750.0
+    attack for energy: 0.0016240601503759399
+    defense for energy: 0.0019849624060150374
+    attack for exp: 0.005142857142857143
+    defense for exp: 0.006285714285714286
+- target: Armando Falcone
+  job: Defeat Armando
+  energy: 295
+  exp: 95
+  money max: 92500
+  money min: 20000
+  clicks needed: 10
+  total energy: 2950
+  total exp: 950
+  average money per energy: 19
+  average money per exp: 59
+  loot:
+  - name: Falcone Family Boots
+    type: armor
+    percent: 0.82
+    attack: 6
+    defense: 12
+    energy for 1: 3597.5609756097565
+    exp for 1: 1158.5365853658536
+    attack for energy: 0.0016677966101694914
+    defense for energy: 0.0033355932203389827
+    attack for exp: 0.005178947368421053
+    defense for exp: 0.010357894736842106
+  - name: Falcone Family Pistol
+    type: gun
+    percent: 0.18
+    attack: 12
+    defense: 14
+    energy for 1: 16388.88888888889
+    exp for 1: 5277.777777777778
+    attack for energy: 0.0007322033898305084
+    defense for energy: 0.0008542372881355932
+    attack for exp: 0.0022736842105263158
+    defense for exp: 0.0026526315789473683
+- target: The Great Zamboni
+  job: Ice police informant
+  energy: 284
+  exp: 91
+  money max: 39000
+  money min: 24000
+  clicks needed: 6
+  total energy: 1704
+  total exp: 546
+  average money per energy: 18
+  average money per exp: 57
+  loot:
+  - name: Police Car
+    type: car
+    percent: 0.23
+    attack: 4
+    defense: 6
+    energy for 1: 7408.695652173913
+    exp for 1: 2373.913043478261
+    attack for energy: 0.000539906103286385
+    defense for energy: 0.0008098591549295774
+    attack for exp: 0.001684981684981685
+    defense for exp: 0.0025274725274725273
+- target: Sasha the Fortune Teller
+  job: Get fortune read
+  energy: 84
+  exp: 22
+  money max: 2500
+  money min: 100
+  clicks needed: 1
+  total energy: 84
+  total exp: 22
+  average money per energy: 15
+  average money per exp: 59
+  loot: []
+- target: Gino Falcone
+  job: Defeat Gino
+  energy: 295
+  exp: 95
+  money max: 92500
+  money min: 20000
+  clicks needed: 10
+  total energy: 2950
+  total exp: 950
+  average money per energy: 19
+  average money per exp: 59
+  loot:
+  - name: Falcone Family Stampede
+    type: car
+    percent: 0.82
+    attack: 6
+    defense: 5
+    energy for 1: 3597.5609756097565
+    exp for 1: 1158.5365853658536
+    attack for energy: 0.0016677966101694914
+    defense for energy: 0.0013898305084745761
+    attack for exp: 0.005178947368421053
+    defense for exp: 0.00431578947368421
+  - name: Falcone Family Shotgun
+    type: gun
+    percent: 0.18
+    attack: 14
+    defense: 12
+    energy for 1: 16388.88888888889
+    exp for 1: 5277.777777777778
+    attack for energy: 0.0008542372881355932
+    defense for energy: 0.0007322033898305084
+    attack for exp: 0.0026526315789473683
+    defense for exp: 0.0022736842105263158
+- target: Frankie Falcone
+  job: Defeat Frankie
+  energy: 295
+  exp: 95
+  money max: 3000
+  money min: 3000
+  clicks needed: 10
+  total energy: 2950
+  total exp: 950
+  average money per energy: 1
+  average money per exp: 3
+  loot:
+  - name: Falcone's Special SMG
+    type: gun
+    percent: 0.82
+    attack: 9
+    defense: 9
+    energy for 1: 3597.5609756097565
+    exp for 1: 1158.5365853658536
+    attack for energy: 0.002501694915254237
+    defense for energy: 0.002501694915254237
+    attack for exp: 0.007768421052631579
+    defense for exp: 0.007768421052631579
+  - name: Falcone's Leather Jacket
+    type: armor
+    percent: 0.18
+    attack: 9
+    defense: 17
+    energy for 1: 16388.88888888889
+    exp for 1: 5277.777777777778
+    attack for energy: 0.0005491525423728813
+    defense for energy: 0.0010372881355932202
+    attack for exp: 0.0017052631578947366
+    defense for exp: 0.003221052631578947
+- target: Pizza Parlor
+  job: Install hidden camera
+  energy: 108
+  exp: 30
+  money max: 2600
+  money min: 1200
+  clicks needed: 1
+  total energy: 108
+  total exp: 30
+  average money per energy: 17
+  average money per exp: 63
+  loot: []
+- target: Pizza Parlor
+  job: Set Up Surveillance
+  energy: 88
+  exp: 26
+  money max: 2000
+  money min: 700
+  clicks needed: 1
+  total energy: 88
+  total exp: 26
+  average money per energy: 15
+  average money per exp: 51
+  loot: []
+- target: Pizza Parlor
+  job: Mug Rich Tourists
+  energy: 168
+  exp: 33
+  money max: 4500
+  money min: 3100
+  clicks needed: 1
+  total energy: 168
+  total exp: 33
+  average money per energy: 22
+  average money per exp: 115
+  loot: []
+- target: Pizza Parlor
+  job: Steal Personal Water Craft
+  energy: 288
+  exp: 62
+  money max: 40000
+  money min: 25000
+  clicks needed: 5
+  total energy: 1440
+  total exp: 310
+  average money per energy: 22
+  average money per exp: 104
+  loot:
+  - name: Rusted Minigun
+    type: gun
+    percent: 0.2
+    attack: 8
+    defense: 10
+    energy for 1: 7200.0
+    exp for 1: 1550.0
+    attack for energy: 0.0011111111111111111
+    defense for energy: 0.001388888888888889
+    attack for exp: 0.005161290322580645
+    defense for exp: 0.0064516129032258064
+- target: Pizza Parlor
+  job: Rob
+  energy: 130
+  exp: 25
+  money max: 4000
+  money min: 1500
+  clicks needed: 1
+  total energy: 130
+  total exp: 25
+  average money per energy: 21
+  average money per exp: 110
+  loot: []
+- target: Pizza Parlor
+  job: Mug Patrons
+  energy: 148
+  exp: 26
+  money max: 4500
+  money min: 2500
+  clicks needed: 1
+  total energy: 148
+  total exp: 26
+  average money per energy: 23
+  average money per exp: 134
+  loot: []

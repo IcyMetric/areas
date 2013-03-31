@@ -1,0 +1,23 @@
+---
+name: Hospitality District
+unlock_level: 60
+is_available: 1
+is_coming_soon: 0
+mastery rewards:
+- level: 1
+  exp: 72
+  money: 125000
+- level: 2
+  exp: 72
+  respect: 280
+- level: 3
+  exp: 72
+  item: Hustler's Shotgun
+  item attack: 23
+  item defense: 11
+- level: 4
+  exp: 72
+  mafia: 1
+- level: 5
+  exp: 72
+  skill points: 1

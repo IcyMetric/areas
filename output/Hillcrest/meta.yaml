@@ -1,0 +1,23 @@
+---
+name: Hillcrest
+unlock_level: 53
+is_available: 1
+is_coming_soon: 0
+mastery rewards:
+- level: 1
+  exp: 60
+  money: 80000
+- level: 2
+  exp: 60
+  respect: 250
+- level: 3
+  exp: 60
+  item: Horowitz Family Shotgun
+  item attack: 19
+  item defense: 12
+- level: 4
+  exp: 60
+  mafia: 1
+- level: 5
+  exp: 60
+  skill points: 1

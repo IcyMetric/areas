@@ -6,16 +6,18 @@ is_coming_soon: 0
 mastery rewards:
 - level: 1
   exp: 44
-  skill points: 1
+  money: 33000
 - level: 2
   exp: 44
-  skill points: 1
+  respect: 180
 - level: 3
   exp: 44
-  skill points: 1
+  item: Soviet Blaster
+  item attack: 17
+  item defense: 12
 - level: 4
   exp: 44
-  skill points: 1
+  mafia: 1
 - level: 5
   exp: 44
   skill points: 1
