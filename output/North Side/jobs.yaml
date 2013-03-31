@@ -10,7 +10,18 @@
   total exp: 816
   average money per energy: 11
   average money per exp: 25
-  loot: []
+  loot:
+  - name: Mossberg 590 Shotgun
+    type: gun
+    percent: 0.27
+    attack: 12
+    defense: 8
+    energy for 1: 6888.888888888889
+    exp for 1: 3022.222222222222
+    attack for energy: 0.0017419354838709678
+    defense for energy: 0.0011612903225806453
+    attack for exp: 0.003970588235294118
+    defense for exp: 0.0026470588235294116
 - target: Pizza Parlor
   job: Steal Stash
   energy: 172
@@ -22,7 +33,18 @@
   total exp: 118
   average money per energy: 20
   average money per exp: 58
-  loot: []
+  loot:
+  - name: Mark 2 Blade
+    type: melee
+    percent: 0.22
+    attack: 7
+    defense: 9
+    energy for 1: 1563.6363636363637
+    exp for 1: 536.3636363636364
+    attack for energy: 0.004476744186046511
+    defense for energy: 0.005755813953488372
+    attack for exp: 0.013050847457627118
+    defense for exp: 0.01677966101694915
 - target: Luther Greene
   job: Hold Up
   energy: 144
@@ -46,7 +68,18 @@
   total exp: 1648
   average money per energy: 13
   average money per exp: 29
-  loot: []
+  loot:
+  - name: Killer Machine Gun
+    type: gun
+    percent: 0.33
+    attack: 13
+    defense: 11
+    energy for 1: 10909.090909090908
+    exp for 1: 4993.939393939394
+    attack for energy: 0.0011916666666666668
+    defense for energy: 0.0010083333333333335
+    attack for exp: 0.002603155339805825
+    defense for exp: 0.0022026699029126214
 - target: Pizza Parlor
   job: Take Hostages
   energy: 410
@@ -58,7 +91,18 @@
   total exp: 890
   average money per energy: 16
   average money per exp: 37
-  loot: []
+  loot:
+  - name: Police Armor
+    type: armor
+    percent: 0.29
+    attack: 5
+    defense: 14
+    energy for 1: 7068.9655172413795
+    exp for 1: 3068.9655172413795
+    attack for energy: 0.0007073170731707317
+    defense for energy: 0.0019804878048780487
+    attack for exp: 0.0016292134831460672
+    defense for exp: 0.004561797752808988
 - target: Pizza Parlor
   job: Mug Patrons
   energy: 133
@@ -82,7 +126,18 @@
   total exp: 186
   average money per energy: 10
   average money per exp: 26
-  loot: []
+  loot:
+  - name: Steyr AUG
+    type: gun
+    percent: 0.13
+    attack: 7
+    defense: 6
+    energy for 1: 3600.0
+    exp for 1: 1430.7692307692307
+    attack for energy: 0.0019444444444444444
+    defense for energy: 0.0016666666666666668
+    attack for exp: 0.00489247311827957
+    defense for exp: 0.004193548387096774
 - target: Latisha Jones
   job: Kidnap
   energy: 275
@@ -94,7 +149,18 @@
   total exp: 297
   average money per energy: 11
   average money per exp: 32
-  loot: []
+  loot:
+  - name: Security Shotgun
+    type: gun
+    percent: 0.18
+    attack: 10
+    defense: 14
+    energy for 1: 4583.333333333334
+    exp for 1: 1650.0
+    attack for energy: 0.0021818181818181815
+    defense for energy: 0.0030545454545454543
+    attack for exp: 0.006060606060606061
+    defense for exp: 0.008484848484848486
 - target: Oscar Phillips
   job: Cut Up
   energy: 296
@@ -106,7 +172,18 @@
   total exp: 620
   average money per energy: 8
   average money per exp: 21
-  loot: []
+  loot:
+  - name: Kunai
+    type: melee
+    percent: 0.18
+    attack: 12
+    defense: 14
+    energy for 1: 8222.222222222223
+    exp for 1: 3444.444444444445
+    attack for energy: 0.0014594594594594594
+    defense for energy: 0.0017027027027027026
+    attack for exp: 0.0034838709677419352
+    defense for exp: 0.004064516129032258
 - target: Andre Johnson
   job: Smack Down
   energy: 315
@@ -118,7 +195,18 @@
   total exp: 660
   average money per energy: 9
   average money per exp: 23
-  loot: []
+  loot:
+  - name: Punker Car
+    type: car
+    percent: 0.17
+    attack: 11
+    defense: 9
+    energy for 1: 9264.70588235294
+    exp for 1: 3882.3529411764703
+    attack for energy: 0.0011873015873015873
+    defense for energy: 0.0009714285714285715
+    attack for exp: 0.0028333333333333335
+    defense for exp: 0.002318181818181818
 - target: Juice Dawg
   job: Defeat
   energy: 436
@@ -175,7 +263,18 @@
   total exp: 220
   average money per energy: 43
   average money per exp: 127
-  loot: []
+  loot:
+  - name: Steyr AUG
+    type: gun
+    percent: 0.24
+    attack: 7
+    defense: 6
+    energy for 1: 2708.3333333333335
+    exp for 1: 916.6666666666667
+    attack for energy: 0.0025846153846153844
+    defense for energy: 0.002215384615384615
+    attack for exp: 0.007636363636363636
+    defense for exp: 0.006545454545454545
 - target: Pizza Parlor
   job: Heist Cigarettes
   energy: 188
@@ -187,7 +286,18 @@
   total exp: 189
   average money per energy: 33
   average money per exp: 99
-  loot: []
+  loot:
+  - name: Hot Box Van
+    type: car
+    percent: 0.22
+    attack: 7
+    defense: 7
+    energy for 1: 2563.6363636363635
+    exp for 1: 859.0909090909091
+    attack for energy: 0.0027304964539007093
+    defense for energy: 0.0027304964539007093
+    attack for exp: 0.008148148148148147
+    defense for exp: 0.008148148148148147
 - target: Pizza Parlor
   job: Take Booze
   energy: 140
@@ -211,7 +321,18 @@
   total exp: 447
   average money per energy: 30
   average money per exp: 68
-  loot: []
+  loot:
+  - name: Mk 14 Battle Rifle
+    type: gun
+    percent: 0.25
+    attack: 14
+    defense: 14
+    energy for 1: 4032.0
+    exp for 1: 1788.0
+    attack for energy: 0.003472222222222222
+    defense for energy: 0.003472222222222222
+    attack for exp: 0.007829977628635347
+    defense for exp: 0.007829977628635347
 - target: Pizza Parlor
   job: Steal a Disguise
   energy: 210
@@ -223,7 +344,18 @@
   total exp: 76
   average money per energy: 23
   average money per exp: 65
-  loot: []
+  loot:
+  - name: Wrestler Mask
+    type: armor
+    percent: 0.28
+    attack: 4
+    defense: 7
+    energy for 1: 749.9999999999999
+    exp for 1: 271.4285714285714
+    attack for energy: 0.005333333333333334
+    defense for energy: 0.009333333333333334
+    attack for exp: 0.01473684210526316
+    defense for exp: 0.02578947368421053
 - target: Pizza Parlor
   job: Threaten Family
   energy: 178
@@ -259,7 +391,18 @@
   total exp: 1328
   average money per energy: 39
   average money per exp: 87
-  loot: []
+  loot:
+  - name: Police Armor
+    type: armor
+    percent: 0.21
+    attack: 5
+    defense: 14
+    energy for 1: 13904.761904761905
+    exp for 1: 6323.809523809524
+    attack for energy: 0.0003595890410958904
+    defense for energy: 0.0010068493150684932
+    attack for exp: 0.0007906626506024096
+    defense for exp: 0.002213855421686747
 - target: Pizza Parlor
   job: Stick Up
   energy: 167
@@ -283,7 +426,18 @@
   total exp: 918
   average money per energy: 27
   average money per exp: 62
-  loot: []
+  loot:
+  - name: Mark 2 Blade
+    type: melee
+    percent: 0.19
+    attack: 7
+    defense: 9
+    energy for 1: 10736.842105263158
+    exp for 1: 4831.578947368421
+    attack for energy: 0.0006519607843137254
+    defense for energy: 0.000838235294117647
+    attack for exp: 0.00144880174291939
+    defense for exp: 0.0018627450980392157
 - target: Pizza Parlor
   job: Rip Off Stash
   energy: 284

@@ -46,7 +46,18 @@
   total exp: 352
   average money per energy: 46
   average money per exp: 136
-  loot: []
+  loot:
+  - name: Mk 14 Battle Rifle
+    type: gun
+    percent: 0.16
+    attack: 14
+    defense: 14
+    energy for 1: 6400.0
+    exp for 1: 2200.0
+    attack for energy: 0.0021875
+    defense for energy: 0.0021875
+    attack for exp: 0.006363636363636364
+    defense for exp: 0.006363636363636364
 - target: Pizza Parlor
   job: Heist Computers
   energy: 325
@@ -58,7 +69,18 @@
   total exp: 500
   average money per energy: 53
   average money per exp: 175
-  loot: []
+  loot:
+  - name: Police Armor
+    type: armor
+    percent: 0.26
+    attack: 5
+    defense: 14
+    energy for 1: 6250.0
+    exp for 1: 1923.076923076923
+    attack for energy: 0.0008
+    defense for energy: 0.00224
+    attack for exp: 0.0026
+    defense for exp: 0.00728
 - target: Eugene Snodgrass
   job: Mug Astronomy Nerd
   energy: 140
@@ -82,7 +104,18 @@
   total exp: 655
   average money per energy: 33
   average money per exp: 76
-  loot: []
+  loot:
+  - name: Toxic Sprayer
+    type: gun
+    percent: 0.15
+    attack: 27
+    defense: 12
+    energy for 1: 10000.0
+    exp for 1: 4366.666666666667
+    attack for energy: 0.0027
+    defense for energy: 0.0012
+    attack for exp: 0.006183206106870229
+    defense for exp: 0.002748091603053435
 - target: Mrs. Crabtree
   job: Keep Teacher Quiet
   energy: 200
@@ -94,7 +127,18 @@
   total exp: 336
   average money per energy: 30
   average money per exp: 71
-  loot: []
+  loot:
+  - name: Steyr AUG
+    type: gun
+    percent: 0.2
+    attack: 7
+    defense: 6
+    energy for 1: 4000.0
+    exp for 1: 1680.0
+    attack for energy: 0.00175
+    defense for energy: 0.0015
+    attack for exp: 0.004166666666666667
+    defense for exp: 0.0035714285714285713
 - target: Carmella Song
   job: Stop Song from Singing
   energy: 270
@@ -106,7 +150,18 @@
   total exp: 460
   average money per energy: 33
   average money per exp: 78
-  loot: []
+  loot:
+  - name: Irish Shooter
+    type: gun
+    percent: 0.22
+    attack: 11
+    defense: 10
+    energy for 1: 4909.090909090909
+    exp for 1: 2090.909090909091
+    attack for energy: 0.0022407407407407406
+    defense for energy: 0.002037037037037037
+    attack for exp: 0.005260869565217391
+    defense for exp: 0.004782608695652174
 - target: Trent the Trigger
   job: Pull the Trigger
   energy: 292
@@ -118,7 +173,18 @@
   total exp: 640
   average money per energy: 35
   average money per exp: 80
-  loot: []
+  loot:
+  - name: Mk 14 Battle Rifle
+    type: gun
+    percent: 0.17
+    attack: 14
+    defense: 14
+    energy for 1: 8588.235294117647
+    exp for 1: 3764.705882352941
+    attack for energy: 0.00163013698630137
+    defense for energy: 0.00163013698630137
+    attack for exp: 0.0037187500000000003
+    defense for exp: 0.0037187500000000003
 - target: Slugger McManis
   job: Cut Up Slugger
   energy: 344
@@ -130,7 +196,18 @@
   total exp: 770
   average money per energy: 34
   average money per exp: 77
-  loot: []
+  loot:
+  - name: Trick Razor
+    type: melee
+    percent: 0.25
+    attack: 11
+    defense: 9
+    energy for 1: 6880.0
+    exp for 1: 3080.0
+    attack for energy: 0.0015988372093023256
+    defense for energy: 0.001308139534883721
+    attack for exp: 0.0035714285714285713
+    defense for exp: 0.002922077922077922
 - target: Stone Cold Sergei
   job: Defeat
   energy: 444
@@ -187,7 +264,18 @@
   total exp: 1056
   average money per energy: 47
   average money per exp: 126
-  loot: []
+  loot:
+  - name: Armored Police Truck
+    type: car
+    percent: 0.18
+    attack: 4
+    defense: 19
+    energy for 1: 15666.666666666668
+    exp for 1: 5866.666666666667
+    attack for energy: 0.0002553191489361702
+    defense for energy: 0.0012127659574468084
+    attack for exp: 0.0006818181818181818
+    defense for exp: 0.0032386363636363637
 - target: Pizza Parlor
   job: Take Care of Witnesses
   energy: 272
@@ -199,7 +287,18 @@
   total exp: 366
   average money per energy: 30
   average money per exp: 67
-  loot: []
+  loot:
+  - name: Limousine
+    type: car
+    percent: 0.17
+    attack: 5
+    defense: 17
+    energy for 1: 4800.0
+    exp for 1: 2152.9411764705883
+    attack for energy: 0.0010416666666666667
+    defense for energy: 0.0035416666666666665
+    attack for exp: 0.0023224043715846993
+    defense for exp: 0.007896174863387978
 - target: Pizza Parlor
   job: Deface Monument
   energy: 170
@@ -211,4 +310,15 @@
   total exp: 120
   average money per energy: 29
   average money per exp: 83
-  loot: []
+  loot:
+  - name: Mossberg 590 Shotgun
+    type: gun
+    percent: 0.16
+    attack: 12
+    defense: 8
+    energy for 1: 2125.0
+    exp for 1: 750.0
+    attack for energy: 0.005647058823529412
+    defense for energy: 0.0037647058823529413
+    attack for exp: 0.016
+    defense for exp: 0.010666666666666666
