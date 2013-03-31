@@ -82,15 +82,15 @@
   loot:
   - name: State Jacket
     type: armor
-    percent: 0.32
+    percent: 0.16
     attack: 3
     defense: 10
-    energy for 1: 2250.0
-    exp for 1: 462.5
-    attack for energy: 0.0013333333333333333
-    defense for energy: 0.0044444444444444444
-    attack for exp: 0.006486486486486486
-    defense for exp: 0.021621621621621623
+    energy for 1: 4500.0
+    exp for 1: 925.0
+    attack for energy: 0.0006666666666666666
+    defense for energy: 0.0022222222222222222
+    attack for exp: 0.003243243243243243
+    defense for exp: 0.010810810810810811
 - target: Pizza Parlor
   job: Manipulate Market Data
   energy: 195
@@ -105,15 +105,15 @@
   loot:
   - name: Carbine
     type: gun
-    percent: 0.36
+    percent: 0.18
     attack: 4
     defense: 6
-    energy for 1: 2166.666666666667
-    exp for 1: 466.6666666666667
-    attack for energy: 0.001846153846153846
-    defense for energy: 0.002769230769230769
-    attack for exp: 0.008571428571428572
-    defense for exp: 0.012857142857142857
+    energy for 1: 4333.333333333334
+    exp for 1: 933.3333333333334
+    attack for energy: 0.000923076923076923
+    defense for energy: 0.0013846153846153845
+    attack for exp: 0.004285714285714286
+    defense for exp: 0.0064285714285714285
 - target: Seth Young
   job: Beat Up
   energy: 188
@@ -337,15 +337,15 @@
   loot:
   - name: Hazmat Suit
     type: armor
-    percent: 0.32
+    percent: 0.16
     attack: 2
     defense: 8
-    energy for 1: 906.25
-    exp for 1: 268.75
-    attack for energy: 0.002206896551724138
-    defense for energy: 0.008827586206896552
-    attack for exp: 0.0074418604651162795
-    defense for exp: 0.029767441860465118
+    energy for 1: 1812.5
+    exp for 1: 537.5
+    attack for energy: 0.001103448275862069
+    defense for energy: 0.004413793103448276
+    attack for exp: 0.0037209302325581397
+    defense for exp: 0.014883720930232559
 - target: Pizza Parlor
   job: Hire Escort
   energy: 76
