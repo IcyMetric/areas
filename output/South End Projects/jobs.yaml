@@ -214,11 +214,11 @@
   exp: 24
   money max: 1400
   money min: 400
-  clicks needed: 4
-  total energy: 336
-  total exp: 96
-  average money per energy: 2
-  average money per exp: 9
+  clicks needed: 2
+  total energy: 168
+  total exp: 48
+  average money per energy: 5
+  average money per exp: 18
   loot: []
 - target: Chazmo Parker
   job: Perform hit

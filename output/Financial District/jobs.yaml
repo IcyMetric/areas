@@ -3,13 +3,13 @@
   job: Sell product to employees
   energy: 69
   exp: 14
-  money max: 1700
-  money min: 600
+  money max: 1100
+  money min: 400
   clicks needed: 1
   total energy: 69
   total exp: 14
-  average money per energy: 16
-  average money per exp: 82
+  average money per energy: 10
+  average money per exp: 53
   loot:
   - name: Survival Knife
     type: melee
@@ -26,13 +26,13 @@
   job: Steal Safe Deposit Boxes
   energy: 330
   exp: 88
-  money max: 72000
-  money min: 25600
+  money max: 56000
+  money min: 20000
   clicks needed: 8
   total energy: 2640
   total exp: 704
-  average money per energy: 18
-  average money per exp: 69
+  average money per energy: 14
+  average money per exp: 53
   loot:
   - name: SG 550
     type: gun
@@ -49,13 +49,13 @@
   job: Bribe Federal officials
   energy: 148
   exp: 31
-  money max: 3100
-  money min: 1400
+  money max: 2100
+  money min: 900
   clicks needed: 1
   total energy: 148
   total exp: 31
-  average money per energy: 15
-  average money per exp: 72
+  average money per energy: 10
+  average money per exp: 48
   loot:
   - name: SWAT Pistol
     type: gun
@@ -72,13 +72,13 @@
   job: Manipulate currencies
   energy: 180
   exp: 37
-  money max: 24000
+  money max: 18000
   money min: 400
   clicks needed: 4
   total energy: 720
   total exp: 148
-  average money per energy: 16
-  average money per exp: 82
+  average money per energy: 12
+  average money per exp: 62
   loot:
   - name: State Jacket
     type: armor
@@ -95,13 +95,13 @@
   job: Manipulate market data
   energy: 195
   exp: 42
-  money max: 16000
-  money min: 12000
+  money max: 12000
+  money min: 8000
   clicks needed: 4
   total energy: 780
   total exp: 168
-  average money per energy: 17
-  average money per exp: 83
+  average money per energy: 12
+  average money per exp: 59
   loot:
   - name: Carbine
     type: gun
@@ -118,13 +118,13 @@
   job: Beat up
   energy: 188
   exp: 64
-  money max: 16500
-  money min: 7000
+  money max: 12000
+  money min: 5000
   clicks needed: 5
   total energy: 940
   total exp: 320
-  average money per energy: 12
-  average money per exp: 36
+  average money per energy: 9
+  average money per exp: 26
   loot:
   - name: Mark 2 Blade
     type: melee
@@ -141,85 +141,85 @@
   job: Buy corporate secrets
   energy: 84
   exp: 24
-  money max: 1700
-  money min: 400
+  money max: 900
+  money min: 300
   clicks needed: 1
   total energy: 84
   total exp: 24
-  average money per energy: 12
-  average money per exp: 43
+  average money per energy: 7
+  average money per exp: 25
   loot: []
 - target: Chris Davis
   job: Sell corporate secrets
   energy: 72
   exp: 13
-  money max: 1800
-  money min: 550
+  money max: 1200
+  money min: 400
   clicks needed: 1
   total energy: 72
   total exp: 13
-  average money per energy: 16
-  average money per exp: 90
+  average money per energy: 11
+  average money per exp: 61
   loot: []
 - target: Jennifer White
   job: Intimidate
   energy: 100
   exp: 30
-  money max: 4800
-  money min: 2100
+  money max: 3300
+  money min: 900
   clicks needed: 3
   total energy: 300
   total exp: 90
-  average money per energy: 11
-  average money per exp: 38
+  average money per energy: 7
+  average money per exp: 23
   loot: []
 - target: Veronica Green
   job: Sell corporate secrets
   energy: 72
   exp: 13
-  money max: 1800
-  money min: 550
+  money max: 1200
+  money min: 400
   clicks needed: 1
   total energy: 72
   total exp: 13
-  average money per energy: 16
-  average money per exp: 90
+  average money per energy: 11
+  average money per exp: 61
   loot: []
 - target: Stephanie Wang
   job: Intimidate
   energy: 100
   exp: 30
-  money max: 4800
-  money min: 2100
+  money max: 3300
+  money min: 900
   clicks needed: 3
   total energy: 300
   total exp: 90
-  average money per energy: 11
-  average money per exp: 38
+  average money per energy: 7
+  average money per exp: 23
   loot: []
 - target: Kevin Chang
   job: Buy corporate secrets
   energy: 84
   exp: 24
-  money max: 1700
-  money min: 400
+  money max: 900
+  money min: 300
   clicks needed: 1
   total energy: 84
   total exp: 24
-  average money per energy: 12
-  average money per exp: 43
+  average money per energy: 7
+  average money per exp: 25
   loot: []
 - target: Sam Robinson
   job: Mug for Bank ID
   energy: 90
   exp: 18
-  money max: 1750
-  money min: 1000
+  money max: 1350
+  money min: 600
   clicks needed: 1
   total energy: 90
   total exp: 18
-  average money per energy: 15
-  average money per exp: 76
+  average money per energy: 10
+  average money per exp: 54
   loot:
   - name: Police Baton
     type: melee
@@ -236,13 +236,13 @@
   job: Defeat John Rhino
   energy: 284
   exp: 97
-  money max: 81900
-  money min: 29250
+  money max: 65000
+  money min: 15600
   clicks needed: 13
   total energy: 3692
   total exp: 1261
-  average money per energy: 15
-  average money per exp: 44
+  average money per energy: 10
+  average money per exp: 31
   loot:
   - name: Stampeding Shotgun
     type: gun
@@ -281,13 +281,13 @@
   job: Meet Crooked Accountant
   energy: 150
   exp: 42
-  money max: 2400
+  money max: 1900
   money min: 1100
   clicks needed: 1
   total energy: 150
   total exp: 42
-  average money per energy: 11
-  average money per exp: 41
+  average money per energy: 10
+  average money per exp: 35
   loot:
   - name: Devilish Taxi
     type: car
@@ -304,13 +304,13 @@
   job: Hack Rivals' Accounts
   energy: 350
   exp: 97
-  money max: 63000
-  money min: 19800
+  money max: 43200
+  money min: 18000
   clicks needed: 6
   total energy: 2100
   total exp: 582
-  average money per energy: 19
-  average money per exp: 71
+  average money per energy: 14
+  average money per exp: 52
   loot:
   - name: M4 Shotgun
     type: gun
@@ -327,13 +327,13 @@
   job: Bug vehicles
   energy: 145
   exp: 43
-  money max: 4800
-  money min: 1600
+  money max: 3400
+  money min: 1200
   clicks needed: 2
   total energy: 290
   total exp: 86
-  average money per energy: 11
-  average money per exp: 37
+  average money per energy: 7
+  average money per exp: 26
   loot:
   - name: Hazmat Suit
     type: armor
@@ -350,25 +350,25 @@
   job: Hire Escort
   energy: 76
   exp: 20
-  money max: 1250
-  money min: 300
+  money max: 900
+  money min: 250
   clicks needed: 1
   total energy: 76
   total exp: 20
-  average money per energy: 10
-  average money per exp: 38
+  average money per energy: 7
+  average money per exp: 28
   loot: []
 - target: Pizza Parlor
   job: Blackmail the CFO
   energy: 233
   exp: 56
-  money max: 12800
+  money max: 10000
   money min: 2400
   clicks needed: 2
   total energy: 466
   total exp: 112
-  average money per energy: 16
-  average money per exp: 67
+  average money per energy: 13
+  average money per exp: 55
   loot:
   - name: DP MachineGun
     type: gun
@@ -385,13 +385,13 @@
   job: Steal financial records
   energy: 365
   exp: 104
-  money max: 60000
-  money min: 32400
+  money max: 51000
+  money min: 12000
   clicks needed: 6
   total energy: 2190
   total exp: 624
-  average money per energy: 21
-  average money per exp: 74
+  average money per energy: 14
+  average money per exp: 50
   loot:
   - name: Mossberg 590 Shotgun
     type: gun

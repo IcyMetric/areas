@@ -3,13 +3,13 @@
   job: Interrogate
   energy: 96
   exp: 26
-  money max: 1800
+  money max: 1600
   money min: 600
   clicks needed: 2
   total energy: 192
   total exp: 52
-  average money per energy: 6
-  average money per exp: 23
+  average money per energy: 5
+  average money per exp: 21
   loot:
   - name: Shiv
     type: melee
@@ -27,7 +27,7 @@
   energy: 88
   exp: 24
   money max: 1500
-  money min: 700
+  money min: 650
   clicks needed: 2
   total energy: 176
   total exp: 48
@@ -38,13 +38,13 @@
   job: Break in
   energy: 112
   exp: 22
-  money max: 2600
+  money max: 2500
   money min: 1000
   clicks needed: 2
   total energy: 224
   total exp: 44
-  average money per energy: 8
-  average money per exp: 40
+  average money per energy: 7
+  average money per exp: 39
   loot:
   - name: SCAR
     type: gun
@@ -62,12 +62,12 @@
   energy: 80
   exp: 14
   money max: 900
-  money min: 500
+  money min: 400
   clicks needed: 1
   total energy: 80
   total exp: 14
   average money per energy: 8
-  average money per exp: 50
+  average money per exp: 46
   loot:
   - name: Nail Bat
     type: melee
@@ -84,25 +84,25 @@
   job: Take Payment
   energy: 65
   exp: 11
-  money max: 800
+  money max: 750
   money min: 250
   clicks needed: 1
   total energy: 65
   total exp: 11
-  average money per energy: 8
-  average money per exp: 47
+  average money per energy: 7
+  average money per exp: 45
   loot: []
 - target: Vartouhi Sarkisian
   job: Shake Down
   energy: 120
   exp: 24
-  money max: 4500
-  money min: 1800
+  money max: 4200
+  money min: 1500
   clicks needed: 3
   total energy: 360
   total exp: 72
-  average money per energy: 8
-  average money per exp: 43
+  average money per energy: 7
+  average money per exp: 39
   loot:
   - name: Micro Uzi
     type: gun
@@ -119,13 +119,13 @@
   job: Destroy Hideout
   energy: 285
   exp: 92
-  money max: 28000
+  money max: 24500
   money min: 10500
   clicks needed: 7
   total energy: 1995
   total exp: 644
-  average money per energy: 9
-  average money per exp: 29
+  average money per energy: 8
+  average money per exp: 27
   loot:
   - name: Hot Box Van
     type: car
@@ -142,13 +142,13 @@
   job: Steal Weapons Cache
   energy: 230
   exp: 64
-  money max: 10800
-  money min: 4800
+  money max: 10000
+  money min: 4400
   clicks needed: 3
   total energy: 690
   total exp: 192
-  average money per energy: 11
-  average money per exp: 40
+  average money per energy: 10
+  average money per exp: 37
   loot:
   - name: M4 Shotgun
     type: gun
@@ -165,13 +165,13 @@
   job: Ransack Safehouse
   energy: 320
   exp: 83
-  money max: 22400
-  money min: 8800
+  money max: 21000
+  money min: 8200
   clicks needed: 4
   total energy: 1280
   total exp: 332
-  average money per energy: 12
-  average money per exp: 46
+  average money per energy: 11
+  average money per exp: 43
   loot:
   - name: SWAT Pistol
     type: gun
@@ -188,13 +188,13 @@
   job: Whack
   energy: 175
   exp: 59
-  money max: 12000
-  money min: 5400
+  money max: 11000
+  money min: 4000
   clicks needed: 6
   total energy: 1050
   total exp: 354
-  average money per energy: 8
-  average money per exp: 24
+  average money per energy: 7
+  average money per exp: 21
   loot:
   - name: M4 A1
     type: gun
@@ -211,13 +211,13 @@
   job: Clip
   energy: 142
   exp: 46
-  money max: 8000
-  money min: 3500
+  money max: 7000
+  money min: 2500
   clicks needed: 5
   total energy: 710
   total exp: 230
-  average money per energy: 8
-  average money per exp: 25
+  average money per energy: 6
+  average money per exp: 20
   loot:
   - name: Butterfly Knife
     type: melee
@@ -234,13 +234,13 @@
   job: Defeat
   energy: 236
   exp: 80
-  money max: 30800
-  money min: 14300
+  money max: 29700
+  money min: 13200
   clicks needed: 12
   total energy: 2832
   total exp: 960
   average money per energy: 7
-  average money per exp: 23
+  average money per exp: 22
   loot:
   - name: Genova Hand Cannon
     type: gun
@@ -280,48 +280,48 @@
   energy: 75
   exp: 14
   money max: 800
-  money min: 450
+  money min: 350
   clicks needed: 1
   total energy: 75
   total exp: 14
-  average money per energy: 8
-  average money per exp: 44
+  average money per energy: 7
+  average money per exp: 41
   loot: []
 - target: Yvette Laroche
   job: Rob
   energy: 80
   exp: 15
-  money max: 950
-  money min: 400
+  money max: 900
+  money min: 360
   clicks needed: 1
   total energy: 80
   total exp: 15
-  average money per energy: 8
-  average money per exp: 45
+  average money per energy: 7
+  average money per exp: 42
   loot: []
 - target: Pizza Parlor
   job: Recruit Lookouts
   energy: 60
   exp: 11
-  money max: 600
+  money max: 500
   money min: 100
   clicks needed: 1
   total energy: 60
   total exp: 11
   average money per energy: 5
-  average money per exp: 31
+  average money per exp: 27
   loot: []
 - target: Pizza Parlor
   job: Ruin Paint Job
   energy: 72
   exp: 13
-  money max: 700
-  money min: 200
+  money max: 650
+  money min: 150
   clicks needed: 1
   total energy: 72
   total exp: 13
-  average money per energy: 6
-  average money per exp: 34
+  average money per energy: 5
+  average money per exp: 30
   loot: []
 - target: Pizza Parlor
   job: Sugar in the Gas Tank
@@ -339,13 +339,13 @@
   job: Home Invasion
   energy: 140
   exp: 38
-  money max: 2800
+  money max: 2700
   money min: 1800
   clicks needed: 2
   total energy: 280
   total exp: 76
   average money per energy: 8
-  average money per exp: 30
+  average money per exp: 29
   loot:
   - name: Punker Jacket
     type: armor
@@ -362,13 +362,13 @@
   job: Poison Lunchmeats
   energy: 132
   exp: 44
-  money max: 1300
+  money max: 1250
   money min: 400
   clicks needed: 1
   total energy: 132
   total exp: 44
   average money per energy: 6
-  average money per exp: 19
+  average money per exp: 18
   loot:
   - name: Meat Mallet
     type: melee
@@ -385,13 +385,13 @@
   job: Steal Needles
   energy: 105
   exp: 28
-  money max: 1500
+  money max: 1300
   money min: 300
   clicks needed: 1
   total energy: 105
   total exp: 28
-  average money per energy: 8
-  average money per exp: 32
+  average money per energy: 7
+  average money per exp: 28
   loot:
   - name: Army Helmet
     type: armor
@@ -408,7 +408,7 @@
   job: Intimidate Inhabitants
   energy: 115
   exp: 38
-  money max: 1900
+  money max: 1850
   money min: 1100
   clicks needed: 2
   total energy: 230
@@ -420,13 +420,13 @@
   job: Steal Untraceable Guns
   energy: 156
   exp: 46
-  money max: 6900
+  money max: 6000
   money min: 3900
   clicks needed: 3
   total energy: 468
   total exp: 138
-  average money per energy: 11
-  average money per exp: 39
+  average money per energy: 10
+  average money per exp: 35
   loot:
   - name: SMG K01
     type: gun

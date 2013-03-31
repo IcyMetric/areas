@@ -3,13 +3,13 @@
   job: Hit Funeral
   energy: 175
   exp: 57
-  money max: 10800
-  money min: 4200
+  money max: 8000
+  money min: 3200
   clicks needed: 4
   total energy: 700
   total exp: 228
-  average money per energy: 10
-  average money per exp: 32
+  average money per energy: 8
+  average money per exp: 24
   loot:
   - name: State Jacket
     type: armor
@@ -26,13 +26,13 @@
   job: Wipe Out Underbosses
   energy: 300
   exp: 103
-  money max: 37800
+  money max: 34500
   money min: 11200
   clicks needed: 7
   total energy: 2100
   total exp: 721
-  average money per energy: 11
-  average money per exp: 33
+  average money per energy: 10
+  average money per exp: 31
   loot:
   - name: M14 Sniper Rifle
     type: gun
@@ -49,13 +49,13 @@
   job: Assassinate Enforcers
   energy: 245
   exp: 82
-  money max: 24000
-  money min: 9000
+  money max: 17400
+  money min: 6000
   clicks needed: 6
   total energy: 1470
   total exp: 492
-  average money per energy: 11
-  average money per exp: 33
+  average money per energy: 7
+  average money per exp: 23
   loot:
   - name: DP MachineGun
     type: gun
@@ -72,37 +72,37 @@
   job: Gather Information
   energy: 78
   exp: 21
-  money max: 1000
-  money min: 400
+  money max: 700
+  money min: 300
   clicks needed: 1
   total energy: 78
   total exp: 21
-  average money per energy: 8
-  average money per exp: 33
+  average money per energy: 6
+  average money per exp: 23
   loot: []
 - target: Oksana Poliskova
   job: Recruit Hooker
   energy: 67
   exp: 16
-  money max: 700
-  money min: 400
+  money max: 650
+  money min: 150
   clicks needed: 1
   total energy: 67
   total exp: 16
-  average money per energy: 8
-  average money per exp: 34
+  average money per energy: 5
+  average money per exp: 25
   loot: []
 - target: Ludmilla Vasin
   job: Blackmail
   energy: 105
   exp: 26
-  money max: 1600
-  money min: 1000
+  money max: 1200
+  money min: 700
   clicks needed: 1
   total energy: 105
   total exp: 26
-  average money per energy: 12
-  average money per exp: 50
+  average money per energy: 9
+  average money per exp: 36
   loot:
   - name: SMG K01
     type: gun
@@ -119,13 +119,13 @@
   job: Extort
   energy: 112
   exp: 22
-  money max: 1700
-  money min: 1100
+  money max: 1400
+  money min: 600
   clicks needed: 1
   total energy: 112
   total exp: 22
-  average money per energy: 12
-  average money per exp: 63
+  average money per energy: 8
+  average money per exp: 45
   loot:
   - name: Mac 10
     type: gun
@@ -143,12 +143,12 @@
   energy: 210
   exp: 68
   money max: 14400
-  money min: 8400
+  money min: 6000
   clicks needed: 6
   total energy: 1260
   total exp: 408
-  average money per energy: 9
-  average money per exp: 27
+  average money per energy: 8
+  average money per exp: 25
   loot:
   - name: Carbine
     type: gun
@@ -165,13 +165,13 @@
   job: Neutralize
   energy: 170
   exp: 52
-  money max: 10000
-  money min: 4400
+  money max: 8000
+  money min: 2800
   clicks needed: 4
   total energy: 680
   total exp: 208
-  average money per energy: 10
-  average money per exp: 34
+  average money per energy: 7
+  average money per exp: 25
   loot:
   - name: Devilish Taxi
     type: car
@@ -188,13 +188,13 @@
   job: Defeat
   energy: 263
   exp: 91
-  money max: 45600
-  money min: 30000
+  money max: 33600
+  money min: 24000
   clicks needed: 12
   total energy: 3156
   total exp: 1092
-  average money per energy: 11
-  average money per exp: 34
+  average money per energy: 9
+  average money per exp: 26
   loot:
   - name: Don's Coat
     type: armor
@@ -233,25 +233,25 @@
   job: Steal Lottery Tickets
   energy: 80
   exp: 14
-  money max: 2000
+  money max: 1250
   money min: 1
   clicks needed: 1
   total energy: 80
   total exp: 14
-  average money per energy: 12
-  average money per exp: 71
+  average money per energy: 7
+  average money per exp: 44
   loot: []
 - target: Pizza Parlor
   job: Steal Vodka
   energy: 110
   exp: 18
-  money max: 1500
-  money min: 1100
+  money max: 1250
+  money min: 800
   clicks needed: 1
   total energy: 110
   total exp: 18
-  average money per energy: 11
-  average money per exp: 72
+  average money per energy: 9
+  average money per exp: 56
   loot:
   - name: HK Mark 23
     type: gun
@@ -268,13 +268,13 @@
   job: Break In
   energy: 118
   exp: 23
-  money max: 3800
-  money min: 1600
+  money max: 3000
+  money min: 1200
   clicks needed: 2
   total energy: 236
   total exp: 46
-  average money per energy: 11
-  average money per exp: 58
+  average money per energy: 8
+  average money per exp: 45
   loot:
   - name: Steyr AUG
     type: gun
@@ -291,13 +291,13 @@
   job: Hack Visa Database
   energy: 165
   exp: 48
-  money max: 6600
-  money min: 3600
+  money max: 5700
+  money min: 3300
   clicks needed: 3
   total energy: 495
   total exp: 144
-  average money per energy: 10
-  average money per exp: 35
+  average money per energy: 9
+  average money per exp: 31
   loot:
   - name: Army Helmet
     type: armor
@@ -314,13 +314,13 @@
   job: Steal Meds
   energy: 140
   exp: 29
-  money max: 2300
-  money min: 1500
+  money max: 1700
+  money min: 1200
   clicks needed: 1
   total energy: 140
   total exp: 29
-  average money per energy: 13
-  average money per exp: 65
+  average money per energy: 10
+  average money per exp: 50
   loot:
   - name: Hazmat Suit
     type: armor
@@ -337,25 +337,25 @@
   job: Wash Bloodstained Clothes
   energy: 72
   exp: 17
-  money max: 850
-  money min: 300
+  money max: 700
+  money min: 150
   clicks needed: 1
   total energy: 72
   total exp: 17
-  average money per energy: 7
-  average money per exp: 33
+  average money per energy: 5
+  average money per exp: 25
   loot: []
 - target: Pizza Parlor
   job: Crack Safe Deposit Boxes
   energy: 375
   exp: 109
-  money max: 48000
-  money min: 18000
+  money max: 42000
+  money min: 12000
   clicks needed: 6
   total energy: 2250
   total exp: 654
-  average money per energy: 14
-  average money per exp: 50
+  average money per energy: 12
+  average money per exp: 41
   loot:
   - name: M4 A1
     type: gun
@@ -372,13 +372,13 @@
   job: Empty Till
   energy: 136
   exp: 36
-  money max: 2300
-  money min: 1200
+  money max: 1500
+  money min: 1000
   clicks needed: 1
   total energy: 136
   total exp: 36
-  average money per energy: 12
-  average money per exp: 48
+  average money per energy: 9
+  average money per exp: 34
   loot:
   - name: SWAT Pistol
     type: gun
@@ -395,23 +395,23 @@
   job: Push Steroids
   energy: 92
   exp: 17
-  money max: 1500
-  money min: 900
+  money max: 1250
+  money min: 400
   clicks needed: 1
   total energy: 92
   total exp: 17
-  average money per energy: 13
-  average money per exp: 70
+  average money per energy: 8
+  average money per exp: 48
   loot: []
 - target: Pizza Parlor
   job: Collect Kickbacks
   energy: 82
   exp: 15
-  money max: 1250
-  money min: 750
+  money max: 1000
+  money min: 400
   clicks needed: 1
   total energy: 82
   total exp: 15
-  average money per energy: 12
-  average money per exp: 66
+  average money per energy: 8
+  average money per exp: 46
   loot: []

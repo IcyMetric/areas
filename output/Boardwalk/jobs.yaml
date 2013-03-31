@@ -3,13 +3,13 @@
   job: Sabotage control panel
   energy: 320
   exp: 75
-  money max: 70000
-  money min: 21000
+  money max: 63000
+  money min: 24500
   clicks needed: 7
   total energy: 2240
   total exp: 525
-  average money per energy: 20
-  average money per exp: 86
+  average money per energy: 19
+  average money per exp: 83
   loot:
   - name: Mossberg 590 Shotgun
     type: gun
@@ -26,13 +26,13 @@
   job: Hold hostages
   energy: 390
   exp: 84
-  money max: 75000
+  money max: 62500
   money min: 25000
   clicks needed: 5
   total energy: 1950
   total exp: 420
-  average money per energy: 25
-  average money per exp: 119
+  average money per energy: 22
+  average money per exp: 104
   loot:
   - name: SA80 Assault Rifle
     type: gun
@@ -49,37 +49,37 @@
   job: Tinker with speed
   energy: 98
   exp: 27
-  money max: 2750
+  money max: 2200
   money min: 500
   clicks needed: 1
   total energy: 98
   total exp: 27
-  average money per energy: 16
-  average money per exp: 60
+  average money per energy: 13
+  average money per exp: 50
   loot: []
 - target: Pizza Parlor
   job: Ransack quarter machine
   energy: 138
   exp: 27
-  money max: 12000
-  money min: 1000
+  money max: 10000
+  money min: 200
   clicks needed: 2
   total energy: 276
   total exp: 54
-  average money per energy: 23
-  average money per exp: 120
+  average money per energy: 18
+  average money per exp: 94
   loot: []
 - target: Pizza Parlor
   job: Steal attendant uniform
   energy: 118
   exp: 24
-  money max: 3000
-  money min: 1800
+  money max: 2400
+  money min: 1300
   clicks needed: 1
   total energy: 118
   total exp: 24
-  average money per energy: 20
-  average money per exp: 100
+  average money per energy: 15
+  average money per exp: 77
   loot:
   - name: State Jacket
     type: armor
@@ -108,13 +108,13 @@
   job: Lace with hallucinogens
   energy: 175
   exp: 55
-  money max: 8600
+  money max: 7400
   money min: 2600
   clicks needed: 2
   total energy: 350
   total exp: 110
-  average money per energy: 16
-  average money per exp: 50
+  average money per energy: 14
+  average money per exp: 45
   loot:
   - name: Mark 2 Blade
     type: melee
@@ -131,37 +131,37 @@
   job: Acquire attack animal
   energy: 148
   exp: 44
-  money max: 13200
+  money max: 13600
   money min: 8000
   clicks needed: 4
   total energy: 592
   total exp: 176
-  average money per energy: 17
-  average money per exp: 60
+  average money per energy: 18
+  average money per exp: 61
   loot: []
 - target: Pizza Parlor
   job: Win eating contest
   energy: 90
   exp: 24
-  money max: 2100
-  money min: 750
+  money max: 1800
+  money min: 700
   clicks needed: 1
   total energy: 90
   total exp: 24
-  average money per energy: 15
-  average money per exp: 59
+  average money per energy: 13
+  average money per exp: 52
   loot: []
 - target: Pizza Parlor
   job: Rob
   energy: 130
   exp: 25
-  money max: 4000
-  money min: 1500
+  money max: 3200
+  money min: 1400
   clicks needed: 1
   total energy: 130
   total exp: 25
-  average money per energy: 21
-  average money per exp: 110
+  average money per energy: 17
+  average money per exp: 92
   loot: []
 - target: Pizza Parlor
   job: Play shooting game
@@ -190,25 +190,25 @@
   job: Rob
   energy: 130
   exp: 25
-  money max: 4000
-  money min: 1500
+  money max: 3600
+  money min: 1200
   clicks needed: 1
   total energy: 130
   total exp: 25
-  average money per energy: 21
-  average money per exp: 110
+  average money per energy: 18
+  average money per exp: 96
   loot: []
 - target: Fifi the Bearded Lady
   job: Remove undercover cop
   energy: 272
   exp: 88
-  money max: 45000
-  money min: 15000
+  money max: 37000
+  money min: 14600
   clicks needed: 6
   total energy: 1632
   total exp: 528
-  average money per energy: 18
-  average money per exp: 56
+  average money per energy: 15
+  average money per exp: 48
   loot:
   - name: Police Armor
     type: armor
@@ -225,13 +225,13 @@
   job: Combat childhood nightmare
   energy: 266
   exp: 84
-  money max: 35000
+  money max: 34000
   money min: 11000
   clicks needed: 5
   total energy: 1330
   total exp: 420
-  average money per energy: 17
-  average money per exp: 54
+  average money per energy: 16
+  average money per exp: 53
   loot:
   - name: Punker Pants
     type: armor
@@ -248,13 +248,13 @@
   job: Defeat Armando
   energy: 295
   exp: 95
-  money max: 92500
+  money max: 86000
   money min: 20000
   clicks needed: 10
   total energy: 2950
   total exp: 950
-  average money per energy: 19
-  average money per exp: 59
+  average money per energy: 17
+  average money per exp: 55
   loot:
   - name: Falcone Family Boots
     type: armor
@@ -282,13 +282,13 @@
   job: Ice police informant
   energy: 284
   exp: 91
-  money max: 39000
-  money min: 24000
+  money max: 36000
+  money min: 21000
   clicks needed: 6
   total energy: 1704
   total exp: 546
-  average money per energy: 18
-  average money per exp: 57
+  average money per energy: 16
+  average money per exp: 52
   loot:
   - name: Police Car
     type: car
@@ -305,25 +305,25 @@
   job: Get fortune read
   energy: 84
   exp: 22
-  money max: 2500
+  money max: 2000
   money min: 100
   clicks needed: 1
   total energy: 84
   total exp: 22
-  average money per energy: 15
-  average money per exp: 59
+  average money per energy: 12
+  average money per exp: 47
   loot: []
 - target: Gino Falcone
   job: Defeat Gino
   energy: 295
   exp: 95
-  money max: 92500
+  money max: 86000
   money min: 20000
   clicks needed: 10
   total energy: 2950
   total exp: 950
-  average money per energy: 19
-  average money per exp: 59
+  average money per energy: 17
+  average money per exp: 55
   loot:
   - name: Falcone Family Stampede
     type: car
@@ -351,13 +351,13 @@
   job: Defeat Frankie
   energy: 295
   exp: 95
-  money max: 92500
+  money max: 86000
   money min: 20000
   clicks needed: 10
   total energy: 2950
   total exp: 950
-  average money per energy: 19
-  average money per exp: 59
+  average money per energy: 17
+  average money per exp: 55
   loot:
   - name: Falcone's Special SMG
     type: gun
@@ -385,49 +385,49 @@
   job: Install hidden camera
   energy: 108
   exp: 30
-  money max: 2600
+  money max: 2200
   money min: 1200
   clicks needed: 1
   total energy: 108
   total exp: 30
-  average money per energy: 17
-  average money per exp: 63
+  average money per energy: 15
+  average money per exp: 56
   loot: []
 - target: Pizza Parlor
   job: Set Up Surveillance
   energy: 88
   exp: 26
-  money max: 2000
+  money max: 1800
   money min: 700
   clicks needed: 1
   total energy: 88
   total exp: 26
-  average money per energy: 15
-  average money per exp: 51
+  average money per energy: 14
+  average money per exp: 48
   loot: []
 - target: Pizza Parlor
   job: Mug Rich Tourists
   energy: 168
   exp: 33
-  money max: 4500
-  money min: 3100
+  money max: 3800
+  money min: 2500
   clicks needed: 1
   total energy: 168
   total exp: 33
-  average money per energy: 22
-  average money per exp: 115
+  average money per energy: 18
+  average money per exp: 95
   loot: []
 - target: Pizza Parlor
   job: Steal Personal Water Craft
   energy: 288
   exp: 62
-  money max: 40000
-  money min: 25000
+  money max: 37500
+  money min: 20000
   clicks needed: 5
   total energy: 1440
   total exp: 310
-  average money per energy: 22
-  average money per exp: 104
+  average money per energy: 19
+  average money per exp: 92
   loot:
   - name: Rusted Minigun
     type: gun
@@ -444,23 +444,23 @@
   job: Rob
   energy: 130
   exp: 25
-  money max: 4000
+  money max: 3500
   money min: 1500
   clicks needed: 1
   total energy: 130
   total exp: 25
-  average money per energy: 21
-  average money per exp: 110
+  average money per energy: 19
+  average money per exp: 100
   loot: []
 - target: Pizza Parlor
   job: Mug Patrons
   energy: 148
   exp: 26
-  money max: 4500
+  money max: 4000
   money min: 2500
   clicks needed: 1
   total energy: 148
   total exp: 26
-  average money per energy: 23
-  average money per exp: 134
+  average money per energy: 21
+  average money per exp: 125
   loot: []

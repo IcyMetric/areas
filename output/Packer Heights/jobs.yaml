@@ -3,13 +3,13 @@
   job: Rob arms shipment
   energy: 330
   exp: 68
-  money max: 38000
-  money min: 16000
+  money max: 36000
+  money min: 8000
   clicks needed: 4
   total energy: 1320
   total exp: 272
-  average money per energy: 20
-  average money per exp: 99
+  average money per energy: 16
+  average money per exp: 80
   loot:
   - name: SA80 Assault Rifle
     type: gun
@@ -26,13 +26,13 @@
   job: Raid rival warehouse
   energy: 410
   exp: 136
-  money max: 60000
+  money max: 57000
   money min: 18000
   clicks needed: 6
   total energy: 2460
   total exp: 816
   average money per energy: 15
-  average money per exp: 47
+  average money per exp: 45
   loot:
   - name: GMC Yukon
     type: car
@@ -50,12 +50,12 @@
   energy: 185
   exp: 59
   money max: 15000
-  money min: 9000
+  money min: 6000
   clicks needed: 5
   total energy: 925
   total exp: 295
-  average money per energy: 12
-  average money per exp: 40
+  average money per energy: 11
+  average money per exp: 35
   loot:
   - name: Nail Bat
     type: melee
@@ -72,13 +72,13 @@
   job: Whack a mole
   energy: 234
   exp: 76
-  money max: 27600
-  money min: 12600
+  money max: 22800
+  money min: 9600
   clicks needed: 6
   total energy: 1404
   total exp: 456
-  average money per energy: 14
-  average money per exp: 44
+  average money per energy: 11
+  average money per exp: 35
   loot:
   - name: Mark 2 Blade
     type: melee
@@ -95,13 +95,13 @@
   job: Clip Turncoat
   energy: 170
   exp: 53
-  money max: 17000
-  money min: 6000
+  money max: 13000
+  money min: 5500
   clicks needed: 5
   total energy: 850
   total exp: 265
-  average money per energy: 13
-  average money per exp: 43
+  average money per energy: 10
+  average money per exp: 34
   loot:
   - name: M4 A1
     type: gun
@@ -118,13 +118,13 @@
   job: Fend off police raid
   energy: 300
   exp: 102
-  money max: 26000
+  money max: 22000
   money min: 8000
   clicks needed: 4
   total energy: 1200
   total exp: 408
-  average money per energy: 14
-  average money per exp: 41
+  average money per energy: 12
+  average money per exp: 36
   loot:
   - name: Police Car
     type: car
@@ -141,37 +141,37 @@
   job: Clear storage space
   energy: 90
   exp: 23
-  money max: 1500
-  money min: 900
+  money max: 1300
+  money min: 300
   clicks needed: 1
   total energy: 90
   total exp: 23
-  average money per energy: 13
-  average money per exp: 52
+  average money per energy: 8
+  average money per exp: 34
   loot: []
 - target: Pizza Parlor
   job: Set up a hidden camera
   energy: 104
   exp: 30
-  money max: 1900
-  money min: 1000
+  money max: 1400
+  money min: 400
   clicks needed: 1
   total energy: 104
   total exp: 30
-  average money per energy: 13
-  average money per exp: 48
+  average money per energy: 8
+  average money per exp: 30
   loot: []
 - target: Pizza Parlor
   job: Rob rival arms depot
   energy: 275
   exp: 64
-  money max: 19500
-  money min: 15000
+  money max: 15000
+  money min: 11400
   clicks needed: 3
   total energy: 825
   total exp: 192
-  average money per energy: 20
-  average money per exp: 89
+  average money per energy: 16
+  average money per exp: 68
   loot:
   - name: M14 Sniper Rifle
     type: gun
@@ -188,49 +188,49 @@
   job: Plant a tracking device
   energy: 82
   exp: 24
-  money max: 1300
-  money min: 500
+  money max: 1100
+  money min: 200
   clicks needed: 1
   total energy: 82
   total exp: 24
-  average money per energy: 10
-  average money per exp: 37
+  average money per energy: 7
+  average money per exp: 27
   loot: []
 - target: Pizza Parlor
   job: Booby Trap
   energy: 74
   exp: 15
-  money max: 2500
+  money max: 1500
   money min: 1
   clicks needed: 1
   total energy: 74
   total exp: 15
-  average money per energy: 16
-  average money per exp: 83
+  average money per energy: 10
+  average money per exp: 50
   loot: []
 - target: Pizza Parlor
   job: Shoot Out Tires
   energy: 132
   exp: 39
-  money max: 2200
-  money min: 700
+  money max: 1700
+  money min: 600
   clicks needed: 1
   total energy: 132
   total exp: 39
-  average money per energy: 10
-  average money per exp: 37
+  average money per energy: 8
+  average money per exp: 29
   loot: []
 - target: Pizza Parlor
   job: Melt down rival's weapons
   energy: 190
   exp: 42
-  money max: 27500
-  money min: 7500
+  money max: 20000
+  money min: 5000
   clicks needed: 5
   total energy: 950
   total exp: 210
-  average money per energy: 18
-  average money per exp: 83
+  average money per energy: 13
+  average money per exp: 59
   loot:
   - name: M4 Shotgun
     type: gun
@@ -247,13 +247,13 @@
   job: Forge gun parts
   energy: 148
   exp: 31
-  money max: 11400
-  money min: 6600
+  money max: 7200
+  money min: 4200
   clicks needed: 3
   total energy: 444
   total exp: 93
-  average money per energy: 20
-  average money per exp: 96
+  average money per energy: 12
+  average money per exp: 61
   loot:
   - name: DP MachineGun
     type: gun
@@ -270,25 +270,25 @@
   job: Investigate
   energy: 94
   exp: 25
-  money max: 3000
-  money min: 800
+  money max: 2800
+  money min: 200
   clicks needed: 2
   total energy: 188
   total exp: 50
-  average money per energy: 10
-  average money per exp: 38
+  average money per energy: 7
+  average money per exp: 30
   loot: []
 - target: Pizza Parlor
   job: Steal Explosives Supplies
   energy: 220
   exp: 53
-  money max: 20000
-  money min: 12000
+  money max: 19200
+  money min: 8000
   clicks needed: 4
   total energy: 880
   total exp: 212
-  average money per energy: 18
-  average money per exp: 75
+  average money per energy: 15
+  average money per exp: 64
   loot:
   - name: Rusted Minigun
     type: gun
@@ -305,13 +305,13 @@
   job: Defeat Tito Ricci
   energy: 295
   exp: 101
-  money max: 97500
+  money max: 71500
   money min: 26000
   clicks needed: 13
   total energy: 3835
   total exp: 1313
-  average money per energy: 16
-  average money per exp: 47
+  average money per energy: 12
+  average money per exp: 37
   loot:
   - name: Golden Knuckles
     type: melee
@@ -350,25 +350,25 @@
   job: Set up gambling ring
   energy: 115
   exp: 21
-  money max: 4500
+  money max: 3000
   money min: 10
   clicks needed: 1
   total energy: 115
   total exp: 21
-  average money per energy: 19
-  average money per exp: 107
+  average money per energy: 13
+  average money per exp: 71
   loot: []
 - target: Pizza Parlor
   job: Pawn off stolen merchandise
   energy: 70
   exp: 13
-  money max: 2200
-  money min: 400
+  money max: 1400
+  money min: 300
   clicks needed: 1
   total energy: 70
   total exp: 13
-  average money per energy: 18
-  average money per exp: 100
+  average money per energy: 12
+  average money per exp: 65
   loot:
   - name: Metal Bat
     type: melee
@@ -385,13 +385,13 @@
   job: Rob
   energy: 108
   exp: 21
-  money max: 2600
-  money min: 1100
+  money max: 1700
+  money min: 1000
   clicks needed: 1
   total energy: 108
   total exp: 21
-  average money per energy: 17
-  average money per exp: 88
+  average money per energy: 12
+  average money per exp: 64
   loot:
   - name: Micro Uzi
     type: gun
@@ -408,13 +408,13 @@
   job: Prepare shipment for transport
   energy: 84
   exp: 24
-  money max: 2000
-  money min: 500
+  money max: 1500
+  money min: 400
   clicks needed: 1
   total energy: 84
   total exp: 24
-  average money per energy: 14
-  average money per exp: 52
+  average money per energy: 11
+  average money per exp: 39
   loot:
   - name: Armored Truck
     type: car
@@ -431,13 +431,13 @@
   job: Rob Shipment
   energy: 115
   exp: 27
-  money max: 2500
-  money min: 1600
+  money max: 1800
+  money min: 1100
   clicks needed: 1
   total energy: 115
   total exp: 27
-  average money per energy: 17
-  average money per exp: 75
+  average money per energy: 12
+  average money per exp: 53
   loot:
   - name: SMG K01
     type: gun
@@ -454,13 +454,13 @@
   job: Train Robbery
   energy: 160
   exp: 40
-  money max: 18500
-  money min: 11500
+  money max: 13000
+  money min: 9000
   clicks needed: 5
   total energy: 800
   total exp: 200
-  average money per energy: 18
-  average money per exp: 75
+  average money per energy: 13
+  average money per exp: 55
   loot:
   - name: P90
     type: gun

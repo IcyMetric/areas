@@ -4,12 +4,12 @@
   energy: 140
   exp: 31
   money max: 12600
-  money min: 5250
+  money min: 4500
   clicks needed: 3
   total energy: 420
   total exp: 93
-  average money per energy: 21
-  average money per exp: 95
+  average money per energy: 20
+  average money per exp: 91
   loot:
   - name: Fire Truck
     type: car
@@ -26,13 +26,13 @@
   job: Collect vig
   energy: 118
   exp: 25
-  money max: 3900
+  money max: 3400
   money min: 1300
   clicks needed: 1
   total energy: 118
   total exp: 25
-  average money per energy: 22
-  average money per exp: 104
+  average money per energy: 19
+  average money per exp: 94
   loot:
   - name: Butterfly Knife
     type: melee
@@ -49,13 +49,13 @@
   job: Steal credit card numbers
   energy: 300
   exp: 72
-  money max: 60000
+  money max: 56000
   money min: 40
   clicks needed: 4
   total energy: 1200
   total exp: 288
-  average money per energy: 25
-  average money per exp: 104
+  average money per energy: 23
+  average money per exp: 97
   loot:
   - name: Hunting Knife
     type: melee
@@ -72,13 +72,13 @@
   job: Plant hidden camera
   energy: 112
   exp: 37
-  money max: 2250
-  money min: 1000
+  money max: 2200
+  money min: 900
   clicks needed: 1
   total energy: 112
   total exp: 37
-  average money per energy: 14
-  average money per exp: 43
+  average money per energy: 13
+  average money per exp: 41
   loot: []
 - target: Pizza Parlor
   job: Assassinate henchmen
@@ -107,13 +107,13 @@
   job: Rob
   energy: 105
   exp: 22
-  money max: 3100
+  money max: 2800
   money min: 1300
   clicks needed: 1
   total energy: 105
   total exp: 22
-  average money per energy: 20
-  average money per exp: 100
+  average money per energy: 19
+  average money per exp: 93
   loot: []
 - target: Pizza Parlor
   job: Crack safe
@@ -142,13 +142,13 @@
   job: Collect gambling debt
   energy: 102
   exp: 20
-  money max: 3600
+  money max: 3000
   money min: 1000
   clicks needed: 1
   total energy: 102
   total exp: 20
-  average money per energy: 22
-  average money per exp: 115
+  average money per energy: 19
+  average money per exp: 100
   loot: []
 - target: Bugsy Horowitz
   job: Defeat Bugsy Horowitz
@@ -245,13 +245,13 @@
   job: Con
   energy: 162
   exp: 42
-  money max: 5400
+  money max: 4500
   money min: 1800
   clicks needed: 1
   total energy: 162
   total exp: 42
-  average money per energy: 22
-  average money per exp: 85
+  average money per energy: 19
+  average money per exp: 75
   loot:
   - name: SWAT Pistol
     type: gun
@@ -291,13 +291,13 @@
   job: Intercept Shipment
   energy: 185
   exp: 45
-  money max: 20800
-  money min: 12000
+  money max: 19200
+  money min: 11600
   clicks needed: 4
   total energy: 740
   total exp: 180
-  average money per energy: 22
-  average money per exp: 91
+  average money per energy: 20
+  average money per exp: 85
   loot:
   - name: GMC Yukon
     type: car
@@ -314,13 +314,13 @@
   job: Offer Protection
   energy: 115
   exp: 34
-  money max: 4200
+  money max: 4000
   money min: 500
   clicks needed: 1
   total energy: 115
   total exp: 34
-  average money per energy: 20
-  average money per exp: 69
+  average money per energy: 19
+  average money per exp: 66
   loot: []
 - target: Pizza Parlor
   job: Smash Storefront
@@ -349,13 +349,13 @@
   job: Steal Generic Drugs
   energy: 275
   exp: 69
-  money max: 38000
-  money min: 14000
+  money max: 36000
+  money min: 12000
   clicks needed: 4
   total energy: 1100
   total exp: 276
-  average money per energy: 23
-  average money per exp: 94
+  average money per energy: 21
+  average money per exp: 86
   loot:
   - name: Carbine
     type: gun
