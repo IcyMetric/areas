@@ -1,0 +1,371 @@
+---
+- target: Pizza Parlor
+  job: Collect Payment
+  energy: 368
+  exp: 149
+  money max: 99360
+  money min: 33120
+  clicks needed: 3
+  total energy: 1104
+  total exp: 447
+  average money per energy: 60
+  average money per exp: 148
+  loot:
+  - name: The Delivery
+    type: explosive
+    percent: 0.3
+    attack: 23
+    defense: 10
+    energy for 1: 3680.0
+    exp for 1: 1490.0
+    attack for energy: 0.00625
+    defense for energy: 0.002717391304347826
+    attack for exp: 0.015436241610738255
+    defense for exp: 0.006711409395973154
+- target: Pizza Parlor
+  job: Tip
+  energy: 325
+  exp: 132
+  money max: 29250
+  money min: 9750
+  clicks needed: 1
+  total energy: 325
+  total exp: 132
+  average money per energy: 60
+  average money per exp: 147
+  loot: []
+- target: Pizza Parlor
+  job: Loot
+  energy: 373
+  exp: 151
+  money max: 100710
+  money min: 33570
+  clicks needed: 3
+  total energy: 1119
+  total exp: 453
+  average money per energy: 60
+  average money per exp: 148
+  loot:
+  - name: Duck Hunter
+    type: gun
+    percent: 0.4
+    attack: 23
+    defense: 12
+    energy for 1: 2797.5
+    exp for 1: 1132.5
+    attack for energy: 0.008221626452189455
+    defense for energy: 0.004289544235924933
+    attack for exp: 0.020309050772626933
+    defense for exp: 0.010596026490066225
+- target: Pizza Parlor
+  job: Launder Money
+  energy: 301
+  exp: 122
+  money max: 81270
+  money min: 27090
+  clicks needed: 3
+  total energy: 903
+  total exp: 366
+  average money per energy: 60
+  average money per exp: 148
+  loot:
+  - name: The Explanation
+    type: melee
+    percent: 0.3
+    attack: 25
+    defense: 15
+    energy for 1: 3010.0
+    exp for 1: 1220.0
+    attack for energy: 0.008305647840531562
+    defense for energy: 0.0049833887043189366
+    attack for exp: 0.020491803278688523
+    defense for exp: 0.012295081967213115
+- target: Pizza Parlor
+  job: Dispose of Evidence
+  energy: 261
+  exp: 106
+  money max: 117450
+  money min: 39150
+  clicks needed: 5
+  total energy: 1305
+  total exp: 530
+  average money per energy: 60
+  average money per exp: 147
+  loot:
+  - name: Paddy Wagon
+    type: car
+    percent: 0.2
+    attack: 25
+    defense: 17
+    energy for 1: 6525.0
+    exp for 1: 2650.0
+    attack for energy: 0.0038314176245210726
+    defense for energy: 0.0026053639846743294
+    attack for exp: 0.009433962264150943
+    defense for exp: 0.006415094339622641
+- target: Pizza Parlor
+  job: Deliver Goods
+  energy: 373
+  exp: 151
+  money max: 33570
+  money min: 11190
+  clicks needed: 1
+  total energy: 373
+  total exp: 151
+  average money per energy: 60
+  average money per exp: 148
+  loot: []
+- target: Pizza Parlor
+  job: Change Inventory
+  energy: 333
+  exp: 135
+  money max: 59940
+  money min: 19980
+  clicks needed: 2
+  total energy: 666
+  total exp: 270
+  average money per energy: 60
+  average money per exp: 148
+  loot:
+  - name: The Delivery
+    type: explosive
+    percent: 0.3
+    attack: 23
+    defense: 10
+    energy for 1: 2220.0
+    exp for 1: 900.0
+    attack for energy: 0.01036036036036036
+    defense for energy: 0.0045045045045045045
+    attack for exp: 0.025555555555555557
+    defense for exp: 0.011111111111111112
+- target: Pizza Parlor
+  job: Replace Merchandise
+  energy: 302
+  exp: 122
+  money max: 81540
+  money min: 27180
+  clicks needed: 3
+  total energy: 906
+  total exp: 366
+  average money per energy: 60
+  average money per exp: 148
+  loot:
+  - name: Duck Hunter
+    type: gun
+    percent: 0.25
+    attack: 23
+    defense: 12
+    energy for 1: 3624.0
+    exp for 1: 1464.0
+    attack for energy: 0.0063465783664459164
+    defense for energy: 0.0033112582781456954
+    attack for exp: 0.015710382513661202
+    defense for exp: 0.00819672131147541
+- target: Pizza Parlor
+  job: Take Guns
+  energy: 262
+  exp: 106
+  money max: 94320
+  money min: 31440
+  clicks needed: 4
+  total energy: 1048
+  total exp: 424
+  average money per energy: 60
+  average money per exp: 148
+  loot:
+  - name: The Explanation
+    type: melee
+    percent: 0.25
+    attack: 25
+    defense: 15
+    energy for 1: 4192.0
+    exp for 1: 1696.0
+    attack for energy: 0.0059637404580152676
+    defense for energy: 0.00357824427480916
+    attack for exp: 0.01474056603773585
+    defense for exp: 0.00884433962264151
+- target: Emery Chase
+  job: Sell Drugs
+  energy: 302
+  exp: 122
+  money max: 54360
+  money min: 18120
+  clicks needed: 2
+  total energy: 604
+  total exp: 244
+  average money per energy: 60
+  average money per exp: 148
+  loot:
+  - name: Paddy Wagon
+    type: car
+    percent: 0.3
+    attack: 25
+    defense: 17
+    energy for 1: 2013.3333333333335
+    exp for 1: 813.3333333333334
+    attack for energy: 0.012417218543046357
+    defense for energy: 0.008443708609271523
+    attack for exp: 0.030737704918032786
+    defense for exp: 0.020901639344262295
+- target: Justice Kailee
+  job: Sell Weapons
+  energy: 262
+  exp: 106
+  money max: 47160
+  money min: 15720
+  clicks needed: 2
+  total energy: 524
+  total exp: 212
+  average money per energy: 60
+  average money per exp: 148
+  loot:
+  - name: The Delivery
+    type: explosive
+    percent: 0.2
+    attack: 23
+    defense: 10
+    energy for 1: 2620.0
+    exp for 1: 1060.0
+    attack for energy: 0.008778625954198474
+    defense for energy: 0.003816793893129771
+    attack for exp: 0.02169811320754717
+    defense for exp: 0.009433962264150943
+- target: Jaden Charmian
+  job: Pickpocket
+  energy: 370
+  exp: 150
+  money max: 33300
+  money min: 11100
+  clicks needed: 1
+  total energy: 370
+  total exp: 150
+  average money per energy: 60
+  average money per exp: 148
+  loot: []
+- target: Gabe Millie
+  job: Steal Wallet
+  energy: 330
+  exp: 134
+  money max: 29700
+  money min: 9900
+  clicks needed: 1
+  total energy: 330
+  total exp: 134
+  average money per energy: 60
+  average money per exp: 147
+  loot: []
+- target: Glenna Aylmer
+  job: Bamboozle
+  energy: 416
+  exp: 168
+  money max: 112320
+  money min: 37440
+  clicks needed: 3
+  total energy: 1248
+  total exp: 504
+  average money per energy: 60
+  average money per exp: 148
+  loot:
+  - name: Duck Hunter
+    type: gun
+    percent: 0.4
+    attack: 23
+    defense: 12
+    energy for 1: 3120.0
+    exp for 1: 1260.0
+    attack for energy: 0.007371794871794872
+    defense for energy: 0.0038461538461538464
+    attack for exp: 0.018253968253968255
+    defense for exp: 0.009523809523809525
+- target: Portia Adair
+  job: Rip Off
+  energy: 376
+  exp: 152
+  money max: 203040
+  money min: 67680
+  clicks needed: 6
+  total energy: 2256
+  total exp: 912
+  average money per energy: 60
+  average money per exp: 148
+  loot:
+  - name: The Explanation
+    type: melee
+    percent: 0.3
+    attack: 25
+    defense: 15
+    energy for 1: 7520.0
+    exp for 1: 3040.0
+    attack for energy: 0.003324468085106383
+    defense for energy: 0.0019946808510638296
+    attack for exp: 0.008223684210526315
+    defense for exp: 0.004934210526315789
+- target: Madalyn Kelli
+  job: Remove Competition
+  energy: 273
+  exp: 111
+  money max: 122850
+  money min: 40950
+  clicks needed: 5
+  total energy: 1365
+  total exp: 555
+  average money per energy: 60
+  average money per exp: 147
+  loot:
+  - name: Paddy Wagon
+    type: car
+    percent: 0.2
+    attack: 25
+    defense: 17
+    energy for 1: 6825.0
+    exp for 1: 2775.0
+    attack for energy: 0.003663003663003663
+    defense for energy: 0.002490842490842491
+    attack for exp: 0.009009009009009009
+    defense for exp: 0.006126126126126126
+- target: Lynwood Trent
+  job: Break the News
+  energy: 233
+  exp: 94
+  money max: 146790
+  money min: 48930
+  clicks needed: 7
+  total energy: 1631
+  total exp: 658
+  average money per energy: 60
+  average money per exp: 148
+  loot:
+  - name: The Delivery
+    type: explosive
+    percent: 0.1
+    attack: 23
+    defense: 10
+    energy for 1: 16310.0
+    exp for 1: 6580.0
+    attack for energy: 0.0014101778050275905
+    defense for energy: 0.0006131207847946045
+    attack for exp: 0.0034954407294832826
+    defense for exp: 0.001519756838905775
+- target: Hiram Jody
+  job: Defeat
+  energy: 624
+  exp: 253
+  money max: 1123200
+  money min: 374400
+  clicks needed: 20
+  total energy: 12480
+  total exp: 5060
+  average money per energy: 60
+  average money per exp: 147
+  loot:
+  - name: Duck Hunter
+    type: gun
+    percent: 0.4
+    attack: 23
+    defense: 12
+    energy for 1: 31200.0
+    exp for 1: 12650.0
+    attack for energy: 0.0007371794871794872
+    defense for energy: 0.0003846153846153846
+    attack for exp: 0.0018181818181818182
+    defense for exp: 0.0009486166007905138

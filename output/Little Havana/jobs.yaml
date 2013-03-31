@@ -1,0 +1,371 @@
+---
+- target: Pizza Parlor
+  job: Rob
+  energy: 314
+  exp: 126
+  money max: 54636
+  money min: 18212
+  clicks needed: 2
+  total energy: 628
+  total exp: 252
+  average money per energy: 58
+  average money per exp: 144
+  loot:
+  - name: Painted Envy
+    type: gun
+    percent: 0.3
+    attack: 24
+    defense: 12
+    energy for 1: 2093.3333333333335
+    exp for 1: 840.0
+    attack for energy: 0.011464968152866241
+    defense for energy: 0.005732484076433121
+    attack for exp: 0.02857142857142857
+    defense for exp: 0.014285714285714285
+- target: Pizza Parlor
+  job: Ensure Cooperation
+  energy: 378
+  exp: 151
+  money max: 98658
+  money min: 32886
+  clicks needed: 3
+  total energy: 1134
+  total exp: 453
+  average money per energy: 58
+  average money per exp: 145
+  loot:
+  - name: Silent Striker
+    type: melee
+    percent: 0.4
+    attack: 21
+    defense: 16
+    energy for 1: 2835.0
+    exp for 1: 1132.5
+    attack for energy: 0.007407407407407408
+    defense for energy: 0.005643738977072311
+    attack for exp: 0.018543046357615896
+    defense for exp: 0.0141280353200883
+- target: Pizza Parlor
+  job: Steal Shimpment
+  energy: 372
+  exp: 149
+  money max: 129456
+  money min: 43152
+  clicks needed: 4
+  total energy: 1488
+  total exp: 596
+  average money per energy: 58
+  average money per exp: 144
+  loot:
+  - name: Big Wheels
+    type: car
+    percent: 0.4
+    attack: 26
+    defense: 13
+    energy for 1: 3720.0
+    exp for 1: 1490.0
+    attack for energy: 0.006989247311827957
+    defense for energy: 0.0034946236559139786
+    attack for exp: 0.0174496644295302
+    defense for exp: 0.0087248322147651
+- target: Pizza Parlor
+  job: Move Goods
+  energy: 263
+  exp: 105
+  money max: 22881
+  money min: 7627
+  clicks needed: 1
+  total energy: 263
+  total exp: 105
+  average money per energy: 58
+  average money per exp: 145
+  loot: []
+- target: Pizza Parlor
+  job: Threaten Owner
+  energy: 223
+  exp: 89
+  money max: 38802
+  money min: 12934
+  clicks needed: 2
+  total energy: 446
+  total exp: 178
+  average money per energy: 58
+  average money per exp: 145
+  loot:
+  - name: Riot Gear
+    type: armor
+    percent: 0.2
+    attack: 12
+    defense: 25
+    energy for 1: 2230.0
+    exp for 1: 890.0
+    attack for energy: 0.0053811659192825115
+    defense for energy: 0.011210762331838564
+    attack for exp: 0.01348314606741573
+    defense for exp: 0.028089887640449437
+- target: Pizza Parlor
+  job: Extort Money
+  energy: 289
+  exp: 116
+  money max: 25143
+  money min: 8381
+  clicks needed: 1
+  total energy: 289
+  total exp: 116
+  average money per energy: 58
+  average money per exp: 144
+  loot: []
+- target: Pizza Parlor
+  job: Crack Safe
+  energy: 249
+  exp: 100
+  money max: 43326
+  money min: 14442
+  clicks needed: 2
+  total energy: 498
+  total exp: 200
+  average money per energy: 58
+  average money per exp: 144
+  loot:
+  - name: Crowd Control
+    type: explosive
+    percent: 0.2
+    attack: 21
+    defense: 10
+    energy for 1: 2490.0
+    exp for 1: 1000.0
+    attack for energy: 0.008433734939759036
+    defense for energy: 0.004016064257028112
+    attack for exp: 0.021
+    defense for exp: 0.01
+- target: Pizza Parlor
+  job: Steal Cigars
+  energy: 325
+  exp: 130
+  money max: 28275
+  money min: 9425
+  clicks needed: 1
+  total energy: 325
+  total exp: 130
+  average money per energy: 58
+  average money per exp: 145
+  loot: []
+- target: Pizza Parlor
+  job: Trash
+  energy: 285
+  exp: 114
+  money max: 74385
+  money min: 24795
+  clicks needed: 3
+  total energy: 855
+  total exp: 342
+  average money per energy: 58
+  average money per exp: 145
+  loot:
+  - name: Painted Envy
+    type: gun
+    percent: 0.3
+    attack: 24
+    defense: 12
+    energy for 1: 2850.0
+    exp for 1: 1140.0
+    attack for energy: 0.008421052631578947
+    defense for energy: 0.004210526315789474
+    attack for exp: 0.021052631578947368
+    defense for exp: 0.010526315789473684
+- target: Pizza Parlor
+  job: Muscle Proprietor
+  energy: 367
+  exp: 147
+  money max: 127716
+  money min: 42572
+  clicks needed: 4
+  total energy: 1468
+  total exp: 588
+  average money per energy: 58
+  average money per exp: 144
+  loot:
+  - name: Silent Striker
+    type: melee
+    percent: 0.4
+    attack: 21
+    defense: 16
+    energy for 1: 3670.0
+    exp for 1: 1470.0
+    attack for energy: 0.005722070844686649
+    defense for energy: 0.004359673024523161
+    attack for exp: 0.014285714285714285
+    defense for exp: 0.010884353741496598
+- target: Pizza Parlor
+  job: Burn Down
+  energy: 327
+  exp: 131
+  money max: 85347
+  money min: 28449
+  clicks needed: 3
+  total energy: 981
+  total exp: 393
+  average money per energy: 58
+  average money per exp: 144
+  loot:
+  - name: Big Wheels
+    type: car
+    percent: 0.3
+    attack: 26
+    defense: 13
+    energy for 1: 3270.0
+    exp for 1: 1310.0
+    attack for energy: 0.007951070336391437
+    defense for energy: 0.003975535168195718
+    attack for exp: 0.01984732824427481
+    defense for exp: 0.009923664122137405
+- target: Pizza Parlor
+  job: Collect Royalties
+  energy: 399
+  exp: 160
+  money max: 69426
+  money min: 23142
+  clicks needed: 2
+  total energy: 798
+  total exp: 320
+  average money per energy: 58
+  average money per exp: 144
+  loot:
+  - name: Riot Gear
+    type: armor
+    percent: 0.4
+    attack: 12
+    defense: 25
+    energy for 1: 1995.0
+    exp for 1: 800.0
+    attack for energy: 0.006015037593984963
+    defense for energy: 0.012531328320802004
+    attack for exp: 0.015
+    defense for exp: 0.03125
+- target: Guillermo Adelita
+  job: Introduce Yourself
+  energy: 359
+  exp: 144
+  money max: 156165
+  money min: 52055
+  clicks needed: 5
+  total energy: 1795
+  total exp: 720
+  average money per energy: 58
+  average money per exp: 144
+  loot:
+  - name: Crowd Control
+    type: explosive
+    percent: 0.4
+    attack: 21
+    defense: 10
+    energy for 1: 4487.5
+    exp for 1: 1800.0
+    attack for energy: 0.00467966573816156
+    defense for energy: 0.0022284122562674096
+    attack for exp: 0.011666666666666667
+    defense for exp: 0.005555555555555556
+- target: Eladio Pasuala
+  job: Deliver Care Package
+  energy: 415
+  exp: 166
+  money max: 36105
+  money min: 12035
+  clicks needed: 1
+  total energy: 415
+  total exp: 166
+  average money per energy: 58
+  average money per exp: 145
+  loot: []
+- target: Alexandra Poncio
+  job: Ask Questions
+  energy: 375
+  exp: 150
+  money max: 195750
+  money min: 65250
+  clicks needed: 6
+  total energy: 2250
+  total exp: 900
+  average money per energy: 58
+  average money per exp: 145
+  loot:
+  - name: Painted Envy
+    type: gun
+    percent: 0.41
+    attack: 24
+    defense: 12
+    energy for 1: 5487.804878048781
+    exp for 1: 2195.1219512195125
+    attack for energy: 0.004373333333333333
+    defense for energy: 0.0021866666666666666
+    attack for exp: 0.010933333333333331
+    defense for exp: 0.005466666666666666
+- target: Alicia Ampara
+  job: Retire Early
+  energy: 270
+  exp: 108
+  money max: 117450
+  money min: 39150
+  clicks needed: 5
+  total energy: 1350
+  total exp: 540
+  average money per energy: 58
+  average money per exp: 145
+  loot:
+  - name: Silent Striker
+    type: melee
+    percent: 0.2
+    attack: 21
+    defense: 16
+    energy for 1: 6750.0
+    exp for 1: 2700.0
+    attack for energy: 0.003111111111111111
+    defense for energy: 0.0023703703703703703
+    attack for exp: 0.0077777777777777776
+    defense for exp: 0.005925925925925926
+- target: Adolfito Nilda
+  job: Assasinate
+  energy: 230
+  exp: 92
+  money max: 120060
+  money min: 40020
+  clicks needed: 6
+  total energy: 1380
+  total exp: 552
+  average money per energy: 58
+  average money per exp: 145
+  loot:
+  - name: Big Wheels
+    type: car
+    percent: 0.3
+    attack: 26
+    defense: 13
+    energy for 1: 4600.0
+    exp for 1: 1840.0
+    attack for energy: 0.005652173913043478
+    defense for energy: 0.002826086956521739
+    attack for exp: 0.014130434782608696
+    defense for exp: 0.007065217391304348
+- target: Hernando Lorenzo
+  job: Defeat
+  energy: 572
+  exp: 229
+  money max: 995280
+  money min: 331760
+  clicks needed: 20
+  total energy: 11440
+  total exp: 4580
+  average money per energy: 58
+  average money per exp: 144
+  loot:
+  - name: Riot Gear
+    type: armor
+    percent: 0.4
+    attack: 12
+    defense: 25
+    energy for 1: 28600.0
+    exp for 1: 11450.0
+    attack for energy: 0.0004195804195804196
+    defense for energy: 0.0008741258741258741
+    attack for exp: 0.0010480349344978166
+    defense for exp: 0.002183406113537118

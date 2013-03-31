@@ -1,0 +1,23 @@
+---
+name: Cartel Compound
+unlock_level: 145
+is_available: 1
+is_coming_soon: 0
+mastery rewards:
+- level: 1
+  exp: 160
+  money: 660000
+- level: 2
+  exp: 160
+  respect: 880
+- level: 3
+  exp: 160
+  item: Street Envy
+  item attack: 26
+  item defense: 19
+- level: 4
+  exp: 160
+  mafia: 1
+- level: 5
+  exp: 160
+  skill points: 1

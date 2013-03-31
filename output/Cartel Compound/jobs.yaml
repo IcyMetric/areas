@@ -1,0 +1,371 @@
+---
+- target: Pizza Parlor
+  job: Cut Brakes
+  energy: 259
+  exp: 106
+  money max: 48174
+  money min: 16058
+  clicks needed: 2
+  total energy: 518
+  total exp: 212
+  average money per energy: 62
+  average money per exp: 151
+  loot:
+  - name: The Last Call
+    type: explosive
+    percent: 0.3
+    attack: 25
+    defense: 18
+    energy for 1: 1726.6666666666667
+    exp for 1: 706.6666666666667
+    attack for energy: 0.014478764478764478
+    defense for energy: 0.010424710424710425
+    attack for exp: 0.03537735849056604
+    defense for exp: 0.025471698113207545
+- target: Pizza Parlor
+  job: Break In
+  energy: 378
+  exp: 155
+  money max: 35154
+  money min: 11718
+  clicks needed: 1
+  total energy: 378
+  total exp: 155
+  average money per energy: 62
+  average money per exp: 151
+  loot: []
+- target: Pizza Parlor
+  job: Take Out Guard
+  energy: 317
+  exp: 130
+  money max: 88443
+  money min: 29481
+  clicks needed: 3
+  total energy: 951
+  total exp: 390
+  average money per energy: 62
+  average money per exp: 151
+  loot:
+  - name: The Desperado
+    type: gun
+    percent: 0.22
+    attack: 27
+    defense: 18
+    energy for 1: 4322.727272727273
+    exp for 1: 1772.7272727272727
+    attack for energy: 0.006246056782334385
+    defense for energy: 0.0041640378548895894
+    attack for exp: 0.01523076923076923
+    defense for exp: 0.010153846153846154
+- target: Pizza Parlor
+  job: Rob
+  energy: 272
+  exp: 112
+  money max: 50592
+  money min: 16864
+  clicks needed: 2
+  total energy: 544
+  total exp: 224
+  average money per energy: 62
+  average money per exp: 150
+  loot:
+  - name: Steel Fists
+    type: melee
+    percent: 0.3
+    attack: 26
+    defense: 17
+    energy for 1: 1813.3333333333335
+    exp for 1: 746.6666666666667
+    attack for energy: 0.014338235294117646
+    defense for energy: 0.009375
+    attack for exp: 0.034821428571428566
+    defense for exp: 0.022767857142857142
+- target: Pizza Parlor
+  job: Find Records
+  energy: 232
+  exp: 95
+  money max: 43152
+  money min: 14384
+  clicks needed: 2
+  total energy: 464
+  total exp: 190
+  average money per energy: 62
+  average money per exp: 151
+  loot:
+  - name: Street Envy
+    type: car
+    percent: 0.4
+    attack: 26
+    defense: 19
+    energy for 1: 1160.0
+    exp for 1: 475.0
+    attack for energy: 0.022413793103448276
+    defense for energy: 0.016379310344827588
+    attack for exp: 0.05473684210526316
+    defense for exp: 0.04
+- target: Pizza Parlor
+  job: Hack Computer
+  energy: 373
+  exp: 153
+  money max: 173445
+  money min: 57815
+  clicks needed: 5
+  total energy: 1865
+  total exp: 765
+  average money per energy: 62
+  average money per exp: 151
+  loot:
+  - name: Skate Gear
+    type: armor
+    percent: 0.44
+    attack: 20
+    defense: 25
+    energy for 1: 4238.636363636364
+    exp for 1: 1738.6363636363637
+    attack for energy: 0.004718498659517426
+    defense for energy: 0.005898123324396783
+    attack for exp: 0.011503267973856209
+    defense for exp: 0.01437908496732026
+- target: Pizza Parlor
+  job: ! 'Dismantle '
+  energy: 333
+  exp: 137
+  money max: 92907
+  money min: 30969
+  clicks needed: 3
+  total energy: 999
+  total exp: 411
+  average money per energy: 62
+  average money per exp: 150
+  loot:
+  - name: The Last Call
+    type: explosive
+    percent: 0.35
+    attack: 25
+    defense: 18
+    energy for 1: 2854.2857142857147
+    exp for 1: 1174.2857142857144
+    attack for energy: 0.008758758758758757
+    defense for energy: 0.006306306306306305
+    attack for exp: 0.021289537712895375
+    defense for exp: 0.01532846715328467
+- target: Pizza Parlor
+  job: Wire Bomb
+  energy: 356
+  exp: 146
+  money max: 33108
+  money min: 11036
+  clicks needed: 1
+  total energy: 356
+  total exp: 146
+  average money per energy: 62
+  average money per exp: 151
+  loot: []
+- target: Pizza Parlor
+  job: Hack Records
+  energy: 316
+  exp: 130
+  money max: 29388
+  money min: 9796
+  clicks needed: 1
+  total energy: 316
+  total exp: 130
+  average money per energy: 62
+  average money per exp: 150
+  loot: []
+- target: Pizza Parlor
+  job: Steal Ammunition
+  energy: 362
+  exp: 148
+  money max: 33666
+  money min: 11222
+  clicks needed: 1
+  total energy: 362
+  total exp: 148
+  average money per energy: 62
+  average money per exp: 151
+  loot: []
+- target: Pizza Parlor
+  job: Cut Power
+  energy: 322
+  exp: 132
+  money max: 89838
+  money min: 29946
+  clicks needed: 3
+  total energy: 966
+  total exp: 396
+  average money per energy: 62
+  average money per exp: 151
+  loot:
+  - name: The Desperado
+    type: gun
+    percent: 0.27
+    attack: 27
+    defense: 18
+    energy for 1: 3577.7777777777774
+    exp for 1: 1466.6666666666665
+    attack for energy: 0.0075465838509316775
+    defense for energy: 0.005031055900621119
+    attack for exp: 0.01840909090909091
+    defense for exp: 0.012272727272727274
+- target: Pizza Parlor
+  job: Burn Down
+  energy: 384
+  exp: 157
+  money max: 178560
+  money min: 59520
+  clicks needed: 5
+  total energy: 1920
+  total exp: 785
+  average money per energy: 62
+  average money per exp: 151
+  loot:
+  - name: Steel Fists
+    type: melee
+    percent: 0.45
+    attack: 26
+    defense: 17
+    energy for 1: 4266.666666666667
+    exp for 1: 1744.4444444444443
+    attack for energy: 0.006093749999999999
+    defense for energy: 0.003984375
+    attack for exp: 0.014904458598726116
+    defense for exp: 0.009745222929936306
+- target: Cierra Quanna
+  job: Terminate
+  energy: 344
+  exp: 141
+  money max: 127968
+  money min: 42656
+  clicks needed: 4
+  total energy: 1376
+  total exp: 564
+  average money per energy: 62
+  average money per exp: 151
+  loot:
+  - name: Street Envy
+    type: car
+    percent: 0.43
+    attack: 26
+    defense: 19
+    energy for 1: 3200.0
+    exp for 1: 1311.6279069767443
+    attack for energy: 0.008125
+    defense for energy: 0.0059375
+    attack for exp: 0.019822695035460993
+    defense for exp: 0.014485815602836878
+- target: Lottie Esmee
+  job: Whack
+  energy: 315
+  exp: 129
+  money max: 87885
+  money min: 29295
+  clicks needed: 3
+  total energy: 945
+  total exp: 387
+  average money per energy: 62
+  average money per exp: 151
+  loot:
+  - name: Skate Gear
+    type: armor
+    percent: 0.3
+    attack: 20
+    defense: 25
+    energy for 1: 3150.0
+    exp for 1: 1290.0
+    attack for energy: 0.006349206349206349
+    defense for energy: 0.007936507936507936
+    attack for exp: 0.015503875968992248
+    defense for exp: 0.01937984496124031
+- target: Tere Anita
+  job: Annihilate
+  energy: 275
+  exp: 113
+  money max: 51150
+  money min: 17050
+  clicks needed: 2
+  total energy: 550
+  total exp: 226
+  average money per energy: 62
+  average money per exp: 150
+  loot:
+  - name: The Last Call
+    type: explosive
+    percent: 0.25
+    attack: 25
+    defense: 18
+    energy for 1: 2200.0
+    exp for 1: 904.0
+    attack for energy: 0.011363636363636364
+    defense for energy: 0.008181818181818182
+    attack for exp: 0.02765486725663717
+    defense for exp: 0.01991150442477876
+- target: Marcos Concha
+  job: Execute
+  energy: 332
+  exp: 136
+  money max: 216132
+  money min: 72044
+  clicks needed: 7
+  total energy: 2324
+  total exp: 952
+  average money per energy: 62
+  average money per exp: 151
+  loot:
+  - name: The Desperado
+    type: gun
+    percent: 0.4
+    attack: 27
+    defense: 18
+    energy for 1: 5810.0
+    exp for 1: 2380.0
+    attack for energy: 0.004647160068846815
+    defense for energy: 0.003098106712564544
+    attack for exp: 0.01134453781512605
+    defense for exp: 0.007563025210084034
+- target: Miguelito Paloma
+  job: Waste
+  energy: 292
+  exp: 120
+  money max: 217248
+  money min: 72416
+  clicks needed: 8
+  total energy: 2336
+  total exp: 960
+  average money per energy: 62
+  average money per exp: 150
+  loot:
+  - name: Steel Fists
+    type: melee
+    percent: 0.3
+    attack: 26
+    defense: 17
+    energy for 1: 7786.666666666667
+    exp for 1: 3200.0
+    attack for energy: 0.0033390410958904107
+    defense for energy: 0.0021832191780821915
+    attack for exp: 0.008125
+    defense for exp: 0.0053125
+- target: Sancho Manolo
+  job: Defeat
+  energy: 694
+  exp: 285
+  money max: 1290840
+  money min: 430280
+  clicks needed: 20
+  total energy: 13880
+  total exp: 5700
+  average money per energy: 62
+  average money per exp: 150
+  loot:
+  - name: Street Envy
+    type: car
+    percent: 0.6
+    attack: 26
+    defense: 19
+    energy for 1: 23133.333333333336
+    exp for 1: 9500.0
+    attack for energy: 0.0011239193083573487
+    defense for energy: 0.0008213256484149855
+    attack for exp: 0.0027368421052631577
+    defense for exp: 0.002

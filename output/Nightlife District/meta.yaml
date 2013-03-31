@@ -1,0 +1,23 @@
+---
+name: Nightlife District
+unlock_level: 130
+is_available: 1
+is_coming_soon: 0
+mastery rewards:
+- level: 1
+  exp: 148
+  money: 570000
+- level: 2
+  exp: 148
+  respect: 790
+- level: 3
+  exp: 148
+  item: Wicked Wheels
+  item attack: 18
+  item defense: 18
+- level: 4
+  exp: 148
+  mafia: 1
+- level: 5
+  exp: 148
+  skill points: 1

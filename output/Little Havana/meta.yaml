@@ -1,0 +1,23 @@
+---
+name: Little Havana
+unlock_level: 135
+is_available: 1
+is_coming_soon: 0
+mastery rewards:
+- level: 1
+  exp: 152
+  money: 600000
+- level: 2
+  exp: 152
+  respect: 820
+- level: 3
+  exp: 152
+  item: Big Wheels
+  item attack: 26
+  item defense: 13
+- level: 4
+  exp: 152
+  mafia: 1
+- level: 5
+  exp: 152
+  skill points: 1

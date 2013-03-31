@@ -1,0 +1,371 @@
+---
+- target: Pizza Parlor
+  job: Set Up Hideout
+  energy: 283
+  exp: 112
+  money max: 71316
+  money min: 23772
+  clicks needed: 3
+  total energy: 849
+  total exp: 336
+  average money per energy: 56
+  average money per exp: 141
+  loot:
+  - name: Convincer
+    type: explosive
+    percent: 0.3
+    attack: 18
+    defense: 4
+    energy for 1: 2830.0
+    exp for 1: 1120.0
+    attack for energy: 0.0063604240282685515
+    defense for energy: 0.0014134275618374558
+    attack for exp: 0.01607142857142857
+    defense for exp: 0.0035714285714285713
+- target: Pizza Parlor
+  job: Empty Safe
+  energy: 276
+  exp: 109
+  money max: 46368
+  money min: 15456
+  clicks needed: 2
+  total energy: 552
+  total exp: 218
+  average money per energy: 56
+  average money per exp: 141
+  loot:
+  - name: The Avenger
+    type: gun
+    percent: 0.2
+    attack: 19
+    defense: 5
+    energy for 1: 2760.0
+    exp for 1: 1090.0
+    attack for energy: 0.006884057971014493
+    defense for energy: 0.0018115942028985507
+    attack for exp: 0.01743119266055046
+    defense for exp: 0.0045871559633027525
+- target: Pizza Parlor
+  job: Search Trunk
+  energy: 239
+  exp: 94
+  money max: 60228
+  money min: 20076
+  clicks needed: 3
+  total energy: 717
+  total exp: 282
+  average money per energy: 56
+  average money per exp: 142
+  loot:
+  - name: Street Vengence
+    type: melee
+    percent: 0.1
+    attack: 18
+    defense: 7
+    energy for 1: 7170.0
+    exp for 1: 2820.0
+    attack for energy: 0.002510460251046025
+    defense for energy: 0.0009762900976290098
+    attack for exp: 0.006382978723404255
+    defense for exp: 0.0024822695035460994
+- target: Pizza Parlor
+  job: Find Drugs
+  energy: 391
+  exp: 154
+  money max: 65688
+  money min: 21896
+  clicks needed: 2
+  total energy: 782
+  total exp: 308
+  average money per energy: 56
+  average money per exp: 142
+  loot:
+  - name: Wicked Wheels
+    type: car
+    percent: 0.4
+    attack: 18
+    defense: 18
+    energy for 1: 1955.0
+    exp for 1: 770.0
+    attack for energy: 0.009207161125319692
+    defense for energy: 0.009207161125319692
+    attack for exp: 0.023376623376623377
+    defense for exp: 0.023376623376623377
+- target: Pizza Parlor
+  job: Rent Rooms
+  energy: 351
+  exp: 139
+  money max: 29484
+  money min: 9828
+  clicks needed: 1
+  total energy: 351
+  total exp: 139
+  average money per energy: 56
+  average money per exp: 141
+  loot: []
+- target: Pizza Parlor
+  job: Rob Patrons
+  energy: 300
+  exp: 119
+  money max: 50400
+  money min: 16800
+  clicks needed: 2
+  total energy: 600
+  total exp: 238
+  average money per energy: 56
+  average money per exp: 141
+  loot:
+  - name: Robot Armor
+    type: armor
+    percent: 0.3
+    attack: 9
+    defense: 27
+    energy for 1: 2000.0
+    exp for 1: 793.3333333333334
+    attack for energy: 0.0045
+    defense for energy: 0.0135
+    attack for exp: 0.01134453781512605
+    defense for exp: 0.03403361344537815
+- target: Pizza Parlor
+  job: Dance
+  energy: 260
+  exp: 103
+  money max: 21840
+  money min: 7280
+  clicks needed: 1
+  total energy: 260
+  total exp: 103
+  average money per energy: 56
+  average money per exp: 141
+  loot: []
+- target: Pizza Parlor
+  job: Steal Equipment
+  energy: 320
+  exp: 126
+  money max: 80640
+  money min: 26880
+  clicks needed: 3
+  total energy: 960
+  total exp: 378
+  average money per energy: 56
+  average money per exp: 142
+  loot:
+  - name: Convincer
+    type: explosive
+    percent: 0.2
+    attack: 18
+    defense: 4
+    energy for 1: 4800.0
+    exp for 1: 1890.0
+    attack for energy: 0.00375
+    defense for energy: 0.0008333333333333334
+    attack for exp: 0.009523809523809525
+    defense for exp: 0.0021164021164021165
+- target: Pizza Parlor
+  job: Threaten Attendent
+  energy: 280
+  exp: 111
+  money max: 117600
+  money min: 39200
+  clicks needed: 5
+  total energy: 1400
+  total exp: 555
+  average money per energy: 56
+  average money per exp: 141
+  loot:
+  - name: The Avenger
+    type: gun
+    percent: 0.2
+    attack: 19
+    defense: 5
+    energy for 1: 7000.0
+    exp for 1: 2775.0
+    attack for energy: 0.0027142857142857142
+    defense for energy: 0.0007142857142857143
+    attack for exp: 0.006846846846846847
+    defense for exp: 0.0018018018018018018
+- target: Pizza Parlor
+  job: Ransack
+  energy: 359
+  exp: 142
+  money max: 90468
+  money min: 30156
+  clicks needed: 3
+  total energy: 1077
+  total exp: 426
+  average money per energy: 56
+  average money per exp: 141
+  loot:
+  - name: Street Vengence
+    type: melee
+    percent: 0.4
+    attack: 18
+    defense: 7
+    energy for 1: 2692.5
+    exp for 1: 1065.0
+    attack for energy: 0.006685236768802228
+    defense for energy: 0.0025998142989786446
+    attack for exp: 0.016901408450704224
+    defense for exp: 0.006572769953051643
+- target: Pizza Parlor
+  job: Take Strippers Cash
+  energy: 319
+  exp: 126
+  money max: 26796
+  money min: 8932
+  clicks needed: 1
+  total energy: 319
+  total exp: 126
+  average money per energy: 56
+  average money per exp: 141
+  loot: []
+- target: Pizza Parlor
+  job: Steal Liquor
+  energy: 353
+  exp: 139
+  money max: 59304
+  money min: 19768
+  clicks needed: 2
+  total energy: 706
+  total exp: 278
+  average money per energy: 56
+  average money per exp: 142
+  loot:
+  - name: Wicked Wheels
+    type: car
+    percent: 0.3
+    attack: 18
+    defense: 18
+    energy for 1: 2353.3333333333335
+    exp for 1: 926.6666666666667
+    attack for energy: 0.007648725212464589
+    defense for energy: 0.007648725212464589
+    attack for exp: 0.019424460431654675
+    defense for exp: 0.019424460431654675
+- target: Kristel Alasdair
+  job: Convince
+  energy: 313
+  exp: 124
+  money max: 105168
+  money min: 35056
+  clicks needed: 4
+  total energy: 1252
+  total exp: 496
+  average money per energy: 56
+  average money per exp: 141
+  loot:
+  - name: Robot Armor
+    type: armor
+    percent: 0.2
+    attack: 9
+    defense: 27
+    energy for 1: 6260.0
+    exp for 1: 2480.0
+    attack for energy: 0.001437699680511182
+    defense for energy: 0.0043130990415335465
+    attack for exp: 0.0036290322580645163
+    defense for exp: 0.010887096774193548
+- target: Tammie Grover
+  job: Persuade
+  energy: 411
+  exp: 162
+  money max: 172620
+  money min: 57540
+  clicks needed: 5
+  total energy: 2055
+  total exp: 810
+  average money per energy: 56
+  average money per exp: 142
+  loot:
+  - name: Convincer
+    type: explosive
+    percent: 0.4
+    attack: 18
+    defense: 4
+    energy for 1: 5137.5
+    exp for 1: 2025.0
+    attack for energy: 0.0035036496350364962
+    defense for energy: 0.0007785888077858881
+    attack for exp: 0.008888888888888889
+    defense for exp: 0.0019753086419753087
+- target: Xavier Xander
+  job: Beat Down
+  energy: 371
+  exp: 147
+  money max: 186984
+  money min: 62328
+  clicks needed: 6
+  total energy: 2226
+  total exp: 882
+  average money per energy: 56
+  average money per exp: 141
+  loot:
+  - name: The Avenger
+    type: gun
+    percent: 0.4
+    attack: 19
+    defense: 5
+    energy for 1: 5565.0
+    exp for 1: 2205.0
+    attack for energy: 0.0034141958670260556
+    defense for energy: 0.0008984725965858042
+    attack for exp: 0.008616780045351474
+    defense for exp: 0.0022675736961451248
+- target: Colin Romaine
+  job: Stab
+  energy: 255
+  exp: 101
+  money max: 149940
+  money min: 49980
+  clicks needed: 7
+  total energy: 1785
+  total exp: 707
+  average money per energy: 56
+  average money per exp: 141
+  loot:
+  - name: Street Vengence
+    type: melee
+    percent: 0.4
+    attack: 18
+    defense: 7
+    energy for 1: 4462.5
+    exp for 1: 1767.5
+    attack for energy: 0.004033613445378151
+    defense for energy: 0.001568627450980392
+    attack for exp: 0.010183875530410185
+    defense for exp: 0.0039603960396039604
+- target: Gus Adriana
+  job: Inform
+  energy: 215
+  exp: 85
+  money max: 18060
+  money min: 6020
+  clicks needed: 1
+  total energy: 215
+  total exp: 85
+  average money per energy: 56
+  average money per exp: 141
+  loot: []
+- target: Kennard Faithe
+  job: Defeat
+  energy: 644
+  exp: 254
+  money max: 1081920
+  money min: 360640
+  clicks needed: 20
+  total energy: 12880
+  total exp: 5080
+  average money per energy: 56
+  average money per exp: 141
+  loot:
+  - name: Crowd Control
+    type: explosive
+    percent: 0.4
+    attack: 21
+    defense: 10
+    energy for 1: 32200.0
+    exp for 1: 12700.0
+    attack for energy: 0.0006521739130434783
+    defense for energy: 0.00031055900621118014
+    attack for exp: 0.001653543307086614
+    defense for exp: 0.0007874015748031496
