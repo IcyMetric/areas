@@ -224,45 +224,45 @@
   exp: 28
   money max: 9570
   money min: 4355
-  clicks needed: 11
-  total energy: 1595
-  total exp: 308
-  average money per energy: 4
-  average money per exp: 22
+  clicks needed: 8
+  total energy: 1160
+  total exp: 224
+  average money per energy: 6
+  average money per exp: 31
   loot:
   - name: Casino Security Shotgun
     type: gun
     percent: 0.72
     attack: 2
     defense: 5
-    energy for 1: 2215.277777777778
-    exp for 1: 427.77777777777777
-    attack for energy: 0.0009028213166144201
-    defense for energy: 0.0022570532915360503
-    attack for exp: 0.004675324675324675
-    defense for exp: 0.011688311688311689
+    energy for 1: 1611.111111111111
+    exp for 1: 311.11111111111114
+    attack for energy: 0.0012413793103448277
+    defense for energy: 0.003103448275862069
+    attack for exp: 0.006428571428571428
+    defense for exp: 0.01607142857142857
   - name: Pitboss Vest
     type: armor
     percent: 0.22
     attack: 2
     defense: 7
-    energy for 1: 7250.0
-    exp for 1: 1400.0
-    attack for energy: 0.00027586206896551725
-    defense for energy: 0.0009655172413793104
-    attack for exp: 0.0014285714285714286
-    defense for exp: 0.005
+    energy for 1: 5272.727272727273
+    exp for 1: 1018.1818181818181
+    attack for energy: 0.0003793103448275862
+    defense for energy: 0.0013275862068965517
+    attack for exp: 0.0019642857142857144
+    defense for exp: 0.006875
   - name: Otto's Roulette Chaingun
     type: gun
     percent: 0.06
     attack: 7
     defense: 6
-    energy for 1: 26583.333333333336
-    exp for 1: 5133.333333333334
-    attack for energy: 0.00026332288401253914
-    defense for energy: 0.000225705329153605
-    attack for exp: 0.0013636363636363635
-    defense for exp: 0.0011688311688311686
+    energy for 1: 19333.333333333336
+    exp for 1: 3733.3333333333335
+    attack for energy: 0.00036206896551724136
+    defense for energy: 0.00031034482758620686
+    attack for exp: 0.001875
+    defense for exp: 0.0016071428571428571
 - target: Priya Lal
   job: Sell Product
   energy: 36
