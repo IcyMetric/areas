@@ -1,0 +1,417 @@
+---
+- target: Gustav Rundstrom
+  job: Do Arms Deal
+  energy: 300
+  exp: 109
+  money max: 48400
+  money min: 6900
+  clicks needed: 2
+  total energy: 600
+  total exp: 218
+  average money per energy: 46
+  average money per exp: 126
+  loot:
+  - name: SA58 Carbine
+    type: gun
+    percent: 0.14
+    attack: 9
+    defense: 8
+    energy for 1: 4285.714285714285
+    exp for 1: 1557.1428571428569
+    attack for energy: 0.0021000000000000003
+    defense for energy: 0.0018666666666666669
+    attack for exp: 0.005779816513761469
+    defense for exp: 0.005137614678899083
+- target: Giacomo Bastiani
+  job: Hire Muscle
+  energy: 150
+  exp: 63
+  money max: 6300
+  money min: 2400
+  clicks needed: 1
+  total energy: 150
+  total exp: 63
+  average money per energy: 29
+  average money per exp: 69
+  loot: []
+- target: Pizza Parlor
+  job: Bug
+  energy: 210
+  exp: 81
+  money max: 40000
+  money min: 19200
+  clicks needed: 4
+  total energy: 840
+  total exp: 324
+  average money per energy: 35
+  average money per exp: 91
+  loot: []
+- target: Pizza Parlor
+  job: Spy
+  energy: 360
+  exp: 144
+  money max: 53000
+  money min: 20100
+  clicks needed: 2
+  total energy: 720
+  total exp: 288
+  average money per energy: 50
+  average money per exp: 126
+  loot:
+  - name: Carbine
+    type: gun
+    percent: 0.17
+    attack: 4
+    defense: 6
+    energy for 1: 4235.294117647059
+    exp for 1: 1694.1176470588234
+    attack for energy: 0.0009444444444444445
+    defense for energy: 0.0014166666666666668
+    attack for exp: 0.002361111111111111
+    defense for exp: 0.003541666666666667
+- target: Pizza Parlor
+  job: Steal Dossier
+  energy: 270
+  exp: 93
+  money max: 78000
+  money min: 16600
+  clicks needed: 4
+  total energy: 1080
+  total exp: 372
+  average money per energy: 43
+  average money per exp: 127
+  loot:
+  - name: Samurai Knife
+    type: melee
+    percent: 0.13
+    attack: 9
+    defense: 13
+    energy for 1: 8307.692307692307
+    exp for 1: 2861.5384615384614
+    attack for energy: 0.0010833333333333335
+    defense for energy: 0.001564814814814815
+    attack for exp: 0.0031451612903225807
+    defense for exp: 0.004543010752688172
+- target: Interpol Agent
+  job: Take Out
+  energy: 360
+  exp: 123
+  money max: 182500
+  money min: 32250
+  clicks needed: 5
+  total energy: 1800
+  total exp: 615
+  average money per energy: 59
+  average money per exp: 174
+  loot:
+  - name: Crimson Shotgun
+    type: gun
+    percent: 0.0
+    attack: 19
+    defense: 14
+    energy for 1: .inf
+    exp for 1: .inf
+    attack for energy: 0.0
+    defense for energy: 0.0
+    attack for exp: 0.0
+    defense for exp: 0.0
+- target: Pizza Parlor
+  job: Kidnap Ambassador
+  energy: 240
+  exp: 92
+  money max: 71050
+  money min: 47600
+  clicks needed: 7
+  total energy: 1680
+  total exp: 644
+  average money per energy: 35
+  average money per exp: 92
+  loot:
+  - name: Skull Shotgun
+    type: gun
+    percent: 0.15
+    attack: 18
+    defense: 7
+    energy for 1: 11200.0
+    exp for 1: 4293.333333333334
+    attack for energy: 0.0016071428571428571
+    defense for energy: 0.000625
+    attack for exp: 0.004192546583850931
+    defense for exp: 0.0016304347826086953
+- target: Ambassador Leone
+  job: Intimidate
+  energy: 300
+  exp: 109
+  money max: 54000
+  money min: 29100
+  clicks needed: 3
+  total energy: 900
+  total exp: 327
+  average money per energy: 46
+  average money per exp: 127
+  loot:
+  - name: Security Shotgun
+    type: gun
+    percent: 0.11
+    attack: 10
+    defense: 14
+    energy for 1: 8181.818181818182
+    exp for 1: 2972.7272727272725
+    attack for energy: 0.0012222222222222222
+    defense for energy: 0.0017111111111111112
+    attack for exp: 0.0033639143730886853
+    defense for exp: 0.00470948012232416
+- target: Ambassador Hu
+  job: Threaten
+  energy: 270
+  exp: 93
+  money max: 26000
+  money min: 21300
+  clicks needed: 2
+  total energy: 540
+  total exp: 186
+  average money per energy: 43
+  average money per exp: 127
+  loot:
+  - name: Nail Bat
+    type: melee
+    percent: 0.14
+    attack: 7
+    defense: 5
+    energy for 1: 3857.142857142857
+    exp for 1: 1328.5714285714284
+    attack for energy: 0.001814814814814815
+    defense for energy: 0.0012962962962962965
+    attack for exp: 0.0052688172043010755
+    defense for exp: 0.003763440860215054
+- target: Ambassador Orlov
+  job: Beat Down
+  energy: 300
+  exp: 109
+  money max: 93500
+  money min: 45000
+  clicks needed: 5
+  total energy: 1500
+  total exp: 545
+  average money per energy: 46
+  average money per exp: 127
+  loot:
+  - name: Bomb Squad Suit
+    type: armor
+    percent: 0.14
+    attack: 5
+    defense: 18
+    energy for 1: 10714.285714285714
+    exp for 1: 3892.8571428571427
+    attack for energy: 0.0004666666666666667
+    defense for energy: 0.00168
+    attack for exp: 0.0012844036697247708
+    defense for exp: 0.004623853211009174
+- target: Agent McCarthy
+  job: Defeat
+  energy: 540
+  exp: 167
+  money max: 808450
+  money min: 661200
+  clicks needed: 19
+  total energy: 10260
+  total exp: 3173
+  average money per energy: 71
+  average money per exp: 231
+  loot:
+  - name: Peacekeeping Beretta
+    type: gun
+    percent: 0.72
+    attack: 13
+    defense: 18
+    energy for 1: 14250.0
+    exp for 1: 4406.944444444444
+    attack for energy: 0.000912280701754386
+    defense for energy: 0.0012631578947368421
+    attack for exp: 0.0029498896942956195
+    defense for exp: 0.004084462653640089
+  - name: Peacekeeping Rifle
+    type: gun
+    percent: 0.22
+    attack: 16
+    defense: 20
+    energy for 1: 46636.36363636364
+    exp for 1: 14422.727272727272
+    attack for energy: 0.00034307992202729044
+    defense for energy: 0.000428849902534113
+    attack for exp: 0.001109360226914592
+    defense for exp: 0.0013867002836432398
+  - name: Peacekeeping Body Armor
+    type: armor
+    percent: 0.06
+    attack: 10
+    defense: 36
+    energy for 1: 171000.0
+    exp for 1: 52883.333333333336
+    attack for energy: 5.847953216374269e-05
+    defense for energy: 0.0002105263157894737
+    attack for exp: 0.00018909549322407816
+    defense for exp: 0.0006807437756066813
+- target: Pizza Parlor
+  job: Rob Diplomat
+  energy: 420
+  exp: 143
+  money max: 116400
+  money min: 33750
+  clicks needed: 3
+  total energy: 1260
+  total exp: 429
+  average money per energy: 59
+  average money per exp: 175
+  loot:
+  - name: Police Car
+    type: car
+    percent: 0.09
+    attack: 4
+    defense: 6
+    energy for 1: 14000.0
+    exp for 1: 4766.666666666667
+    attack for energy: 0.00028571428571428574
+    defense for energy: 0.00042857142857142855
+    attack for exp: 0.0008391608391608392
+    defense for exp: 0.0012587412587412587
+- target: Dick Adams
+  job: Bribe
+  energy: 180
+  exp: 75
+  money max: 7850
+  money min: 2600
+  clicks needed: 1
+  total energy: 180
+  total exp: 75
+  average money per energy: 29
+  average money per exp: 69
+  loot: []
+- target: Pizza Parlor
+  job: Pay Off Judge
+  energy: 480
+  exp: 149
+  money max: 550000
+  money min: 137500
+  clicks needed: 10
+  total energy: 4800
+  total exp: 1490
+  average money per energy: 71
+  average money per exp: 230
+  loot:
+  - name: Government Limo
+    type: car
+    percent: 0.09
+    attack: 8
+    defense: 21
+    energy for 1: 53333.333333333336
+    exp for 1: 16555.555555555555
+    attack for energy: 0.00015
+    defense for energy: 0.00039375
+    attack for exp: 0.0004832214765100671
+    defense for exp: 0.0012684563758389262
+- target: Pizza Parlor
+  job: Set Up Snipers
+  energy: 270
+  exp: 93
+  money max: 88800
+  money min: 53100
+  clicks needed: 6
+  total energy: 1620
+  total exp: 558
+  average money per energy: 43
+  average money per exp: 127
+  loot: []
+- target: Pizza Parlor
+  job: Infiltrate Security
+  energy: 360
+  exp: 123
+  money max: 206100
+  money min: 51600
+  clicks needed: 6
+  total energy: 2160
+  total exp: 738
+  average money per energy: 59
+  average money per exp: 174
+  loot:
+  - name: Blow Torch
+    type: gun
+    percent: 0.19
+    attack: 8
+    defense: 6
+    energy for 1: 11368.421052631578
+    exp for 1: 3884.2105263157896
+    attack for energy: 0.0007037037037037038
+    defense for energy: 0.0005277777777777778
+    attack for exp: 0.002059620596205962
+    defense for exp: 0.0015447154471544715
+- target: Pizza Parlor
+  job: Plant Bomb
+  energy: 180
+  exp: 75
+  money max: 8100
+  money min: 2350
+  clicks needed: 1
+  total energy: 180
+  total exp: 75
+  average money per energy: 29
+  average money per exp: 69
+  loot: []
+- target: Pizza Parlor
+  job: Hold Attache Hostage
+  energy: 300
+  exp: 109
+  money max: 124500
+  money min: 13750
+  clicks needed: 5
+  total energy: 1500
+  total exp: 545
+  average money per energy: 46
+  average money per exp: 126
+  loot: []
+- target: Pizza Parlor
+  job: Set Up Arms Deal
+  energy: 240
+  exp: 92
+  money max: 12700
+  money min: 4250
+  clicks needed: 1
+  total energy: 240
+  total exp: 92
+  average money per energy: 35
+  average money per exp: 92
+  loot:
+  - name: Trick Shotgun
+    type: gun
+    percent: 0.02
+    attack: 16
+    defense: 13
+    energy for 1: 12000.0
+    exp for 1: 4600.0
+    attack for energy: 0.0013333333333333333
+    defense for energy: 0.0010833333333333333
+    attack for exp: 0.0034782608695652175
+    defense for exp: 0.002826086956521739
+- target: Pizza Parlor
+  job: Smuggle Weapons
+  energy: 270
+  exp: 93
+  money max: 60300
+  money min: 10650
+  clicks needed: 3
+  total energy: 810
+  total exp: 279
+  average money per energy: 43
+  average money per exp: 127
+  loot:
+  - name: Urban Warfare Vest
+    type: armor
+    percent: 0.08
+    attack: 11
+    defense: 20
+    energy for 1: 10125.0
+    exp for 1: 3487.5
+    attack for energy: 0.0010864197530864198
+    defense for energy: 0.0019753086419753087
+    attack for exp: 0.003154121863799283
+    defense for exp: 0.005734767025089606

@@ -12,7 +12,7 @@
   average money per exp: 15
   loot: []
 - target: Pizza Parlor
-  job: Shake down
+  job: Shake Down
   energy: 19
   exp: 2
   money max: 90
@@ -24,7 +24,7 @@
   average money per exp: 28
   loot: []
 - target: Pizza Parlor
-  job: Stash illegal goods
+  job: Stash Illegal Goods
   energy: 24
   exp: 3
   money max: 115
@@ -47,7 +47,7 @@
     attack for exp: 0.02
     defense for exp: 0.02
 - target: Pizza Parlor
-  job: Sell art forgeries
+  job: Sell Art Forgeries
   energy: 20
   exp: 2
   money max: 100
@@ -59,7 +59,7 @@
   average money per exp: 40
   loot: []
 - target: Pizza Parlor
-  job: Import Italian goods
+  job: Import Italian Goods
   energy: 22
   exp: 2
   money max: 90
@@ -82,7 +82,7 @@
     attack for exp: 0.01
     defense for exp: 0.02
 - target: Pizza Parlor
-  job: Get rid of evidence
+  job: Get Rid of Evidence
   energy: 54
   exp: 7
   money max: 360
@@ -129,7 +129,7 @@
   average money per exp: 15
   loot: []
 - target: Pizza Parlor
-  job: Break up Ricci meeting
+  job: Break Up Ricci meeting
   energy: 48
   exp: 6
   money max: 525
@@ -152,7 +152,7 @@
     attack for exp: 0.0
     defense for exp: 0.0
 - target: Pizza Parlor
-  job: Take out Ricci patron
+  job: Take Out Ricci Patron
   energy: 36
   exp: 5
   money max: 190
@@ -245,7 +245,7 @@
     attack for exp: 0.03
     defense for exp: 0.045
 - target: Giovanni Campo
-  job: Beat up
+  job: Beat Up
   energy: 28
   exp: 3
   money max: 80
@@ -429,7 +429,7 @@
     attack for exp: 0.135
     defense for exp: 0.27
 - target: Pizza Parlor
-  job: Rough-up Super
+  job: Rough-Up Super
   energy: 26
   exp: 3
   money max: 45

@@ -1,6 +1,6 @@
 ---
 - target: Pizza Parlor
-  job: Steal secret recipe
+  job: Steal Secret Recipe
   energy: 140
   exp: 31
   money max: 12600
@@ -23,7 +23,7 @@
     attack for exp: 0.007741935483870968
     defense for exp: 0.014193548387096775
 - target: Pizza Parlor
-  job: Collect vig
+  job: Collect Vig
   energy: 118
   exp: 25
   money max: 3400
@@ -46,7 +46,7 @@
     attack for exp: 0.05999999999999999
     defense for exp: 0.05999999999999999
 - target: Pizza Parlor
-  job: Steal credit card numbers
+  job: Steal Credit Card Numbers
   energy: 300
   exp: 72
   money max: 56000
@@ -69,7 +69,7 @@
     attack for exp: 0.0044444444444444444
     defense for exp: 0.0022222222222222222
 - target: Pizza Parlor
-  job: Plant hidden camera
+  job: Plant Hidden Camera
   energy: 112
   exp: 37
   money max: 2200
@@ -81,7 +81,7 @@
   average money per exp: 41
   loot: []
 - target: Pizza Parlor
-  job: Assassinate henchmen
+  job: Assassinate Henchmen
   energy: 260
   exp: 89
   money max: 42000
@@ -116,7 +116,7 @@
   average money per exp: 93
   loot: []
 - target: Pizza Parlor
-  job: Crack safe
+  job: Crack Safe
   energy: 440
   exp: 122
   money max: 112000
@@ -139,7 +139,7 @@
     attack for exp: 0.001331967213114754
     defense for exp: 0.002663934426229508
 - target: Bernie Birnbaum
-  job: Collect gambling debt
+  job: Collect Gambling Debt
   energy: 102
   exp: 20
   money max: 3000
@@ -196,7 +196,7 @@
     attack for exp: 0.0007270408163265305
     defense for exp: 0.00045918367346938773
 - target: Ester Horowitz
-  job: Get intel
+  job: Get Intel
   energy: 139
   exp: 40
   money max: 2600
@@ -265,7 +265,7 @@
     attack for exp: 0.02857142857142857
     defense for exp: 0.05714285714285714
 - target: Herschel Miller
-  job: Break leg
+  job: Break Leg
   energy: 236
   exp: 77
   money max: 29500

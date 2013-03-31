@@ -46,7 +46,7 @@
     attack for exp: 0.05142857142857142
     defense for exp: 0.07714285714285714
 - target: Chi Chi Sans
-  job: Pay for information
+  job: Pay for Information
   energy: 25
   exp: 4
   money max: 130
@@ -58,7 +58,7 @@
   average money per exp: 22
   loot: []
 - target: Moira Munn
-  job: Supply weapon
+  job: Supply Weapon
   energy: 32
   exp: 7
   money max: 200
@@ -126,7 +126,7 @@
     attack for exp: 0.0010285714285714284
     defense for exp: 0.0030857142857142854
 - target: Freddy Cosenza
-  job: Take down
+  job: Take Down
   energy: 90
   exp: 16
   money max: 1425
@@ -172,7 +172,7 @@
     attack for exp: 0.006111111111111111
     defense for exp: 0.024444444444444446
 - target: Pizza Parlor
-  job: Rob park patrons
+  job: Rob Park Patrons
   energy: 68
   exp: 16
   money max: 600
@@ -195,7 +195,7 @@
     attack for exp: 0.00625
     defense for exp: 0.015625
 - target: Pizza Parlor
-  job: Steal valuable art work
+  job: Steal Valuable Art Work
   energy: 75
   exp: 22
   money max: 2800
@@ -218,7 +218,7 @@
     attack for exp: 0.0003409090909090909
     defense for exp: 0.0010227272727272726
 - target: Pizza Parlor
-  job: Hold patrons hostage
+  job: Hold Patrons Hostage
   energy: 132
   exp: 18
   money max: 1050
@@ -241,7 +241,7 @@
     attack for exp: 0.03333333333333333
     defense for exp: 0.03333333333333333
 - target: Bear Thomas
-  job: Rough up
+  job: Rough Up
   energy: 62
   exp: 9
   money max: 640

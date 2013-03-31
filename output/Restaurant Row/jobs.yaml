@@ -1,6 +1,6 @@
 ---
 - target: Pizza Parlor
-  job: Shake down
+  job: Shake Down
   energy: 125
   exp: 28
   money max: 4200
@@ -23,7 +23,7 @@
     attack for exp: 0.013809523809523808
     defense for exp: 0.020714285714285713
 - target: Pizza Parlor
-  job: Hold meeting with local gangs
+  job: Hold Meeting with Local Gangs
   energy: 98
   exp: 30
   money max: 1150
@@ -35,7 +35,7 @@
   average money per exp: 23
   loot: []
 - target: Pizza Parlor
-  job: Spy on dealers
+  job: Spy on Dealers
   energy: 85
   exp: 24
   money max: 800
@@ -58,7 +58,7 @@
     attack for exp: 0.013333333333333334
     defense for exp: 0.08
 - target: Pizza Parlor
-  job: Negotiate sales with dealers
+  job: Negotiate Sales with Dealers
   energy: 94
   exp: 20
   money max: 1200
@@ -81,7 +81,7 @@
     attack for exp: 0.045
     defense for exp: 0.075
 - target: Pizza Parlor
-  job: Ice rogue dealer
+  job: Ice Rogue Dealer
   energy: 212
   exp: 71
   money max: 14000
@@ -104,7 +104,7 @@
     attack for exp: 0.004024144869215292
     defense for exp: 0.005030181086519115
 - target: Pizza Parlor
-  job: Store product
+  job: Store Product
   energy: 105
   exp: 23
   money max: 4200
@@ -116,7 +116,7 @@
   average money per exp: 41
   loot: []
 - target: Pizza Parlor
-  job: Observe drug transaction
+  job: Observe Drug Transaction
   energy: 82
   exp: 24
   money max: 1000
@@ -139,7 +139,7 @@
     attack for exp: 0.035
     defense for exp: 0.07
 - target: Pizza Parlor
-  job: Treat members to dinner
+  job: Treat Members to Dinner
   energy: 75
   exp: 12
   money max: 800
@@ -151,7 +151,7 @@
   average money per exp: 35
   loot: []
 - target: Pizza Parlor
-  job: Pay off police officers
+  job: Pay Off Police Officers
   energy: 110
   exp: 29
   money max: 1100
@@ -174,7 +174,7 @@
     attack for exp: 0.02482758620689655
     defense for exp: 0.06620689655172413
 - target: Tony Fantone
-  job: Pay for information
+  job: Pay for Information
   energy: 90
   exp: 25
   money max: 900
@@ -209,7 +209,7 @@
     attack for exp: 0.005925925925925926
     defense for exp: 0.007407407407407408
 - target: Tommy Blade
-  job: Beat up
+  job: Beat Up
   energy: 162
   exp: 51
   money max: 10000

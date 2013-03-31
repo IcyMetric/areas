@@ -255,7 +255,7 @@
   average money per exp: 102
   loot: []
 - target: Pizza Parlor
-  job: Host a soiree
+  job: Host a Soiree
   energy: 117
   exp: 33
   money max: 4000
@@ -267,7 +267,7 @@
   average money per exp: 78
   loot: []
 - target: Pizza Parlor
-  job: Push product
+  job: Push Product
   energy: 190
   exp: 55
   money max: 7000
@@ -290,7 +290,7 @@
     attack for exp: 0.03818181818181818
     defense for exp: 0.02727272727272727
 - target: Pizza Parlor
-  job: Expand extortion
+  job: Expand Extortion
   energy: 300
   exp: 100
   money max: 72500
@@ -313,7 +313,7 @@
     attack for exp: 0.0036
     defense for exp: 0.0044
 - target: Pizza Parlor
-  job: Collect with interest
+  job: Collect with Interest
   energy: 145
   exp: 38
   money max: 4200

@@ -13,15 +13,15 @@
   loot:
   - name: Mossberg 590 Shotgun
     type: gun
-    percent: 0.27
+    percent: 0.07
     attack: 12
     defense: 8
-    energy for 1: 6888.888888888889
-    exp for 1: 3022.222222222222
-    attack for energy: 0.0017419354838709678
-    defense for energy: 0.0011612903225806453
-    attack for exp: 0.003970588235294118
-    defense for exp: 0.0026470588235294116
+    energy for 1: 26571.42857142857
+    exp for 1: 11657.142857142857
+    attack for energy: 0.0004516129032258065
+    defense for energy: 0.0003010752688172043
+    attack for exp: 0.0010294117647058824
+    defense for exp: 0.0006862745098039216
 - target: Pizza Parlor
   job: Steal Stash
   energy: 172
@@ -36,15 +36,15 @@
   loot:
   - name: Mark 2 Blade
     type: melee
-    percent: 0.22
+    percent: 0.06
     attack: 7
     defense: 9
-    energy for 1: 1563.6363636363637
-    exp for 1: 536.3636363636364
-    attack for energy: 0.004476744186046511
-    defense for energy: 0.005755813953488372
-    attack for exp: 0.013050847457627118
-    defense for exp: 0.01677966101694915
+    energy for 1: 5733.333333333334
+    exp for 1: 1966.6666666666667
+    attack for energy: 0.0012209302325581395
+    defense for energy: 0.001569767441860465
+    attack for exp: 0.003559322033898305
+    defense for exp: 0.004576271186440678
 - target: Luther Greene
   job: Hold Up
   energy: 144
@@ -71,15 +71,15 @@
   loot:
   - name: Killer Machine Gun
     type: gun
-    percent: 0.33
+    percent: 0.08
     attack: 13
     defense: 11
-    energy for 1: 10909.090909090908
-    exp for 1: 4993.939393939394
-    attack for energy: 0.0011916666666666668
-    defense for energy: 0.0010083333333333335
-    attack for exp: 0.002603155339805825
-    defense for exp: 0.0022026699029126214
+    energy for 1: 45000.0
+    exp for 1: 20600.0
+    attack for energy: 0.0002888888888888889
+    defense for energy: 0.00024444444444444443
+    attack for exp: 0.0006310679611650485
+    defense for exp: 0.0005339805825242719
 - target: Pizza Parlor
   job: Take Hostages
   energy: 410
@@ -94,15 +94,15 @@
   loot:
   - name: Police Armor
     type: armor
-    percent: 0.29
+    percent: 0.07
     attack: 5
     defense: 14
-    energy for 1: 7068.9655172413795
-    exp for 1: 3068.9655172413795
-    attack for energy: 0.0007073170731707317
-    defense for energy: 0.0019804878048780487
-    attack for exp: 0.0016292134831460672
-    defense for exp: 0.004561797752808988
+    energy for 1: 29285.714285714283
+    exp for 1: 12714.285714285714
+    attack for energy: 0.0001707317073170732
+    defense for energy: 0.00047804878048780493
+    attack for exp: 0.00039325842696629214
+    defense for exp: 0.001101123595505618
 - target: Pizza Parlor
   job: Mug Patrons
   energy: 133
@@ -129,15 +129,15 @@
   loot:
   - name: Steyr AUG
     type: gun
-    percent: 0.13
+    percent: 0.03
     attack: 7
     defense: 6
-    energy for 1: 3600.0
-    exp for 1: 1430.7692307692307
-    attack for energy: 0.0019444444444444444
-    defense for energy: 0.0016666666666666668
-    attack for exp: 0.00489247311827957
-    defense for exp: 0.004193548387096774
+    energy for 1: 15600.0
+    exp for 1: 6200.0
+    attack for energy: 0.0004487179487179487
+    defense for energy: 0.0003846153846153846
+    attack for exp: 0.0011290322580645162
+    defense for exp: 0.000967741935483871
 - target: Latisha Jones
   job: Kidnap
   energy: 275
@@ -152,15 +152,15 @@
   loot:
   - name: Security Shotgun
     type: gun
-    percent: 0.18
+    percent: 0.05
     attack: 10
     defense: 14
-    energy for 1: 4583.333333333334
-    exp for 1: 1650.0
-    attack for energy: 0.0021818181818181815
-    defense for energy: 0.0030545454545454543
-    attack for exp: 0.006060606060606061
-    defense for exp: 0.008484848484848486
+    energy for 1: 16500.0
+    exp for 1: 5940.0
+    attack for energy: 0.0006060606060606061
+    defense for energy: 0.0008484848484848485
+    attack for exp: 0.0016835016835016834
+    defense for exp: 0.0023569023569023568
 - target: Oscar Phillips
   job: Cut Up
   energy: 296
@@ -175,15 +175,15 @@
   loot:
   - name: Kunai
     type: melee
-    percent: 0.18
+    percent: 0.05
     attack: 12
     defense: 14
-    energy for 1: 8222.222222222223
-    exp for 1: 3444.444444444445
-    attack for energy: 0.0014594594594594594
-    defense for energy: 0.0017027027027027026
-    attack for exp: 0.0034838709677419352
-    defense for exp: 0.004064516129032258
+    energy for 1: 29600.0
+    exp for 1: 12400.0
+    attack for energy: 0.0004054054054054054
+    defense for energy: 0.00047297297297297297
+    attack for exp: 0.000967741935483871
+    defense for exp: 0.0011290322580645162
 - target: Andre Johnson
   job: Smack Down
   energy: 315
@@ -198,15 +198,15 @@
   loot:
   - name: Punker Car
     type: car
-    percent: 0.17
+    percent: 0.04
     attack: 11
     defense: 9
-    energy for 1: 9264.70588235294
-    exp for 1: 3882.3529411764703
-    attack for energy: 0.0011873015873015873
-    defense for energy: 0.0009714285714285715
-    attack for exp: 0.0028333333333333335
-    defense for exp: 0.002318181818181818
+    energy for 1: 39375.0
+    exp for 1: 16500.0
+    attack for energy: 0.00027936507936507935
+    defense for energy: 0.00022857142857142857
+    attack for exp: 0.0006666666666666666
+    defense for exp: 0.0005454545454545455
 - target: Juice Dawg
   job: Defeat
   energy: 436
@@ -266,15 +266,15 @@
   loot:
   - name: Steyr AUG
     type: gun
-    percent: 0.24
+    percent: 0.06
     attack: 7
     defense: 6
-    energy for 1: 2708.3333333333335
-    exp for 1: 916.6666666666667
-    attack for energy: 0.0025846153846153844
-    defense for energy: 0.002215384615384615
-    attack for exp: 0.007636363636363636
-    defense for exp: 0.006545454545454545
+    energy for 1: 10833.333333333334
+    exp for 1: 3666.666666666667
+    attack for energy: 0.0006461538461538461
+    defense for energy: 0.0005538461538461538
+    attack for exp: 0.001909090909090909
+    defense for exp: 0.0016363636363636363
 - target: Pizza Parlor
   job: Heist Cigarettes
   energy: 188
@@ -289,15 +289,15 @@
   loot:
   - name: Hot Box Van
     type: car
-    percent: 0.22
+    percent: 0.06
     attack: 7
     defense: 7
-    energy for 1: 2563.6363636363635
-    exp for 1: 859.0909090909091
-    attack for energy: 0.0027304964539007093
-    defense for energy: 0.0027304964539007093
-    attack for exp: 0.008148148148148147
-    defense for exp: 0.008148148148148147
+    energy for 1: 9400.0
+    exp for 1: 3150.0
+    attack for energy: 0.0007446808510638298
+    defense for energy: 0.0007446808510638298
+    attack for exp: 0.0022222222222222222
+    defense for exp: 0.0022222222222222222
 - target: Pizza Parlor
   job: Take Booze
   energy: 140
@@ -324,15 +324,15 @@
   loot:
   - name: Mk 14 Battle Rifle
     type: gun
-    percent: 0.25
+    percent: 0.06
     attack: 14
     defense: 14
-    energy for 1: 4032.0
-    exp for 1: 1788.0
-    attack for energy: 0.003472222222222222
-    defense for energy: 0.003472222222222222
-    attack for exp: 0.007829977628635347
-    defense for exp: 0.007829977628635347
+    energy for 1: 16800.0
+    exp for 1: 7450.0
+    attack for energy: 0.0008333333333333334
+    defense for energy: 0.0008333333333333334
+    attack for exp: 0.0018791946308724832
+    defense for exp: 0.0018791946308724832
 - target: Pizza Parlor
   job: Steal a Disguise
   energy: 210
@@ -347,15 +347,15 @@
   loot:
   - name: Wrestler Mask
     type: armor
-    percent: 0.28
+    percent: 0.07
     attack: 4
     defense: 7
-    energy for 1: 749.9999999999999
-    exp for 1: 271.4285714285714
-    attack for energy: 0.005333333333333334
-    defense for energy: 0.009333333333333334
-    attack for exp: 0.01473684210526316
-    defense for exp: 0.02578947368421053
+    energy for 1: 2999.9999999999995
+    exp for 1: 1085.7142857142856
+    attack for energy: 0.0013333333333333335
+    defense for energy: 0.0023333333333333335
+    attack for exp: 0.00368421052631579
+    defense for exp: 0.006447368421052632
 - target: Pizza Parlor
   job: Threaten Family
   energy: 178
@@ -394,15 +394,15 @@
   loot:
   - name: Police Armor
     type: armor
-    percent: 0.21
+    percent: 0.05
     attack: 5
     defense: 14
-    energy for 1: 13904.761904761905
-    exp for 1: 6323.809523809524
-    attack for energy: 0.0003595890410958904
-    defense for energy: 0.0010068493150684932
-    attack for exp: 0.0007906626506024096
-    defense for exp: 0.002213855421686747
+    energy for 1: 58400.0
+    exp for 1: 26560.0
+    attack for energy: 8.561643835616438e-05
+    defense for energy: 0.00023972602739726027
+    attack for exp: 0.00018825301204819278
+    defense for exp: 0.0005271084337349398
 - target: Pizza Parlor
   job: Stick Up
   energy: 167
@@ -429,15 +429,15 @@
   loot:
   - name: Mark 2 Blade
     type: melee
-    percent: 0.19
+    percent: 0.05
     attack: 7
     defense: 9
-    energy for 1: 10736.842105263158
-    exp for 1: 4831.578947368421
-    attack for energy: 0.0006519607843137254
-    defense for energy: 0.000838235294117647
-    attack for exp: 0.00144880174291939
-    defense for exp: 0.0018627450980392157
+    energy for 1: 40800.0
+    exp for 1: 18360.0
+    attack for energy: 0.0001715686274509804
+    defense for energy: 0.00022058823529411765
+    attack for exp: 0.0003812636165577342
+    defense for exp: 0.0004901960784313725
 - target: Pizza Parlor
   job: Rip Off Stash
   energy: 284

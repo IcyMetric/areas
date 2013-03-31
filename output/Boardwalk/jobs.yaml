@@ -1,6 +1,6 @@
 ---
 - target: Pizza Parlor
-  job: Sabotage control panel
+  job: Sabotage Control Panel
   energy: 320
   exp: 75
   money max: 63000
@@ -23,7 +23,7 @@
     attack for exp: 0.006628571428571428
     defense for exp: 0.0044190476190476185
 - target: Pizza Parlor
-  job: Hold hostages
+  job: Hold Hostages
   energy: 390
   exp: 84
   money max: 62500
@@ -46,7 +46,7 @@
     attack for exp: 0.006190476190476191
     defense for exp: 0.004761904761904762
 - target: Pizza Parlor
-  job: Tinker with speed
+  job: Tinker with Speed
   energy: 98
   exp: 27
   money max: 2200
@@ -58,7 +58,7 @@
   average money per exp: 50
   loot: []
 - target: Pizza Parlor
-  job: Ransack quarter machine
+  job: Ransack Quarter Machine
   energy: 138
   exp: 27
   money max: 10000
@@ -70,7 +70,7 @@
   average money per exp: 94
   loot: []
 - target: Pizza Parlor
-  job: Steal attendant uniform
+  job: Steal Attendant Uniform
   energy: 118
   exp: 24
   money max: 2400
@@ -105,7 +105,7 @@
   average money per exp: 55
   loot: []
 - target: Pizza Parlor
-  job: Lace with hallucinogens
+  job: Lace with Hallucinogens
   energy: 175
   exp: 55
   money max: 7400
@@ -128,7 +128,7 @@
     attack for exp: 0.007
     defense for exp: 0.009
 - target: Pizza Parlor
-  job: Acquire attack animal
+  job: Acquire Attack Animal
   energy: 148
   exp: 44
   money max: 13600
@@ -140,7 +140,7 @@
   average money per exp: 61
   loot: []
 - target: Pizza Parlor
-  job: Win eating contest
+  job: Win Eating Contest
   energy: 90
   exp: 24
   money max: 1800
@@ -164,7 +164,7 @@
   average money per exp: 92
   loot: []
 - target: Pizza Parlor
-  job: Play shooting game
+  job: Play Shooting Game
   energy: 135
   exp: 42
   money max: 3600
@@ -199,7 +199,7 @@
   average money per exp: 96
   loot: []
 - target: Fifi the Bearded Lady
-  job: Remove undercover cop
+  job: Remove Undercover Cop
   energy: 272
   exp: 88
   money max: 37000
@@ -222,7 +222,7 @@
     attack for exp: 0.002746212121212121
     defense for exp: 0.007689393939393939
 - target: Jojo the Clown
-  job: Combat childhood nightmare
+  job: Combat Childhood Nightmare
   energy: 266
   exp: 84
   money max: 34000
@@ -279,7 +279,7 @@
     attack for exp: 0.0022736842105263158
     defense for exp: 0.0026526315789473683
 - target: The Great Zamboni
-  job: Ice police informant
+  job: Ice Police Informant
   energy: 284
   exp: 91
   money max: 36000
@@ -302,7 +302,7 @@
     attack for exp: 0.001684981684981685
     defense for exp: 0.0025274725274725273
 - target: Sasha the Fortune Teller
-  job: Get fortune read
+  job: Get Fortune Read
   energy: 84
   exp: 22
   money max: 2000
@@ -382,7 +382,7 @@
     attack for exp: 0.0017052631578947366
     defense for exp: 0.003221052631578947
 - target: Pizza Parlor
-  job: Install hidden camera
+  job: Install Hidden Camera
   energy: 108
   exp: 30
   money max: 2200

@@ -23,7 +23,7 @@
     attack for exp: 0.022857142857142857
     defense for exp: 0.022857142857142857
 - target: Manny DeLuca
-  job: Hire muscle
+  job: Hire Muscle
   energy: 13
   exp: 3
   money max: 50
@@ -81,7 +81,7 @@
     attack for exp: 0.09
     defense for exp: 0.06
 - target: Pizza Parlor
-  job: Conduct bank heist
+  job: Conduct Bank Heist
   energy: 108
   exp: 18
   money max: 2400
@@ -207,7 +207,7 @@
   average money per exp: 24
   loot: []
 - target: Pizza Parlor
-  job: Steal stereo system
+  job: Steal Stereo System
   energy: 15
   exp: 3
   money max: 65
@@ -265,7 +265,7 @@
     attack for exp: 0.6
     defense for exp: 0.0
 - target: Pizza Parlor
-  job: Break in
+  job: Break In
   energy: 23
   exp: 4
   money max: 250
@@ -288,7 +288,7 @@
     attack for exp: 0.0225
     defense for exp: 0.0225
 - target: Pizza Parlor
-  job: Collect protection money
+  job: Collect Protection Money
   energy: 16
   exp: 3
   money max: 90

@@ -1,0 +1,417 @@
+---
+- target: Uta Lindenberg
+  job: Steal Passport
+  energy: 139
+  exp: 55
+  money max: 5250
+  money min: 1750
+  clicks needed: 1
+  total energy: 139
+  total exp: 55
+  average money per energy: 25
+  average money per exp: 63
+  loot: []
+- target: Shady Al
+  job: Mug
+  energy: 335
+  exp: 127
+  money max: 77550
+  money min: 11100
+  clicks needed: 3
+  total energy: 1005
+  total exp: 381
+  average money per energy: 44
+  average money per exp: 116
+  loot:
+  - name: Company Car
+    type: car
+    percent: 0.04
+    attack: 11
+    defense: 16
+    energy for 1: 25125.0
+    exp for 1: 9525.0
+    attack for energy: 0.00043781094527363184
+    defense for energy: 0.00063681592039801
+    attack for exp: 0.0011548556430446195
+    defense for exp: 0.0016797900262467192
+- target: Fynn Boyd
+  job: Beat Up guitarist
+  energy: 195
+  exp: 61
+  money max: 52800
+  money min: 31800
+  clicks needed: 6
+  total energy: 1170
+  total exp: 366
+  average money per energy: 36
+  average money per exp: 115
+  loot:
+  - name: Lead Sprayer
+    type: gun
+    percent: 0.11
+    attack: 16
+    defense: 12
+    energy for 1: 10636.363636363636
+    exp for 1: 3327.2727272727275
+    attack for energy: 0.0015042735042735042
+    defense for energy: 0.0011282051282051283
+    attack for exp: 0.004808743169398907
+    defense for exp: 0.00360655737704918
+- target: Mumbles McGee
+  job: Rig Boxing Match
+  energy: 391
+  exp: 126
+  money max: 255500
+  money min: 28350
+  clicks needed: 7
+  total energy: 2737
+  total exp: 882
+  average money per energy: 51
+  average money per exp: 160
+  loot:
+  - name: Double Decker
+    type: car
+    percent: 0.0
+    attack: 18
+    defense: 14
+    energy for 1: .inf
+    exp for 1: .inf
+    attack for energy: 0.0
+    defense for energy: 0.0
+    attack for exp: 0.0
+    defense for exp: 0.0
+- target: Jock Montana
+  job: Sell Fake Memorabilia
+  energy: 223
+  exp: 69
+  money max: 62700
+  money min: 33900
+  clicks needed: 6
+  total energy: 1338
+  total exp: 414
+  average money per energy: 36
+  average money per exp: 116
+  loot:
+  - name: MG08 Heavy Machine Gun
+    type: gun
+    percent: 0.1
+    attack: 13
+    defense: 16
+    energy for 1: 13380.0
+    exp for 1: 4140.0
+    attack for energy: 0.0009715994020926756
+    defense for energy: 0.001195814648729447
+    attack for exp: 0.003140096618357488
+    defense for exp: 0.003864734299516908
+- target: Pizza Parlor
+  job: Crack Safe
+  energy: 279
+  exp: 96
+  money max: 51400
+  money min: 38000
+  clicks needed: 4
+  total energy: 1116
+  total exp: 384
+  average money per energy: 40
+  average money per exp: 116
+  loot:
+  - name: Rusted Minigun
+    type: gun
+    percent: 0.14
+    attack: 8
+    defense: 10
+    energy for 1: 7971.428571428571
+    exp for 1: 2742.8571428571427
+    attack for energy: 0.001003584229390681
+    defense for energy: 0.0012544802867383515
+    attack for exp: 0.002916666666666667
+    defense for exp: 0.0036458333333333334
+- target: Pizza Parlor
+  job: Spread Rumor
+  energy: 167
+  exp: 66
+  money max: 6300
+  money min: 2100
+  clicks needed: 1
+  total energy: 167
+  total exp: 66
+  average money per energy: 25
+  average money per exp: 63
+  loot: []
+- target: Pizza Parlor
+  job: Steal Fur Coat
+  energy: 279
+  exp: 96
+  money max: 49200
+  money min: 40200
+  clicks needed: 4
+  total energy: 1116
+  total exp: 384
+  average money per energy: 40
+  average money per exp: 116
+  loot:
+  - name: SG 550
+    type: gun
+    percent: 0.14
+    attack: 10
+    defense: 7
+    energy for 1: 7971.428571428571
+    exp for 1: 2742.8571428571427
+    attack for energy: 0.0012544802867383515
+    defense for energy: 0.000878136200716846
+    attack for exp: 0.0036458333333333334
+    defense for exp: 0.0025520833333333337
+- target: Pizza Parlor
+  job: Rob
+  energy: 391
+  exp: 126
+  money max: 66900
+  money min: 14200
+  clicks needed: 2
+  total energy: 782
+  total exp: 252
+  average money per energy: 51
+  average money per exp: 160
+  loot: []
+- target: Pizza Parlor
+  job: Extort Money
+  energy: 335
+  exp: 127
+  money max: 200800
+  money min: 35600
+  clicks needed: 8
+  total energy: 2680
+  total exp: 1016
+  average money per energy: 44
+  average money per exp: 116
+  loot:
+  - name: FBI Silenced Pistol
+    type: gun
+    percent: 0.11
+    attack: 13
+    defense: 20
+    energy for 1: 24363.636363636364
+    exp for 1: 9236.363636363636
+    attack for energy: 0.0005335820895522388
+    defense for energy: 0.0008208955223880597
+    attack for exp: 0.00140748031496063
+    defense for exp: 0.0021653543307086614
+- target: Pizza Parlor
+  job: Vandalize Posters
+  energy: 195
+  exp: 71
+  money max: 14400
+  money min: 9600
+  clicks needed: 2
+  total energy: 390
+  total exp: 142
+  average money per energy: 30
+  average money per exp: 84
+  loot: []
+- target: Pizza Parlor
+  job: Trash Practice Space
+  energy: 251
+  exp: 82
+  money max: 69250
+  money min: 26250
+  clicks needed: 5
+  total energy: 1255
+  total exp: 410
+  average money per energy: 38
+  average money per exp: 116
+  loot:
+  - name: Samurai Knife
+    type: melee
+    percent: 0.13
+    attack: 9
+    defense: 13
+    energy for 1: 9653.846153846154
+    exp for 1: 3153.846153846154
+    attack for energy: 0.0009322709163346613
+    defense for energy: 0.001346613545816733
+    attack for exp: 0.002853658536585366
+    defense for exp: 0.004121951219512195
+- target: Pizza Parlor
+  job: Rob
+  energy: 447
+  exp: 131
+  money max: 215750
+  money min: 62500
+  clicks needed: 5
+  total energy: 2235
+  total exp: 655
+  average money per energy: 62
+  average money per exp: 212
+  loot:
+  - name: Killer's Goggles
+    type: armor
+    percent: 0.07
+    attack: 16
+    defense: 17
+    energy for 1: 31928.571428571424
+    exp for 1: 9357.142857142857
+    attack for energy: 0.0005011185682326623
+    defense for energy: 0.0005324384787472037
+    attack for exp: 0.0017099236641221374
+    defense for exp: 0.001816793893129771
+- target: Ladd Rock
+  job: Defeat Ladd Rock
+  energy: 503
+  exp: 133
+  money max: 726750
+  money min: 594700
+  clicks needed: 19
+  total energy: 9557
+  total exp: 2527
+  average money per energy: 69
+  average money per exp: 261
+  loot:
+  - name: Rocker Leather Jacket
+    type: armor
+    percent: 0.72
+    attack: 7
+    defense: 11
+    energy for 1: 13273.611111111111
+    exp for 1: 3509.722222222222
+    attack for energy: 0.0005273621429318823
+    defense for energy: 0.000828711938892958
+    attack for exp: 0.001994459833795014
+    defense for exp: 0.0031341511673921648
+  - name: Rock Tour Bus
+    type: car
+    percent: 0.22
+    attack: 12
+    defense: 9
+    energy for 1: 43440.90909090909
+    exp for 1: 11486.363636363636
+    attack for energy: 0.00027623731296431937
+    defense for energy: 0.0002071779847232395
+    attack for exp: 0.0010447170557973883
+    defense for exp: 0.0007835377918480412
+  - name: Rocking AK-47
+    type: gun
+    percent: 0.06
+    attack: 15
+    defense: 13
+    energy for 1: 159283.33333333334
+    exp for 1: 42116.66666666667
+    attack for energy: 9.417181123783613e-05
+    defense for energy: 8.161556973945799e-05
+    attack for exp: 0.00035615354174910955
+    defense for exp: 0.0003086664028492283
+- target: Pizza Parlor
+  job: Rob Driver
+  energy: 167
+  exp: 73
+  money max: 5300
+  money min: 2300
+  clicks needed: 1
+  total energy: 167
+  total exp: 73
+  average money per energy: 22
+  average money per exp: 52
+  loot:
+  - name: Rusted Minigun
+    type: gun
+    percent: 0.04
+    attack: 8
+    defense: 10
+    energy for 1: 4175.0
+    exp for 1: 1825.0
+    attack for energy: 0.0019161676646706587
+    defense for energy: 0.0023952095808383233
+    attack for exp: 0.004383561643835616
+    defense for exp: 0.005479452054794521
+- target: Pizza Parlor
+  job: Shoot Out Windows
+  energy: 223
+  exp: 69
+  money max: 26550
+  money min: 21750
+  clicks needed: 3
+  total energy: 669
+  total exp: 207
+  average money per energy: 36
+  average money per exp: 116
+  loot:
+  - name: Deviant Coat
+    type: armor
+    percent: 0.08
+    attack: 8
+    defense: 20
+    energy for 1: 8362.5
+    exp for 1: 2587.5
+    attack for energy: 0.0009566517189835576
+    defense for energy: 0.002391629297458894
+    attack for exp: 0.0030917874396135265
+    defense for exp: 0.007729468599033816
+- target: Pizza Parlor
+  job: Pilfer Lingerie
+  energy: 279
+  exp: 96
+  money max: 25700
+  money min: 19000
+  clicks needed: 2
+  total energy: 558
+  total exp: 192
+  average money per energy: 40
+  average money per exp: 116
+  loot: []
+- target: Pizza Parlor
+  job: Steal Ticket Revenue
+  energy: 251
+  exp: 82
+  money max: 51600
+  money min: 24800
+  clicks needed: 4
+  total energy: 1004
+  total exp: 328
+  average money per energy: 38
+  average money per exp: 116
+  loot: []
+- target: Pizza Parlor
+  job: Steal Promo Merchandise
+  energy: 335
+  exp: 127
+  money max: 73200
+  money min: 15450
+  clicks needed: 3
+  total energy: 1005
+  total exp: 381
+  average money per energy: 44
+  average money per exp: 116
+  loot:
+  - name: Killer Machine Gun
+    type: gun
+    percent: 0.11
+    attack: 13
+    defense: 11
+    energy for 1: 9136.363636363636
+    exp for 1: 3463.6363636363635
+    attack for energy: 0.0014228855721393036
+    defense for energy: 0.0012039800995024875
+    attack for exp: 0.0037532808398950132
+    defense for exp: 0.0031758530183727037
+- target: Pizza Parlor
+  job: Shoplift a Handbag
+  energy: 195
+  exp: 71
+  money max: 7500
+  money min: 4500
+  clicks needed: 1
+  total energy: 195
+  total exp: 71
+  average money per energy: 30
+  average money per exp: 84
+  loot:
+  - name: Urban Warfare Vest
+    type: armor
+    percent: 0.06
+    attack: 11
+    defense: 20
+    energy for 1: 3250.0
+    exp for 1: 1183.3333333333335
+    attack for energy: 0.003384615384615385
+    defense for energy: 0.006153846153846154
+    attack for exp: 0.009295774647887323
+    defense for exp: 0.016901408450704224

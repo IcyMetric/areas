@@ -1,6 +1,6 @@
 ---
 - target: Mona Starr
-  job: Snatch purse
+  job: Snatch Purse
   energy: 30
   exp: 6
   money max: 225
@@ -12,7 +12,7 @@
   average money per exp: 25
   loot: []
 - target: Pizza Parlor
-  job: Do drive by shooting
+  job: Do Drive By Shooting
   energy: 105
   exp: 34
   money max: 950
@@ -35,7 +35,7 @@
     attack for exp: 0.007352941176470588
     defense for exp: 0.008823529411764706
 - target: Pizza Parlor
-  job: Trash police stakeout
+  job: Trash Police Stakeout
   energy: 162
   exp: 47
   money max: 7000
@@ -58,7 +58,7 @@
     attack for exp: 0.0007659574468085106
     defense for exp: 0.0020425531914893616
 - target: Cutty Robinson
-  job: Collect overdue loan
+  job: Collect Overdue Loan
   energy: 52
   exp: 10
   money max: 500
@@ -70,7 +70,7 @@
   average money per exp: 30
   loot: []
 - target: Pizza Parlor
-  job: Steal liquor shipment
+  job: Steal Liquor Shipment
   energy: 122
   exp: 25
   money max: 4200
@@ -93,7 +93,7 @@
     attack for exp: 0.0006
     defense for exp: 0.0005
 - target: Pizza Parlor
-  job: Kill Ricci stragglers
+  job: Kill Ricci Stragglers
   energy: 137
   exp: 38
   money max: 3300
@@ -116,7 +116,7 @@
     attack for exp: 0.0043859649122807015
     defense for exp: 0.0035087719298245615
 - target: Little G
-  job: Recruit local dealer
+  job: Recruit Local Dealer
   energy: 36
   exp: 7
   money max: 225
@@ -140,7 +140,7 @@
   average money per exp: 32
   loot: []
 - target: Pizza Parlor
-  job: Plant bomb at traitor's house
+  job: Plant Bomb at Traitor's House
   energy: 75
   exp: 27
   money max: 1000
@@ -163,7 +163,7 @@
     attack for exp: 0.002962962962962963
     defense for exp: 0.011851851851851851
 - target: Pizza Parlor
-  job: Shutdown exposed hideout
+  job: Shutdown Exposed Hideout
   energy: 156
   exp: 43
   money max: 8000
@@ -186,7 +186,7 @@
     attack for exp: 0.00041860465116279067
     defense for exp: 0.0008372093023255813
 - target: Pizza Parlor
-  job: Poison traitor's food
+  job: Poison Traitor's Food
   energy: 96
   exp: 31
   money max: 575
@@ -209,7 +209,7 @@
     attack for exp: 0.017419354838709676
     defense for exp: 0.017419354838709676
 - target: Pizza Parlor
-  job: Set up weapons depot
+  job: Set Up Weapons Depot
   energy: 84
   exp: 19
   money max: 2400
@@ -244,7 +244,7 @@
   average money per exp: 32
   loot: []
 - target: Pizza Parlor
-  job: Set up business front
+  job: Set Up Business Front
   energy: 62
   exp: 13
   money max: 1400
@@ -267,7 +267,7 @@
     attack for exp: 0.004615384615384615
     defense for exp: 0.011538461538461537
 - target: Tubby Watkins
-  job: Hire muscle
+  job: Hire Muscle
   energy: 39
   exp: 10
   money max: 250
@@ -338,7 +338,7 @@
   average money per exp: 21
   loot: []
 - target: Pizza Parlor
-  job: Make a Deal With Owner
+  job: Make a Deal with Owner
   energy: 45
   exp: 9
   money max: 350
@@ -384,7 +384,7 @@
     attack for exp: 0.016666666666666666
     defense for exp: 0.1
 - target: Pizza Parlor
-  job: Shoot up meeting
+  job: Shoot Up Meeting
   energy: 140
   exp: 37
   money max: 3750

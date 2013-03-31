@@ -23,7 +23,7 @@
     attack for exp: 0.2
     defense for exp: 0.2
 - target: Rico Suarez
-  job: Beat up
+  job: Beat Up
   energy: 27
   exp: 3
   money max: 60
@@ -140,7 +140,7 @@
   average money per exp: 25
   loot: []
 - target: Pizza Parlor
-  job: Steal car keys from valet
+  job: Steal Car Keys from Valet
   energy: 24
   exp: 2
   money max: 85
@@ -186,7 +186,7 @@
     attack for exp: 0.1
     defense for exp: 0.2
 - target: Pizza Parlor
-  job: Sell goods
+  job: Sell Goods
   energy: 18
   exp: 1
   money max: 55
@@ -254,7 +254,7 @@
     attack for exp: 0.01125
     defense for exp: 0.01125
 - target: Pizza Parlor
-  job: Sell stolen furniture
+  job: Sell Stolen Furniture
   energy: 12
   exp: 1
   money max: 50
@@ -277,7 +277,7 @@
     attack for exp: 0.6
     defense for exp: 0.0
 - target: Pizza Parlor
-  job: Pay off Owner
+  job: Pay Off Owner
   energy: 21
   exp: 3
   money max: 40
@@ -289,7 +289,7 @@
   average money per exp: 11
   loot: []
 - target: Pizza Parlor
-  job: Swipe tip jar
+  job: Swipe Tip Jar
   energy: 12
   exp: 1
   money max: 35
@@ -370,7 +370,7 @@
   average money per exp: 40
   loot: []
 - target: Pizza Parlor
-  job: Rough up Local Thugs
+  job: Rough Up Local Thugs
   energy: 35
   exp: 3
   money max: 140

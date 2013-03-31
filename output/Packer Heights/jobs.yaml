@@ -1,6 +1,6 @@
 ---
 - target: Pizza Parlor
-  job: Rob arms shipment
+  job: Rob Arms Shipment
   energy: 330
   exp: 68
   money max: 36000
@@ -23,7 +23,7 @@
     attack for exp: 0.006691176470588236
     defense for exp: 0.0051470588235294126
 - target: Pizza Parlor
-  job: Raid rival warehouse
+  job: Raid Rival Warehouse
   energy: 410
   exp: 136
   money max: 57000
@@ -46,7 +46,7 @@
     attack for exp: 0.0008455882352941177
     defense for exp: 0.0016911764705882354
 - target: Vladimir Novikov
-  job: Work over
+  job: Work Over
   energy: 185
   exp: 59
   money max: 15000
@@ -69,7 +69,7 @@
     attack for exp: 0.0047457627118644066
     defense for exp: 0.003389830508474576
 - target: Freddie Rizzo
-  job: Whack a mole
+  job: Whack a Mole
   energy: 234
   exp: 76
   money max: 22800
@@ -115,7 +115,7 @@
     attack for exp: 0.019622641509433963
     defense for exp: 0.02158490566037736
 - target: Pizza Parlor
-  job: Fend off police raid
+  job: Fend Off Police Raid
   energy: 300
   exp: 102
   money max: 22000
@@ -138,7 +138,7 @@
     attack for exp: 0.0012745098039215685
     defense for exp: 0.0019117647058823528
 - target: Pizza Parlor
-  job: Clear storage space
+  job: Clear Storage Space
   energy: 90
   exp: 23
   money max: 1300
@@ -150,7 +150,7 @@
   average money per exp: 34
   loot: []
 - target: Pizza Parlor
-  job: Set up a hidden camera
+  job: Set Up a Hidden Camera
   energy: 104
   exp: 30
   money max: 1400
@@ -162,7 +162,7 @@
   average money per exp: 30
   loot: []
 - target: Pizza Parlor
-  job: Rob rival arms depot
+  job: Rob Rival Arms Depot
   energy: 275
   exp: 64
   money max: 15000
@@ -185,7 +185,7 @@
     attack for exp: 0.008906250000000001
     defense for exp: 0.006927083333333334
 - target: Anya Ivanov
-  job: Plant a tracking device
+  job: Plant a Tracking Device
   energy: 82
   exp: 24
   money max: 1100
@@ -221,7 +221,7 @@
   average money per exp: 29
   loot: []
 - target: Pizza Parlor
-  job: Melt down rival's weapons
+  job: Melt Down Rival's Weapons
   energy: 190
   exp: 42
   money max: 20000
@@ -244,7 +244,7 @@
     attack for exp: 0.012000000000000002
     defense for exp: 0.010666666666666668
 - target: Pizza Parlor
-  job: Forge gun parts
+  job: Forge Gun Parts
   energy: 148
   exp: 31
   money max: 7200
@@ -347,7 +347,7 @@
     attack for exp: 0.0006397562833206396
     defense for exp: 0.000594059405940594
 - target: Pizza Parlor
-  job: Set up gambling ring
+  job: Set Up Gambling Ring
   energy: 115
   exp: 21
   money max: 3000
@@ -359,7 +359,7 @@
   average money per exp: 71
   loot: []
 - target: Pizza Parlor
-  job: Pawn off stolen merchandise
+  job: Pawn Off Stolen Merchandise
   energy: 70
   exp: 13
   money max: 1400
@@ -405,7 +405,7 @@
     attack for exp: 0.05714285714285714
     defense for exp: 0.04285714285714286
 - target: Pizza Parlor
-  job: Prepare shipment for transport
+  job: Prepare Shipment for Transport
   energy: 84
   exp: 24
   money max: 1500

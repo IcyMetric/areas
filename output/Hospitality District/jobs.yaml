@@ -301,7 +301,7 @@
   average money per exp: 127
   loot: []
 - target: Pizza Parlor
-  job: Break up Playas meeting
+  job: Break Up Playas meeting
   energy: 400
   exp: 144
   money max: 98000
@@ -324,7 +324,7 @@
     attack for exp: 0.0010714285714285715
     defense for exp: 0.0010714285714285715
 - target: Pizza Parlor
-  job: Scalp tickets
+  job: Scalp Tickets
   energy: 115
   exp: 27
   money max: 3900
@@ -336,7 +336,7 @@
   average money per exp: 101
   loot: []
 - target: Pizza Parlor
-  job: Steal patron's goods
+  job: Steal Patron's Goods
   energy: 195
   exp: 52
   money max: 40500
@@ -371,7 +371,7 @@
   average money per exp: 68
   loot: []
 - target: Pizza Parlor
-  job: Steal lockbox
+  job: Steal Lockbox
   energy: 340
   exp: 102
   money max: 60000
@@ -394,7 +394,7 @@
     attack for exp: 0.004803921568627451
     defense for exp: 0.0061764705882352946
 - target: Pizza Parlor
-  job: Recruit go-go dancers
+  job: Recruit Go-Go Dancers
   energy: 132
   exp: 34
   money max: 3000
@@ -406,7 +406,7 @@
   average money per exp: 70
   loot: []
 - target: Pizza Parlor
-  job: Employ girls
+  job: Employ Girls
   energy: 148
   exp: 36
   money max: 3800
@@ -418,7 +418,7 @@
   average money per exp: 87
   loot: []
 - target: Pizza Parlor
-  job: Loot lingerie
+  job: Loot Lingerie
   energy: 125
   exp: 25
   money max: 3650

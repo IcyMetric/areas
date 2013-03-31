@@ -1,6 +1,6 @@
 ---
 - target: Pizza Parlor
-  job: Steal valuable art
+  job: Steal Valuable Art
   energy: 300
   exp: 75
   money max: 57500
@@ -23,7 +23,7 @@
     attack for exp: 0.0014400000000000003
     defense for exp: 0.0036000000000000003
 - target: Pizza Parlor
-  job: Make art forgeries
+  job: Make Art Forgeries
   energy: 240
   exp: 62
   money max: 14000
@@ -46,7 +46,7 @@
     attack for exp: 0.004838709677419355
     defense for exp: 0.00967741935483871
 - target: Pizza Parlor
-  job: Peddle art forgeries
+  job: Peddle Art Forgeries
   energy: 145
   exp: 32
   money max: 3200
@@ -58,7 +58,7 @@
   average money per exp: 73
   loot: []
 - target: Pizza Parlor
-  job: Bust Rasta gang hideout
+  job: Bust Rasta Gang Hideout
   energy: 420
   exp: 134
   money max: 77000
@@ -81,7 +81,7 @@
     attack for exp: 0.003049040511727079
     defense for exp: 0.002494669509594883
 - target: Rasta Tom
-  job: Beat up
+  job: Beat Up
   energy: 200
   exp: 64
   money max: 17500
@@ -104,7 +104,7 @@
     attack for exp: 0.007000000000000001
     defense for exp: 0.0035000000000000005
 - target: Malik Johnson
-  job: Perform a hit
+  job: Perform a Hit
   energy: 264
   exp: 88
   money max: 32400
@@ -162,7 +162,7 @@
   average money per exp: 48
   loot: []
 - target: Hunnie Dixon
-  job: Pay for information
+  job: Pay for Information
   energy: 85
   exp: 16
   money max: 1900
@@ -324,7 +324,7 @@
   average money per exp: 88
   loot: []
 - target: Travis Merholtz
-  job: Steal authentication docs
+  job: Steal Authentication Docs
   energy: 156
   exp: 36
   money max: 9600

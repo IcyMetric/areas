@@ -1,6 +1,6 @@
 ---
 - target: Pizza Parlor
-  job: Sell product
+  job: Sell Product
   energy: 54
   exp: 9
   money max: 575
@@ -23,7 +23,7 @@
     attack for exp: 0.06666666666666667
     defense for exp: 0.1111111111111111
 - target: Pizza Parlor
-  job: Destroy drug supply
+  job: Destroy Drug Supply
   energy: 275
   exp: 84
   money max: 17000
@@ -46,7 +46,7 @@
     attack for exp: 0.00016666666666666666
     defense for exp: 0.00016666666666666666
 - target: Pizza Parlor
-  job: Sell fake ids
+  job: Sell Fake IDs
   energy: 48
   exp: 9
   money max: 550
@@ -58,7 +58,7 @@
   average money per exp: 36
   loot: []
 - target: Pizza Parlor
-  job: Assault chem lab
+  job: Assault Chem Lab
   energy: 325
   exp: 104
   money max: 19200
@@ -81,7 +81,7 @@
     attack for exp: 0.0004120879120879121
     defense for exp: 0.0008241758241758242
 - target: Pizza Parlor
-  job: Shake down
+  job: Shake Down
   energy: 98
   exp: 17
   money max: 2000
@@ -104,7 +104,7 @@
     attack for exp: 0.021176470588235293
     defense for exp: 0.026470588235294117
 - target: Pizza Parlor
-  job: Recruit dealers
+  job: Recruit Dealers
   energy: 42
   exp: 11
   money max: 375
@@ -116,7 +116,7 @@
   average money per exp: 21
   loot: []
 - target: Pizza Parlor
-  job: Sell product
+  job: Sell Product
   energy: 54
   exp: 9
   money max: 575
@@ -139,7 +139,7 @@
     attack for exp: 0.09777777777777778
     defense for exp: 0.07333333333333333
 - target: Pizza Parlor
-  job: Ask about dealers
+  job: Ask about Dealers
   energy: 50
   exp: 14
   money max: 450
@@ -151,7 +151,7 @@
   average money per exp: 20
   loot: []
 - target: Pizza Parlor
-  job: Sell product
+  job: Sell Product
   energy: 54
   exp: 9
   money max: 400
@@ -174,7 +174,7 @@
     attack for exp: 0.06222222222222223
     defense for exp: 0.12444444444444445
 - target: Pizza Parlor
-  job: Set up dice game
+  job: Set Up Dice Game
   energy: 70
   exp: 11
   money max: 3200
@@ -186,7 +186,7 @@
   average money per exp: 73
   loot: []
 - target: T Money
-  job: Beat up
+  job: Beat Up
   energy: 122
   exp: 37
   money max: 4800
@@ -221,7 +221,7 @@
   average money per exp: 18
   loot: []
 - target: Chazmo Parker
-  job: Perform hit
+  job: Perform Hit
   energy: 172
   exp: 55
   money max: 9600
@@ -267,7 +267,7 @@
     attack for exp: 0.0014583333333333334
     defense for exp: 0.0014583333333333334
 - target: Drunk Mike
-  job: Hire a local dealer
+  job: Hire a Local Dealer
   energy: 60
   exp: 12
   money max: 500

@@ -311,7 +311,7 @@
     attack for exp: 0.009310344827586206
     defense for exp: 0.009310344827586206
 - target: Pizza Parlor
-  job: Enforce no parking
+  job: Enforce No Parking
   energy: 115
   exp: 30
   money max: 3500
@@ -323,7 +323,7 @@
   average money per exp: 75
   loot: []
 - target: Pizza Parlor
-  job: Steal hubcaps
+  job: Steal Hubcaps
   energy: 164
   exp: 46
   money max: 16200
@@ -335,7 +335,7 @@
   average money per exp: 104
   loot: []
 - target: Pizza Parlor
-  job: Plant carbomb
+  job: Plant Carbomb
   energy: 198
   exp: 67
   money max: 12400
@@ -358,7 +358,7 @@
     attack for exp: 0.006716417910447761
     defense for exp: 0.013432835820895522
 - target: Pizza Parlor
-  job: Park long term
+  job: Park Long Term
   energy: 120
   exp: 29
   money max: 4300

@@ -1,6 +1,6 @@
 ---
 - target: Pizza Parlor
-  job: Sell goods
+  job: Sell Goods
   energy: 14
   exp: 1
   money max: 45
@@ -46,7 +46,7 @@
     attack for exp: 0.18
     defense for exp: 0.18
 - target: Pizza Parlor
-  job: Pickup protection money
+  job: Pickup Protection Money
   energy: 14
   exp: 1
   money max: 35
@@ -69,7 +69,7 @@
     attack for exp: 0.6
     defense for exp: 0.0
 - target: Bambi Dupre
-  job: Rough up police informant
+  job: Rough Up Police Informant
   energy: 27
   exp: 2
   money max: 65
@@ -149,7 +149,7 @@
   average money per exp: 25
   loot: []
 - target: Pookie Grandin
-  job: Perform a hit
+  job: Perform a Hit
   energy: 29
   exp: 2
   money max: 60
@@ -172,7 +172,7 @@
     attack for exp: 0.12
     defense for exp: 0.12
 - target: Pizza Parlor
-  job: Break in
+  job: Break In
   energy: 17
   exp: 1
   money max: 45
@@ -195,7 +195,7 @@
     attack for exp: 0.21999999999999997
     defense for exp: 0.43999999999999995
 - target: Pizza Parlor
-  job: Pawn off stolen merchandise
+  job: Pawn Off Stolen Merchandise
   energy: 12
   exp: 1
   money max: 35
@@ -218,7 +218,7 @@
     attack for exp: 0.07
     defense for exp: 0.14
 - target: Pizza Parlor
-  job: Crack safe
+  job: Crack Safe
   energy: 42
   exp: 3
   money max: 135
@@ -241,7 +241,7 @@
     attack for exp: 0.01
     defense for exp: 0.01
 - target: Pizza Parlor
-  job: Steal employee payroll
+  job: Steal Employee Payroll
   energy: 18
   exp: 1
   money max: 65
@@ -264,7 +264,7 @@
     attack for exp: 0.16
     defense for exp: 0.16
 - target: Pizza Parlor
-  job: Steal clothes out of dryer
+  job: Steal Clothes Out of Dryer
   energy: 15
   exp: 1
   money max: 25

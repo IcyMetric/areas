@@ -162,7 +162,7 @@
     attack for exp: 0.05
     defense for exp: 0.075
 - target: Perry Rickles
-  job: Perform hit
+  job: Perform Hit
   energy: 45
   exp: 6
   money max: 160
@@ -276,7 +276,7 @@
     attack for exp: 0.006
     defense for exp: 0.0036
 - target: Pizza Parlor
-  job: Take out sniper
+  job: Take Out Sniper
   energy: 21
   exp: 4
   money max: 75
@@ -299,7 +299,7 @@
     attack for exp: 0.075
     defense for exp: 0.075
 - target: Pizza Parlor
-  job: Get ID numbers
+  job: Get ID Numbers
   energy: 12
   exp: 3
   money max: 40
@@ -311,7 +311,7 @@
   average money per exp: 11
   loot: []
 - target: Pizza Parlor
-  job: Boost cache of weapons
+  job: Boost Cache of Weapons
   energy: 22
   exp: 3
   money max: 125

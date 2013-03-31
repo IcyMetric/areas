@@ -1,6 +1,6 @@
 ---
 - target: Davis Watson
-  job: Beat up
+  job: Beat Up
   energy: 14
   exp: 1
   money max: 20
@@ -23,7 +23,7 @@
     attack for exp: 1.0
     defense for exp: 1.0
 - target: Carmen Rivera
-  job: Snatch purse
+  job: Snatch Purse
   energy: 9
   exp: 1
   money max: 20
@@ -104,7 +104,7 @@
     attack for exp: 0.25
     defense for exp: 0.25
 - target: Pizza Parlor
-  job: Break in
+  job: Break In
   energy: 17
   exp: 1
   money max: 25

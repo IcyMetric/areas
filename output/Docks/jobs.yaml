@@ -23,7 +23,7 @@
     attack for exp: 0.0015384615384615385
     defense for exp: 0.0038461538461538464
 - target: Pizza Parlor
-  job: Plant evidence
+  job: Plant Evidence
   energy: 35
   exp: 9
   money max: 140
@@ -46,7 +46,7 @@
     attack for exp: 0.03
     defense for exp: 0.03
 - target: Pizza Parlor
-  job: Forge shipping manifest
+  job: Forge Shipping Manifest
   energy: 25
   exp: 4
   money max: 120
@@ -58,7 +58,7 @@
   average money per exp: 27
   loot: []
 - target: Pizza Parlor
-  job: Sabotage control panel
+  job: Sabotage Control Panel
   energy: 58
   exp: 12
   money max: 1400
@@ -81,7 +81,7 @@
     attack for exp: 0.008333333333333333
     defense for exp: 0.00625
 - target: Pizza Parlor
-  job: Rip off TV
+  job: Rip Off TV
   energy: 18
   exp: 3
   money max: 90
@@ -93,7 +93,7 @@
   average money per exp: 21
   loot: []
 - target: Pizza Parlor
-  job: Plant bomb
+  job: Plant Bomb
   energy: 47
   exp: 15
   money max: 250
@@ -128,7 +128,7 @@
   average money per exp: 21
   loot: []
 - target: Pizza Parlor
-  job: Break in
+  job: Break In
   energy: 27
   exp: 6
   money max: 180
@@ -163,7 +163,7 @@
   average money per exp: 23
   loot: []
 - target: Longshoreman Perez
-  job: Perform hit
+  job: Perform Hit
   energy: 72
   exp: 15
   money max: 800
@@ -186,7 +186,7 @@
     attack for exp: 0.008
     defense for exp: 0.016
 - target: Longshoreman Fletcher
-  job: Perform hit
+  job: Perform Hit
   energy: 72
   exp: 15
   money max: 800
@@ -221,7 +221,7 @@
   average money per exp: 21
   loot: []
 - target: Rocco Colcetti
-  job: Beat up
+  job: Beat Up
   energy: 46
   exp: 9
   money max: 440

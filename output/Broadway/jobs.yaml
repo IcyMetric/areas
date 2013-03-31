@@ -1,6 +1,6 @@
 ---
 - target: Francine Withers
-  job: Steal front row tickets
+  job: Steal Front Row Tickets
   energy: 140
   exp: 26
   money max: 3000
@@ -24,7 +24,7 @@
   average money per exp: 43
   loot: []
 - target: Mr. Wolfe
-  job: Break legs
+  job: Break Legs
   energy: 168
   exp: 54
   money max: 9000
@@ -47,7 +47,7 @@
     attack for exp: 0.006913580246913581
     defense for exp: 0.005925925925925926
 - target: Ellis Bernard
-  job: Beat up federal agent
+  job: Beat Up Federal Agent
   energy: 185
   exp: 57
   money max: 14000
@@ -70,7 +70,7 @@
     attack for exp: 0.004561403508771929
     defense for exp: 0.012771929824561403
 - target: Bartholomew Park
-  job: Expose crooked cop
+  job: Expose Crooked Cop
   energy: 200
   exp: 63
   money max: 13500
@@ -93,7 +93,7 @@
     attack for exp: 0.002285714285714286
     defense for exp: 0.0034285714285714284
 - target: Winston McCleary
-  job: Pump for information
+  job: Pump for Information
   energy: 122
   exp: 33
   money max: 3800
@@ -161,7 +161,7 @@
     attack for exp: 0.0006593406593406593
     defense for exp: 0.0004945054945054945
 - target: Pizza Parlor
-  job: Gun down gangster patron
+  job: Gun Down Gangster Patron
   energy: 310
   exp: 101
   money max: 42000
@@ -184,7 +184,7 @@
     attack for exp: 0.004752475247524752
     defense for exp: 0.0031683168316831685
 - target: Pizza Parlor
-  job: Blackmail opera singer
+  job: Blackmail Opera Singer
   energy: 130
   exp: 27
   money max: 2600
@@ -196,7 +196,7 @@
   average money per exp: 70
   loot: []
 - target: Pizza Parlor
-  job: Steal play revenue
+  job: Steal Play Revenue
   energy: 210
   exp: 43
   money max: 9000
@@ -219,7 +219,7 @@
     attack for exp: 0.0074418604651162795
     defense for exp: 0.014883720930232559
 - target: Pizza Parlor
-  job: Sell forged tickets
+  job: Sell Forged Tickets
   energy: 100
   exp: 18
   money max: 1800
@@ -231,7 +231,7 @@
   average money per exp: 77
   loot: []
 - target: Pizza Parlor
-  job: Eliminate tailing FBI agent
+  job: Eliminate Tailing FBI Agent
   energy: 222
   exp: 75
   money max: 24000
@@ -254,7 +254,7 @@
     attack for exp: 0.0036
     defense for exp: 0.0032
 - target: Pizza Parlor
-  job: Stash federal agent corpses
+  job: Stash Federal Agent Corpses
   energy: 325
   exp: 105
   money max: 17400
@@ -277,7 +277,7 @@
     attack for exp: 0.0044444444444444444
     defense for exp: 0.0044444444444444444
 - target: Pizza Parlor
-  job: Plant evidence
+  job: Plant Evidence
   energy: 80
   exp: 21
   money max: 1100
@@ -289,7 +289,7 @@
   average money per exp: 42
   loot: []
 - target: Pizza Parlor
-  job: Sell product
+  job: Sell Product
   energy: 85
   exp: 16
   money max: 1500
@@ -301,7 +301,7 @@
   average money per exp: 75
   loot: []
 - target: Pizza Parlor
-  job: Threaten staff
+  job: Threaten Staff
   energy: 110
   exp: 30
   money max: 3400

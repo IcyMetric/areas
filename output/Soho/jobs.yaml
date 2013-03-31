@@ -380,7 +380,7 @@
     attack for exp: 0.025
     defense for exp: 0.15
 - target: Pizza Parlor
-  job: Break in
+  job: Break In
   energy: 37
   exp: 10
   money max: 260
@@ -403,7 +403,7 @@
     attack for exp: 0.06
     defense for exp: 0.04
 - target: Pizza Parlor
-  job: Set up Stakeout
+  job: Set Up Stakeout
   energy: 34
   exp: 9
   money max: 160

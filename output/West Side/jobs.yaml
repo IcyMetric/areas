@@ -1,6 +1,6 @@
 ---
 - target: Pizza Parlor
-  job: Steal jewelry
+  job: Steal Jewelry
   energy: 136
   exp: 30
   money max: 4800
@@ -23,7 +23,7 @@
     attack for exp: 0.0015
     defense for exp: 0.003
 - target: Pizza Parlor
-  job: Harass a hipster
+  job: Harass a Hipster
   energy: 35
   exp: 9
   money max: 200
@@ -46,7 +46,7 @@
     attack for exp: 0.03333333333333333
     defense for exp: 0.05555555555555555
 - target: Pizza Parlor
-  job: Setup a hideout
+  job: Setup a Hideout
   energy: 50
   exp: 10
   money max: 320
@@ -69,7 +69,7 @@
     attack for exp: 0.014000000000000002
     defense for exp: 0.035
 - target: Gigi Devore
-  job: Snatch purse
+  job: Snatch Purse
   energy: 27
   exp: 4
   money max: 190
@@ -138,7 +138,7 @@
   average money per exp: 31
   loot: []
 - target: Pizza Parlor
-  job: Crack bank vault
+  job: Crack Bank Vault
   energy: 196
   exp: 43
   money max: 9600
@@ -244,7 +244,7 @@
   average money per exp: 29
   loot: []
 - target: Pizza Parlor
-  job: Meet with supplier
+  job: Meet with Supplier
   energy: 56
   exp: 15
   money max: 400
@@ -290,7 +290,7 @@
     attack for exp: 0.001388888888888889
     defense for exp: 0.001388888888888889
 - target: Pizza Parlor
-  job: Mug patrons
+  job: Mug Patrons
   energy: 75
   exp: 13
   money max: 500
@@ -313,7 +313,7 @@
     attack for exp: 0.0
     defense for exp: 0.0
 - target: Pizza Parlor
-  job: Steal stereo
+  job: Steal Stereo
   energy: 40
   exp: 6
   money max: 290
@@ -325,7 +325,7 @@
   average money per exp: 32
   loot: []
 - target: Pizza Parlor
-  job: Boost hub caps
+  job: Boost Hub Caps
   energy: 48
   exp: 9
   money max: 1280
@@ -337,7 +337,7 @@
   average money per exp: 27
   loot: []
 - target: Pizza Parlor
-  job: Make molotovs
+  job: Make Molotovs
   energy: 88
   exp: 25
   money max: 1200
@@ -360,7 +360,7 @@
     attack for exp: 0.004
     defense for exp: 0.008
 - target: Pizza Parlor
-  job: Heist diamonds
+  job: Heist Diamonds
   energy: 144
   exp: 30
   money max: 3800
@@ -383,7 +383,7 @@
     attack for exp: 0.0
     defense for exp: 0.0
 - target: Pizza Parlor
-  job: Steal first edition
+  job: Steal First Edition
   energy: 175
   exp: 37
   money max: 9250
@@ -430,7 +430,7 @@
   average money per exp: 11
   loot: []
 - target: Pizza Parlor
-  job: Break in
+  job: Break In
   energy: 50
   exp: 13
   money max: 360
@@ -465,7 +465,7 @@
   average money per exp: 30
   loot: []
 - target: Pizza Parlor
-  job: Plant bug
+  job: Plant Bug
   energy: 60
   exp: 16
   money max: 350
@@ -488,7 +488,7 @@
     attack for exp: 0.0
     defense for exp: 0.0
 - target: Pizza Parlor
-  job: Home invasion
+  job: Home Invasion
   energy: 78
   exp: 18
   money max: 560

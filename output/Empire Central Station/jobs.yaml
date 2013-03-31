@@ -1,6 +1,6 @@
 ---
 - target: Father Falcone
-  job: Take down
+  job: Take Down
   energy: 340
   exp: 144
   money max: 104000
@@ -23,7 +23,7 @@
     attack for exp: 0.003298611111111111
     defense for exp: 0.0024305555555555556
 - target: Muscles Mulroney
-  job: Beat up
+  job: Beat Up
   energy: 276
   exp: 115
   money max: 60000
@@ -149,7 +149,7 @@
     attack for exp: 0.00035690680766688697
     defense for exp: 0.00045604758757435555
 - target: Pizza Parlor
-  job: Plant bomb on train
+  job: Plant Bomb on Train
   energy: 164
   exp: 60
   money max: 14000
@@ -195,7 +195,7 @@
     attack for exp: 0.003633879781420765
     defense for exp: 0.003633879781420765
 - target: Pizza Parlor
-  job: Make fake bomb phone call
+  job: Make Fake Bomb Phone Call
   energy: 106
   exp: 35
   money max: 4500
@@ -207,7 +207,7 @@
   average money per exp: 78
   loot: []
 - target: Pizza Parlor
-  job: Plant bomb under Ella's car
+  job: Plant Bomb Under Ella's Car
   energy: 177
   exp: 68
   money max: 8000
@@ -253,7 +253,7 @@
     attack for exp: 0.0010514285714285714
     defense for exp: 0.0015771428571428573
 - target: Pizza Parlor
-  job: Take out crooked cops
+  job: Take Out Crooked Cops
   energy: 332
   exp: 134
   money max: 76800
@@ -276,7 +276,7 @@
     attack for exp: 0.001554726368159204
     defense for exp: 0.004353233830845771
 - target: Pizza Parlor
-  job: Bribe waitress
+  job: Bribe Waitress
   energy: 114
   exp: 34
   money max: 5800
@@ -288,7 +288,7 @@
   average money per exp: 102
   loot: []
 - target: Pizza Parlor
-  job: Pick a fight
+  job: Pick a Fight
   energy: 267
   exp: 91
   money max: 9500
@@ -300,7 +300,7 @@
   average money per exp: 71
   loot: []
 - target: Pizza Parlor
-  job: Unplug life support
+  job: Unplug Life Support
   energy: 136
   exp: 44
   money max: 6500
@@ -312,7 +312,7 @@
   average money per exp: 96
   loot: []
 - target: Pizza Parlor
-  job: Excommunicate thugs
+  job: Excommunicate Thugs
   energy: 195
   exp: 65
   money max: 10000
@@ -324,7 +324,7 @@
   average money per exp: 80
   loot: []
 - target: Pizza Parlor
-  job: Menace staff
+  job: Menace Staff
   energy: 172
   exp: 68
   money max: 14400
@@ -347,7 +347,7 @@
     attack for exp: 0.004632352941176471
     defense for exp: 0.015441176470588236
 - target: Pizza Parlor
-  job: Crack safe
+  job: Crack Safe
   energy: 450
   exp: 168
   money max: 248000
@@ -370,7 +370,7 @@
     attack for exp: 0.001800595238095238
     defense for exp: 0.003273809523809524
 - target: Pizza Parlor
-  job: Manhandle manager
+  job: Manhandle Manager
   energy: 233
   exp: 94
   money max: 37600
@@ -393,7 +393,7 @@
     attack for exp: 0.003909574468085106
     defense for exp: 0.005026595744680851
 - target: Pizza Parlor
-  job: Filch fortunes
+  job: Filch Fortunes
   energy: 127
   exp: 37
   money max: 9000
@@ -405,7 +405,7 @@
   average money per exp: 121
   loot: []
 - target: Pizza Parlor
-  job: Steal genuine articles
+  job: Steal Genuine Articles
   energy: 196
   exp: 59
   money max: 33000

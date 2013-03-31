@@ -49,15 +49,15 @@
   loot:
   - name: Mk 14 Battle Rifle
     type: gun
-    percent: 0.16
+    percent: 0.04
     attack: 14
     defense: 14
-    energy for 1: 6400.0
-    exp for 1: 2200.0
-    attack for energy: 0.0021875
-    defense for energy: 0.0021875
-    attack for exp: 0.006363636363636364
-    defense for exp: 0.006363636363636364
+    energy for 1: 25600.0
+    exp for 1: 8800.0
+    attack for energy: 0.000546875
+    defense for energy: 0.000546875
+    attack for exp: 0.001590909090909091
+    defense for exp: 0.001590909090909091
 - target: Pizza Parlor
   job: Heist Computers
   energy: 325
@@ -72,15 +72,15 @@
   loot:
   - name: Police Armor
     type: armor
-    percent: 0.26
+    percent: 0.07
     attack: 5
     defense: 14
-    energy for 1: 6250.0
-    exp for 1: 1923.076923076923
-    attack for energy: 0.0008
-    defense for energy: 0.00224
-    attack for exp: 0.0026
-    defense for exp: 0.00728
+    energy for 1: 23214.285714285714
+    exp for 1: 7142.857142857142
+    attack for energy: 0.0002153846153846154
+    defense for energy: 0.0006030769230769231
+    attack for exp: 0.0007000000000000001
+    defense for exp: 0.0019600000000000004
 - target: Eugene Snodgrass
   job: Mug Astronomy Nerd
   energy: 140
@@ -107,15 +107,15 @@
   loot:
   - name: Toxic Sprayer
     type: gun
-    percent: 0.15
+    percent: 0.04
     attack: 27
     defense: 12
-    energy for 1: 10000.0
-    exp for 1: 4366.666666666667
-    attack for energy: 0.0027
-    defense for energy: 0.0012
-    attack for exp: 0.006183206106870229
-    defense for exp: 0.002748091603053435
+    energy for 1: 37500.0
+    exp for 1: 16375.0
+    attack for energy: 0.00072
+    defense for energy: 0.00032
+    attack for exp: 0.001648854961832061
+    defense for exp: 0.000732824427480916
 - target: Mrs. Crabtree
   job: Keep Teacher Quiet
   energy: 200
@@ -130,15 +130,15 @@
   loot:
   - name: Steyr AUG
     type: gun
-    percent: 0.2
+    percent: 0.05
     attack: 7
     defense: 6
-    energy for 1: 4000.0
-    exp for 1: 1680.0
-    attack for energy: 0.00175
-    defense for energy: 0.0015
-    attack for exp: 0.004166666666666667
-    defense for exp: 0.0035714285714285713
+    energy for 1: 16000.0
+    exp for 1: 6720.0
+    attack for energy: 0.0004375
+    defense for energy: 0.000375
+    attack for exp: 0.0010416666666666667
+    defense for exp: 0.0008928571428571428
 - target: Carmella Song
   job: Stop Song from Singing
   energy: 270
@@ -153,15 +153,15 @@
   loot:
   - name: Irish Shooter
     type: gun
-    percent: 0.22
+    percent: 0.06
     attack: 11
     defense: 10
-    energy for 1: 4909.090909090909
-    exp for 1: 2090.909090909091
-    attack for energy: 0.0022407407407407406
-    defense for energy: 0.002037037037037037
-    attack for exp: 0.005260869565217391
-    defense for exp: 0.004782608695652174
+    energy for 1: 18000.0
+    exp for 1: 7666.666666666667
+    attack for energy: 0.0006111111111111111
+    defense for energy: 0.0005555555555555556
+    attack for exp: 0.0014347826086956522
+    defense for exp: 0.0013043478260869564
 - target: Trent the Trigger
   job: Pull the Trigger
   energy: 292
@@ -176,15 +176,15 @@
   loot:
   - name: Mk 14 Battle Rifle
     type: gun
-    percent: 0.17
+    percent: 0.04
     attack: 14
     defense: 14
-    energy for 1: 8588.235294117647
-    exp for 1: 3764.705882352941
-    attack for energy: 0.00163013698630137
-    defense for energy: 0.00163013698630137
-    attack for exp: 0.0037187500000000003
-    defense for exp: 0.0037187500000000003
+    energy for 1: 36500.0
+    exp for 1: 16000.0
+    attack for energy: 0.0003835616438356164
+    defense for energy: 0.0003835616438356164
+    attack for exp: 0.000875
+    defense for exp: 0.000875
 - target: Slugger McManis
   job: Cut Up Slugger
   energy: 344
@@ -199,15 +199,15 @@
   loot:
   - name: Trick Razor
     type: melee
-    percent: 0.25
+    percent: 0.06
     attack: 11
     defense: 9
-    energy for 1: 6880.0
-    exp for 1: 3080.0
-    attack for energy: 0.0015988372093023256
-    defense for energy: 0.001308139534883721
-    attack for exp: 0.0035714285714285713
-    defense for exp: 0.002922077922077922
+    energy for 1: 28666.666666666668
+    exp for 1: 12833.333333333334
+    attack for energy: 0.00038372093023255813
+    defense for energy: 0.000313953488372093
+    attack for exp: 0.0008571428571428571
+    defense for exp: 0.0007012987012987012
 - target: Stone Cold Sergei
   job: Defeat
   energy: 444
@@ -267,15 +267,15 @@
   loot:
   - name: Armored Police Truck
     type: car
-    percent: 0.18
+    percent: 0.05
     attack: 4
     defense: 19
-    energy for 1: 15666.666666666668
-    exp for 1: 5866.666666666667
-    attack for energy: 0.0002553191489361702
-    defense for energy: 0.0012127659574468084
-    attack for exp: 0.0006818181818181818
-    defense for exp: 0.0032386363636363637
+    energy for 1: 56400.0
+    exp for 1: 21120.0
+    attack for energy: 7.092198581560284e-05
+    defense for energy: 0.00033687943262411345
+    attack for exp: 0.0001893939393939394
+    defense for exp: 0.0008996212121212122
 - target: Pizza Parlor
   job: Take Care of Witnesses
   energy: 272
@@ -290,15 +290,15 @@
   loot:
   - name: Limousine
     type: car
-    percent: 0.17
+    percent: 0.04
     attack: 5
     defense: 17
-    energy for 1: 4800.0
-    exp for 1: 2152.9411764705883
-    attack for energy: 0.0010416666666666667
-    defense for energy: 0.0035416666666666665
-    attack for exp: 0.0023224043715846993
-    defense for exp: 0.007896174863387978
+    energy for 1: 20400.0
+    exp for 1: 9150.0
+    attack for energy: 0.00024509803921568627
+    defense for energy: 0.0008333333333333334
+    attack for exp: 0.000546448087431694
+    defense for exp: 0.0018579234972677596
 - target: Pizza Parlor
   job: Deface Monument
   energy: 170
@@ -313,12 +313,12 @@
   loot:
   - name: Mossberg 590 Shotgun
     type: gun
-    percent: 0.16
+    percent: 0.04
     attack: 12
     defense: 8
-    energy for 1: 2125.0
-    exp for 1: 750.0
-    attack for energy: 0.005647058823529412
-    defense for energy: 0.0037647058823529413
-    attack for exp: 0.016
-    defense for exp: 0.010666666666666666
+    energy for 1: 8500.0
+    exp for 1: 3000.0
+    attack for energy: 0.001411764705882353
+    defense for energy: 0.0009411764705882353
+    attack for exp: 0.004
+    defense for exp: 0.0026666666666666666

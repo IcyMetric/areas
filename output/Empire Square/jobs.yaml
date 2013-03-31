@@ -1,6 +1,6 @@
 ---
 - target: Pizza Parlor
-  job: Market smuggled goods
+  job: Market Smuggled Goods
   energy: 64
   exp: 10
   money max: 450
@@ -23,7 +23,7 @@
     attack for exp: 0.066
     defense for exp: 0.066
 - target: Pizza Parlor
-  job: Sell bootleg CDs and DVDs
+  job: Sell Bootleg CDs and DVDs
   energy: 48
   exp: 6
   money max: 420
@@ -35,7 +35,7 @@
   average money per exp: 43
   loot: []
 - target: Pizza Parlor
-  job: Destroy documents
+  job: Destroy Documents
   energy: 56
   exp: 13
   money max: 735
@@ -58,7 +58,7 @@
     attack for exp: 0.012307692307692308
     defense for exp: 0.012307692307692308
 - target: Pizza Parlor
-  job: Hire celebrities to sell products
+  job: Hire Celebrities to Sell Products
   energy: 21
   exp: 3
   money max: 180
@@ -81,7 +81,7 @@
     attack for exp: 0.04666666666666667
     defense for exp: 0.04666666666666667
 - target: Pizza Parlor
-  job: Hit crooked lawyer
+  job: Hit Crooked Lawyer
   energy: 60
   exp: 13
   money max: 600
@@ -104,7 +104,7 @@
     attack for exp: 0.006153846153846154
     defense for exp: 0.009230769230769232
 - target: Pizza Parlor
-  job: Throw traitor off building
+  job: Throw Traitor off Building
   energy: 50
   exp: 12
   money max: 390
@@ -127,7 +127,7 @@
     attack for exp: 0.01
     defense for exp: 0.02
 - target: Pizza Parlor
-  job: Hold talks with allied bosses
+  job: Hold Talks with Allied Bosses
   energy: 24
   exp: 6
   money max: 95
@@ -184,7 +184,7 @@
     attack for exp: 0.015
     defense for exp: 0.015
 - target: Missy Fowler
-  job: Pay off
+  job: Pay Off
   energy: 26
   exp: 4
   money max: 85
@@ -231,7 +231,7 @@
     attack for exp: 0.12
     defense for exp: 0.04
 - target: Sean Conti
-  job: Beat up
+  job: Beat Up
   energy: 40
   exp: 9
   money max: 390
@@ -254,7 +254,7 @@
     attack for exp: 0.0044444444444444444
     defense for exp: 0.0022222222222222222
 - target: Denise Bryant
-  job: Talk to witnesses
+  job: Talk to Witnesses
   energy: 23
   exp: 4
   money max: 65
@@ -266,7 +266,7 @@
   average money per exp: 11
   loot: []
 - target: Pizza Parlor
-  job: Steal first aid supplies
+  job: Steal First Aid Supplies
   energy: 44
   exp: 6
   money max: 600
@@ -289,7 +289,7 @@
     attack for exp: 0.05
     defense for exp: 0.05
 - target: Pizza Parlor
-  job: Get welcome-home present
+  job: Get Welcome-Home Present
   energy: 22
   exp: 4
   money max: 115
@@ -312,7 +312,7 @@
     attack for exp: 0.2025
     defense for exp: 0.135
 - target: Pizza Parlor
-  job: Shoplift listening device
+  job: Shoplift Listening Device
   energy: 20
   exp: 3
   money max: 125
@@ -347,7 +347,7 @@
     attack for exp: 0.04666666666666667
     defense for exp: 0.07
 - target: Pizza Parlor
-  job: Spy on Reni meeting
+  job: Spy on Reni Meeting
   energy: 37
   exp: 9
   money max: 185

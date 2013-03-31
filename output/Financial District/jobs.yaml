@@ -1,6 +1,6 @@
 ---
 - target: Pizza Parlor
-  job: Sell product to employees
+  job: Sell Product to Employees
   energy: 69
   exp: 14
   money max: 1100
@@ -46,7 +46,7 @@
     attack for exp: 0.004545454545454545
     defense for exp: 0.003181818181818182
 - target: Pizza Parlor
-  job: Bribe Federal officials
+  job: Bribe Federal Officials
   energy: 148
   exp: 31
   money max: 2100
@@ -69,7 +69,7 @@
     attack for exp: 0.03612903225806452
     defense for exp: 0.07225806451612904
 - target: Pizza Parlor
-  job: Manipulate currencies
+  job: Manipulate Currencies
   energy: 180
   exp: 37
   money max: 18000
@@ -92,7 +92,7 @@
     attack for exp: 0.003243243243243243
     defense for exp: 0.010810810810810811
 - target: Pizza Parlor
-  job: Manipulate market data
+  job: Manipulate Market Data
   energy: 195
   exp: 42
   money max: 12000
@@ -115,7 +115,7 @@
     attack for exp: 0.004285714285714286
     defense for exp: 0.0064285714285714285
 - target: Seth Young
-  job: Beat up
+  job: Beat Up
   energy: 188
   exp: 64
   money max: 12000
@@ -138,7 +138,7 @@
     attack for exp: 0.004375
     defense for exp: 0.005625
 - target: Roger Wood
-  job: Buy corporate secrets
+  job: Buy Corporate Secrets
   energy: 84
   exp: 24
   money max: 900
@@ -150,7 +150,7 @@
   average money per exp: 25
   loot: []
 - target: Chris Davis
-  job: Sell corporate secrets
+  job: Sell Corporate Secrets
   energy: 72
   exp: 13
   money max: 1200
@@ -174,7 +174,7 @@
   average money per exp: 23
   loot: []
 - target: Veronica Green
-  job: Sell corporate secrets
+  job: Sell Corporate Secrets
   energy: 72
   exp: 13
   money max: 1200
@@ -198,7 +198,7 @@
   average money per exp: 23
   loot: []
 - target: Kevin Chang
-  job: Buy corporate secrets
+  job: Buy Corporate Secrets
   energy: 84
   exp: 24
   money max: 900
@@ -324,7 +324,7 @@
     attack for exp: 0.004484536082474226
     defense for exp: 0.003986254295532646
 - target: Pizza Parlor
-  job: Bug vehicles
+  job: Bug Vehicles
   energy: 145
   exp: 43
   money max: 3400
@@ -382,7 +382,7 @@
     attack for exp: 0.009375
     defense for exp: 0.01875
 - target: Pizza Parlor
-  job: Steal financial records
+  job: Steal Financial Records
   energy: 365
   exp: 104
   money max: 51000
