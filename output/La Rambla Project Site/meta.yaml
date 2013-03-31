@@ -1,0 +1,23 @@
+---
+name: La Rambla Project Site
+unlock_level: 115
+is_available: 1
+is_coming_soon: 0
+mastery rewards:
+- level: 1
+  exp: 137
+  money: 480000
+- level: 2
+  exp: 137
+  respect: 700
+- level: 3
+  exp: 137
+  item: Contractor's Pickup
+  item attack: 28
+  item defense: 24
+- level: 4
+  exp: 137
+  mafia: 1
+- level: 5
+  exp: 137
+  skill points: 1

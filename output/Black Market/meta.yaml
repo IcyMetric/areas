@@ -1,6 +1,23 @@
 ---
 name: Black Market
-unlock_level: 100
+unlock_level: 120
 is_available: 1
 is_coming_soon: 0
-mastery rewards: []
+mastery rewards:
+- level: 1
+  exp: 140
+  money: 510000
+- level: 2
+  exp: 140
+  respect: 730
+- level: 3
+  exp: 140
+  item: Chinese Assault Rifle
+  item attack: 35
+  item defense: 23
+- level: 4
+  exp: 140
+  mafia: 1
+- level: 5
+  exp: 140
+  skill points: 1

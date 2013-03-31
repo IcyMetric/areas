@@ -1,0 +1,23 @@
+---
+name: Octagon Alley
+unlock_level: 125
+is_available: 1
+is_coming_soon: 0
+mastery rewards:
+- level: 1
+  exp: 144
+  money: 540000
+- level: 2
+  exp: 144
+  respect: 760
+- level: 3
+  exp: 144
+  item: Tough Guy Lowrider
+  item attack: 27
+  item defense: 30
+- level: 4
+  exp: 144
+  mafia: 1
+- level: 5
+  exp: 144
+  skill points: 1
