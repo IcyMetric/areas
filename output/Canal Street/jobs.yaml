@@ -11,16 +11,16 @@
   average money per energy: 0
   average money per exp: 12
   loot:
-  - name: Lead Pipe
-    type: melee
+  - name: Walther P99
+    type: gun
     percent: 1.0
-    attack: 2
+    attack: 1
     defense: 1
     energy for 1: 14.0
     exp for 1: 1.0
-    attack for energy: 0.14285714285714285
+    attack for energy: 0.07142857142857142
     defense for energy: 0.07142857142857142
-    attack for exp: 2.0
+    attack for exp: 1.0
     defense for exp: 1.0
 - target: Carmen Rivera
   job: Snatch purse

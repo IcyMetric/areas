@@ -1,0 +1,23 @@
+---
+name: Club District
+unlock_level: 26
+is_available: 1
+is_coming_soon: 0
+mastery rewards:
+- level: 1
+  exp: 28
+  money: 11000
+- level: 2
+  exp: 28
+  respect: 110
+- level: 3
+  exp: 28
+  item: Club Boss Jacket
+  item attack: 7
+  item defense: 13
+- level: 4
+  exp: 28
+  mafia: 1
+- level: 5
+  exp: 28
+  skill points: 1

@@ -1,0 +1,23 @@
+---
+name: Circuit Street
+unlock_level: 34
+is_available: 1
+is_coming_soon: 0
+mastery rewards:
+- level: 1
+  exp: 36
+  money: 22500
+- level: 2
+  exp: 36
+  respect: 150
+- level: 3
+  exp: 36
+  item: Infored Goggles
+  item attack: 11
+  item defense: 14
+- level: 4
+  exp: 36
+  mafia: 1
+- level: 5
+  exp: 36
+  skill points: 1
