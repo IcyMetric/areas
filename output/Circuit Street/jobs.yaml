@@ -312,6 +312,18 @@
   average money per exp: 50
   loot: []
 - target: Pizza Parlor
+  job: Ruin Paint Job
+  energy: 72
+  exp: 11
+  money max: 1000
+  money min: 300
+  clicks needed: 1
+  total energy: 72
+  total exp: 11
+  average money per energy: 9
+  average money per exp: 59
+  loot: []
+- target: Pizza Parlor
   job: Sugar in the Gas Tank
   energy: 65
   exp: 9
