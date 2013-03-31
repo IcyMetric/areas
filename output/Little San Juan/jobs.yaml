@@ -13,15 +13,15 @@
   loot:
   - name: Spiked Hammer
     type: melee
-    percent: 0.17
+    percent: 0.34
     attack: 13
     defense: 8
-    energy for 1: 2788.235294117647
-    exp for 1: 1005.8823529411764
-    attack for energy: 0.004662447257383967
-    defense for energy: 0.002869198312236287
-    attack for exp: 0.012923976608187136
-    defense for exp: 0.007953216374269007
+    energy for 1: 1394.1176470588234
+    exp for 1: 502.9411764705882
+    attack for energy: 0.009324894514767933
+    defense for energy: 0.005738396624472574
+    attack for exp: 0.025847953216374273
+    defense for exp: 0.015906432748538014
 - target: Pizza Parlor
   job: Ransack
   energy: 270
@@ -36,15 +36,15 @@
   loot:
   - name: Mk 14 Battle Rifle
     type: gun
-    percent: 0.16
+    percent: 0.32
     attack: 14
     defense: 14
-    energy for 1: 10125.0
-    exp for 1: 3562.5
-    attack for energy: 0.001382716049382716
-    defense for energy: 0.001382716049382716
-    attack for exp: 0.003929824561403509
-    defense for exp: 0.003929824561403509
+    energy for 1: 5062.5
+    exp for 1: 1781.25
+    attack for energy: 0.002765432098765432
+    defense for energy: 0.002765432098765432
+    attack for exp: 0.007859649122807018
+    defense for exp: 0.007859649122807018
 - target: Guillermo Torres
   job: Interrogate
   energy: 172
@@ -71,15 +71,15 @@
   loot:
   - name: Rusted Minigun
     type: gun
-    percent: 0.27
+    percent: 0.54
     attack: 8
     defense: 10
-    energy for 1: 9722.22222222222
-    exp for 1: 3111.111111111111
-    attack for energy: 0.000822857142857143
-    defense for energy: 0.0010285714285714288
-    attack for exp: 0.0025714285714285717
-    defense for exp: 0.0032142857142857147
+    energy for 1: 4861.11111111111
+    exp for 1: 1555.5555555555554
+    attack for energy: 0.001645714285714286
+    defense for energy: 0.0020571428571428576
+    attack for exp: 0.0051428571428571435
+    defense for exp: 0.006428571428571429
 - target: Pizza Parlor
   job: Plunder
   energy: 262
@@ -94,15 +94,15 @@
   loot:
   - name: Trick Razor
     type: melee
-    percent: 0.21
+    percent: 0.42
     attack: 11
     defense: 9
-    energy for 1: 6238.0952380952385
-    exp for 1: 1952.3809523809525
-    attack for energy: 0.001763358778625954
-    defense for energy: 0.0014427480916030533
-    attack for exp: 0.0056341463414634144
-    defense for exp: 0.004609756097560975
+    energy for 1: 3119.0476190476193
+    exp for 1: 976.1904761904763
+    attack for energy: 0.003526717557251908
+    defense for energy: 0.0028854961832061065
+    attack for exp: 0.011268292682926829
+    defense for exp: 0.00921951219512195
 - target: Pizza Parlor
   job: Rob
   energy: 154
@@ -129,15 +129,15 @@
   loot:
   - name: Punker Pants
     type: armor
-    percent: 0.21
+    percent: 0.42
     attack: 9
     defense: 11
-    energy for 1: 7619.047619047619
-    exp for 1: 2952.3809523809523
-    attack for energy: 0.00118125
-    defense for energy: 0.00144375
-    attack for exp: 0.0030483870967741938
-    defense for exp: 0.0037258064516129032
+    energy for 1: 3809.5238095238096
+    exp for 1: 1476.1904761904761
+    attack for energy: 0.0023625
+    defense for energy: 0.0028875
+    attack for exp: 0.0060967741935483875
+    defense for exp: 0.0074516129032258065
 - target: Blanca Diaz
   job: Beat Down
   energy: 267
@@ -152,15 +152,15 @@
   loot:
   - name: S&M Choker
     type: melee
-    percent: 0.2
+    percent: 0.4
     attack: 17
     defense: 7
-    energy for 1: 8010.0
-    exp for 1: 3030.0
-    attack for energy: 0.002122347066167291
-    defense for energy: 0.0008739076154806492
-    attack for exp: 0.005610561056105611
-    defense for exp: 0.0023102310231023103
+    energy for 1: 4005.0
+    exp for 1: 1515.0
+    attack for energy: 0.004244694132334582
+    defense for energy: 0.0017478152309612985
+    attack for exp: 0.011221122112211221
+    defense for exp: 0.0046204620462046205
 - target: Domingo Guzman
   job: Bust Up
   energy: 290
@@ -175,15 +175,15 @@
   loot:
   - name: Pimp's Sex Pistol
     type: gun
-    percent: 0.22
+    percent: 0.44
     attack: 14
     defense: 10
-    energy for 1: 7909.090909090909
-    exp for 1: 3081.818181818182
-    attack for energy: 0.0017701149425287355
-    defense for energy: 0.001264367816091954
-    attack for exp: 0.004542772861356932
-    defense for exp: 0.0032448377581120944
+    energy for 1: 3954.5454545454545
+    exp for 1: 1540.909090909091
+    attack for energy: 0.003540229885057471
+    defense for energy: 0.002528735632183908
+    attack for exp: 0.009085545722713863
+    defense for exp: 0.006489675516224189
 - target: Ramon Reyes
   job: Hit
   energy: 356
@@ -221,15 +221,15 @@
   loot:
   - name: Trick Shotgun
     type: gun
-    percent: 0.21
+    percent: 0.42
     attack: 16
     defense: 13
-    energy for 1: 14285.714285714286
-    exp for 1: 5714.285714285715
-    attack for energy: 0.00112
-    defense for energy: 0.00091
-    attack for exp: 0.0028
-    defense for exp: 0.0022749999999999997
+    energy for 1: 7142.857142857143
+    exp for 1: 2857.1428571428573
+    attack for energy: 0.00224
+    defense for energy: 0.00182
+    attack for exp: 0.0056
+    defense for exp: 0.004549999999999999
 - target: Lord Felipe
   job: Defeat
   energy: 394
@@ -301,15 +301,15 @@
   loot:
   - name: DP MachineGun
     type: gun
-    percent: 0.2
+    percent: 0.4
     attack: 5
     defense: 10
-    energy for 1: 3420.0
-    exp for 1: 990.0
-    attack for energy: 0.0014619883040935672
-    defense for energy: 0.0029239766081871343
-    attack for exp: 0.005050505050505051
-    defense for exp: 0.010101010101010102
+    energy for 1: 1710.0
+    exp for 1: 495.0
+    attack for energy: 0.0029239766081871343
+    defense for energy: 0.005847953216374269
+    attack for exp: 0.010101010101010102
+    defense for exp: 0.020202020202020204
 - target: Alma Rivera
   job: Mug
   energy: 148
@@ -348,15 +348,15 @@
   loot:
   - name: Mark 2 Blade
     type: melee
-    percent: 0.22
+    percent: 0.44
     attack: 7
     defense: 9
-    energy for 1: 9090.90909090909
-    exp for 1: 2750.0
-    attack for energy: 0.0007700000000000001
-    defense for energy: 0.00099
-    attack for exp: 0.0025454545454545456
-    defense for exp: 0.0032727272727272726
+    energy for 1: 4545.454545454545
+    exp for 1: 1375.0
+    attack for energy: 0.0015400000000000001
+    defense for energy: 0.00198
+    attack for exp: 0.005090909090909091
+    defense for exp: 0.006545454545454545
 - target: Pizza Parlor
   job: Install Henchmen
   energy: 125
@@ -407,15 +407,15 @@
   loot:
   - name: SA80 Assault Rifle
     type: gun
-    percent: 0.18
+    percent: 0.36
     attack: 13
     defense: 10
-    energy for 1: 4033.3333333333335
-    exp for 1: 1483.3333333333335
-    attack for energy: 0.0032231404958677685
-    defense for energy: 0.0024793388429752063
-    attack for exp: 0.008764044943820224
-    defense for exp: 0.0067415730337078645
+    energy for 1: 2016.6666666666667
+    exp for 1: 741.6666666666667
+    attack for energy: 0.006446280991735537
+    defense for energy: 0.004958677685950413
+    attack for exp: 0.017528089887640447
+    defense for exp: 0.013483146067415729
 - target: Pizza Parlor
   job: Clear Shelves
   energy: 180
@@ -454,12 +454,12 @@
   loot:
   - name: Rusty M4 A1
     type: gun
-    percent: 0.19
+    percent: 0.38
     attack: 7
     defense: 11
-    energy for 1: 3221.0526315789475
-    exp for 1: 1152.6315789473683
-    attack for energy: 0.002173202614379085
-    defense for energy: 0.003415032679738562
-    attack for exp: 0.006073059360730594
-    defense for exp: 0.009543378995433791
+    energy for 1: 1610.5263157894738
+    exp for 1: 576.3157894736842
+    attack for energy: 0.00434640522875817
+    defense for energy: 0.006830065359477124
+    attack for exp: 0.012146118721461189
+    defense for exp: 0.019086757990867582
