@@ -60,15 +60,15 @@
   loot:
   - name: Rusted Minigun
     type: gun
-    percent: 0.06
+    percent: 0.24
     attack: 8
     defense: 10
-    energy for 1: 21333.333333333336
-    exp for 1: 7666.666666666667
-    attack for energy: 0.00037499999999999995
-    defense for energy: 0.00046874999999999993
-    attack for exp: 0.0010434782608695651
-    defense for exp: 0.0013043478260869564
+    energy for 1: 5333.333333333334
+    exp for 1: 1916.6666666666667
+    attack for energy: 0.0014999999999999998
+    defense for energy: 0.0018749999999999997
+    attack for exp: 0.0041739130434782605
+    defense for exp: 0.005217391304347826
 - target: Pizza Parlor
   job: Heist Shells
   energy: 384
@@ -83,15 +83,15 @@
   loot:
   - name: Splatter Gun
     type: gun
-    percent: 0.04
+    percent: 0.16
     attack: 15
     defense: 15
-    energy for 1: 57600.0
-    exp for 1: 22350.0
-    attack for energy: 0.00026041666666666666
-    defense for energy: 0.00026041666666666666
-    attack for exp: 0.0006711409395973154
-    defense for exp: 0.0006711409395973154
+    energy for 1: 14400.0
+    exp for 1: 5587.5
+    attack for energy: 0.0010416666666666667
+    defense for energy: 0.0010416666666666667
+    attack for exp: 0.0026845637583892616
+    defense for exp: 0.0026845637583892616
 - target: Pizza Parlor
   job: Take Missiles
   energy: 475
@@ -106,15 +106,15 @@
   loot:
   - name: Rusted Golden Gun
     type: gun
-    percent: 0.05
+    percent: 0.2
     attack: 17
     defense: 17
-    energy for 1: 76000.0
-    exp for 1: 28640.0
-    attack for energy: 0.0002236842105263158
-    defense for energy: 0.0002236842105263158
-    attack for exp: 0.0005935754189944134
-    defense for exp: 0.0005935754189944134
+    energy for 1: 19000.0
+    exp for 1: 7160.0
+    attack for energy: 0.0008947368421052632
+    defense for energy: 0.0008947368421052632
+    attack for exp: 0.0023743016759776537
+    defense for exp: 0.0023743016759776537
 - target: Pizza Parlor
   job: Hack Database
   energy: 270
@@ -129,15 +129,15 @@
   loot:
   - name: Bomb Squad Suit
     type: armor
-    percent: 0.05
+    percent: 0.2
     attack: 5
     defense: 18
-    energy for 1: 27000.0
-    exp for 1: 11800.0
-    attack for energy: 0.00018518518518518518
-    defense for energy: 0.0006666666666666666
-    attack for exp: 0.000423728813559322
-    defense for exp: 0.0015254237288135593
+    energy for 1: 6750.0
+    exp for 1: 2950.0
+    attack for energy: 0.0007407407407407407
+    defense for energy: 0.0026666666666666666
+    attack for exp: 0.001694915254237288
+    defense for exp: 0.006101694915254237
 - target: Pizza Parlor
   job: Tap Comm Lines
   energy: 212
@@ -152,15 +152,15 @@
   loot:
   - name: NATO Gas Mask
     type: armor
-    percent: 0.04
+    percent: 0.16
     attack: 4
     defense: 18
-    energy for 1: 10600.0
-    exp for 1: 4500.0
-    attack for energy: 0.0003773584905660377
-    defense for energy: 0.0016981132075471698
-    attack for exp: 0.0008888888888888889
-    defense for exp: 0.004
+    energy for 1: 2650.0
+    exp for 1: 1125.0
+    attack for energy: 0.0015094339622641509
+    defense for energy: 0.006792452830188679
+    attack for exp: 0.0035555555555555557
+    defense for exp: 0.016
 - target: Pizza Parlor
   job: Bribe Guards
   energy: 175
@@ -210,15 +210,15 @@
   loot:
   - name: Killer Machine Gun
     type: gun
-    percent: 0.05
+    percent: 0.2
     attack: 13
     defense: 11
-    energy for 1: 32000.0
-    exp for 1: 10800.0
-    attack for energy: 0.00040625
-    defense for energy: 0.00034375
-    attack for exp: 0.0012037037037037038
-    defense for exp: 0.0010185185185185184
+    energy for 1: 8000.0
+    exp for 1: 2700.0
+    attack for energy: 0.001625
+    defense for energy: 0.001375
+    attack for exp: 0.004814814814814815
+    defense for exp: 0.004074074074074074
 - target: Pizza Parlor
   job: Unload Planes
   energy: 200
@@ -256,15 +256,15 @@
   loot:
   - name: Utility Belt
     type: armor
-    percent: 0.04
+    percent: 0.16
     attack: 14
     defense: 17
-    energy for 1: 44400.0
-    exp for 1: 19650.0
-    attack for energy: 0.0003153153153153153
-    defense for energy: 0.0003828828828828829
-    attack for exp: 0.000712468193384224
-    defense for exp: 0.0008651399491094148
+    energy for 1: 11100.0
+    exp for 1: 4912.5
+    attack for energy: 0.0012612612612612612
+    defense for energy: 0.0015315315315315315
+    attack for exp: 0.002849872773536896
+    defense for exp: 0.003460559796437659
 - target: Colonel Chang
   job: Assassinate the Colonel
   energy: 368
@@ -279,15 +279,15 @@
   loot:
   - name: Crimson Shotgun
     type: gun
-    percent: 0.04
+    percent: 0.16
     attack: 19
     defense: 14
-    energy for 1: 64400.0
-    exp for 1: 28525.0
-    attack for energy: 0.0002950310559006211
-    defense for energy: 0.0002173913043478261
-    attack for exp: 0.0006660823838737949
-    defense for exp: 0.00049079754601227
+    energy for 1: 16100.0
+    exp for 1: 7131.25
+    attack for energy: 0.0011801242236024845
+    defense for energy: 0.0008695652173913044
+    attack for exp: 0.0026643295354951795
+    defense for exp: 0.00196319018404908
 - target: General Steele
   job: Defeat
   energy: 427
@@ -417,12 +417,12 @@
   loot:
   - name: Desert Camo Vest
     type: armor
-    percent: 0.04
+    percent: 0.16
     attack: 8
     defense: 17
-    energy for 1: 14850.0
-    exp for 1: 6000.0
-    attack for energy: 0.0005387205387205387
-    defense for energy: 0.0011447811447811449
-    attack for exp: 0.0013333333333333333
-    defense for exp: 0.0028333333333333335
+    energy for 1: 3712.5
+    exp for 1: 1500.0
+    attack for energy: 0.0021548821548821547
+    defense for energy: 0.004579124579124579
+    attack for exp: 0.005333333333333333
+    defense for exp: 0.011333333333333334

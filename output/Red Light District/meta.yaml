@@ -3,4 +3,21 @@ name: Red Light District
 unlock_level: 103
 is_available: 1
 is_coming_soon: 0
-mastery rewards: []
+mastery rewards:
+- level: 1
+  exp: 121
+  money: 340000
+- level: 2
+  exp: 121
+  respect: 580
+- level: 3
+  exp: 121
+  item: Red Light Chaingun
+  item attack: 16
+  item defense: 22
+- level: 4
+  exp: 121
+  mafia: 1
+- level: 5
+  exp: 121
+  skill points: 1

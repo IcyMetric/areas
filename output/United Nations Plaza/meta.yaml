@@ -3,4 +3,21 @@ name: United Nations Plaza
 unlock_level: 108
 is_available: 1
 is_coming_soon: 0
-mastery rewards: []
+mastery rewards:
+- level: 1
+  exp: 129
+  money: 410000
+- level: 2
+  exp: 129
+  respect: 640
+- level: 3
+  exp: 129
+  item: Peacekeeping Rifle
+  item attack: 16
+  item defense: 20
+- level: 4
+  exp: 129
+  mafia: 1
+- level: 5
+  exp: 129
+  skill points: 1

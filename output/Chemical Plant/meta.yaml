@@ -3,4 +3,21 @@ name: Chemical Plant
 unlock_level: 105
 is_available: 1
 is_coming_soon: 0
-mastery rewards: []
+mastery rewards:
+- level: 1
+  exp: 124
+  money: 375000
+- level: 2
+  exp: 124
+  respect: 610
+- level: 3
+  exp: 124
+  item: Firestone Flamethrower
+  item attack: 23
+  item defense: 10
+- level: 4
+  exp: 124
+  mafia: 1
+- level: 5
+  exp: 124
+  skill points: 1
