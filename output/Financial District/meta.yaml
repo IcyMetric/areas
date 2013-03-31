@@ -17,7 +17,7 @@ mastery rewards:
   item defense: 25
 - level: 4
   exp: 48
-  mafia: 
+  mafia: 1
 - level: 5
   exp: 48
   skill points: 1
