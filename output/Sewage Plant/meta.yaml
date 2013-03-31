@@ -1,0 +1,23 @@
+---
+name: Sewage Plant
+unlock_level: 76
+is_available: 1
+is_coming_soon: 0
+mastery rewards:
+- level: 1
+  exp: 90
+  money: 170000
+- level: 2
+  exp: 90
+  respect: 360
+- level: 3
+  exp: 90
+  item: Toxic Sprayer
+  item attack: 27
+  item defense: 12
+- level: 4
+  exp: 90
+  mafia: 1
+- level: 5
+  exp: 90
+  skill points: 1

@@ -1,0 +1,440 @@
+---
+- target: Arturo Ricci
+  job: Defeat Arturo Ricci
+  energy: 410
+  exp: 172
+  money max: 238000
+  money min: 170000
+  clicks needed: 17
+  total energy: 6970
+  total exp: 2924
+  average money per energy: 29
+  average money per exp: 69
+  loot:
+  - name: Company Semi-Automatic
+    type: gun
+    percent: 0.72
+    attack: 8
+    defense: 12
+    energy for 1: 9680.555555555557
+    exp for 1: 4061.1111111111113
+    attack for energy: 0.0008263988522238163
+    defense for energy: 0.0012395982783357244
+    attack for exp: 0.001969904240766074
+    defense for exp: 0.0029548563611491107
+  - name: Company Car
+    type: car
+    percent: 0.22
+    attack: 11
+    defense: 16
+    energy for 1: 31681.81818181818
+    exp for 1: 13290.90909090909
+    attack for energy: 0.0003472022955523673
+    defense for energy: 0.0005050215208034434
+    attack for exp: 0.0008276333789329686
+    defense for exp: 0.0012038303693570453
+  - name: Company Body Armor
+    type: armor
+    percent: 0.06
+    attack: 10
+    defense: 30
+    energy for 1: 116166.66666666667
+    exp for 1: 48733.333333333336
+    attack for energy: 8.60832137733142e-05
+    defense for energy: 0.0002582496413199426
+    attack for exp: 0.0002051983584131327
+    defense for exp: 0.0006155950752393981
+- target: Deedee Parks
+  job: Steal Ricci records
+  energy: 300
+  exp: 95
+  money max: 51000
+  money min: 18000
+  clicks needed: 3
+  total energy: 900
+  total exp: 285
+  average money per energy: 38
+  average money per exp: 121
+  loot:
+  - name: Police Armor
+    type: armor
+    percent: 0.37
+    attack: 5
+    defense: 14
+    energy for 1: 2432.4324324324325
+    exp for 1: 770.2702702702703
+    attack for energy: 0.0020555555555555557
+    defense for energy: 0.005755555555555555
+    attack for exp: 0.006491228070175438
+    defense for exp: 0.018175438596491227
+- target: Fiona Hausman
+  job: Steal office keys
+  energy: 140
+  exp: 42
+  money max: 5000
+  money min: 1800
+  clicks needed: 1
+  total energy: 140
+  total exp: 42
+  average money per energy: 24
+  average money per exp: 80
+  loot: []
+- target: Charles T. Wingard III
+  job: Bribe for information
+  energy: 148
+  exp: 45
+  money max: 5400
+  money min: 2200
+  clicks needed: 1
+  total energy: 148
+  total exp: 45
+  average money per energy: 25
+  average money per exp: 84
+  loot: []
+- target: Lee Jackson
+  job: Beat up
+  energy: 256
+  exp: 100
+  money max: 60000
+  money min: 21600
+  clicks needed: 6
+  total energy: 1536
+  total exp: 600
+  average money per energy: 26
+  average money per exp: 68
+  loot:
+  - name: Samurai Knife
+    type: melee
+    percent: 0.46
+    attack: 9
+    defense: 13
+    energy for 1: 3339.1304347826085
+    exp for 1: 1304.3478260869565
+    attack for energy: 0.0026953125000000002
+    defense for energy: 0.003893229166666667
+    attack for exp: 0.0069
+    defense for exp: 0.009966666666666667
+- target: Bulldog Johnson
+  job: Beat up
+  energy: 272
+  exp: 108
+  money max: 69000
+  money min: 27000
+  clicks needed: 6
+  total energy: 1632
+  total exp: 648
+  average money per energy: 29
+  average money per exp: 74
+  loot:
+  - name: Skull Shotgun
+    type: gun
+    percent: 0.41
+    attack: 18
+    defense: 7
+    energy for 1: 3980.487804878049
+    exp for 1: 1580.4878048780488
+    attack for energy: 0.004522058823529412
+    defense for energy: 0.001758578431372549
+    attack for exp: 0.01138888888888889
+    defense for exp: 0.004429012345679013
+- target: Slow Lenny
+  job: Buy off
+  energy: 132
+  exp: 44
+  money max: 5500
+  money min: 1000
+  clicks needed: 1
+  total energy: 132
+  total exp: 44
+  average money per energy: 24
+  average money per exp: 73
+  loot: []
+- target: Pizza Parlor
+  job: Set up embezzlement scheme
+  energy: 244
+  exp: 75
+  money max: 100000
+  money min: 5
+  clicks needed: 5
+  total energy: 1220
+  total exp: 375
+  average money per energy: 40
+  average money per exp: 133
+  loot:
+  - name: Security Shotgun
+    type: gun
+    percent: 0.38
+    attack: 10
+    defense: 14
+    energy for 1: 3210.5263157894738
+    exp for 1: 986.8421052631579
+    attack for energy: 0.0031147540983606555
+    defense for energy: 0.004360655737704918
+    attack for exp: 0.010133333333333333
+    defense for exp: 0.014186666666666667
+- target: Pizza Parlor
+  job: Break up Ricci board meeting
+  energy: 455
+  exp: 190
+  money max: 144000
+  money min: 56000
+  clicks needed: 8
+  total energy: 3640
+  total exp: 1520
+  average money per energy: 27
+  average money per exp: 65
+  loot:
+  - name: Splatter Gun
+    type: gun
+    percent: 0.44
+    attack: 15
+    defense: 15
+    energy for 1: 8272.727272727272
+    exp for 1: 3454.5454545454545
+    attack for energy: 0.0018131868131868133
+    defense for energy: 0.0018131868131868133
+    attack for exp: 0.0043421052631578945
+    defense for exp: 0.0043421052631578945
+- target: Pizza Parlor
+  job: Destroy Ricci transaction files
+  energy: 224
+  exp: 88
+  money max: 34000
+  money min: 14000
+  clicks needed: 4
+  total energy: 896
+  total exp: 352
+  average money per energy: 26
+  average money per exp: 68
+  loot: []
+- target: Pizza Parlor
+  job: Bribe judge to dismiss case
+  energy: 172
+  exp: 58
+  money max: 6500
+  money min: 2500
+  clicks needed: 1
+  total energy: 172
+  total exp: 58
+  average money per energy: 26
+  average money per exp: 77
+  loot: []
+- target: Pizza Parlor
+  job: Steal corporate cars
+  energy: 220
+  exp: 70
+  money max: 24000
+  money min: 8000
+  clicks needed: 2
+  total energy: 440
+  total exp: 140
+  average money per energy: 36
+  average money per exp: 114
+  loot:
+  - name: M4 A1
+    type: gun
+    percent: 0.38
+    attack: 20
+    defense: 22
+    energy for 1: 1157.8947368421052
+    exp for 1: 368.42105263157896
+    attack for energy: 0.017272727272727273
+    defense for energy: 0.019
+    attack for exp: 0.054285714285714284
+    defense for exp: 0.05971428571428571
+- target: Pizza Parlor
+  job: Rob
+  energy: 160
+  exp: 48
+  money max: 6600
+  money min: 3600
+  clicks needed: 1
+  total energy: 160
+  total exp: 48
+  average money per energy: 31
+  average money per exp: 106
+  loot: []
+- target: Pizza Parlor
+  job: Get rid of Ricci-owned cops
+  energy: 348
+  exp: 138
+  money max: 66000
+  money min: 48000
+  clicks needed: 6
+  total energy: 2088
+  total exp: 828
+  average money per energy: 27
+  average money per exp: 68
+  loot:
+  - name: FBI SWAT Van
+    type: car
+    percent: 0.12
+    attack: 12
+    defense: 15
+    energy for 1: 17400.0
+    exp for 1: 6900.0
+    attack for energy: 0.000689655172413793
+    defense for energy: 0.0008620689655172414
+    attack for exp: 0.0017391304347826088
+    defense for exp: 0.002173913043478261
+- target: Pizza Parlor
+  job: Threaten management
+  energy: 178
+  exp: 67
+  money max: 10000
+  money min: 6000
+  clicks needed: 2
+  total energy: 356
+  total exp: 134
+  average money per energy: 22
+  average money per exp: 59
+  loot:
+  - name: Carbine
+    type: gun
+    percent: 0.44
+    attack: 4
+    defense: 6
+    energy for 1: 809.0909090909091
+    exp for 1: 304.54545454545456
+    attack for energy: 0.004943820224719101
+    defense for energy: 0.007415730337078651
+    attack for exp: 0.013134328358208954
+    defense for exp: 0.01970149253731343
+- target: Pizza Parlor
+  job: Loot inventory
+  energy: 244
+  exp: 80
+  money max: 64000
+  money min: 8000
+  clicks needed: 4
+  total energy: 976
+  total exp: 320
+  average money per energy: 36
+  average money per exp: 112
+  loot:
+  - name: SG 550
+    type: gun
+    percent: 0.38
+    attack: 10
+    defense: 7
+    energy for 1: 2568.4210526315787
+    exp for 1: 842.1052631578947
+    attack for energy: 0.00389344262295082
+    defense for energy: 0.002725409836065574
+    attack for exp: 0.011875
+    defense for exp: 0.0083125
+- target: Pizza Parlor
+  job: Gun down rivals
+  energy: 336
+  exp: 140
+  money max: 84000
+  money min: 30000
+  clicks needed: 6
+  total energy: 2016
+  total exp: 840
+  average money per energy: 28
+  average money per exp: 67
+  loot:
+  - name: Killer Machine Gun
+    type: gun
+    percent: 0.43
+    attack: 13
+    defense: 11
+    energy for 1: 4688.372093023256
+    exp for 1: 1953.4883720930234
+    attack for energy: 0.0027728174603174603
+    defense for energy: 0.0023462301587301587
+    attack for exp: 0.006654761904761905
+    defense for exp: 0.005630952380952381
+- target: Pizza Parlor
+  job: Start electrical fire
+  energy: 320
+  exp: 130
+  money max: 37500
+  money min: 13500
+  clicks needed: 3
+  total energy: 960
+  total exp: 390
+  average money per energy: 26
+  average money per exp: 65
+  loot:
+  - name: Urban Warfare Vest
+    type: armor
+    percent: 0.17
+    attack: 11
+    defense: 20
+    energy for 1: 5647.058823529412
+    exp for 1: 2294.1176470588234
+    attack for energy: 0.0019479166666666666
+    defense for energy: 0.0035416666666666665
+    attack for exp: 0.004794871794871795
+    defense for exp: 0.008717948717948718
+- target: Pizza Parlor
+  job: Smash storefront
+  energy: 210
+  exp: 80
+  money max: 24900
+  money min: 7500
+  clicks needed: 3
+  total energy: 630
+  total exp: 240
+  average money per energy: 25
+  average money per exp: 67
+  loot:
+  - name: SA58 Carbine
+    type: gun
+    percent: 0.38
+    attack: 37
+    defense: 41
+    energy for 1: 1657.8947368421052
+    exp for 1: 631.578947368421
+    attack for energy: 0.02231746031746032
+    defense for energy: 0.02473015873015873
+    attack for exp: 0.058583333333333334
+    defense for exp: 0.06491666666666666
+- target: Pizza Parlor
+  job: Raid panic room
+  energy: 270
+  exp: 100
+  money max: 55000
+  money min: 20000
+  clicks needed: 5
+  total energy: 1350
+  total exp: 500
+  average money per energy: 27
+  average money per exp: 75
+  loot:
+  - name: Trick Shotgun
+    type: gun
+    percent: 0.28
+    attack: 16
+    defense: 13
+    energy for 1: 4821.428571428571
+    exp for 1: 1785.7142857142856
+    attack for energy: 0.0033185185185185193
+    defense for energy: 0.002696296296296297
+    attack for exp: 0.008960000000000001
+    defense for exp: 0.007280000000000001
+- target: Pizza Parlor
+  job: Dispose of bodies
+  energy: 190
+  exp: 68
+  money max: 14000
+  money min: 6000
+  clicks needed: 2
+  total energy: 380
+  total exp: 136
+  average money per energy: 26
+  average money per exp: 73
+  loot:
+  - name: Nail Bat
+    type: melee
+    percent: 0.42
+    attack: 7
+    defense: 5
+    energy for 1: 904.7619047619048
+    exp for 1: 323.8095238095238
+    attack for energy: 0.007736842105263157
+    defense for energy: 0.005526315789473684
+    attack for exp: 0.02161764705882353
+    defense for exp: 0.015441176470588236

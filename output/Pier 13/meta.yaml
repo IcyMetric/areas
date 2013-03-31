@@ -1,0 +1,38 @@
+---
+name: Pier 13
+unlock_level: 63
+is_available: 1
+is_coming_soon: 0
+mastery rewards:
+- level: 1
+  exp: 66
+  skill points: 1
+- level: 2
+  exp: 66
+  skill points: 1
+- level: 3
+  exp: 66
+  skill points: 1
+- level: 4
+  exp: 66
+  skill points: 1
+- level: 5
+  exp: 66
+  skill points: 1
+- level: 1
+  exp: 75
+  money: 135000
+- level: 2
+  exp: 75
+  respect: 290
+- level: 3
+  exp: 75
+  item: Marco's Delivery Truck
+  item attack: 7
+  item defense: 28
+- level: 4
+  exp: 75
+  mafia: 1
+- level: 5
+  exp: 75
+  skill points: 1

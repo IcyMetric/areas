@@ -1,0 +1,23 @@
+---
+name: Empire Central Station
+unlock_level: 84
+is_available: 1
+is_coming_soon: 0
+mastery rewards:
+- level: 1
+  exp: 96
+  money: 200000
+- level: 2
+  exp: 96
+  respect: 400
+- level: 3
+  exp: 96
+  item: Ricci Family Rings
+  item attack: 18
+  item defense: 23
+- level: 4
+  exp: 96
+  mafia: 1
+- level: 5
+  exp: 96
+  skill points: 1

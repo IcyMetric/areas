@@ -1,0 +1,23 @@
+---
+name: Empire Airport
+unlock_level: 67
+is_available: 1
+is_coming_soon: 0
+mastery rewards:
+- level: 1
+  exp: 80
+  money: 140000
+- level: 2
+  exp: 80
+  respect: 300
+- level: 3
+  exp: 80
+  item: Stinger Missile Launcher
+  item attack: 22
+  item defense: 14
+- level: 4
+  exp: 80
+  mafia: 1
+- level: 5
+  exp: 80
+  skill points: 1

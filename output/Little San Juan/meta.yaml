@@ -1,6 +1,23 @@
 ---
 name: Little San Juan
-unlock_level: 66
+unlock_level: 73
 is_available: 1
 is_coming_soon: 0
-mastery rewards: []
+mastery rewards:
+- level: 1
+  exp: 87
+  money: 160000
+- level: 2
+  exp: 87
+  respect: 340
+- level: 3
+  exp: 87
+  item: Felipe's Room Broom
+  item attack: 19
+  item defense: 19
+- level: 4
+  exp: 87
+  mafia: 1
+- level: 5
+  exp: 87
+  skill points: 1

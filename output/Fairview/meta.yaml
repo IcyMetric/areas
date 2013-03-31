@@ -1,6 +1,23 @@
 ---
 name: Fairview
-unlock_level: 80
+unlock_level: 70
 is_available: 1
 is_coming_soon: 0
-mastery rewards: []
+mastery rewards:
+- level: 1
+  exp: 84
+  money: 150000
+- level: 2
+  exp: 84
+  respect: 320
+- level: 3
+  exp: 84
+  item: Gunn's Assault Rifle
+  item attack: 16
+  item defense: 20
+- level: 4
+  exp: 84
+  mafia: 1
+- level: 5
+  exp: 84
+  skill points: 1
