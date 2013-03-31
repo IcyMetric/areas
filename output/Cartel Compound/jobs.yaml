@@ -13,15 +13,15 @@
   loot:
   - name: The Last Call
     type: explosive
-    percent: 0.3
+    percent: 0.15
     attack: 25
     defense: 18
-    energy for 1: 1726.6666666666667
-    exp for 1: 706.6666666666667
-    attack for energy: 0.014478764478764478
-    defense for energy: 0.010424710424710425
-    attack for exp: 0.03537735849056604
-    defense for exp: 0.025471698113207545
+    energy for 1: 3453.3333333333335
+    exp for 1: 1413.3333333333335
+    attack for energy: 0.007239382239382239
+    defense for energy: 0.0052123552123552125
+    attack for exp: 0.01768867924528302
+    defense for exp: 0.012735849056603772
 - target: Pizza Parlor
   job: Break In
   energy: 378
@@ -48,15 +48,15 @@
   loot:
   - name: The Desperado
     type: gun
-    percent: 0.22
+    percent: 0.2
     attack: 27
     defense: 18
-    energy for 1: 4322.727272727273
-    exp for 1: 1772.7272727272727
-    attack for energy: 0.006246056782334385
-    defense for energy: 0.0041640378548895894
-    attack for exp: 0.01523076923076923
-    defense for exp: 0.010153846153846154
+    energy for 1: 4755.0
+    exp for 1: 1950.0
+    attack for energy: 0.0056782334384858045
+    defense for energy: 0.0037854889589905363
+    attack for exp: 0.013846153846153847
+    defense for exp: 0.009230769230769232
 - target: Pizza Parlor
   job: Rob
   energy: 272
@@ -94,15 +94,15 @@
   loot:
   - name: Street Envy
     type: car
-    percent: 0.4
+    percent: 0.2
     attack: 26
     defense: 19
-    energy for 1: 1160.0
-    exp for 1: 475.0
-    attack for energy: 0.022413793103448276
-    defense for energy: 0.016379310344827588
-    attack for exp: 0.05473684210526316
-    defense for exp: 0.04
+    energy for 1: 2320.0
+    exp for 1: 950.0
+    attack for energy: 0.011206896551724138
+    defense for energy: 0.008189655172413794
+    attack for exp: 0.02736842105263158
+    defense for exp: 0.02
 - target: Pizza Parlor
   job: Hack Computer
   energy: 373
@@ -117,15 +117,15 @@
   loot:
   - name: Skate Gear
     type: armor
-    percent: 0.44
+    percent: 0.3
     attack: 20
     defense: 25
-    energy for 1: 4238.636363636364
-    exp for 1: 1738.6363636363637
-    attack for energy: 0.004718498659517426
-    defense for energy: 0.005898123324396783
-    attack for exp: 0.011503267973856209
-    defense for exp: 0.01437908496732026
+    energy for 1: 6216.666666666667
+    exp for 1: 2550.0
+    attack for energy: 0.0032171581769436996
+    defense for energy: 0.004021447721179625
+    attack for exp: 0.00784313725490196
+    defense for exp: 0.00980392156862745
 - target: Pizza Parlor
   job: ! 'Dismantle '
   energy: 333
@@ -140,15 +140,15 @@
   loot:
   - name: The Last Call
     type: explosive
-    percent: 0.35
+    percent: 0.25
     attack: 25
     defense: 18
-    energy for 1: 2854.2857142857147
-    exp for 1: 1174.2857142857144
-    attack for energy: 0.008758758758758757
-    defense for energy: 0.006306306306306305
-    attack for exp: 0.021289537712895375
-    defense for exp: 0.01532846715328467
+    energy for 1: 3996.0
+    exp for 1: 1644.0
+    attack for energy: 0.006256256256256257
+    defense for energy: 0.0045045045045045045
+    attack for exp: 0.015206812652068127
+    defense for exp: 0.010948905109489052
 - target: Pizza Parlor
   job: Wire Bomb
   energy: 356
@@ -222,15 +222,15 @@
   loot:
   - name: Steel Fists
     type: melee
-    percent: 0.45
+    percent: 0.35
     attack: 26
     defense: 17
-    energy for 1: 4266.666666666667
-    exp for 1: 1744.4444444444443
-    attack for energy: 0.006093749999999999
-    defense for energy: 0.003984375
-    attack for exp: 0.014904458598726116
-    defense for exp: 0.009745222929936306
+    energy for 1: 5485.714285714286
+    exp for 1: 2242.857142857143
+    attack for energy: 0.004739583333333333
+    defense for energy: 0.003098958333333333
+    attack for exp: 0.011592356687898087
+    defense for exp: 0.007579617834394903
 - target: Cierra Quanna
   job: Terminate
   energy: 344
@@ -245,15 +245,15 @@
   loot:
   - name: Street Envy
     type: car
-    percent: 0.43
+    percent: 0.23
     attack: 26
     defense: 19
-    energy for 1: 3200.0
-    exp for 1: 1311.6279069767443
-    attack for energy: 0.008125
-    defense for energy: 0.0059375
-    attack for exp: 0.019822695035460993
-    defense for exp: 0.014485815602836878
+    energy for 1: 5982.608695652174
+    exp for 1: 2452.173913043478
+    attack for energy: 0.00434593023255814
+    defense for energy: 0.003175872093023256
+    attack for exp: 0.010602836879432625
+    defense for exp: 0.0077482269503546105
 - target: Lottie Esmee
   job: Whack
   energy: 315
@@ -314,15 +314,15 @@
   loot:
   - name: The Desperado
     type: gun
-    percent: 0.4
+    percent: 0.3
     attack: 27
     defense: 18
-    energy for 1: 5810.0
-    exp for 1: 2380.0
-    attack for energy: 0.004647160068846815
-    defense for energy: 0.003098106712564544
-    attack for exp: 0.01134453781512605
-    defense for exp: 0.007563025210084034
+    energy for 1: 7746.666666666667
+    exp for 1: 3173.3333333333335
+    attack for energy: 0.0034853700516351118
+    defense for energy: 0.0023235800344234077
+    attack for exp: 0.008508403361344537
+    defense for exp: 0.005672268907563025
 - target: Miguelito Paloma
   job: Waste
   energy: 292
