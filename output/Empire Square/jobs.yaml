@@ -1,0 +1,371 @@
+---
+- target: Pizza Parlor
+  job: Market smuggled goods
+  energy: 64
+  exp: 7
+  money max: 500
+  money min: 150
+  clicks needed: 1
+  total energy: 64
+  total exp: 7
+  average money per energy: 5
+  average money per exp: 46
+  loot:
+  - name: Metal Bat
+    type: melee
+    percent: 0.22
+    attack: 3
+    defense: 3
+    energy for 1: 290.90909090909093
+    exp for 1: 31.818181818181817
+    attack for energy: 0.010312499999999999
+    defense for energy: 0.010312499999999999
+    attack for exp: 0.09428571428571429
+    defense for exp: 0.09428571428571429
+- target: Pizza Parlor
+  job: Sell bootleg CDs and DVDs
+  energy: 48
+  exp: 4
+  money max: 440
+  money min: 100
+  clicks needed: 1
+  total energy: 48
+  total exp: 4
+  average money per energy: 5
+  average money per exp: 67
+  loot: []
+- target: Pizza Parlor
+  job: Destroy documents
+  energy: 56
+  exp: 9
+  money max: 735
+  money min: 450
+  clicks needed: 3
+  total energy: 168
+  total exp: 27
+  average money per energy: 3
+  average money per exp: 21
+  loot:
+  - name: Dark Alley Coat
+    type: armor
+    percent: 0.16
+    attack: 3
+    defense: 3
+    energy for 1: 1050.0
+    exp for 1: 168.75
+    attack for energy: 0.002857142857142857
+    defense for energy: 0.002857142857142857
+    attack for exp: 0.017777777777777778
+    defense for exp: 0.017777777777777778
+- target: Pizza Parlor
+  job: Hire celebrities to sell products
+  energy: 21
+  exp: 2
+  money max: 200
+  money min: 50
+  clicks needed: 1
+  total energy: 21
+  total exp: 2
+  average money per energy: 5
+  average money per exp: 62
+  loot:
+  - name: Motorcycle Jacket
+    type: armor
+    percent: 0.07
+    attack: 2
+    defense: 2
+    energy for 1: 299.99999999999994
+    exp for 1: 28.57142857142857
+    attack for energy: 0.006666666666666668
+    defense for energy: 0.006666666666666668
+    attack for exp: 0.07
+    defense for exp: 0.07
+- target: Pizza Parlor
+  job: Hit crooked lawyer
+  energy: 60
+  exp: 9
+  money max: 315
+  money min: 135
+  clicks needed: 2
+  total energy: 120
+  total exp: 18
+  average money per energy: 1
+  average money per exp: 12
+  loot:
+  - name: Shovel
+    type: melee
+    percent: 0.08
+    attack: 2
+    defense: 3
+    energy for 1: 1500.0
+    exp for 1: 225.0
+    attack for energy: 0.0013333333333333333
+    defense for energy: 0.002
+    attack for exp: 0.008888888888888889
+    defense for exp: 0.013333333333333334
+- target: Pizza Parlor
+  job: Throw traitor off building
+  energy: 50
+  exp: 8
+  money max: 390
+  money min: 210
+  clicks needed: 2
+  total energy: 100
+  total exp: 16
+  average money per energy: 3
+  average money per exp: 18
+  loot:
+  - name: Colt 45
+    type: gun
+    percent: 0.12
+    attack: 2
+    defense: 4
+    energy for 1: 833.3333333333334
+    exp for 1: 133.33333333333334
+    attack for energy: 0.0024
+    defense for energy: 0.0048
+    attack for exp: 0.015
+    defense for exp: 0.03
+- target: Pizza Parlor
+  job: Hold talks with allied bosses
+  energy: 24
+  exp: 4
+  money max: 95
+  money min: 35
+  clicks needed: 1
+  total energy: 24
+  total exp: 4
+  average money per energy: 2
+  average money per exp: 16
+  loot: []
+- target: Big Time Reni
+  job: Defeat Big Time Reni
+  energy: 75
+  exp: 11
+  money max: 2220
+  money min: 1200
+  clicks needed: 6
+  total energy: 450
+  total exp: 66
+  average money per energy: 3
+  average money per exp: 25
+  loot:
+  - name: Reni's Beret
+    type: armor
+    percent: 0.22
+    attack: 2
+    defense: 4
+    energy for 1: 2045.4545454545455
+    exp for 1: 300.0
+    attack for energy: 0.0009777777777777777
+    defense for energy: 0.0019555555555555554
+    attack for exp: 0.006666666666666667
+    defense for exp: 0.013333333333333334
+  - name: Reni's Little Friend
+    type: gun
+    percent: 0.06
+    attack: 5
+    defense: 4
+    energy for 1: 7500.0
+    exp for 1: 1100.0
+    attack for energy: 0.0006666666666666666
+    defense for energy: 0.0005333333333333334
+    attack for exp: 0.004545454545454545
+    defense for exp: 0.0036363636363636364
+  - name: Giant Knuckles
+    type: melee
+    percent: 0.72
+    attack: 2
+    defense: 2
+    energy for 1: 625.0
+    exp for 1: 91.66666666666667
+    attack for energy: 0.0032
+    defense for energy: 0.0032
+    attack for exp: 0.021818181818181816
+    defense for exp: 0.021818181818181816
+- target: Missy Fowler
+  job: Pay off
+  energy: 26
+  exp: 3
+  money max: 85
+  money min: 30
+  clicks needed: 1
+  total energy: 26
+  total exp: 3
+  average money per energy: 2
+  average money per exp: 19
+  loot: []
+- target: Rick Johnson
+  job: Mug
+  energy: 20
+  exp: 2
+  money max: 135
+  money min: 45
+  clicks needed: 1
+  total energy: 20
+  total exp: 2
+  average money per energy: 4
+  average money per exp: 45
+  loot: []
+- target: Matt Lee
+  job: Pickpocket
+  energy: 19
+  exp: 2
+  money max: 115
+  money min: 40
+  clicks needed: 1
+  total energy: 19
+  total exp: 2
+  average money per energy: 4
+  average money per exp: 38
+  loot:
+  - name: Pocket Knife
+    type: melee
+    percent: 0.12
+    attack: 3
+    defense: 1
+    energy for 1: 158.33333333333334
+    exp for 1: 16.666666666666668
+    attack for energy: 0.01894736842105263
+    defense for energy: 0.00631578947368421
+    attack for exp: 0.18
+    defense for exp: 0.06
+- target: Sean Conti
+  job: Beat up
+  energy: 40
+  exp: 6
+  money max: 390
+  money min: 210
+  clicks needed: 3
+  total energy: 120
+  total exp: 18
+  average money per energy: 2
+  average money per exp: 16
+  loot:
+  - name: Beretta 92
+    type: gun
+    percent: 0.06
+    attack: 2
+    defense: 1
+    energy for 1: 2000.0
+    exp for 1: 300.0
+    attack for energy: 0.001
+    defense for energy: 0.0005
+    attack for exp: 0.006666666666666667
+    defense for exp: 0.0033333333333333335
+- target: Denise Bryant
+  job: Talk to witnesses
+  energy: 23
+  exp: 3
+  money max: 65
+  money min: 25
+  clicks needed: 1
+  total energy: 23
+  total exp: 3
+  average money per energy: 1
+  average money per exp: 15
+  loot: []
+- target: Pizza Parlor
+  job: Steal first aid supplies
+  energy: 44
+  exp: 4
+  money max: 620
+  money min: 240
+  clicks needed: 2
+  total energy: 88
+  total exp: 8
+  average money per energy: 4
+  average money per exp: 53
+  loot:
+  - name: Taxi Cab
+    type: car
+    percent: 0.3
+    attack: 2
+    defense: 2
+    energy for 1: 293.33333333333337
+    exp for 1: 26.666666666666668
+    attack for energy: 0.006818181818181817
+    defense for energy: 0.006818181818181817
+    attack for exp: 0.075
+    defense for exp: 0.075
+- target: Pizza Parlor
+  job: Get welcome-home present
+  energy: 22
+  exp: 3
+  money max: 125
+  money min: 45
+  clicks needed: 1
+  total energy: 22
+  total exp: 3
+  average money per energy: 3
+  average money per exp: 28
+  loot:
+  - name: .38 Special
+    type: gun
+    percent: 0.27
+    attack: 3
+    defense: 2
+    energy for 1: 81.48148148148148
+    exp for 1: 11.11111111111111
+    attack for energy: 0.03681818181818182
+    defense for energy: 0.024545454545454544
+    attack for exp: 0.27
+    defense for exp: 0.18
+- target: Pizza Parlor
+  job: Shoplift listening device
+  energy: 20
+  exp: 2
+  money max: 125
+  money min: 50
+  clicks needed: 1
+  total energy: 20
+  total exp: 2
+  average money per energy: 4
+  average money per exp: 43
+  loot: []
+- target: Pizza Parlor
+  job: Swipe Rare Movie Posters
+  energy: 19
+  exp: 2
+  money max: 95
+  money min: 55
+  clicks needed: 1
+  total energy: 19
+  total exp: 2
+  average money per energy: 3
+  average money per exp: 37
+  loot:
+  - name: Green Beret
+    type: armor
+    percent: 0.07
+    attack: 2
+    defense: 3
+    energy for 1: 271.4285714285714
+    exp for 1: 28.57142857142857
+    attack for energy: 0.00736842105263158
+    defense for energy: 0.01105263157894737
+    attack for exp: 0.07
+    defense for exp: 0.10500000000000001
+- target: Pizza Parlor
+  job: Spy on Reni meeting
+  energy: 37
+  exp: 6
+  money max: 185
+  money min: 75
+  clicks needed: 1
+  total energy: 37
+  total exp: 6
+  average money per energy: 3
+  average money per exp: 21
+  loot:
+  - name: Van
+    type: car
+    percent: 0.12
+    attack: 1
+    defense: 2
+    energy for 1: 308.33333333333337
+    exp for 1: 50.0
+    attack for energy: 0.0032432432432432426
+    defense for energy: 0.006486486486486485
+    attack for exp: 0.02
+    defense for exp: 0.04

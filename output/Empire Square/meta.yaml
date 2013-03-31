@@ -1,0 +1,23 @@
+---
+name: Empire Square
+unlock_level: 10
+is_available: 1
+is_coming_soon: 0
+mastery rewards:
+- level: 1
+  exp: 14
+  money: 1500
+- level: 2
+  exp: 14
+  respect: 35
+- level: 3
+  exp: 14
+  item: Reni's Rusty Grenade Launcher
+  item attack: 8
+  item defense: 3
+- level: 4
+  exp: 14
+  mafia: 1
+- level: 5
+  exp: 14
+  skill points: 1

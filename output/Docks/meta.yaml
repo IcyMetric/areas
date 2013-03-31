@@ -1,0 +1,23 @@
+---
+name: Docks
+unlock_level: 12
+is_available: 1
+is_coming_soon: 0
+mastery rewards:
+- level: 1
+  exp: 15
+  money: 2500
+- level: 2
+  exp: 15
+  respect: 40
+- level: 3
+  exp: 15
+  item: Port Authority Shotgun
+  item attack: 5
+  item defense: 7
+- level: 4
+  exp: 15
+  mafia: 1
+- level: 5
+  exp: 15
+  skill points: 1

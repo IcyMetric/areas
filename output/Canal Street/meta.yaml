@@ -1,0 +1,23 @@
+---
+name: Canal Street
+unlock_level: 1
+is_available: 1
+is_coming_soon: 0
+mastery rewards:
+- level: 1
+  exp: 3
+  money: 110
+- level: 2
+  exp: 3
+  respect: 5
+- level: 3
+  exp: 3
+  item: Boot Pistol
+  item attack: 3
+  item defense: 2
+- level: 4
+  exp: 3
+  mafia: 1
+- level: 5
+  exp: 3
+  skill points: 1

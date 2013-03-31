@@ -1,0 +1,23 @@
+---
+name: Midtown
+unlock_level: 25
+is_available: 1
+is_coming_soon: 0
+mastery rewards:
+- level: 1
+  exp: 24
+  money: 7400
+- level: 2
+  exp: 24
+  respect: 80
+- level: 3
+  exp: 24
+  item: Driveby Rifle
+  item attack: 11
+  item defense: 6
+- level: 4
+  exp: 24
+  mafia: 1
+- level: 5
+  exp: 24
+  skill points: 1

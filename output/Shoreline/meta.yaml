@@ -1,0 +1,23 @@
+---
+name: Shoreline
+unlock_level: 22
+is_available: 1
+is_coming_soon: 0
+mastery rewards:
+- level: 1
+  exp: 22
+  money: 6500
+- level: 2
+  exp: 22
+  respect: 70
+- level: 3
+  exp: 22
+  item: Aces Wild
+  item attack: 8
+  item defense: 8
+- level: 4
+  exp: 22
+  mafia: 1
+- level: 5
+  exp: 22
+  skill points: 1

@@ -1,0 +1,477 @@
+---
+- target: Pizza Parlor
+  job: Ask about Riccis
+  energy: 12
+  exp: 1
+  money max: 20
+  money min: 10
+  clicks needed: 1
+  total energy: 12
+  total exp: 1
+  average money per energy: 1
+  average money per exp: 15
+  loot: []
+- target: Pizza Parlor
+  job: Shake down
+  energy: 19
+  exp: 2
+  money max: 90
+  money min: 25
+  clicks needed: 1
+  total energy: 19
+  total exp: 2
+  average money per energy: 3
+  average money per exp: 28
+  loot: []
+- target: Pizza Parlor
+  job: Stash illegal goods
+  energy: 24
+  exp: 3
+  money max: 115
+  money min: 40
+  clicks needed: 1
+  total energy: 24
+  total exp: 3
+  average money per energy: 3
+  average money per exp: 25
+  loot:
+  - name: Knee Pads
+    type: armor
+    percent: 0.06
+    attack: 1
+    defense: 1
+    energy for 1: 400.0
+    exp for 1: 50.0
+    attack for energy: 0.0025
+    defense for energy: 0.0025
+    attack for exp: 0.02
+    defense for exp: 0.02
+- target: Pizza Parlor
+  job: Sell art forgeries
+  energy: 20
+  exp: 2
+  money max: 100
+  money min: 60
+  clicks needed: 1
+  total energy: 20
+  total exp: 2
+  average money per energy: 4
+  average money per exp: 40
+  loot: []
+- target: Pizza Parlor
+  job: Import Italian goods
+  energy: 22
+  exp: 2
+  money max: 90
+  money min: 70
+  clicks needed: 1
+  total energy: 22
+  total exp: 2
+  average money per energy: 3
+  average money per exp: 40
+  loot:
+  - name: Van
+    type: car
+    percent: 0.02
+    attack: 1
+    defense: 2
+    energy for 1: 1100.0
+    exp for 1: 100.0
+    attack for energy: 0.0009090909090909091
+    defense for energy: 0.0018181818181818182
+    attack for exp: 0.01
+    defense for exp: 0.02
+- target: Pizza Parlor
+  job: Get rid of evidence
+  energy: 54
+  exp: 7
+  money max: 360
+  money min: 160
+  clicks needed: 2
+  total energy: 108
+  total exp: 14
+  average money per energy: 2
+  average money per exp: 18
+  loot:
+  - name: Beretta 92
+    type: gun
+    percent: 0.15
+    attack: 2
+    defense: 1
+    energy for 1: 720.0
+    exp for 1: 93.33333333333334
+    attack for energy: 0.002777777777777778
+    defense for energy: 0.001388888888888889
+    attack for exp: 0.021428571428571425
+    defense for exp: 0.010714285714285713
+- target: Pizza Parlor
+  job: Rob
+  energy: 18
+  exp: 2
+  money max: 65
+  money min: 40
+  clicks needed: 1
+  total energy: 18
+  total exp: 2
+  average money per energy: 2
+  average money per exp: 26
+  loot: []
+- target: Pizza Parlor
+  job: Question Ricci Agent
+  energy: 10
+  exp: 1
+  money max: 25
+  money min: 5
+  clicks needed: 1
+  total energy: 10
+  total exp: 1
+  average money per energy: 1
+  average money per exp: 15
+  loot: []
+- target: Pizza Parlor
+  job: Break up Ricci meeting
+  energy: 48
+  exp: 6
+  money max: 525
+  money min: 225
+  clicks needed: 3
+  total energy: 144
+  total exp: 18
+  average money per energy: 2
+  average money per exp: 20
+  loot:
+  - name: .38 Special
+    type: gun
+    percent: 0.0
+    attack: 3
+    defense: 2
+    energy for 1: .inf
+    exp for 1: .inf
+    attack for energy: 0.0
+    defense for energy: 0.0
+    attack for exp: 0.0
+    defense for exp: 0.0
+- target: Pizza Parlor
+  job: Take out Ricci patron
+  energy: 36
+  exp: 5
+  money max: 190
+  money min: 90
+  clicks needed: 2
+  total energy: 72
+  total exp: 10
+  average money per energy: 1
+  average money per exp: 14
+  loot:
+  - name: Micro SMG
+    type: gun
+    percent: 0.09
+    attack: 1
+    defense: 3
+    energy for 1: 800.0
+    exp for 1: 111.11111111111111
+    attack for energy: 0.00125
+    defense for energy: 0.00375
+    attack for exp: 0.009
+    defense for exp: 0.027
+- target: Pizza Parlor
+  job: Plant bug in Ricci hangout
+  energy: 25
+  exp: 4
+  money max: 70
+  money min: 25
+  clicks needed: 1
+  total energy: 25
+  total exp: 4
+  average money per energy: 1
+  average money per exp: 11
+  loot:
+  - name: Walther P99
+    type: gun
+    percent: 0.2
+    attack: 1
+    defense: 1
+    energy for 1: 125.0
+    exp for 1: 20.0
+    attack for energy: 0.008
+    defense for energy: 0.008
+    attack for exp: 0.05
+    defense for exp: 0.05
+- target: Elena Morello
+  job: Intimidate Ricci employee
+  energy: 16
+  exp: 2
+  money max: 35
+  money min: 15
+  clicks needed: 1
+  total energy: 16
+  total exp: 2
+  average money per energy: 1
+  average money per exp: 12
+  loot: []
+- target: Lia Vaccari
+  job: Bribe for information
+  energy: 14
+  exp: 1
+  money max: 55
+  money min: 20
+  clicks needed: 1
+  total energy: 14
+  total exp: 1
+  average money per energy: 2
+  average money per exp: 37
+  loot: []
+- target: Deanna Cabrini
+  job: Steal Ricci coordinates
+  energy: 18
+  exp: 2
+  money max: 90
+  money min: 40
+  clicks needed: 1
+  total energy: 18
+  total exp: 2
+  average money per energy: 3
+  average money per exp: 32
+  loot:
+  - name: Green Beret
+    type: armor
+    percent: 0.03
+    attack: 2
+    defense: 3
+    energy for 1: 600.0
+    exp for 1: 66.66666666666667
+    attack for energy: 0.0033333333333333335
+    defense for energy: 0.005
+    attack for exp: 0.03
+    defense for exp: 0.045
+- target: Giovanni Campo
+  job: Beat up
+  energy: 28
+  exp: 3
+  money max: 80
+  money min: 35
+  clicks needed: 1
+  total energy: 28
+  total exp: 3
+  average money per energy: 2
+  average money per exp: 19
+  loot:
+  - name: Pocket Knife
+    type: melee
+    percent: 0.3
+    attack: 3
+    defense: 1
+    energy for 1: 93.33333333333334
+    exp for 1: 10.0
+    attack for energy: 0.03214285714285714
+    defense for energy: 0.010714285714285713
+    attack for exp: 0.3
+    defense for exp: 0.1
+- target: Fat Mickey
+  job: Defeat Fat Mickey
+  energy: 45
+  exp: 6
+  money max: 580
+  money min: 360
+  clicks needed: 4
+  total energy: 180
+  total exp: 24
+  average money per energy: 2
+  average money per exp: 19
+  loot:
+  - name: Mickey's Steel Hammer
+    type: melee
+    percent: 0.72
+    attack: 2
+    defense: 1
+    energy for 1: 250.0
+    exp for 1: 33.333333333333336
+    attack for energy: 0.008
+    defense for energy: 0.004
+    attack for exp: 0.06
+    defense for exp: 0.03
+  - name: Mickey's Beret
+    type: armor
+    percent: 0.22
+    attack: 1
+    defense: 3
+    energy for 1: 818.1818181818181
+    exp for 1: 109.0909090909091
+    attack for energy: 0.0012222222222222222
+    defense for energy: 0.003666666666666667
+    attack for exp: 0.009166666666666667
+    defense for exp: 0.0275
+  - name: Mickey's Chaingun
+    type: gun
+    percent: 0.06
+    attack: 4
+    defense: 3
+    energy for 1: 3000.0
+    exp for 1: 400.0
+    attack for energy: 0.0013333333333333333
+    defense for energy: 0.001
+    attack for exp: 0.01
+    defense for exp: 0.0075
+- target: Enzo Rold
+  job: Threaten
+  energy: 16
+  exp: 2
+  money max: 35
+  money min: 15
+  clicks needed: 1
+  total energy: 16
+  total exp: 2
+  average money per energy: 1
+  average money per exp: 12
+  loot: []
+- target: Pizza Parlor
+  job: Pocket Knockout Drops
+  energy: 30
+  exp: 2
+  money max: 200
+  money min: 60
+  clicks needed: 1
+  total energy: 30
+  total exp: 2
+  average money per energy: 4
+  average money per exp: 65
+  loot:
+  - name: Desert Eagle
+    type: gun
+    percent: 0.02
+    attack: 2
+    defense: 2
+    energy for 1: 1500.0
+    exp for 1: 100.0
+    attack for energy: 0.0013333333333333333
+    defense for energy: 0.0013333333333333333
+    attack for exp: 0.02
+    defense for exp: 0.02
+- target: Pizza Parlor
+  job: Hit Truck
+  energy: 33
+  exp: 4
+  money max: 140
+  money min: 65
+  clicks needed: 1
+  total energy: 33
+  total exp: 4
+  average money per energy: 3
+  average money per exp: 25
+  loot:
+  - name: Hudson Hornet
+    type: car
+    percent: 0.1
+    attack: 1
+    defense: 1
+    energy for 1: 330.0
+    exp for 1: 40.0
+    attack for energy: 0.0030303030303030303
+    defense for energy: 0.0030303030303030303
+    attack for exp: 0.025
+    defense for exp: 0.025
+- target: Pizza Parlor
+  job: Put Body on Ice
+  energy: 34
+  exp: 4
+  money max: 105
+  money min: 25
+  clicks needed: 1
+  total energy: 34
+  total exp: 4
+  average money per energy: 1
+  average money per exp: 16
+  loot:
+  - name: Shovel
+    type: melee
+    percent: 0.15
+    attack: 2
+    defense: 3
+    energy for 1: 226.66666666666669
+    exp for 1: 26.666666666666668
+    attack for energy: 0.008823529411764706
+    defense for energy: 0.013235294117647057
+    attack for exp: 0.075
+    defense for exp: 0.11249999999999999
+- target: Pizza Parlor
+  job: Offer Protection
+  energy: 15
+  exp: 1
+  money max: 60
+  money min: 15
+  clicks needed: 1
+  total energy: 15
+  total exp: 1
+  average money per energy: 2
+  average money per exp: 37
+  loot: []
+- target: Pizza Parlor
+  job: Push Counterfeit Goods
+  energy: 27
+  exp: 2
+  money max: 175
+  money min: 60
+  clicks needed: 1
+  total energy: 27
+  total exp: 2
+  average money per energy: 4
+  average money per exp: 58
+  loot:
+  - name: Paintball Gun
+    type: gun
+    percent: 0.27
+    attack: 1
+    defense: 2
+    energy for 1: 100.0
+    exp for 1: 7.4074074074074066
+    attack for energy: 0.01
+    defense for energy: 0.02
+    attack for exp: 0.135
+    defense for exp: 0.27
+- target: Pizza Parlor
+  job: Rough-up Super
+  energy: 26
+  exp: 3
+  money max: 45
+  money min: 20
+  clicks needed: 1
+  total energy: 26
+  total exp: 3
+  average money per energy: 1
+  average money per exp: 10
+  loot:
+  - name: Hammer
+    type: melee
+    percent: 0.12
+    attack: 2
+    defense: 0
+    energy for 1: 216.66666666666669
+    exp for 1: 25.0
+    attack for energy: 0.00923076923076923
+    defense for energy: 0.0
+    attack for exp: 0.08
+    defense for exp: 0.0
+- target: Pizza Parlor
+  job: Dispose of Evidence
+  energy: 25
+  exp: 3
+  money max: 80
+  money min: 30
+  clicks needed: 1
+  total energy: 25
+  total exp: 3
+  average money per energy: 2
+  average money per exp: 18
+  loot: []
+- target: Pizza Parlor
+  job: Steal Surveillance Gear
+  energy: 12
+  exp: 1
+  money max: 55
+  money min: 15
+  clicks needed: 1
+  total energy: 12
+  total exp: 1
+  average money per energy: 2
+  average money per exp: 35
+  loot: []

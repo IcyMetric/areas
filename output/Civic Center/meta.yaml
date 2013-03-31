@@ -1,0 +1,20 @@
+---
+name: Civic Center
+unlock_level: 8
+is_available: 1
+is_coming_soon: 0
+mastery rewards:
+- level: 1
+  exp: 12
+  money: 1200
+- level: 2
+  exp: 12
+  respect: 30
+- level: 3
+  exp: 12
+- level: 4
+  exp: 12
+  mafia: 1
+- level: 5
+  exp: 12
+  skill points: 1
