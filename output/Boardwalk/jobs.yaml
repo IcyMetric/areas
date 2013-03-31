@@ -351,13 +351,13 @@
   job: Defeat Frankie
   energy: 295
   exp: 95
-  money max: 3000
-  money min: 3000
+  money max: 92500
+  money min: 20000
   clicks needed: 10
   total energy: 2950
   total exp: 950
-  average money per energy: 1
-  average money per exp: 3
+  average money per energy: 19
+  average money per exp: 59
   loot:
   - name: Falcone's Special SMG
     type: gun
