@@ -172,7 +172,7 @@
   average money per energy: 15
   average money per exp: 47
   loot:
-  - name: Modified Shotgun
+  - name: Mossberg 590 Shotgun
     type: gun
     percent: 0.24
     attack: 12
@@ -245,14 +245,14 @@
   - name: SA58 Carbine
     type: gun
     percent: 0.18
-    attack: 37
-    defense: 41
+    attack: 9
+    defense: 8
     energy for 1: 7400.0
     exp for 1: 2500.0
-    attack for energy: 0.005
-    defense for energy: 0.00554054054054054
-    attack for exp: 0.0148
-    defense for exp: 0.0164
+    attack for energy: 0.0012162162162162162
+    defense for energy: 0.001081081081081081
+    attack for exp: 0.0036
+    defense for exp: 0.0032
 - target: Pizza Parlor
   job: Stash federal agent corpses
   energy: 325

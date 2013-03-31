@@ -430,14 +430,14 @@
   - name: SA58 Carbine
     type: gun
     percent: 0.22
-    attack: 37
-    defense: 41
+    attack: 9
+    defense: 8
     energy for 1: 4454.545454545455
     exp for 1: 977.2727272727273
-    attack for energy: 0.00830612244897959
-    defense for energy: 0.00920408163265306
-    attack for exp: 0.03786046511627907
-    defense for exp: 0.04195348837209303
+    attack for energy: 0.002020408163265306
+    defense for energy: 0.0017959183673469385
+    attack for exp: 0.009209302325581396
+    defense for exp: 0.008186046511627907
 - target: Pizza Parlor
   job: Install Sniper
   energy: 108

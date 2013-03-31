@@ -393,7 +393,7 @@
   average money per energy: 14
   average money per exp: 50
   loot:
-  - name: Modified Shotgun
+  - name: Mossberg 590 Shotgun
     type: gun
     percent: 0.19
     attack: 12

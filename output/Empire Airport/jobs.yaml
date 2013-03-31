@@ -142,14 +142,14 @@
   - name: SA58 Carbine
     type: gun
     percent: 0.24
-    attack: 37
-    defense: 41
+    attack: 9
+    defense: 8
     energy for 1: 7750.0
     exp for 1: 2900.0
-    attack for energy: 0.0047741935483870965
-    defense for energy: 0.005290322580645161
-    attack for exp: 0.012758620689655173
-    defense for exp: 0.014137931034482758
+    attack for energy: 0.001161290322580645
+    defense for energy: 0.001032258064516129
+    attack for exp: 0.003103448275862069
+    defense for exp: 0.002758620689655172
 - target: Rebecca Martinez
   job: Whack
   energy: 336
