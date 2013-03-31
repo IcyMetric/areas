@@ -3,13 +3,13 @@
   job: Market smuggled goods
   energy: 64
   exp: 10
-  money max: 500
+  money max: 450
   money min: 150
   clicks needed: 1
   total energy: 64
   total exp: 10
-  average money per energy: 5
-  average money per exp: 32
+  average money per energy: 4
+  average money per exp: 30
   loot:
   - name: Metal Bat
     type: melee
@@ -26,13 +26,13 @@
   job: Sell bootleg CDs and DVDs
   energy: 48
   exp: 6
-  money max: 440
+  money max: 420
   money min: 100
   clicks needed: 1
   total energy: 48
   total exp: 6
   average money per energy: 5
-  average money per exp: 45
+  average money per exp: 43
   loot: []
 - target: Pizza Parlor
   job: Destroy documents
@@ -61,13 +61,13 @@
   job: Hire celebrities to sell products
   energy: 21
   exp: 3
-  money max: 200
+  money max: 180
   money min: 50
   clicks needed: 1
   total energy: 21
   total exp: 3
   average money per energy: 5
-  average money per exp: 41
+  average money per exp: 38
   loot:
   - name: Motorcycle Jacket
     type: armor
@@ -84,13 +84,13 @@
   job: Hit crooked lawyer
   energy: 60
   exp: 13
-  money max: 315
-  money min: 135
+  money max: 600
+  money min: 465
   clicks needed: 2
   total energy: 120
   total exp: 26
-  average money per energy: 1
-  average money per exp: 8
+  average money per energy: 4
+  average money per exp: 20
   loot:
   - name: Shovel
     type: melee
@@ -211,13 +211,13 @@
   job: Pickpocket
   energy: 19
   exp: 3
-  money max: 115
+  money max: 100
   money min: 40
   clicks needed: 1
   total energy: 19
   total exp: 3
-  average money per energy: 4
-  average money per exp: 25
+  average money per energy: 3
+  average money per exp: 23
   loot:
   - name: Pocket Knife
     type: melee
@@ -269,7 +269,7 @@
   job: Steal first aid supplies
   energy: 44
   exp: 6
-  money max: 620
+  money max: 600
   money min: 240
   clicks needed: 2
   total energy: 88
@@ -292,13 +292,13 @@
   job: Get welcome-home present
   energy: 22
   exp: 4
-  money max: 125
+  money max: 115
   money min: 45
   clicks needed: 1
   total energy: 22
   total exp: 4
   average money per energy: 3
-  average money per exp: 21
+  average money per exp: 20
   loot:
   - name: .38 Special
     type: gun

@@ -3,13 +3,13 @@
   job: Extract Payment
   energy: 72
   exp: 12
-  money max: 1300
-  money min: 450
+  money max: 900
+  money min: 300
   clicks needed: 1
   total energy: 72
   total exp: 12
-  average money per energy: 12
-  average money per exp: 72
+  average money per energy: 8
+  average money per exp: 50
   loot:
   - name: Nail Bat
     type: melee
@@ -26,25 +26,25 @@
   job: Collect Interest
   energy: 65
   exp: 11
-  money max: 900
-  money min: 600
+  money max: 850
+  money min: 200
   clicks needed: 1
   total energy: 65
   total exp: 11
-  average money per energy: 11
-  average money per exp: 68
+  average money per energy: 8
+  average money per exp: 47
   loot: []
 - target: Pizza Parlor
   job: Crack Safe
   energy: 285
   exp: 68
-  money max: 39900
-  money min: 21000
+  money max: 32200
+  money min: 9800
   clicks needed: 7
   total energy: 1995
   total exp: 476
-  average money per energy: 15
-  average money per exp: 63
+  average money per energy: 10
+  average money per exp: 44
   loot:
   - name: M4 Shotgun
     type: gun
@@ -61,13 +61,13 @@
   job: Slash Tires
   energy: 76
   exp: 20
-  money max: 960
+  money max: 650
   money min: 200
   clicks needed: 1
   total energy: 76
   total exp: 20
-  average money per energy: 7
-  average money per exp: 29
+  average money per energy: 5
+  average money per exp: 21
   loot:
   - name: Butterfly Knife
     type: melee
@@ -84,13 +84,13 @@
   job: Cause an Accident
   energy: 110
   exp: 35
-  money max: 5600
-  money min: 2000
+  money max: 4000
+  money min: 1000
   clicks needed: 4
   total energy: 440
   total exp: 140
-  average money per energy: 8
-  average money per exp: 27
+  average money per energy: 5
+  average money per exp: 17
   loot:
   - name: Shiv
     type: melee
@@ -107,13 +107,13 @@
   job: Hospitalize
   energy: 140
   exp: 46
-  money max: 7600
-  money min: 2800
+  money max: 6000
+  money min: 2400
   clicks needed: 4
   total energy: 560
   total exp: 184
-  average money per energy: 9
-  average money per exp: 28
+  average money per energy: 7
+  average money per exp: 22
   loot:
   - name: Steyr AUG
     type: gun
@@ -130,13 +130,13 @@
   job: Beat Up
   energy: 130
   exp: 43
-  money max: 7000
-  money min: 4500
+  money max: 6000
+  money min: 3500
   clicks needed: 5
   total energy: 650
   total exp: 215
-  average money per energy: 8
-  average money per exp: 26
+  average money per energy: 7
+  average money per exp: 22
   loot:
   - name: Survival Knife
     type: melee
@@ -153,25 +153,25 @@
   job: Intimidate
   energy: 90
   exp: 25
-  money max: 2400
-  money min: 720
+  money max: 1800
+  money min: 400
   clicks needed: 2
   total energy: 180
   total exp: 50
-  average money per energy: 8
-  average money per exp: 31
+  average money per energy: 6
+  average money per exp: 22
   loot: []
 - target: Pizza Parlor
   job: Steal Cars
   energy: 105
   exp: 22
-  money max: 1900
-  money min: 800
+  money max: 1200
+  money min: 500
   clicks needed: 1
   total energy: 105
   total exp: 22
-  average money per energy: 12
-  average money per exp: 61
+  average money per energy: 8
+  average money per exp: 38
   loot:
   - name: Lowrider
     type: car
@@ -188,13 +188,13 @@
   job: Hotwire
   energy: 64
   exp: 12
-  money max: 900
-  money min: 480
+  money max: 700
+  money min: 275
   clicks needed: 1
   total energy: 64
   total exp: 12
-  average money per energy: 10
-  average money per exp: 57
+  average money per energy: 7
+  average money per exp: 40
   loot:
   - name: Taxi Cab
     type: car
@@ -211,13 +211,13 @@
   job: Take Down
   energy: 172
   exp: 59
-  money max: 13500
-  money min: 6000
+  money max: 10800
+  money min: 4200
   clicks needed: 6
   total energy: 1032
   total exp: 354
-  average money per energy: 9
-  average money per exp: 27
+  average money per energy: 7
+  average money per exp: 21
   loot:
   - name: DP MachineGun
     type: gun
@@ -234,13 +234,13 @@
   job: Defeat
   energy: 225
   exp: 77
-  money max: 36850
+  money max: 24200
   money min: 15400
   clicks needed: 11
   total energy: 2475
   total exp: 847
-  average money per energy: 10
-  average money per exp: 30
+  average money per energy: 8
+  average money per exp: 23
   loot:
   - name: Bruno's Leather Coat
     type: armor
@@ -279,37 +279,37 @@
   job: Smash Windows
   energy: 60
   exp: 12
-  money max: 800
-  money min: 100
+  money max: 750
+  money min: 300
   clicks needed: 1
   total energy: 60
   total exp: 12
-  average money per energy: 7
-  average money per exp: 37
+  average money per energy: 8
+  average money per exp: 43
   loot: []
 - target: Pizza Parlor
   job: Steal Stereo
   energy: 70
   exp: 14
-  money max: 980
-  money min: 560
+  money max: 500
+  money min: 100
   clicks needed: 1
   total energy: 70
   total exp: 14
-  average money per energy: 11
-  average money per exp: 55
+  average money per energy: 4
+  average money per exp: 21
   loot: []
 - target: Pizza Parlor
   job: Break In
   energy: 108
   exp: 20
-  money max: 1950
-  money min: 750
+  money max: 1000
+  money min: 600
   clicks needed: 1
   total energy: 108
   total exp: 20
-  average money per energy: 12
-  average money per exp: 67
+  average money per energy: 7
+  average money per exp: 40
   loot:
   - name: GMC Yukon
     type: car
@@ -326,25 +326,25 @@
   job: Steal Hubcaps
   energy: 84
   exp: 16
-  money max: 1300
-  money min: 550
+  money max: 950
+  money min: 400
   clicks needed: 1
   total energy: 84
   total exp: 16
-  average money per energy: 11
-  average money per exp: 57
+  average money per energy: 8
+  average money per exp: 42
   loot: []
 - target: Pizza Parlor
   job: Make Gasoline Bombs
   energy: 127
   exp: 50
-  money max: 1600
-  money min: 700
+  money max: 2600
+  money min: 1500
   clicks needed: 1
   total energy: 127
   total exp: 50
-  average money per energy: 9
-  average money per exp: 23
+  average money per energy: 16
+  average money per exp: 41
   loot:
   - name: Blow Torch
     type: gun
@@ -361,13 +361,13 @@
   job: Snatch Chemicals
   energy: 200
   exp: 43
-  money max: 7000
+  money max: 5200
   money min: 3000
   clicks needed: 4
   total energy: 800
   total exp: 172
-  average money per energy: 6
-  average money per exp: 29
+  average money per energy: 5
+  average money per exp: 23
   loot:
   - name: M4 A1
     type: gun
@@ -384,13 +384,13 @@
   job: Shoot Up Inventory
   energy: 245
   exp: 62
-  money max: 12600
-  money min: 5700
+  money max: 9000
+  money min: 4200
   clicks needed: 3
   total energy: 735
   total exp: 186
-  average money per energy: 12
-  average money per exp: 49
+  average money per energy: 8
+  average money per exp: 35
   loot:
   - name: PP19 SMG
     type: gun
@@ -407,25 +407,25 @@
   job: Rob Customers
   energy: 95
   exp: 18
-  money max: 1250
-  money min: 800
+  money max: 1100
+  money min: 500
   clicks needed: 1
   total energy: 95
   total exp: 18
-  average money per energy: 10
-  average money per exp: 56
+  average money per energy: 8
+  average money per exp: 44
   loot: []
 - target: Pizza Parlor
   job: Sabotage
   energy: 140
   exp: 45
-  money max: 3100
-  money min: 1800
+  money max: 2900
+  money min: 500
   clicks needed: 2
   total energy: 280
   total exp: 90
-  average money per energy: 8
-  average money per exp: 27
+  average money per energy: 6
+  average money per exp: 18
   loot:
   - name: Hazmat Suit
     type: armor
@@ -442,13 +442,13 @@
   job: Grab Catalytic Converter
   energy: 90
   exp: 17
-  money max: 1100
-  money min: 700
+  money max: 900
+  money min: 500
   clicks needed: 1
   total energy: 90
   total exp: 17
-  average money per energy: 10
-  average money per exp: 52
+  average money per energy: 7
+  average money per exp: 41
   loot:
   - name: Armored Truck
     type: car

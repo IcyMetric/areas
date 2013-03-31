@@ -26,13 +26,13 @@
   job: Break in
   energy: 136
   exp: 25
-  money max: 8400
-  money min: 4800
+  money max: 6900
+  money min: 4200
   clicks needed: 3
   total energy: 408
   total exp: 75
-  average money per energy: 16
-  average money per exp: 88
+  average money per energy: 13
+  average money per exp: 74
   loot:
   - name: Butterfly Knife
     type: melee
@@ -49,13 +49,13 @@
   job: Bribe Gravedigger
   energy: 82
   exp: 18
-  money max: 1600
+  money max: 1250
   money min: 750
   clicks needed: 1
   total energy: 82
   total exp: 18
-  average money per energy: 14
-  average money per exp: 65
+  average money per energy: 12
+  average money per exp: 55
   loot:
   - name: Shovel
     type: melee
@@ -73,36 +73,36 @@
   energy: 92
   exp: 24
   money max: 2800
-  money min: 1200
+  money min: 1000
   clicks needed: 2
   total energy: 184
   total exp: 48
   average money per energy: 10
-  average money per exp: 41
+  average money per exp: 39
   loot: []
 - target: Dora Valente
   job: Question
   energy: 88
   exp: 22
   money max: 1500
-  money min: 300
+  money min: 200
   clicks needed: 1
   total energy: 88
   total exp: 22
-  average money per energy: 10
-  average money per exp: 40
+  average money per energy: 9
+  average money per exp: 38
   loot: []
 - target: Pizza Parlor
   job: Mug Mourners
   energy: 96
   exp: 18
-  money max: 2100
+  money max: 1800
   money min: 800
   clicks needed: 1
   total energy: 96
   total exp: 18
-  average money per energy: 15
-  average money per exp: 80
+  average money per energy: 13
+  average money per exp: 72
   loot:
   - name: State Jacket
     type: armor
@@ -119,13 +119,13 @@
   job: Eliminate
   energy: 244
   exp: 81
-  money max: 29400
+  money max: 31500
   money min: 11900
   clicks needed: 7
   total energy: 1708
   total exp: 567
   average money per energy: 12
-  average money per exp: 36
+  average money per exp: 38
   loot:
   - name: M4 Shotgun
     type: gun
@@ -142,13 +142,13 @@
   job: Liquidate
   energy: 232
   exp: 74
-  money max: 24000
+  money max: 25200
   money min: 6600
   clicks needed: 6
   total energy: 1392
   total exp: 444
-  average money per energy: 10
-  average money per exp: 34
+  average money per energy: 11
+  average money per exp: 35
   loot:
   - name: Blow Torch
     type: gun
@@ -165,8 +165,8 @@
   job: Burn Body
   energy: 300
   exp: 98
-  money max: 24000
-  money min: 8000
+  money max: 22000
+  money min: 9600
   clicks needed: 4
   total energy: 1200
   total exp: 392
@@ -188,13 +188,13 @@
   job: Bury Head
   energy: 335
   exp: 106
-  money max: 11000
-  money min: 8000
+  money max: 10600
+  money min: 7000
   clicks needed: 2
   total energy: 670
   total exp: 212
-  average money per energy: 14
-  average money per exp: 44
+  average money per energy: 13
+  average money per exp: 41
   loot:
   - name: Mark 2 Blade
     type: melee
@@ -234,13 +234,13 @@
   job: Defeat
   energy: 272
   exp: 94
-  money max: 75400
-  money min: 26000
+  money max: 67600
+  money min: 27300
   clicks needed: 13
   total energy: 3536
   total exp: 1222
-  average money per energy: 14
-  average money per exp: 41
+  average money per energy: 13
+  average money per exp: 38
   loot:
   - name: Whitey's Shillelagh
     type: melee
@@ -279,13 +279,13 @@
   job: Burglarize
   energy: 122
   exp: 25
-  money max: 3500
-  money min: 1400
+  money max: 2500
+  money min: 1000
   clicks needed: 1
   total energy: 122
   total exp: 25
-  average money per energy: 20
-  average money per exp: 98
+  average money per energy: 14
+  average money per exp: 70
   loot:
   - name: Carbine
     type: gun
@@ -302,25 +302,25 @@
   job: Rob
   energy: 100
   exp: 19
-  money max: 2250
+  money max: 1700
   money min: 1000
   clicks needed: 1
   total energy: 100
   total exp: 19
-  average money per energy: 16
-  average money per exp: 85
+  average money per energy: 13
+  average money per exp: 71
   loot: []
 - target: Pizza Parlor
   job: Grab Jewelry
   energy: 232
   exp: 53
-  money max: 62400
-  money min: 20000
+  money max: 41600
+  money min: 24000
   clicks needed: 8
   total energy: 1856
   total exp: 424
-  average money per energy: 22
-  average money per exp: 97
+  average money per energy: 17
+  average money per exp: 77
   loot:
   - name: Police Baton
     type: melee
@@ -337,25 +337,25 @@
   job: Slash Tires
   energy: 105
   exp: 29
-  money max: 1650
+  money max: 1450
   money min: 550
   clicks needed: 1
   total energy: 105
   total exp: 29
-  average money per energy: 10
-  average money per exp: 37
+  average money per energy: 9
+  average money per exp: 34
   loot: []
 - target: Pizza Parlor
   job: Jimmy Trunk
   energy: 125
   exp: 35
-  money max: 2300
-  money min: 800
+  money max: 2000
+  money min: 900
   clicks needed: 1
   total energy: 125
   total exp: 35
-  average money per energy: 12
-  average money per exp: 44
+  average money per energy: 11
+  average money per exp: 41
   loot:
   - name: GMC Yukon
     type: car
@@ -372,13 +372,13 @@
   job: Dump Bodies
   energy: 256
   exp: 86
-  money max: 14700
+  money max: 16800
   money min: 5400
   clicks needed: 3
   total energy: 768
   total exp: 258
-  average money per energy: 13
-  average money per exp: 38
+  average money per energy: 14
+  average money per exp: 43
   loot:
   - name: Garbage Truck
     type: car
@@ -395,37 +395,37 @@
   job: Steal Purse
   energy: 75
   exp: 12
-  money max: 1750
+  money max: 1600
   money min: 400
   clicks needed: 1
   total energy: 75
   total exp: 12
-  average money per energy: 14
-  average money per exp: 89
+  average money per energy: 13
+  average money per exp: 83
   loot: []
 - target: Pizza Parlor
   job: Boost Stereo
   energy: 90
   exp: 17
-  money max: 1700
+  money max: 1600
   money min: 900
   clicks needed: 1
   total energy: 90
   total exp: 17
-  average money per energy: 14
-  average money per exp: 76
+  average money per energy: 13
+  average money per exp: 73
   loot: []
 - target: Pizza Parlor
   job: Cache Ammo
   energy: 196
   exp: 43
-  money max: 27500
-  money min: 15000
+  money max: 22000
+  money min: 11500
   clicks needed: 5
   total energy: 980
   total exp: 215
-  average money per energy: 21
-  average money per exp: 98
+  average money per energy: 17
+  average money per exp: 77
   loot:
   - name: SA58 Carbine
     type: gun
@@ -442,13 +442,13 @@
   job: Install Sniper
   energy: 108
   exp: 32
-  money max: 1900
+  money max: 1700
   money min: 500
   clicks needed: 1
   total energy: 108
   total exp: 32
-  average money per energy: 11
-  average money per exp: 37
+  average money per energy: 10
+  average money per exp: 34
   loot: []
 - target: Pizza Parlor
   job: Forge Death Notices

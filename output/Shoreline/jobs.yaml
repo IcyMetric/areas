@@ -3,13 +3,13 @@
   job: Case Vault
   energy: 200
   exp: 42
-  money max: 9675
-  money min: 4020
+  money max: 9500
+  money min: 4000
   clicks needed: 3
   total energy: 600
   total exp: 126
   average money per energy: 11
-  average money per exp: 54
+  average money per exp: 53
   loot:
   - name: Carbine
     type: gun
@@ -26,13 +26,13 @@
   job: Plant Bug
   energy: 64
   exp: 18
-  money max: 395
-  money min: 275
+  money max: 380
+  money min: 170
   clicks needed: 1
   total energy: 64
   total exp: 18
-  average money per energy: 5
-  average money per exp: 18
+  average money per energy: 4
+  average money per exp: 15
   loot:
   - name: Pilot Helmet
     type: armor
@@ -49,13 +49,13 @@
   job: Study Security
   energy: 35
   exp: 10
-  money max: 235
-  money min: 85
+  money max: 200
+  money min: 80
   clicks needed: 1
   total energy: 35
   total exp: 10
   average money per energy: 4
-  average money per exp: 16
+  average money per exp: 14
   loot:
   - name: Shiv
     type: melee
@@ -72,13 +72,13 @@
   job: Steal Keys
   energy: 47
   exp: 12
-  money max: 350
-  money min: 150
+  money max: 330
+  money min: 140
   clicks needed: 1
   total energy: 47
   total exp: 12
   average money per energy: 5
-  average money per exp: 20
+  average money per exp: 19
   loot:
   - name: Colt 45
     type: gun
@@ -95,13 +95,13 @@
   job: Take ID Badge
   energy: 38
   exp: 9
-  money max: 330
-  money min: 145
+  money max: 250
+  money min: 90
   clicks needed: 1
   total energy: 38
   total exp: 9
-  average money per energy: 6
-  average money per exp: 26
+  average money per energy: 4
+  average money per exp: 18
   loot:
   - name: Green Beret
     type: armor
@@ -119,12 +119,12 @@
   energy: 60
   exp: 15
   money max: 1000
-  money min: 620
+  money min: 300
   clicks needed: 3
   total energy: 180
   total exp: 45
-  average money per energy: 4
-  average money per exp: 18
+  average money per energy: 3
+  average money per exp: 14
   loot:
   - name: Butterfly Knife
     type: melee
@@ -141,13 +141,13 @@
   job: Set Up Stakeout
   energy: 58
   exp: 13
-  money max: 1270
-  money min: 725
+  money max: 1200
+  money min: 450
   clicks needed: 6
   total energy: 348
   total exp: 78
   average money per energy: 2
-  average money per exp: 12
+  average money per exp: 10
   loot:
   - name: GMC Yukon
     type: car
@@ -164,8 +164,8 @@
   job: Take Hostages
   energy: 152
   exp: 36
-  money max: 7975
-  money min: 2800
+  money max: 8000
+  money min: 2750
   clicks needed: 4
   total energy: 608
   total exp: 144
@@ -187,25 +187,25 @@
   job: Con Bookie
   energy: 98
   exp: 22
-  money max: 865
-  money min: 345
+  money max: 800
+  money min: 300
   clicks needed: 1
   total energy: 98
   total exp: 22
-  average money per energy: 6
-  average money per exp: 27
+  average money per energy: 5
+  average money per exp: 25
   loot: []
 - target: High Roller Heidi
   job: Steal VIP Pass
   energy: 72
   exp: 13
-  money max: 595
-  money min: 415
+  money max: 580
+  money min: 320
   clicks needed: 1
   total energy: 72
   total exp: 13
-  average money per energy: 7
-  average money per exp: 38
+  average money per energy: 6
+  average money per exp: 34
   loot:
   - name: SMG K01
     type: gun
@@ -222,12 +222,12 @@
   job: Defeat
   energy: 145
   exp: 42
-  money max: 9570
-  money min: 4355
+  money max: 9600
+  money min: 4000
   clicks needed: 8
   total energy: 1160
   total exp: 336
-  average money per energy: 6
+  average money per energy: 5
   average money per exp: 20
   loot:
   - name: Casino Security Shotgun
@@ -267,37 +267,37 @@
   job: Sell Product
   energy: 36
   exp: 7
-  money max: 300
-  money min: 180
+  money max: 280
+  money min: 160
   clicks needed: 1
   total energy: 36
   total exp: 7
   average money per energy: 6
-  average money per exp: 34
+  average money per exp: 31
   loot: []
 - target: Pizza Parlor
   job: Shoplift Snowglobes
   energy: 28
   exp: 6
-  money max: 220
-  money min: 90
+  money max: 170
+  money min: 50
   clicks needed: 1
   total energy: 28
   total exp: 6
-  average money per energy: 5
-  average money per exp: 25
+  average money per energy: 3
+  average money per exp: 18
   loot: []
 - target: Pizza Parlor
   job: Plant Tracking Device
   energy: 62
   exp: 15
   money max: 470
-  money min: 170
+  money min: 150
   clicks needed: 1
   total energy: 62
   total exp: 15
   average money per energy: 5
-  average money per exp: 21
+  average money per exp: 20
   loot:
   - name: Mac 10
     type: gun
@@ -314,13 +314,13 @@
   job: Get Dirt on Pit Boss
   energy: 80
   exp: 18
-  money max: 2130
-  money min: 685
+  money max: 1980
+  money min: 690
   clicks needed: 3
   total energy: 240
   total exp: 54
   average money per energy: 5
-  average money per exp: 26
+  average money per exp: 24
   loot:
   - name: .38 Special
     type: gun
@@ -337,13 +337,13 @@
   job: Cause a Scene
   energy: 88
   exp: 22
-  money max: 2175
-  money min: 675
+  money max: 1800
+  money min: 300
   clicks needed: 3
   total energy: 264
   total exp: 66
-  average money per energy: 5
-  average money per exp: 21
+  average money per energy: 3
+  average money per exp: 15
   loot:
   - name: Army Helmet
     type: armor
@@ -360,13 +360,13 @@
   job: Abduct Chief's Mistress
   energy: 115
   exp: 28
-  money max: 2410
-  money min: 720
+  money max: 2000
+  money min: 600
   clicks needed: 2
   total energy: 230
   total exp: 56
-  average money per energy: 6
-  average money per exp: 27
+  average money per energy: 5
+  average money per exp: 23
   loot:
   - name: Hunting Rifle
     type: gun
@@ -383,23 +383,23 @@
   job: Install Spy
   energy: 62
   exp: 16
-  money max: 585
+  money max: 400
   money min: 100
   clicks needed: 1
   total energy: 62
   total exp: 16
-  average money per energy: 5
-  average money per exp: 21
+  average money per energy: 4
+  average money per exp: 15
   loot: []
 - target: Pizza Parlor
   job: Drug Drink Machine
   energy: 42
   exp: 10
-  money max: 355
-  money min: 140
+  money max: 300
+  money min: 130
   clicks needed: 1
   total energy: 42
   total exp: 10
   average money per energy: 5
-  average money per exp: 24
+  average money per exp: 21
   loot: []

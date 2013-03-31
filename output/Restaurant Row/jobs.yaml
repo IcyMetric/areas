@@ -3,13 +3,13 @@
   job: Shake down
   energy: 125
   exp: 28
-  money max: 7650
-  money min: 4050
+  money max: 5100
+  money min: 3000
   clicks needed: 3
   total energy: 375
   total exp: 84
-  average money per energy: 15
-  average money per exp: 69
+  average money per energy: 10
+  average money per exp: 48
   loot:
   - name: Carbine
     type: gun
@@ -26,25 +26,25 @@
   job: Hold meeting with local gangs
   energy: 98
   exp: 30
-  money max: 1600
+  money max: 1250
   money min: 500
   clicks needed: 1
   total energy: 98
   total exp: 30
-  average money per energy: 10
-  average money per exp: 35
+  average money per energy: 8
+  average money per exp: 29
   loot: []
 - target: Pizza Parlor
   job: Spy on dealers
   energy: 85
   exp: 24
   money max: 1000
-  money min: 325
+  money min: 350
   clicks needed: 1
   total energy: 85
   total exp: 24
   average money per energy: 7
-  average money per exp: 27
+  average money per exp: 28
   loot:
   - name: Pilot Helmet
     type: armor
@@ -61,13 +61,13 @@
   job: Negotiate sales with dealers
   energy: 94
   exp: 20
-  money max: 2200
+  money max: 1400
   money min: 600
   clicks needed: 1
   total energy: 94
   total exp: 20
-  average money per energy: 14
-  average money per exp: 70
+  average money per energy: 10
+  average money per exp: 50
   loot:
   - name: Rasta Jacket
     type: armor
@@ -84,13 +84,13 @@
   job: Ice rogue dealer
   energy: 212
   exp: 71
-  money max: 26600
-  money min: 10200
+  money max: 18200
+  money min: 10500
   clicks needed: 7
   total energy: 1484
   total exp: 497
-  average money per energy: 12
-  average money per exp: 37
+  average money per energy: 9
+  average money per exp: 28
   loot:
   - name: Jungle Rifle
     type: gun
@@ -107,25 +107,25 @@
   job: Store product
   energy: 105
   exp: 23
-  money max: 7800
-  money min: 3000
+  money max: 5100
+  money min: 1800
   clicks needed: 3
   total energy: 315
   total exp: 69
-  average money per energy: 17
-  average money per exp: 78
+  average money per energy: 10
+  average money per exp: 50
   loot: []
 - target: Pizza Parlor
   job: Observe drug transaction
   energy: 82
   exp: 24
-  money max: 1150
+  money max: 1100
   money min: 500
   clicks needed: 1
   total energy: 82
   total exp: 24
-  average money per energy: 10
-  average money per exp: 34
+  average money per energy: 9
+  average money per exp: 33
   loot:
   - name: Army Helmet
     type: armor
@@ -142,25 +142,25 @@
   job: Treat members to dinner
   energy: 75
   exp: 12
-  money max: 950
+  money max: 900
   money min: 300
   clicks needed: 1
   total energy: 75
   total exp: 12
   average money per energy: 8
-  average money per exp: 52
+  average money per exp: 50
   loot: []
 - target: Pizza Parlor
   job: Pay off police officers
   energy: 110
   exp: 29
-  money max: 1850
-  money min: 1000
+  money max: 1400
+  money min: 900
   clicks needed: 1
   total energy: 110
   total exp: 29
-  average money per energy: 12
-  average money per exp: 49
+  average money per energy: 10
+  average money per exp: 39
   loot:
   - name: Police Baton
     type: melee
@@ -177,25 +177,25 @@
   job: Pay for information
   energy: 90
   exp: 25
-  money max: 1100
-  money min: 650
+  money max: 1000
+  money min: 700
   clicks needed: 1
   total energy: 90
   total exp: 25
   average money per energy: 9
-  average money per exp: 35
+  average money per exp: 34
   loot: []
 - target: Chef Roussel
   job: Interrogate
   energy: 118
   exp: 36
-  money max: 4800
+  money max: 4200
   money min: 2700
   clicks needed: 3
   total energy: 354
   total exp: 108
-  average money per energy: 10
-  average money per exp: 34
+  average money per energy: 9
+  average money per exp: 31
   loot:
   - name: Meat Mallet
     type: melee
@@ -212,13 +212,13 @@
   job: Beat up
   energy: 162
   exp: 51
-  money max: 13000
-  money min: 6250
+  money max: 11000
+  money min: 5000
   clicks needed: 5
   total energy: 810
   total exp: 255
-  average money per energy: 11
-  average money per exp: 37
+  average money per energy: 9
+  average money per exp: 31
   loot:
   - name: Mark 2 Blade
     type: melee
@@ -235,13 +235,13 @@
   job: Trail
   energy: 122
   exp: 36
-  money max: 1920
-  money min: 1080
+  money max: 4200
+  money min: 2700
   clicks needed: 2
   total energy: 244
   total exp: 72
-  average money per energy: 6
-  average money per exp: 20
+  average money per energy: 14
+  average money per exp: 47
   loot:
   - name: Lowrider
     type: car
@@ -258,37 +258,37 @@
   job: Mug
   energy: 80
   exp: 14
-  money max: 1800
+  money max: 1200
   money min: 500
   clicks needed: 1
   total energy: 80
   total exp: 14
-  average money per energy: 14
-  average money per exp: 82
+  average money per energy: 10
+  average money per exp: 60
   loot: []
 - target: Roberta McCormick
   job: Bribe
   energy: 100
   exp: 20
-  money max: 1700
-  money min: 1000
+  money max: 1200
+  money min: 800
   clicks needed: 1
   total energy: 100
   total exp: 20
-  average money per energy: 13
-  average money per exp: 67
+  average money per energy: 10
+  average money per exp: 50
   loot: []
 - target: The Butcher
   job: Defeat The Butcher
   energy: 254
   exp: 87
-  money max: 60000
+  money max: 46800
   money min: 18000
   clicks needed: 12
   total energy: 3048
   total exp: 1044
-  average money per energy: 12
-  average money per exp: 37
+  average money per energy: 10
+  average money per exp: 31
   loot:
   - name: Dealer Fatigues
     type: armor
@@ -327,25 +327,25 @@
   job: Meet New Recruits
   energy: 70
   exp: 16
-  money max: 1050
+  money max: 900
   money min: 350
   clicks needed: 1
   total energy: 70
   total exp: 16
-  average money per energy: 10
-  average money per exp: 43
+  average money per energy: 8
+  average money per exp: 39
   loot: []
 - target: Pizza Parlor
   job: Ransack Imports
   energy: 355
   exp: 93
-  money max: 60000
-  money min: 19200
+  money max: 42000
+  money min: 18000
   clicks needed: 6
   total energy: 2130
   total exp: 558
-  average money per energy: 18
-  average money per exp: 70
+  average money per energy: 14
+  average money per exp: 53
   loot:
   - name: Hot Box Van
     type: car
@@ -362,25 +362,25 @@
   job: Extort Supplies
   energy: 280
   exp: 61
-  money max: 20000
-  money min: 2000
+  money max: 32500
+  money min: 500
   clicks needed: 4
   total energy: 1120
   total exp: 244
-  average money per energy: 9
-  average money per exp: 45
+  average money per energy: 14
+  average money per exp: 67
   loot: []
 - target: Pizza Parlor
   job: Pry Open Register
   energy: 234
   exp: 40
-  money max: 8400
-  money min: 3300
+  money max: 13500
+  money min: 5400
   clicks needed: 3
   total energy: 702
   total exp: 120
-  average money per energy: 8
-  average money per exp: 48
+  average money per energy: 13
+  average money per exp: 78
   loot:
   - name: Butterfly Knife
     type: melee
@@ -397,25 +397,25 @@
   job: Collect Tribute Money
   energy: 128
   exp: 21
-  money max: 2850
-  money min: 1250
+  money max: 1800
+  money min: 1200
   clicks needed: 1
   total energy: 128
   total exp: 21
-  average money per energy: 16
-  average money per exp: 97
+  average money per energy: 11
+  average money per exp: 71
   loot: []
 - target: Pizza Parlor
   job: Manhandle Manager
   energy: 188
   exp: 60
-  money max: 16250
-  money min: 6750
+  money max: 12500
+  money min: 7000
   clicks needed: 5
   total energy: 940
   total exp: 300
-  average money per energy: 12
-  average money per exp: 38
+  average money per energy: 10
+  average money per exp: 32
   loot:
   - name: M4 Shotgun
     type: gun
@@ -432,11 +432,11 @@
   job: Smash Windows
   energy: 87
   exp: 24
-  money max: 2300
-  money min: 1000
+  money max: 2200
+  money min: 800
   clicks needed: 2
   total energy: 174
   total exp: 48
-  average money per energy: 9
-  average money per exp: 34
+  average money per energy: 8
+  average money per exp: 31
   loot: []

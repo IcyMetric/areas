@@ -3,13 +3,13 @@
   job: Steal jewelry
   energy: 136
   exp: 30
-  money max: 4915
-  money min: 1870
+  money max: 4800
+  money min: 1800
   clicks needed: 4
   total energy: 544
   total exp: 120
   average money per energy: 6
-  average money per exp: 28
+  average money per exp: 27
   loot:
   - name: GMC Yukon
     type: car
@@ -26,13 +26,13 @@
   job: Harass a hipster
   energy: 35
   exp: 9
-  money max: 205
-  money min: 90
+  money max: 200
+  money min: 70
   clicks needed: 1
   total energy: 35
   total exp: 9
-  average money per energy: 4
-  average money per exp: 16
+  average money per energy: 3
+  average money per exp: 15
   loot:
   - name: Rasta Jacket
     type: armor
@@ -49,13 +49,13 @@
   job: Setup a hideout
   energy: 50
   exp: 10
-  money max: 415
-  money min: 125
+  money max: 320
+  money min: 120
   clicks needed: 1
   total energy: 50
   total exp: 10
-  average money per energy: 5
-  average money per exp: 27
+  average money per energy: 4
+  average money per exp: 22
   loot:
   - name: Armored Truck
     type: car
@@ -72,25 +72,25 @@
   job: Snatch purse
   energy: 27
   exp: 4
-  money max: 225
-  money min: 80
+  money max: 190
+  money min: 60
   clicks needed: 1
   total energy: 27
   total exp: 4
-  average money per energy: 5
-  average money per exp: 38
+  average money per energy: 4
+  average money per exp: 31
   loot: []
 - target: Papa Spiros
   job: Defeat Papa Spiros
   energy: 134
   exp: 36
-  money max: 8240
-  money min: 3560
+  money max: 8000
+  money min: 3200
   clicks needed: 8
   total energy: 1072
   total exp: 288
   average money per energy: 5
-  average money per exp: 20
+  average money per exp: 19
   loot:
   - name: Rich Leather Glove
     type: armor
@@ -129,19 +129,19 @@
   job: Shoplift
   energy: 26
   exp: 4
-  money max: 220
-  money min: 75
+  money max: 180
+  money min: 70
   clicks needed: 1
   total energy: 26
   total exp: 4
-  average money per energy: 5
-  average money per exp: 36
+  average money per energy: 4
+  average money per exp: 31
   loot: []
 - target: Pizza Parlor
   job: Crack bank vault
   energy: 196
   exp: 43
-  money max: 9750
+  money max: 9600
   money min: 5400
   clicks needed: 6
   total energy: 1176
@@ -164,44 +164,44 @@
   job: Rob
   energy: 36
   exp: 6
-  money max: 285
-  money min: 135
+  money max: 270
+  money min: 100
   clicks needed: 1
   total energy: 36
   total exp: 6
   average money per energy: 5
-  average money per exp: 35
+  average money per exp: 30
   loot: []
 - target: Pizza Parlor
   job: Rob
   energy: 36
   exp: 6
-  money max: 285
-  money min: 135
+  money max: 270
+  money min: 100
   clicks needed: 1
   total energy: 36
   total exp: 6
   average money per energy: 5
-  average money per exp: 35
+  average money per exp: 30
   loot: []
 - target: Pizza Parlor
   job: Rob
   energy: 36
   exp: 6
-  money max: 285
-  money min: 135
+  money max: 270
+  money min: 100
   clicks needed: 1
   total energy: 36
   total exp: 6
   average money per energy: 5
-  average money per exp: 35
+  average money per exp: 30
   loot: []
 - target: Pizza Parlor
   job: Vandalize
   energy: 48
   exp: 15
-  money max: 250
-  money min: 160
+  money max: 240
+  money min: 150
   clicks needed: 1
   total energy: 48
   total exp: 15
@@ -223,37 +223,37 @@
   job: Mug
   energy: 35
   exp: 6
-  money max: 235
-  money min: 165
+  money max: 210
+  money min: 140
   clicks needed: 1
   total energy: 35
   total exp: 6
   average money per energy: 5
-  average money per exp: 33
+  average money per exp: 29
   loot: []
 - target: Delila Strauss
   job: Mug
   energy: 35
   exp: 6
-  money max: 235
-  money min: 165
+  money max: 210
+  money min: 140
   clicks needed: 1
   total energy: 35
   total exp: 6
   average money per energy: 5
-  average money per exp: 33
+  average money per exp: 29
   loot: []
 - target: Pizza Parlor
   job: Meet with supplier
   energy: 56
   exp: 15
-  money max: 450
+  money max: 400
   money min: 70
   clicks needed: 1
   total energy: 56
   total exp: 15
   average money per energy: 4
-  average money per exp: 17
+  average money per exp: 15
   loot:
   - name: Micro Uzi
     type: gun
@@ -270,13 +270,13 @@
   job: Maim
   energy: 124
   exp: 36
-  money max: 2975
-  money min: 1890
+  money max: 2800
+  money min: 1600
   clicks needed: 4
   total energy: 496
   total exp: 144
   average money per energy: 4
-  average money per exp: 16
+  average money per exp: 15
   loot:
   - name: Mac 10
     type: gun
@@ -293,13 +293,13 @@
   job: Mug patrons
   energy: 75
   exp: 13
-  money max: 560
-  money min: 375
+  money max: 500
+  money min: 300
   clicks needed: 1
   total energy: 75
   total exp: 13
-  average money per energy: 6
-  average money per exp: 35
+  average money per energy: 5
+  average money per exp: 30
   loot:
   - name: Meat Mallet
     type: melee
@@ -316,37 +316,37 @@
   job: Steal stereo
   energy: 40
   exp: 6
-  money max: 340
-  money min: 115
+  money max: 290
+  money min: 100
   clicks needed: 1
   total energy: 40
   total exp: 6
-  average money per energy: 5
-  average money per exp: 37
+  average money per energy: 4
+  average money per exp: 32
   loot: []
 - target: Pizza Parlor
   job: Boost hub caps
   energy: 48
   exp: 9
-  money max: 1395
-  money min: 880
+  money max: 1280
+  money min: 720
   clicks needed: 4
   total energy: 192
   total exp: 36
   average money per energy: 5
-  average money per exp: 31
+  average money per exp: 27
   loot: []
 - target: Pizza Parlor
   job: Make molotovs
   energy: 88
   exp: 25
-  money max: 1465
-  money min: 170
+  money max: 1200
+  money min: 160
   clicks needed: 2
   total energy: 176
   total exp: 50
-  average money per energy: 4
-  average money per exp: 16
+  average money per energy: 3
+  average money per exp: 13
   loot:
   - name: SMG A4
     type: gun
@@ -364,12 +364,12 @@
   energy: 144
   exp: 30
   money max: 3800
-  money min: 3160
+  money min: 2800
   clicks needed: 4
   total energy: 576
   total exp: 120
-  average money per energy: 6
-  average money per exp: 29
+  average money per energy: 5
+  average money per exp: 27
   loot:
   - name: Taxi Cab
     type: car
@@ -386,8 +386,8 @@
   job: Steal first edition
   energy: 175
   exp: 37
-  money max: 9260
-  money min: 2255
+  money max: 9250
+  money min: 2250
   clicks needed: 5
   total energy: 875
   total exp: 185
@@ -409,37 +409,37 @@
   job: Rob Box Office
   energy: 47
   exp: 10
-  money max: 1865
-  money min: 835
+  money max: 1680
+  money min: 660
   clicks needed: 3
   total energy: 141
   total exp: 30
-  average money per energy: 9
-  average money per exp: 45
+  average money per energy: 8
+  average money per exp: 39
   loot: []
 - target: Pizza Parlor
   job: Vandalize
   energy: 45
   exp: 15
-  money max: 250
-  money min: 160
+  money max: 240
+  money min: 110
   clicks needed: 1
   total energy: 45
   total exp: 15
-  average money per energy: 4
-  average money per exp: 13
+  average money per energy: 3
+  average money per exp: 11
   loot: []
 - target: Pizza Parlor
   job: Break in
   energy: 50
   exp: 13
-  money max: 410
-  money min: 150
+  money max: 360
+  money min: 140
   clicks needed: 1
   total energy: 50
   total exp: 13
   average money per energy: 5
-  average money per exp: 21
+  average money per exp: 19
   loot:
   - name: Motorcycle Jacket
     type: armor
@@ -456,25 +456,25 @@
   job: Rob Apartment
   energy: 36
   exp: 6
-  money max: 285
-  money min: 135
+  money max: 270
+  money min: 100
   clicks needed: 1
   total energy: 36
   total exp: 6
   average money per energy: 5
-  average money per exp: 35
+  average money per exp: 30
   loot: []
 - target: Pizza Parlor
   job: Plant bug
   energy: 60
   exp: 16
-  money max: 395
-  money min: 115
+  money max: 350
+  money min: 110
   clicks needed: 1
   total energy: 60
   total exp: 16
-  average money per energy: 4
-  average money per exp: 15
+  average money per energy: 3
+  average money per exp: 14
   loot:
   - name: Pilot Helmet
     type: armor
@@ -491,13 +491,13 @@
   job: Home invasion
   energy: 78
   exp: 18
-  money max: 620
-  money min: 280
+  money max: 560
+  money min: 220
   clicks needed: 1
   total energy: 78
   total exp: 18
   average money per energy: 5
-  average money per exp: 25
+  average money per exp: 21
   loot:
   - name: Shovel
     type: melee

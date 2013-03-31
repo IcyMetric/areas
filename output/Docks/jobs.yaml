@@ -3,7 +3,7 @@
   job: Steal shipment
   energy: 56
   exp: 13
-  money max: 835
+  money max: 800
   money min: 350
   clicks needed: 2
   total energy: 112
@@ -26,13 +26,13 @@
   job: Plant evidence
   energy: 35
   exp: 9
-  money max: 165
+  money max: 140
   money min: 100
   clicks needed: 1
   total energy: 35
   total exp: 9
   average money per energy: 3
-  average money per exp: 14
+  average money per exp: 13
   loot:
   - name: Dark Alley Coat
     type: armor
@@ -49,25 +49,25 @@
   job: Forge shipping manifest
   energy: 25
   exp: 4
-  money max: 125
-  money min: 105
+  money max: 120
+  money min: 100
   clicks needed: 1
   total energy: 25
   total exp: 4
   average money per energy: 4
-  average money per exp: 28
+  average money per exp: 27
   loot: []
 - target: Pizza Parlor
   job: Sabotage control panel
   energy: 58
   exp: 12
-  money max: 1585
-  money min: 490
+  money max: 1400
+  money min: 480
   clicks needed: 4
   total energy: 232
   total exp: 48
   average money per energy: 4
-  average money per exp: 21
+  average money per exp: 19
   loot:
   - name: Micro Uzi
     type: gun
@@ -84,25 +84,25 @@
   job: Rip off TV
   energy: 18
   exp: 3
-  money max: 110
-  money min: 50
+  money max: 90
+  money min: 40
   clicks needed: 1
   total energy: 18
   total exp: 3
-  average money per energy: 4
-  average money per exp: 26
+  average money per energy: 3
+  average money per exp: 21
   loot: []
 - target: Pizza Parlor
   job: Plant bomb
   energy: 47
   exp: 15
-  money max: 270
+  money max: 250
   money min: 75
   clicks needed: 1
   total energy: 47
   total exp: 15
   average money per energy: 3
-  average money per exp: 11
+  average money per exp: 10
   loot:
   - name: Micro SMG
     type: gun
@@ -119,19 +119,19 @@
   job: Shoplift
   energy: 17
   exp: 3
-  money max: 115
-  money min: 40
+  money max: 100
+  money min: 30
   clicks needed: 1
   total energy: 17
   total exp: 3
-  average money per energy: 4
-  average money per exp: 25
+  average money per energy: 3
+  average money per exp: 21
   loot: []
 - target: Pizza Parlor
   job: Break in
   energy: 27
   exp: 6
-  money max: 185
+  money max: 180
   money min: 60
   clicks needed: 1
   total energy: 27
@@ -213,19 +213,19 @@
   energy: 21
   exp: 3
   money max: 100
-  money min: 35
+  money min: 30
   clicks needed: 1
   total energy: 21
   total exp: 3
   average money per energy: 3
-  average money per exp: 22
+  average money per exp: 21
   loot: []
 - target: Rocco Colcetti
   job: Beat up
   energy: 46
   exp: 9
-  money max: 445
-  money min: 165
+  money max: 440
+  money min: 160
   clicks needed: 2
   total energy: 92
   total exp: 18
@@ -270,13 +270,13 @@
   job: Load Contraband
   energy: 85
   exp: 15
-  money max: 1290
-  money min: 455
+  money max: 1200
+  money min: 440
   clicks needed: 2
   total energy: 170
   total exp: 30
-  average money per energy: 5
-  average money per exp: 29
+  average money per energy: 4
+  average money per exp: 27
   loot:
   - name: Pilot Helmet
     type: armor
@@ -293,13 +293,13 @@
   job: Bust Up Hideout
   energy: 125
   exp: 27
-  money max: 1200
-  money min: 500
+  money max: 2880
+  money min: 1200
   clicks needed: 4
   total energy: 500
   total exp: 108
-  average money per energy: 1
-  average money per exp: 7
+  average money per energy: 4
+  average money per exp: 18
   loot:
   - name: Van
     type: car
@@ -316,25 +316,25 @@
   job: Home Invasion
   energy: 50
   exp: 6
-  money max: 345
+  money max: 340
   money min: 125
   clicks needed: 1
   total energy: 50
   total exp: 6
   average money per energy: 4
-  average money per exp: 39
+  average money per exp: 38
   loot: []
 - target: Pizza Parlor
   job: Rip Off Safe House
   energy: 70
   exp: 9
-  money max: 425
+  money max: 420
   money min: 260
   clicks needed: 1
   total energy: 70
   total exp: 9
   average money per energy: 4
-  average money per exp: 38
+  average money per exp: 37
   loot:
   - name: Beretta 92
     type: gun
@@ -396,13 +396,13 @@
   job: Knock Out
   energy: 51
   exp: 12
-  money max: 850
+  money max: 840
   money min: 375
   clicks needed: 3
   total energy: 153
   total exp: 36
-  average money per energy: 4
-  average money per exp: 17
+  average money per energy: 3
+  average money per exp: 16
   loot:
   - name: Survival Knife
     type: melee

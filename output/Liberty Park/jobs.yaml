@@ -3,13 +3,13 @@
   job: Hustle
   energy: 33
   exp: 6
-  money max: 190
-  money min: 120
+  money max: 180
+  money min: 100
   clicks needed: 1
   total energy: 33
   total exp: 6
   average money per energy: 4
-  average money per exp: 25
+  average money per exp: 23
   loot:
   - name: Rasta Jacket
     type: armor
@@ -26,13 +26,13 @@
   job: Tail
   energy: 37
   exp: 7
-  money max: 225
-  money min: 85
+  money max: 200
+  money min: 80
   clicks needed: 1
   total energy: 37
   total exp: 7
-  average money per energy: 4
-  average money per exp: 22
+  average money per energy: 3
+  average money per exp: 20
   loot:
   - name: Green Beret
     type: armor
@@ -49,25 +49,25 @@
   job: Pay for information
   energy: 25
   exp: 4
-  money max: 135
-  money min: 95
+  money max: 130
+  money min: 50
   clicks needed: 1
   total energy: 25
   total exp: 4
-  average money per energy: 4
-  average money per exp: 28
+  average money per energy: 3
+  average money per exp: 22
   loot: []
 - target: Moira Munn
   job: Supply weapon
   energy: 32
   exp: 7
-  money max: 210
+  money max: 200
   money min: 130
   clicks needed: 1
   total energy: 32
   total exp: 7
   average money per energy: 5
-  average money per exp: 24
+  average money per exp: 23
   loot:
   - name: Mac 10
     type: gun
@@ -84,13 +84,13 @@
   job: Defeat Fiorella Ricci
   energy: 120
   exp: 25
-  money max: 5755
-  money min: 2645
+  money max: 5600
+  money min: 2520
   clicks needed: 7
   total energy: 840
   total exp: 175
-  average money per energy: 5
-  average money per exp: 24
+  average money per energy: 4
+  average money per exp: 23
   loot:
   - name: Empire Knife
     type: melee
@@ -130,7 +130,7 @@
   energy: 90
   exp: 16
   money max: 1425
-  money min: 575
+  money min: 570
   clicks needed: 3
   total energy: 270
   total exp: 48
@@ -152,13 +152,13 @@
   job: Drop
   energy: 72
   exp: 12
-  money max: 915
-  money min: 240
+  money max: 900
+  money min: 220
   clicks needed: 3
   total energy: 216
   total exp: 36
   average money per energy: 2
-  average money per exp: 16
+  average money per exp: 15
   loot:
   - name: School Bus
     type: car
@@ -175,13 +175,13 @@
   job: Rob park patrons
   energy: 68
   exp: 16
-  money max: 630
-  money min: 275
+  money max: 600
+  money min: 200
   clicks needed: 1
   total energy: 68
   total exp: 16
-  average money per energy: 6
-  average money per exp: 28
+  average money per energy: 5
+  average money per exp: 25
   loot:
   - name: Armored Truck
     type: car
@@ -198,13 +198,13 @@
   job: Steal valuable art work
   energy: 75
   exp: 22
-  money max: 3050
+  money max: 2800
   money min: 1200
   clicks needed: 4
   total energy: 300
   total exp: 88
-  average money per energy: 7
-  average money per exp: 24
+  average money per energy: 6
+  average money per exp: 22
   loot:
   - name: Micro SMG
     type: gun
@@ -221,13 +221,13 @@
   job: Hold patrons hostage
   energy: 132
   exp: 18
-  money max: 1085
-  money min: 475
+  money max: 1050
+  money min: 450
   clicks needed: 1
   total energy: 132
   total exp: 18
   average money per energy: 5
-  average money per exp: 43
+  average money per exp: 41
   loot:
   - name: Metal Bat
     type: melee
@@ -244,13 +244,13 @@
   job: Rough up
   energy: 62
   exp: 9
-  money max: 710
-  money min: 430
+  money max: 640
+  money min: 400
   clicks needed: 2
   total energy: 124
   total exp: 18
   average money per energy: 4
-  average money per exp: 31
+  average money per exp: 28
   loot:
   - name: Survival Knife
     type: melee
@@ -267,13 +267,13 @@
   job: Search Ricci Hideout
   energy: 45
   exp: 12
-  money max: 680
-  money min: 250
+  money max: 600
+  money min: 200
   clicks needed: 2
   total energy: 90
   total exp: 24
-  average money per energy: 5
-  average money per exp: 19
+  average money per energy: 4
+  average money per exp: 16
   loot:
   - name: Desert Eagle
     type: gun
@@ -290,25 +290,25 @@
   job: Surveil Meeting
   energy: 33
   exp: 10
-  money max: 220
+  money max: 190
   money min: 70
   clicks needed: 1
   total energy: 33
   total exp: 10
-  average money per energy: 4
-  average money per exp: 14
+  average money per energy: 3
+  average money per exp: 13
   loot: []
 - target: Pizza Parlor
   job: Make Secret Drop
   energy: 56
   exp: 33
-  money max: 440
-  money min: 180
+  money max: 420
+  money min: 160
   clicks needed: 1
   total energy: 56
   total exp: 33
   average money per energy: 5
-  average money per exp: 9
+  average money per exp: 8
   loot:
   - name: SMG A4
     type: gun
@@ -326,12 +326,12 @@
   energy: 147
   exp: 6
   money max: 5400
-  money min: 1940
+  money min: 1800
   clicks needed: 5
   total energy: 735
   total exp: 30
   average money per energy: 4
-  average money per exp: 122
+  average money per exp: 120
   loot:
   - name: Micro Uzi
     type: gun
@@ -348,13 +348,13 @@
   job: Burglarize
   energy: 50
   exp: 9
-  money max: 350
-  money min: 215
+  money max: 310
+  money min: 180
   clicks needed: 1
   total energy: 50
   total exp: 9
-  average money per energy: 5
-  average money per exp: 31
+  average money per energy: 4
+  average money per exp: 27
   loot:
   - name: .38 Special
     type: gun
@@ -371,8 +371,8 @@
   job: Booby-Trap Package
   energy: 33
   exp: 18
-  money max: 185
-  money min: 50
+  money max: 180
+  money min: 40
   clicks needed: 1
   total energy: 33
   total exp: 18

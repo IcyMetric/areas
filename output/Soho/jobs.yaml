@@ -26,7 +26,7 @@
   job: Bust Up Stakeout
   energy: 136
   exp: 27
-  money max: 2225
+  money max: 2220
   money min: 615
   clicks needed: 3
   total energy: 408
@@ -49,13 +49,13 @@
   job: Rip Off Gems
   energy: 87
   exp: 15
-  money max: 2385
-  money min: 1075
+  money max: 2360
+  money min: 960
   clicks needed: 4
   total energy: 348
   total exp: 60
   average money per energy: 4
-  average money per exp: 28
+  average money per exp: 27
   loot:
   - name: Micro Uzi
     type: gun
@@ -72,25 +72,25 @@
   job: Steal Certificates
   energy: 45
   exp: 7
-  money max: 285
-  money min: 155
+  money max: 280
+  money min: 120
   clicks needed: 1
   total energy: 45
   total exp: 7
   average money per energy: 4
-  average money per exp: 31
+  average money per exp: 28
   loot: []
 - target: Pizza Parlor
   job: Pocket Protection Money
   energy: 28
   exp: 4
-  money max: 160
-  money min: 120
+  money max: 150
+  money min: 90
   clicks needed: 1
   total energy: 28
   total exp: 4
-  average money per energy: 5
-  average money per exp: 35
+  average money per energy: 4
+  average money per exp: 30
   loot:
   - name: Shovel
     type: melee
@@ -107,13 +107,13 @@
   job: Pull Credit Scam
   energy: 60
   exp: 7
-  money max: 1270
+  money max: 1130
   money min: 90
   clicks needed: 2
   total energy: 120
   total exp: 14
   average money per energy: 5
-  average money per exp: 48
+  average money per exp: 43
   loot:
   - name: Taxi Cab
     type: car
@@ -130,13 +130,13 @@
   job: Boost Inventory
   energy: 76
   exp: 16
-  money max: 875
-  money min: 775
+  money max: 860
+  money min: 680
   clicks needed: 2
   total energy: 152
   total exp: 32
   average money per energy: 5
-  average money per exp: 25
+  average money per exp: 24
   loot:
   - name: Hunting Rifle
     type: gun
@@ -153,8 +153,8 @@
   job: Beat Down
   energy: 56
   exp: 15
-  money max: 605
-  money min: 280
+  money max: 600
+  money min: 260
   clicks needed: 2
   total energy: 112
   total exp: 30
@@ -176,7 +176,7 @@
   job: Mess Up
   energy: 53
   exp: 15
-  money max: 455
+  money max: 440
   money min: 340
   clicks needed: 2
   total energy: 106
@@ -199,13 +199,13 @@
   job: Defeat
   energy: 108
   exp: 22
-  money max: 4270
-  money min: 2695
+  money max: 4200
+  money min: 2485
   clicks needed: 7
   total energy: 756
   total exp: 154
   average money per energy: 4
-  average money per exp: 22
+  average money per exp: 21
   loot:
   - name: Yakuza Katana
     type: melee
@@ -244,37 +244,37 @@
   job: Rob
   energy: 27
   exp: 3
-  money max: 175
-  money min: 80
+  money max: 160
+  money min: 70
   clicks needed: 1
   total energy: 27
   total exp: 3
   average money per energy: 4
-  average money per exp: 42
+  average money per exp: 38
   loot: []
 - target: Gloria Washington
   job: Mug
   energy: 21
   exp: 4
-  money max: 150
+  money max: 130
   money min: 60
   clicks needed: 1
   total energy: 21
   total exp: 4
-  average money per energy: 5
-  average money per exp: 26
+  average money per energy: 4
+  average money per exp: 23
   loot: []
 - target: Pizza Parlor
   job: Search Hideout
   energy: 32
   exp: 4
-  money max: 150
+  money max: 140
   money min: 45
   clicks needed: 1
   total energy: 32
   total exp: 4
-  average money per energy: 3
-  average money per exp: 24
+  average money per energy: 2
+  average money per exp: 23
   loot:
   - name: Dark Alley Coat
     type: armor
@@ -291,13 +291,13 @@
   job: Ambush Yakuza Allies
   energy: 80
   exp: 7
-  money max: 940
+  money max: 900
   money min: 350
   clicks needed: 2
   total energy: 160
   total exp: 14
-  average money per energy: 4
-  average money per exp: 46
+  average money per energy: 3
+  average money per exp: 44
   loot:
   - name: SMG A4
     type: gun
@@ -314,12 +314,12 @@
   job: Crash Private Party
   energy: 36
   exp: 19
-  money max: 375
-  money min: 225
+  money max: 340
+  money min: 220
   clicks needed: 2
   total energy: 72
   total exp: 38
-  average money per energy: 4
+  average money per energy: 3
   average money per exp: 7
   loot:
   - name: Top Hat
@@ -360,13 +360,13 @@
   job: Destroy Evidence
   energy: 40
   exp: 4
-  money max: 300
-  money min: 140
+  money max: 280
+  money min: 130
   clicks needed: 1
   total energy: 40
   total exp: 4
   average money per energy: 5
-  average money per exp: 55
+  average money per exp: 51
   loot:
   - name: Pilot Helmet
     type: armor
@@ -383,7 +383,7 @@
   job: Break in
   energy: 37
   exp: 10
-  money max: 270
+  money max: 260
   money min: 120
   clicks needed: 1
   total energy: 37
@@ -406,13 +406,13 @@
   job: Set up Stakeout
   energy: 34
   exp: 9
-  money max: 190
-  money min: 80
+  money max: 160
+  money min: 70
   clicks needed: 1
   total energy: 34
   total exp: 9
   average money per energy: 3
-  average money per exp: 15
+  average money per exp: 12
   loot: []
 - target: Pizza Parlor
   job: Crack Private Safe

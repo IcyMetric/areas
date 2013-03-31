@@ -3,13 +3,13 @@
   job: Kidnap Guitarist
   energy: 94
   exp: 20
-  money max: 1075
-  money min: 400
+  money max: 1000
+  money min: 300
   clicks needed: 1
   total energy: 94
   total exp: 20
-  average money per energy: 7
-  average money per exp: 36
+  average money per energy: 6
+  average money per exp: 32
   loot:
   - name: HK MP5
     type: gun
@@ -26,13 +26,13 @@
   job: Break Windows
   energy: 45
   exp: 11
-  money max: 325
-  money min: 210
+  money max: 240
+  money min: 140
   clicks needed: 1
   total energy: 45
   total exp: 11
-  average money per energy: 5
-  average money per exp: 24
+  average money per energy: 4
+  average money per exp: 17
   loot:
   - name: Nail Bat
     type: melee
@@ -49,13 +49,13 @@
   job: Threaten
   energy: 35
   exp: 9
-  money max: 250
-  money min: 180
+  money max: 210
+  money min: 120
   clicks needed: 1
   total energy: 35
   total exp: 9
-  average money per energy: 6
-  average money per exp: 23
+  average money per energy: 4
+  average money per exp: 18
   loot:
   - name: Butterfly Knife
     type: melee
@@ -72,13 +72,13 @@
   job: Steal Paintings
   energy: 122
   exp: 26
-  money max: 5200
+  money max: 4800
   money min: 2800
   clicks needed: 4
   total energy: 488
   total exp: 104
-  average money per energy: 8
-  average money per exp: 38
+  average money per energy: 7
+  average money per exp: 36
   loot:
   - name: School Bus
     type: car
@@ -95,13 +95,13 @@
   job: Heist Sculptures
   energy: 145
   exp: 28
-  money max: 8750
-  money min: 3750
+  money max: 8500
+  money min: 3000
   clicks needed: 5
   total energy: 725
   total exp: 140
-  average money per energy: 8
-  average money per exp: 44
+  average money per energy: 7
+  average money per exp: 41
   loot:
   - name: Armored Truck
     type: car
@@ -118,13 +118,13 @@
   job: Rip Off Instruments
   energy: 72
   exp: 16
-  money max: 720
-  money min: 440
+  money max: 600
+  money min: 400
   clicks needed: 1
   total energy: 72
   total exp: 16
-  average money per energy: 8
-  average money per exp: 36
+  average money per energy: 6
+  average money per exp: 31
   loot:
   - name: Colt 45
     type: gun
@@ -141,13 +141,13 @@
   job: Eliminate
   energy: 108
   exp: 30
-  money max: 2250
-  money min: 1350
+  money max: 2100
+  money min: 1140
   clicks needed: 3
   total energy: 324
   total exp: 90
   average money per energy: 5
-  average money per exp: 20
+  average money per exp: 18
   loot:
   - name: Hunting Rifle
     type: gun
@@ -164,13 +164,13 @@
   job: Put Down
   energy: 100
   exp: 26
-  money max: 1750
+  money max: 1480
   money min: 600
   clicks needed: 2
   total energy: 200
   total exp: 52
   average money per energy: 5
-  average money per exp: 22
+  average money per exp: 20
   loot:
   - name: Army Helmet
     type: armor
@@ -187,13 +187,13 @@
   job: Bump Off
   energy: 96
   exp: 27
-  money max: 1650
-  money min: 950
+  money max: 1400
+  money min: 800
   clicks needed: 2
   total energy: 192
   total exp: 54
-  average money per energy: 6
-  average money per exp: 24
+  average money per energy: 5
+  average money per exp: 20
   loot:
   - name: PP19 SMG
     type: gun
@@ -210,13 +210,13 @@
   job: Kill Art Dealer
   energy: 115
   exp: 31
-  money max: 3375
-  money min: 1500
+  money max: 2700
+  money min: 1200
   clicks needed: 3
   total energy: 345
   total exp: 93
-  average money per energy: 7
-  average money per exp: 26
+  average money per energy: 5
+  average money per exp: 20
   loot:
   - name: Mac 10
     type: gun
@@ -233,13 +233,13 @@
   job: Execute
   energy: 120
   exp: 36
-  money max: 3500
-  money min: 1600
+  money max: 3400
+  money min: 1400
   clicks needed: 4
   total energy: 480
   total exp: 144
   average money per energy: 5
-  average money per exp: 17
+  average money per exp: 16
   loot:
   - name: M11 A1
     type: gun
@@ -256,13 +256,13 @@
   job: Defeat
   energy: 165
   exp: 45
-  money max: 15000
-  money min: 5900
+  money max: 12600
+  money min: 5400
   clicks needed: 9
   total energy: 1485
   total exp: 405
-  average money per energy: 7
-  average money per exp: 25
+  average money per energy: 6
+  average money per exp: 22
   loot:
   - name: Russian Performance Bike
     type: car
@@ -301,13 +301,13 @@
   job: Loot Cubans
   energy: 54
   exp: 9
-  money max: 530
-  money min: 350
+  money max: 500
+  money min: 130
   clicks needed: 1
   total energy: 54
   total exp: 9
-  average money per energy: 8
-  average money per exp: 48
+  average money per energy: 5
+  average money per exp: 35
   loot:
   - name: Devilish Taxi
     type: car
@@ -324,13 +324,13 @@
   job: Take Hostages
   energy: 164
   exp: 33
-  money max: 5700
-  money min: 2400
+  money max: 5400
+  money min: 2100
   clicks needed: 3
   total energy: 492
   total exp: 99
-  average money per energy: 8
-  average money per exp: 40
+  average money per energy: 7
+  average money per exp: 37
   loot:
   - name: Lowrider
     type: car
@@ -347,37 +347,37 @@
   job: Set Trap
   energy: 32
   exp: 7
-  money max: 450
-  money min: 30
+  money max: 300
+  money min: 10
   clicks needed: 1
   total energy: 32
   total exp: 7
-  average money per energy: 7
-  average money per exp: 34
+  average money per energy: 4
+  average money per exp: 22
   loot: []
 - target: Pizza Parlor
   job: Escape Assassination
   energy: 34
   exp: 11
-  money max: 245
-  money min: 95
+  money max: 210
+  money min: 80
   clicks needed: 1
   total energy: 34
   total exp: 11
-  average money per energy: 5
-  average money per exp: 15
+  average money per energy: 4
+  average money per exp: 13
   loot: []
 - target: Pizza Parlor
   job: Bug Police Meeting
   energy: 42
   exp: 10
-  money max: 365
-  money min: 195
+  money max: 270
+  money min: 120
   clicks needed: 1
   total energy: 42
   total exp: 10
-  average money per energy: 6
-  average money per exp: 28
+  average money per energy: 4
+  average money per exp: 19
   loot:
   - name: Pilot Helmet
     type: armor
@@ -394,13 +394,13 @@
   job: Break in
   energy: 62
   exp: 13
-  money max: 800
-  money min: 180
+  money max: 600
+  money min: 150
   clicks needed: 1
   total energy: 62
   total exp: 13
-  average money per energy: 7
-  average money per exp: 37
+  average money per energy: 6
+  average money per exp: 28
   loot:
   - name: Metal Bat
     type: melee
@@ -418,12 +418,12 @@
   energy: 56
   exp: 14
   money max: 940
-  money min: 760
+  money min: 560
   clicks needed: 2
   total energy: 112
   total exp: 28
-  average money per energy: 7
-  average money per exp: 30
+  average money per energy: 6
+  average money per exp: 26
   loot:
   - name: Micro Uzi
     type: gun
@@ -440,37 +440,37 @@
   job: Shake Down
   energy: 65
   exp: 13
-  money max: 800
+  money max: 540
   money min: 200
   clicks needed: 1
   total energy: 65
   total exp: 13
-  average money per energy: 7
-  average money per exp: 38
+  average money per energy: 5
+  average money per exp: 28
   loot: []
 - target: Pizza Parlor
   job: Rob
   energy: 44
   exp: 9
-  money max: 480
-  money min: 160
+  money max: 380
+  money min: 140
   clicks needed: 1
   total energy: 44
   total exp: 9
-  average money per energy: 7
-  average money per exp: 35
+  average money per energy: 5
+  average money per exp: 28
   loot: []
 - target: Agent Logan
   job: Take Out
   energy: 88
   exp: 24
-  money max: 1590
+  money max: 1400
   money min: 550
   clicks needed: 2
   total energy: 176
   total exp: 48
-  average money per energy: 6
-  average money per exp: 22
+  average money per energy: 5
+  average money per exp: 20
   loot:
   - name: Carbine
     type: gun
@@ -487,13 +487,13 @@
   job: Take Down
   energy: 105
   exp: 33
-  money max: 3680
-  money min: 1720
+  money max: 3280
+  money min: 1120
   clicks needed: 4
   total energy: 420
   total exp: 132
-  average money per energy: 6
-  average money per exp: 20
+  average money per energy: 5
+  average money per exp: 16
   loot:
   - name: SMG A4
     type: gun

@@ -3,13 +3,13 @@
   job: Search
   energy: 48
   exp: 13
-  money max: 700
+  money max: 500
   money min: 100
   clicks needed: 1
   total energy: 48
   total exp: 13
-  average money per energy: 8
-  average money per exp: 30
+  average money per energy: 6
+  average money per exp: 23
   loot:
   - name: Armored Truck
     type: car
@@ -26,13 +26,13 @@
   job: Hack Computer
   energy: 156
   exp: 36
-  money max: 5100
-  money min: 2000
+  money max: 3800
+  money min: 1200
   clicks needed: 2
   total energy: 312
   total exp: 72
-  average money per energy: 11
-  average money per exp: 49
+  average money per energy: 8
+  average money per exp: 34
   loot:
   - name: Mac 10
     type: gun
@@ -49,13 +49,13 @@
   job: Inspect
   energy: 60
   exp: 17
-  money max: 700
-  money min: 300
+  money max: 600
+  money min: 200
   clicks needed: 1
   total energy: 60
   total exp: 17
-  average money per energy: 8
-  average money per exp: 29
+  average money per energy: 6
+  average money per exp: 23
   loot:
   - name: SWAT Pistol
     type: gun
@@ -72,13 +72,13 @@
   job: Steal Chems
   energy: 210
   exp: 51
-  money max: 15200
-  money min: 5600
+  money max: 12000
+  money min: 4800
   clicks needed: 4
   total energy: 840
   total exp: 204
-  average money per energy: 12
-  average money per exp: 50
+  average money per energy: 10
+  average money per exp: 41
   loot:
   - name: Blow Torch
     type: gun
@@ -95,13 +95,13 @@
   job: Rip Off Product
   energy: 96
   exp: 15
-  money max: 1600
-  money min: 500
+  money max: 1000
+  money min: 400
   clicks needed: 1
   total energy: 96
   total exp: 15
-  average money per energy: 10
-  average money per exp: 70
+  average money per energy: 7
+  average money per exp: 46
   loot:
   - name: SMG K01
     type: gun
@@ -118,13 +118,13 @@
   job: Steal Hidden Cash
   energy: 87
   exp: 12
-  money max: 2000
+  money max: 1200
   money min: 100
   clicks needed: 1
   total energy: 87
   total exp: 12
-  average money per energy: 12
-  average money per exp: 87
+  average money per energy: 7
+  average money per exp: 54
   loot:
   - name: Carbine
     type: gun
@@ -141,13 +141,13 @@
   job: Crush Cooke's Car
   energy: 175
   exp: 55
-  money max: 6600
-  money min: 2700
+  money max: 5100
+  money min: 2100
   clicks needed: 3
   total energy: 525
   total exp: 165
-  average money per energy: 8
-  average money per exp: 28
+  average money per energy: 6
+  average money per exp: 21
   loot:
   - name: Nail Bat
     type: melee
@@ -164,13 +164,13 @@
   job: Destroy Tow Truck
   energy: 188
   exp: 57
-  money max: 7600
-  money min: 4400
+  money max: 6400
+  money min: 4000
   clicks needed: 4
   total energy: 752
   total exp: 228
-  average money per energy: 7
-  average money per exp: 26
+  average money per energy: 6
+  average money per exp: 22
   loot:
   - name: Hot Box Van
     type: car
@@ -187,61 +187,61 @@
   job: Smash Lab Equipment
   energy: 224
   exp: 73
-  money max: 15000
-  money min: 6000
+  money max: 12500
+  money min: 4000
   clicks needed: 5
   total energy: 1120
   total exp: 365
-  average money per energy: 9
-  average money per exp: 28
+  average money per energy: 7
+  average money per exp: 22
   loot: []
 - target: Pizza Parlor
   job: Burn Stash
   energy: 127
   exp: 28
-  money max: 1250
-  money min: 750
+  money max: 1200
+  money min: 400
   clicks needed: 1
   total energy: 127
   total exp: 28
-  average money per energy: 7
-  average money per exp: 35
+  average money per energy: 6
+  average money per exp: 28
   loot: []
 - target: The Chemist
   job: Assassinate
   energy: 184
   exp: 61
-  money max: 13500
-  money min: 7500
+  money max: 11400
+  money min: 4200
   clicks needed: 6
   total energy: 1104
   total exp: 366
-  average money per energy: 9
-  average money per exp: 28
+  average money per energy: 7
+  average money per exp: 21
   loot: []
 - target: Hannibal Cooke
   job: Perform Hit
   energy: 176
   exp: 56
-  money max: 12900
-  money min: 5700
+  money max: 10200
+  money min: 4800
   clicks needed: 6
   total energy: 1056
   total exp: 336
-  average money per energy: 8
-  average money per exp: 27
+  average money per energy: 7
+  average money per exp: 22
   loot: []
 - target: Mean Machine Cooke
   job: Take Out
   energy: 168
   exp: 51
-  money max: 8500
-  money min: 3000
+  money max: 8000
+  money min: 2500
   clicks needed: 5
   total energy: 840
   total exp: 255
   average money per energy: 6
-  average money per exp: 22
+  average money per exp: 20
   loot:
   - name: SCAR
     type: gun
@@ -258,13 +258,13 @@
   job: Defeat
   energy: 216
   exp: 73
-  money max: 34650
-  money min: 12100
+  money max: 26400
+  money min: 8250
   clicks needed: 11
   total energy: 2376
   total exp: 803
-  average money per energy: 9
-  average money per exp: 29
+  average money per energy: 7
+  average money per exp: 21
   loot:
   - name: Shrapnel Gun
     type: gun
@@ -303,13 +303,13 @@
   job: Steal Catalytic Converters
   energy: 72
   exp: 12
-  money max: 1400
-  money min: 400
+  money max: 800
+  money min: 300
   clicks needed: 1
   total energy: 72
   total exp: 12
-  average money per energy: 12
-  average money per exp: 75
+  average money per energy: 7
+  average money per exp: 45
   loot:
   - name: Devilish Taxi
     type: car
@@ -326,13 +326,13 @@
   job: Hide Supplies
   energy: 57
   exp: 13
-  money max: 900
-  money min: 125
+  money max: 500
+  money min: 150
   clicks needed: 1
   total energy: 57
   total exp: 13
-  average money per energy: 8
-  average money per exp: 39
+  average money per energy: 5
+  average money per exp: 25
   loot:
   - name: M4 A1
     type: gun
@@ -349,13 +349,13 @@
   job: Dump Toxic Waste
   energy: 200
   exp: 63
-  money max: 12000
-  money min: 3600
+  money max: 9200
+  money min: 2000
   clicks needed: 4
   total energy: 800
   total exp: 252
-  average money per energy: 9
-  average money per exp: 30
+  average money per energy: 7
+  average money per exp: 22
   loot:
   - name: GMC Yukon
     type: car
@@ -372,25 +372,25 @@
   job: Recycle Scrap Metal
   energy: 52
   exp: 12
-  money max: 775
-  money min: 50
+  money max: 700
+  money min: 10
   clicks needed: 1
   total energy: 52
   total exp: 12
-  average money per energy: 7
-  average money per exp: 34
+  average money per energy: 6
+  average money per exp: 29
   loot: []
 - target: Pizza Parlor
   job: Melt Down Weapons
   energy: 136
   exp: 33
-  money max: 7200
-  money min: 3900
+  money max: 5100
+  money min: 1500
   clicks needed: 3
   total energy: 408
   total exp: 99
-  average money per energy: 13
-  average money per exp: 56
+  average money per energy: 8
+  average money per exp: 33
   loot:
   - name: DP MachineGun
     type: gun
@@ -407,13 +407,13 @@
   job: Stash Stolen Product
   energy: 110
   exp: 20
-  money max: 1800
-  money min: 720
+  money max: 1400
+  money min: 250
   clicks needed: 1
   total energy: 110
   total exp: 20
-  average money per energy: 11
-  average money per exp: 63
+  average money per energy: 7
+  average money per exp: 41
   loot:
   - name: Browning A5 Shotgun
     type: gun
@@ -430,13 +430,13 @@
   job: Intercept Shipment
   energy: 90
   exp: 15
-  money max: 1620
-  money min: 640
+  money max: 900
+  money min: 500
   clicks needed: 1
   total energy: 90
   total exp: 15
-  average money per energy: 12
-  average money per exp: 75
+  average money per energy: 7
+  average money per exp: 46
   loot:
   - name: M14 Sniper Rifle
     type: gun
@@ -453,13 +453,13 @@
   job: Vandalize
   energy: 102
   exp: 29
-  money max: 960
+  money max: 700
   money min: 300
   clicks needed: 1
   total energy: 102
   total exp: 29
-  average money per energy: 6
-  average money per exp: 21
+  average money per energy: 4
+  average money per exp: 17
   loot:
   - name: Butterfly Knife
     type: melee
@@ -476,13 +476,13 @@
   job: Joy Ride
   energy: 64
   exp: 18
-  money max: 720
-  money min: 240
+  money max: 525
+  money min: 200
   clicks needed: 1
   total energy: 64
   total exp: 18
-  average money per energy: 7
-  average money per exp: 26
+  average money per energy: 5
+  average money per exp: 20
   loot:
   - name: Lowrider
     type: car
@@ -499,23 +499,23 @@
   job: Load Product
   energy: 80
   exp: 16
-  money max: 1700
-  money min: 350
+  money max: 1000
+  money min: 300
   clicks needed: 1
   total energy: 80
   total exp: 16
-  average money per energy: 12
-  average money per exp: 64
+  average money per energy: 8
+  average money per exp: 40
   loot: []
 - target: Pizza Parlor
   job: Sweeten the Tank
   energy: 50
   exp: 7
-  money max: 600
-  money min: 200
+  money max: 400
+  money min: 100
   clicks needed: 1
   total energy: 50
   total exp: 7
-  average money per energy: 8
-  average money per exp: 57
+  average money per energy: 5
+  average money per exp: 35
   loot: []
