@@ -58,15 +58,15 @@
   loot:
   - name: Nail Bat
     type: melee
-    percent: 0.23
+    percent: 0.46
     attack: 7
     defense: 5
-    energy for 1: 7304.347826086956
-    exp for 1: 2582.608695652174
-    attack for energy: 0.0009583333333333334
-    defense for energy: 0.0006845238095238096
-    attack for exp: 0.0027104377104377104
-    defense for exp: 0.001936026936026936
+    energy for 1: 3652.173913043478
+    exp for 1: 1291.304347826087
+    attack for energy: 0.0019166666666666668
+    defense for energy: 0.0013690476190476191
+    attack for exp: 0.005420875420875421
+    defense for exp: 0.003872053872053872
 - target: Dean Werner
   job: Bribe
   energy: 155
@@ -140,15 +140,15 @@
   loot:
   - name: ARX160
     type: gun
-    percent: 0.16
+    percent: 0.32
     attack: 13
     defense: 10
-    energy for 1: 4562.5
-    exp for 1: 1325.0
-    attack for energy: 0.0028493150684931507
-    defense for energy: 0.002191780821917808
-    attack for exp: 0.009811320754716982
-    defense for exp: 0.007547169811320755
+    energy for 1: 2281.25
+    exp for 1: 662.5
+    attack for energy: 0.005698630136986301
+    defense for energy: 0.004383561643835616
+    attack for exp: 0.019622641509433963
+    defense for exp: 0.01509433962264151
 - target: Pizza Parlor
   job: Break In
   energy: 220
@@ -163,15 +163,15 @@
   loot:
   - name: DP MachineGun
     type: gun
-    percent: 0.17
+    percent: 0.34
     attack: 5
     defense: 10
-    energy for 1: 5176.470588235294
-    exp for 1: 1105.8823529411764
-    attack for energy: 0.000965909090909091
-    defense for energy: 0.001931818181818182
-    attack for exp: 0.004521276595744681
-    defense for exp: 0.009042553191489363
+    energy for 1: 2588.235294117647
+    exp for 1: 552.9411764705882
+    attack for energy: 0.001931818181818182
+    defense for energy: 0.003863636363636364
+    attack for exp: 0.009042553191489363
+    defense for exp: 0.018085106382978725
 - target: Pizza Parlor
   job: Pull Fire Alarm
   energy: 96
@@ -198,15 +198,15 @@
   loot:
   - name: SCAR
     type: gun
-    percent: 0.18
+    percent: 0.36
     attack: 7
     defense: 7
-    energy for 1: 4888.888888888889
-    exp for 1: 1044.4444444444446
-    attack for energy: 0.0014318181818181819
-    defense for energy: 0.0014318181818181819
-    attack for exp: 0.0067021276595744675
-    defense for exp: 0.0067021276595744675
+    energy for 1: 2444.4444444444443
+    exp for 1: 522.2222222222223
+    attack for energy: 0.0028636363636363638
+    defense for energy: 0.0028636363636363638
+    attack for exp: 0.013404255319148935
+    defense for exp: 0.013404255319148935
 - target: Pizza Parlor
   job: Vandalize
   energy: 210
@@ -256,15 +256,15 @@
   loot:
   - name: Trick Razor
     type: melee
-    percent: 0.22
+    percent: 0.44
     attack: 11
     defense: 9
-    energy for 1: 16363.636363636364
-    exp for 1: 4545.454545454545
-    attack for energy: 0.0006722222222222222
-    defense for energy: 0.00055
-    attack for exp: 0.0024200000000000003
-    defense for exp: 0.00198
+    energy for 1: 8181.818181818182
+    exp for 1: 2272.7272727272725
+    attack for energy: 0.0013444444444444443
+    defense for energy: 0.0011
+    attack for exp: 0.0048400000000000006
+    defense for exp: 0.00396
 - target: Pizza Parlor
   job: Setup Chem Production
   energy: 400
@@ -279,15 +279,15 @@
   loot:
   - name: NATO Gas Mask
     type: armor
-    percent: 0.2
+    percent: 0.4
     attack: 4
     defense: 18
-    energy for 1: 16000.0
-    exp for 1: 5760.0
-    attack for energy: 0.00025
-    defense for energy: 0.001125
-    attack for exp: 0.0006944444444444445
-    defense for exp: 0.003125
+    energy for 1: 8000.0
+    exp for 1: 2880.0
+    attack for energy: 0.0005
+    defense for energy: 0.00225
+    attack for exp: 0.001388888888888889
+    defense for exp: 0.00625
 - target: Pizza Parlor
   job: Sell Pick-Me-Ups
   energy: 130
