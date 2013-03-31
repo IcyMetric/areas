@@ -267,14 +267,14 @@
   - name: SWAT Pistol
     type: gun
     percent: 0.08
-    attack: 5
-    defense: 7
+    attack: 4
+    defense: 8
     energy for 1: 1575.0
     exp for 1: 225.0
-    attack for energy: 0.0031746031746031746
-    defense for energy: 0.0044444444444444444
-    attack for exp: 0.022222222222222223
-    defense for exp: 0.03111111111111111
+    attack for energy: 0.0025396825396825397
+    defense for energy: 0.005079365079365079
+    attack for exp: 0.017777777777777778
+    defense for exp: 0.035555555555555556
 - target: Pizza Parlor
   job: Rob
   energy: 45
