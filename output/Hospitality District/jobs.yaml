@@ -13,15 +13,15 @@
   loot:
   - name: Punker Pants
     type: armor
-    percent: 0.33
+    percent: 0.17
     attack: 9
     defense: 11
-    energy for 1: 4636.363636363636
-    exp for 1: 1600.0
-    attack for energy: 0.0019411764705882354
-    defense for energy: 0.0023725490196078434
-    attack for exp: 0.005625
-    defense for exp: 0.006875
+    energy for 1: 9000.0
+    exp for 1: 3105.882352941176
+    attack for energy: 0.001
+    defense for energy: 0.0012222222222222222
+    attack for exp: 0.002897727272727273
+    defense for exp: 0.003541666666666667
 - target: Pizza Parlor
   job: Turn Out Call Girls
   energy: 156
@@ -176,15 +176,15 @@
   loot:
   - name: Punker Jacket
     type: armor
-    percent: 0.43
+    percent: 0.22
     attack: 6
     defense: 10
-    energy for 1: 4116.279069767442
-    exp for 1: 1479.0697674418604
-    attack for energy: 0.0014576271186440678
-    defense for energy: 0.0024293785310734463
-    attack for exp: 0.004056603773584906
-    defense for exp: 0.006761006289308176
+    energy for 1: 8045.454545454545
+    exp for 1: 2890.909090909091
+    attack for energy: 0.0007457627118644068
+    defense for energy: 0.0012429378531073447
+    attack for exp: 0.0020754716981132076
+    defense for exp: 0.003459119496855346
 - target: Magic Valentino
   job: Ambush Pimp
   energy: 310
@@ -267,15 +267,15 @@
   loot:
   - name: Blow Torch
     type: gun
-    percent: 0.31
+    percent: 0.16
     attack: 8
     defense: 6
-    energy for 1: 1277.4193548387098
-    exp for 1: 309.6774193548387
-    attack for energy: 0.006262626262626262
-    defense for energy: 0.004696969696969697
-    attack for exp: 0.025833333333333333
-    defense for exp: 0.019375
+    energy for 1: 2475.0
+    exp for 1: 600.0
+    attack for energy: 0.0032323232323232323
+    defense for energy: 0.0024242424242424242
+    attack for exp: 0.013333333333333334
+    defense for exp: 0.01
 - target: Pizza Parlor
   job: Rob Rich Dinner Guests
   energy: 137
@@ -314,15 +314,15 @@
   loot:
   - name: Lowrider
     type: car
-    percent: 0.35
+    percent: 0.18
     attack: 6
     defense: 6
-    energy for 1: 8000.000000000001
-    exp for 1: 2880.0
-    attack for energy: 0.0007499999999999999
-    defense for energy: 0.0007499999999999999
-    attack for exp: 0.0020833333333333333
-    defense for exp: 0.0020833333333333333
+    energy for 1: 15555.555555555557
+    exp for 1: 5600.0
+    attack for energy: 0.00038571428571428567
+    defense for energy: 0.00038571428571428567
+    attack for exp: 0.0010714285714285715
+    defense for exp: 0.0010714285714285715
 - target: Pizza Parlor
   job: Scalp tickets
   energy: 115

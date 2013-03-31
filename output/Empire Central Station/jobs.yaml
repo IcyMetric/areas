@@ -13,15 +13,15 @@
   loot:
   - name: Crimson Shotgun
     type: gun
-    percent: 0.4
+    percent: 0.2
     attack: 19
     defense: 14
-    energy for 1: 6800.0
-    exp for 1: 2880.0
-    attack for energy: 0.0027941176470588237
-    defense for energy: 0.002058823529411765
-    attack for exp: 0.006597222222222222
-    defense for exp: 0.004861111111111111
+    energy for 1: 13600.0
+    exp for 1: 5760.0
+    attack for energy: 0.0013970588235294118
+    defense for energy: 0.0010294117647058824
+    attack for exp: 0.003298611111111111
+    defense for exp: 0.0024305555555555556
 - target: Muscles Mulroney
   job: Beat up
   energy: 276
@@ -34,17 +34,17 @@
   average money per energy: 25
   average money per exp: 60
   loot:
-  - name: Mossberg 590 Shotgun
+  - name: Modified Shotgun
     type: gun
-    percent: 0.49
-    attack: 50
-    defense: 50
-    energy for 1: 3379.591836734694
-    exp for 1: 1408.1632653061224
-    attack for energy: 0.014794685990338164
-    defense for energy: 0.014794685990338164
-    attack for exp: 0.035507246376811595
-    defense for exp: 0.035507246376811595
+    percent: 0.25
+    attack: 12
+    defense: 8
+    energy for 1: 6624.0
+    exp for 1: 2760.0
+    attack for energy: 0.0018115942028985507
+    defense for energy: 0.0012077294685990338
+    attack for exp: 0.004347826086956522
+    defense for exp: 0.002898550724637681
 - target: Seymour Stone
   job: Ambush
   energy: 310
@@ -94,15 +94,15 @@
   loot:
   - name: Irish Shooter
     type: gun
-    percent: 0.54
+    percent: 0.27
     attack: 11
     defense: 10
-    energy for 1: 4601.851851851851
-    exp for 1: 1918.5185185185185
-    attack for energy: 0.0023903420523138834
-    defense for energy: 0.002173038229376258
-    attack for exp: 0.0057335907335907335
-    defense for exp: 0.0052123552123552125
+    energy for 1: 9203.703703703703
+    exp for 1: 3837.037037037037
+    attack for energy: 0.0011951710261569417
+    defense for energy: 0.001086519114688129
+    attack for exp: 0.0028667953667953668
+    defense for exp: 0.0026061776061776063
 - target: Ella Ricci
   job: Defeat Ella Ricci
   energy: 418
@@ -162,15 +162,15 @@
   loot:
   - name: Blow Torch
     type: gun
-    percent: 0.4
+    percent: 0.2
     attack: 8
     defense: 6
-    energy for 1: 820.0
-    exp for 1: 300.0
-    attack for energy: 0.00975609756097561
-    defense for energy: 0.007317073170731708
-    attack for exp: 0.02666666666666667
-    defense for exp: 0.02
+    energy for 1: 1640.0
+    exp for 1: 600.0
+    attack for energy: 0.004878048780487805
+    defense for energy: 0.003658536585365854
+    attack for exp: 0.013333333333333334
+    defense for exp: 0.01
 - target: Pizza Parlor
   job: Dispose of Ella's bodyguards
   energy: 300
@@ -185,15 +185,15 @@
   loot:
   - name: Mk 14 Battle Rifle
     type: gun
-    percent: 0.37
+    percent: 0.19
     attack: 14
     defense: 14
-    energy for 1: 4864.864864864865
-    exp for 1: 1978.3783783783783
-    attack for energy: 0.0028777777777777777
-    defense for energy: 0.0028777777777777777
-    attack for exp: 0.007076502732240438
-    defense for exp: 0.007076502732240438
+    energy for 1: 9473.684210526315
+    exp for 1: 3852.6315789473683
+    attack for energy: 0.001477777777777778
+    defense for energy: 0.001477777777777778
+    attack for exp: 0.003633879781420765
+    defense for exp: 0.003633879781420765
 - target: Pizza Parlor
   job: Make fake bomb phone call
   energy: 106
@@ -266,15 +266,15 @@
   loot:
   - name: Police Armor
     type: armor
-    percent: 0.5
+    percent: 0.25
     attack: 5
     defense: 14
-    energy for 1: 3984.0
-    exp for 1: 1608.0
-    attack for energy: 0.0012550200803212851
-    defense for energy: 0.0035140562248995983
-    attack for exp: 0.003109452736318408
-    defense for exp: 0.008706467661691543
+    energy for 1: 7968.0
+    exp for 1: 3216.0
+    attack for energy: 0.0006275100401606426
+    defense for energy: 0.0017570281124497991
+    attack for exp: 0.001554726368159204
+    defense for exp: 0.004353233830845771
 - target: Pizza Parlor
   job: Bribe waitress
   energy: 114
@@ -337,15 +337,15 @@
   loot:
   - name: State Jacket
     type: armor
-    percent: 0.42
+    percent: 0.21
     attack: 3
     defense: 10
-    energy for 1: 819.047619047619
-    exp for 1: 323.8095238095238
-    attack for energy: 0.0036627906976744186
-    defense for energy: 0.012209302325581395
-    attack for exp: 0.009264705882352942
-    defense for exp: 0.030882352941176472
+    energy for 1: 1638.095238095238
+    exp for 1: 647.6190476190476
+    attack for energy: 0.0018313953488372093
+    defense for energy: 0.006104651162790698
+    attack for exp: 0.004632352941176471
+    defense for exp: 0.015441176470588236
 - target: Pizza Parlor
   job: Crack safe
   energy: 450
@@ -360,15 +360,15 @@
   loot:
   - name: Urban Warfare Vest
     type: armor
-    percent: 0.44
+    percent: 0.22
     attack: 11
     defense: 20
-    energy for 1: 8181.818181818182
-    exp for 1: 3054.5454545454545
-    attack for energy: 0.0013444444444444443
-    defense for energy: 0.0024444444444444444
-    attack for exp: 0.003601190476190476
-    defense for exp: 0.006547619047619048
+    energy for 1: 16363.636363636364
+    exp for 1: 6109.090909090909
+    attack for energy: 0.0006722222222222222
+    defense for energy: 0.0012222222222222222
+    attack for exp: 0.001800595238095238
+    defense for exp: 0.003273809523809524
 - target: Pizza Parlor
   job: Manhandle manager
   energy: 233
@@ -383,15 +383,15 @@
   loot:
   - name: Mark 2 Blade
     type: melee
-    percent: 0.42
+    percent: 0.21
     attack: 7
     defense: 9
-    energy for 1: 2219.0476190476193
-    exp for 1: 895.2380952380953
-    attack for energy: 0.00315450643776824
-    defense for energy: 0.004055793991416309
-    attack for exp: 0.007819148936170212
-    defense for exp: 0.010053191489361702
+    energy for 1: 4438.0952380952385
+    exp for 1: 1790.4761904761906
+    attack for energy: 0.00157725321888412
+    defense for energy: 0.0020278969957081543
+    attack for exp: 0.003909574468085106
+    defense for exp: 0.005026595744680851
 - target: Pizza Parlor
   job: Filch fortunes
   energy: 127

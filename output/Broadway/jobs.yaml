@@ -37,15 +37,15 @@
   loot:
   - name: Steyr AUG
     type: gun
-    percent: 0.31
+    percent: 0.16
     attack: 7
     defense: 6
-    energy for 1: 1625.8064516129032
-    exp for 1: 522.5806451612904
-    attack for energy: 0.0043055555555555555
-    defense for energy: 0.0036904761904761906
-    attack for exp: 0.013395061728395061
-    defense for exp: 0.011481481481481481
+    energy for 1: 3150.0
+    exp for 1: 1012.5
+    attack for energy: 0.0022222222222222222
+    defense for energy: 0.0019047619047619048
+    attack for exp: 0.006913580246913581
+    defense for exp: 0.005925925925925926
 - target: Ellis Bernard
   job: Beat up federal agent
   energy: 185
@@ -172,17 +172,17 @@
   average money per energy: 15
   average money per exp: 47
   loot:
-  - name: Mossberg 590 Shotgun
+  - name: Modified Shotgun
     type: gun
     percent: 0.24
-    attack: 50
-    defense: 50
+    attack: 12
+    defense: 8
     energy for 1: 7750.0
     exp for 1: 2525.0
-    attack for energy: 0.0064516129032258064
-    defense for energy: 0.0064516129032258064
-    attack for exp: 0.019801980198019802
-    defense for exp: 0.019801980198019802
+    attack for energy: 0.0015483870967741935
+    defense for energy: 0.001032258064516129
+    attack for exp: 0.004752475247524752
+    defense for exp: 0.0031683168316831685
 - target: Pizza Parlor
   job: Blackmail opera singer
   energy: 130
@@ -209,15 +209,15 @@
   loot:
   - name: SWAT Pistol
     type: gun
-    percent: 0.31
+    percent: 0.16
     attack: 4
     defense: 8
-    energy for 1: 1354.8387096774193
-    exp for 1: 277.4193548387097
-    attack for energy: 0.0029523809523809524
-    defense for energy: 0.005904761904761905
-    attack for exp: 0.01441860465116279
-    defense for exp: 0.02883720930232558
+    energy for 1: 2625.0
+    exp for 1: 537.5
+    attack for energy: 0.0015238095238095239
+    defense for energy: 0.0030476190476190477
+    attack for exp: 0.0074418604651162795
+    defense for exp: 0.014883720930232559
 - target: Pizza Parlor
   job: Sell forged tickets
   energy: 100
@@ -244,15 +244,15 @@
   loot:
   - name: SA58 Carbine
     type: gun
-    percent: 0.35
+    percent: 0.18
     attack: 37
     defense: 41
-    energy for 1: 3805.714285714286
-    exp for 1: 1285.7142857142858
-    attack for energy: 0.009722222222222222
-    defense for energy: 0.010773273273273274
-    attack for exp: 0.028777777777777777
-    defense for exp: 0.03188888888888889
+    energy for 1: 7400.0
+    exp for 1: 2500.0
+    attack for energy: 0.005
+    defense for energy: 0.00554054054054054
+    attack for exp: 0.0148
+    defense for exp: 0.0164
 - target: Pizza Parlor
   job: Stash federal agent corpses
   energy: 325
@@ -314,15 +314,15 @@
   loot:
   - name: Carbine
     type: gun
-    percent: 0.31
+    percent: 0.16
     attack: 4
     defense: 6
-    energy for 1: 709.6774193548387
-    exp for 1: 193.5483870967742
-    attack for energy: 0.005636363636363636
-    defense for energy: 0.008454545454545456
-    attack for exp: 0.020666666666666667
-    defense for exp: 0.030999999999999996
+    energy for 1: 1375.0
+    exp for 1: 375.0
+    attack for energy: 0.002909090909090909
+    defense for energy: 0.004363636363636364
+    attack for exp: 0.010666666666666666
+    defense for exp: 0.016
 - target: Pizza Parlor
   job: Crack Safe
   energy: 400

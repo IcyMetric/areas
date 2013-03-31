@@ -36,15 +36,15 @@
   loot:
   - name: M14 Sniper Rifle
     type: gun
-    percent: 0.35
+    percent: 0.18
     attack: 9
     defense: 7
-    energy for 1: 6000.0
-    exp for 1: 2060.0
-    attack for energy: 0.0015
-    defense for energy: 0.0011666666666666668
-    attack for exp: 0.004368932038834952
-    defense for exp: 0.0033980582524271844
+    energy for 1: 11666.666666666668
+    exp for 1: 4005.5555555555557
+    attack for energy: 0.0007714285714285713
+    defense for energy: 0.0006
+    attack for exp: 0.002246879334257975
+    defense for exp: 0.0017475728155339806
 - target: Pizza Parlor
   job: Assassinate Enforcers
   energy: 245
@@ -59,15 +59,15 @@
   loot:
   - name: DP MachineGun
     type: gun
-    percent: 0.31
+    percent: 0.16
     attack: 5
     defense: 10
-    energy for 1: 4741.935483870968
-    exp for 1: 1587.0967741935483
-    attack for energy: 0.001054421768707483
-    defense for energy: 0.002108843537414966
-    attack for exp: 0.0031504065040650407
-    defense for exp: 0.006300813008130081
+    energy for 1: 9187.5
+    exp for 1: 3075.0
+    attack for energy: 0.0005442176870748299
+    defense for energy: 0.0010884353741496598
+    attack for exp: 0.0016260162601626016
+    defense for exp: 0.0032520325203252032
 - target: Pizza Parlor
   job: Gather Information
   energy: 78
@@ -152,15 +152,15 @@
   loot:
   - name: Carbine
     type: gun
-    percent: 0.43
+    percent: 0.22
     attack: 4
     defense: 6
-    energy for 1: 2930.232558139535
-    exp for 1: 948.8372093023256
-    attack for energy: 0.0013650793650793651
-    defense for energy: 0.0020476190476190477
-    attack for exp: 0.0042156862745098035
-    defense for exp: 0.006323529411764705
+    energy for 1: 5727.272727272727
+    exp for 1: 1854.5454545454545
+    attack for energy: 0.0006984126984126985
+    defense for energy: 0.0010476190476190477
+    attack for exp: 0.002156862745098039
+    defense for exp: 0.003235294117647059
 - target: Dasha Semak
   job: Neutralize
   energy: 170
@@ -301,15 +301,15 @@
   loot:
   - name: Army Helmet
     type: armor
-    percent: 0.33
+    percent: 0.17
     attack: 3
     defense: 6
-    energy for 1: 1500.0
-    exp for 1: 436.3636363636363
-    attack for energy: 0.002
-    defense for energy: 0.004
-    attack for exp: 0.006875000000000001
-    defense for exp: 0.013750000000000002
+    energy for 1: 2911.7647058823527
+    exp for 1: 847.0588235294117
+    attack for energy: 0.0010303030303030305
+    defense for energy: 0.002060606060606061
+    attack for exp: 0.003541666666666667
+    defense for exp: 0.007083333333333334
 - target: Pizza Parlor
   job: Steal Meds
   energy: 140

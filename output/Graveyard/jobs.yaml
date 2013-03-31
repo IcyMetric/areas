@@ -36,15 +36,15 @@
   loot:
   - name: Butterfly Knife
     type: melee
-    percent: 0.33
+    percent: 0.17
     attack: 5
     defense: 5
-    energy for 1: 1236.3636363636363
-    exp for 1: 227.27272727272725
-    attack for energy: 0.004044117647058824
-    defense for energy: 0.004044117647058824
-    attack for exp: 0.022000000000000002
-    defense for exp: 0.022000000000000002
+    energy for 1: 2400.0
+    exp for 1: 441.17647058823525
+    attack for energy: 0.0020833333333333333
+    defense for energy: 0.0020833333333333333
+    attack for exp: 0.011333333333333334
+    defense for exp: 0.011333333333333334
 - target: George Digges
   job: Bribe Gravedigger
   energy: 82
@@ -152,15 +152,15 @@
   loot:
   - name: Blow Torch
     type: gun
-    percent: 0.35
+    percent: 0.18
     attack: 8
     defense: 6
-    energy for 1: 3977.1428571428573
-    exp for 1: 1268.5714285714287
-    attack for energy: 0.002011494252873563
-    defense for energy: 0.0015086206896551724
-    attack for exp: 0.006306306306306306
-    defense for exp: 0.004729729729729729
+    energy for 1: 7733.333333333334
+    exp for 1: 2466.666666666667
+    attack for energy: 0.0010344827586206895
+    defense for energy: 0.0007758620689655172
+    attack for exp: 0.0032432432432432426
+    defense for exp: 0.0024324324324324323
 - target: Pizza Parlor
   job: Burn Body
   energy: 300
@@ -324,15 +324,15 @@
   loot:
   - name: Police Baton
     type: melee
-    percent: 0.56
+    percent: 0.28
     attack: 3
     defense: 8
-    energy for 1: 3314.2857142857138
-    exp for 1: 757.1428571428571
-    attack for energy: 0.0009051724137931036
-    defense for energy: 0.0024137931034482764
-    attack for exp: 0.003962264150943397
-    defense for exp: 0.010566037735849057
+    energy for 1: 6628.5714285714275
+    exp for 1: 1514.2857142857142
+    attack for energy: 0.0004525862068965518
+    defense for energy: 0.0012068965517241382
+    attack for exp: 0.0019811320754716984
+    defense for exp: 0.005283018867924529
 - target: Pizza Parlor
   job: Slash Tires
   energy: 105

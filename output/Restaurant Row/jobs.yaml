@@ -199,15 +199,15 @@
   loot:
   - name: Meat Mallet
     type: melee
-    percent: 0.31
+    percent: 0.16
     attack: 4
     defense: 5
-    energy for 1: 1141.9354838709678
-    exp for 1: 348.38709677419354
-    attack for energy: 0.003502824858757062
-    defense for energy: 0.004378531073446328
-    attack for exp: 0.011481481481481481
-    defense for exp: 0.014351851851851852
+    energy for 1: 2212.5
+    exp for 1: 675.0
+    attack for energy: 0.001807909604519774
+    defense for energy: 0.0022598870056497176
+    attack for exp: 0.005925925925925926
+    defense for exp: 0.007407407407407408
 - target: Tommy Blade
   job: Beat up
   energy: 162

@@ -117,15 +117,15 @@
   loot:
   - name: DP MachineGun
     type: gun
-    percent: 0.35
+    percent: 0.18
     attack: 5
     defense: 10
-    energy for 1: 4525.714285714286
-    exp for 1: 1508.5714285714287
-    attack for energy: 0.0011047979797979798
-    defense for energy: 0.0022095959595959595
-    attack for exp: 0.003314393939393939
-    defense for exp: 0.006628787878787878
+    energy for 1: 8800.0
+    exp for 1: 2933.3333333333335
+    attack for energy: 0.0005681818181818182
+    defense for energy: 0.0011363636363636363
+    attack for exp: 0.0017045454545454545
+    defense for exp: 0.003409090909090909
 - target: Ronald Price
   job: Interrogate
   energy: 120
@@ -140,15 +140,15 @@
   loot:
   - name: Butterfly Knife
     type: melee
-    percent: 0.35
+    percent: 0.18
     attack: 5
     defense: 5
-    energy for 1: 685.7142857142858
-    exp for 1: 182.85714285714286
-    attack for energy: 0.007291666666666666
-    defense for energy: 0.007291666666666666
-    attack for exp: 0.02734375
-    defense for exp: 0.02734375
+    energy for 1: 1333.3333333333335
+    exp for 1: 355.55555555555554
+    attack for energy: 0.0037499999999999994
+    defense for energy: 0.0037499999999999994
+    attack for exp: 0.0140625
+    defense for exp: 0.0140625
 - target: Phyllis O'Toole
   job: Threaten
   energy: 112
@@ -360,12 +360,12 @@
   loot:
   - name: SCAR
     type: gun
-    percent: 0.37
+    percent: 0.19
     attack: 7
     defense: 7
-    energy for 1: 4410.810810810811
-    exp for 1: 1459.4594594594594
-    attack for energy: 0.0015870098039215685
-    defense for energy: 0.0015870098039215685
-    attack for exp: 0.004796296296296297
-    defense for exp: 0.004796296296296297
+    energy for 1: 8589.473684210527
+    exp for 1: 2842.1052631578946
+    attack for energy: 0.0008149509803921568
+    defense for energy: 0.0008149509803921568
+    attack for exp: 0.0024629629629629632
+    defense for exp: 0.0024629629629629632

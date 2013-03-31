@@ -25,15 +25,15 @@
   loot:
   - name: Mark 2 Blade
     type: melee
-    percent: 0.32
+    percent: 0.16
     attack: 7
     defense: 9
-    energy for 1: 3906.25
-    exp for 1: 1250.0
-    attack for energy: 0.001792
-    defense for energy: 0.002304
-    attack for exp: 0.0056
-    defense for exp: 0.0072
+    energy for 1: 7812.5
+    exp for 1: 2500.0
+    attack for energy: 0.000896
+    defense for energy: 0.001152
+    attack for exp: 0.0028
+    defense for exp: 0.0036
 - target: Pizza Parlor
   job: Pick Up Knock-offs
   energy: 125
@@ -371,15 +371,15 @@
   loot:
   - name: Stone Hammer
     type: melee
-    percent: 0.37
+    percent: 0.19
     attack: 10
     defense: 9
-    energy for 1: 4464.864864864865
-    exp for 1: 1418.918918918919
-    attack for energy: 0.0022397094430992737
-    defense for energy: 0.002015738498789346
-    attack for exp: 0.007047619047619047
-    defense for exp: 0.006342857142857142
+    energy for 1: 8694.736842105263
+    exp for 1: 2763.157894736842
+    attack for energy: 0.0011501210653753027
+    defense for energy: 0.0010351089588377723
+    attack for exp: 0.003619047619047619
+    defense for exp: 0.0032571428571428573
 - target: Pizza Parlor
   job: Scam Tourists
   energy: 128
@@ -406,15 +406,15 @@
   loot:
   - name: DP MachineGun
     type: gun
-    percent: 0.36
+    percent: 0.18
     attack: 5
     defense: 10
-    energy for 1: 5277.777777777778
-    exp for 1: 1777.7777777777778
-    attack for energy: 0.0009473684210526315
-    defense for energy: 0.001894736842105263
-    attack for exp: 0.0028125
-    defense for exp: 0.005625
+    energy for 1: 10555.555555555557
+    exp for 1: 3555.5555555555557
+    attack for energy: 0.00047368421052631577
+    defense for energy: 0.0009473684210526315
+    attack for exp: 0.00140625
+    defense for exp: 0.0028125
 - target: Pizza Parlor
   job: Hide Stolen Goods
   energy: 140

@@ -106,15 +106,15 @@
   loot:
   - name: Micro Uzi
     type: gun
-    percent: 0.31
+    percent: 16.0
     attack: 4
     defense: 3
-    energy for 1: 1161.2903225806451
-    exp for 1: 232.25806451612902
-    attack for energy: 0.0034444444444444444
-    defense for energy: 0.0025833333333333333
-    attack for exp: 0.017222222222222222
-    defense for exp: 0.012916666666666667
+    energy for 1: 22.5
+    exp for 1: 4.5
+    attack for energy: 0.17777777777777778
+    defense for energy: 0.13333333333333333
+    attack for exp: 0.8888888888888888
+    defense for exp: 0.6666666666666666
 - target: Pizza Parlor
   job: Destroy Hideout
   energy: 285
@@ -221,15 +221,15 @@
   loot:
   - name: Butterfly Knife
     type: melee
-    percent: 0.32
+    percent: 0.16
     attack: 5
     defense: 5
-    energy for 1: 2218.75
-    exp for 1: 718.75
-    attack for energy: 0.0022535211267605635
-    defense for energy: 0.0022535211267605635
-    attack for exp: 0.006956521739130435
-    defense for exp: 0.006956521739130435
+    energy for 1: 4437.5
+    exp for 1: 1437.5
+    attack for energy: 0.0011267605633802818
+    defense for energy: 0.0011267605633802818
+    attack for exp: 0.0034782608695652175
+    defense for exp: 0.0034782608695652175
 - target: Junior Genova
   job: Defeat
   energy: 236

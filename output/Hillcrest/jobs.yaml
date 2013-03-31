@@ -59,15 +59,15 @@
   loot:
   - name: Hunting Knife
     type: melee
-    percent: 0.32
+    percent: 0.16
     attack: 8
     defense: 4
-    energy for 1: 3750.0
-    exp for 1: 900.0
-    attack for energy: 0.0021333333333333334
-    defense for energy: 0.0010666666666666667
-    attack for exp: 0.008888888888888889
-    defense for exp: 0.0044444444444444444
+    energy for 1: 7500.0
+    exp for 1: 1800.0
+    attack for energy: 0.0010666666666666667
+    defense for energy: 0.0005333333333333334
+    attack for exp: 0.0044444444444444444
+    defense for exp: 0.0022222222222222222
 - target: Pizza Parlor
   job: Plant hidden camera
   energy: 112
@@ -129,15 +129,15 @@
   loot:
   - name: DP MachineGun
     type: gun
-    percent: 0.52
+    percent: 0.26
     attack: 5
     defense: 10
-    energy for 1: 6769.230769230769
-    exp for 1: 1876.923076923077
-    attack for energy: 0.0007386363636363637
-    defense for energy: 0.0014772727272727275
-    attack for exp: 0.002663934426229508
-    defense for exp: 0.005327868852459016
+    energy for 1: 13538.461538461537
+    exp for 1: 3753.846153846154
+    attack for energy: 0.00036931818181818187
+    defense for energy: 0.0007386363636363637
+    attack for exp: 0.001331967213114754
+    defense for exp: 0.002663934426229508
 - target: Bernie Birnbaum
   job: Collect gambling debt
   energy: 102
@@ -359,12 +359,12 @@
   loot:
   - name: Carbine
     type: gun
-    percent: 0.42
+    percent: 0.21
     attack: 4
     defense: 6
-    energy for 1: 2619.0476190476193
-    exp for 1: 657.1428571428571
-    attack for energy: 0.0015272727272727272
-    defense for energy: 0.002290909090909091
-    attack for exp: 0.00608695652173913
-    defense for exp: 0.009130434782608696
+    energy for 1: 5238.0952380952385
+    exp for 1: 1314.2857142857142
+    attack for energy: 0.0007636363636363636
+    defense for energy: 0.0011454545454545454
+    attack for exp: 0.003043478260869565
+    defense for exp: 0.004565217391304348
