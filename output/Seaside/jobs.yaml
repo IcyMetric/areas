@@ -25,15 +25,15 @@
   loot:
   - name: SMG A4
     type: gun
-    percent: 0.32
+    percent: 0.16
     attack: 2
     defense: 4
-    energy for 1: 281.25
-    exp for 1: 65.625
-    attack for energy: 0.0071111111111111115
-    defense for energy: 0.014222222222222223
-    attack for exp: 0.030476190476190476
-    defense for exp: 0.06095238095238095
+    energy for 1: 562.5
+    exp for 1: 131.25
+    attack for energy: 0.0035555555555555557
+    defense for energy: 0.0071111111111111115
+    attack for exp: 0.015238095238095238
+    defense for exp: 0.030476190476190476
 - target: Irina Card
   job: Pump for Info
   energy: 96
@@ -141,15 +141,15 @@
   loot:
   - name: Survival Knife
     type: melee
-    percent: 0.4
+    percent: 0.2
     attack: 2
     defense: 5
-    energy for 1: 1950.0
-    exp for 1: 600.0
-    attack for energy: 0.0010256410256410256
-    defense for energy: 0.002564102564102564
-    attack for exp: 0.0033333333333333335
-    defense for exp: 0.008333333333333333
+    energy for 1: 3900.0
+    exp for 1: 1200.0
+    attack for energy: 0.0005128205128205128
+    defense for energy: 0.001282051282051282
+    attack for exp: 0.0016666666666666668
+    defense for exp: 0.004166666666666667
 - target: Pizza Parlor
   job: Poison Dogs
   energy: 172
@@ -187,15 +187,15 @@
   loot:
   - name: SCAR
     type: gun
-    percent: 0.34
+    percent: 0.17
     attack: 7
     defense: 7
-    energy for 1: 2647.0588235294117
-    exp for 1: 882.3529411764705
-    attack for energy: 0.0026444444444444445
-    defense for energy: 0.0026444444444444445
-    attack for exp: 0.007933333333333334
-    defense for exp: 0.007933333333333334
+    energy for 1: 5294.117647058823
+    exp for 1: 1764.705882352941
+    attack for energy: 0.0013222222222222222
+    defense for energy: 0.0013222222222222222
+    attack for exp: 0.003966666666666667
+    defense for exp: 0.003966666666666667
 - target: Buttons Genova
   job: Hit
   energy: 196
@@ -290,15 +290,15 @@
   loot:
   - name: State Jacket
     type: armor
-    percent: 0.34
+    percent: 0.17
     attack: 3
     defense: 10
-    energy for 1: 1294.1176470588234
-    exp for 1: 188.23529411764704
-    attack for energy: 0.002318181818181818
-    defense for energy: 0.007727272727272728
-    attack for exp: 0.0159375
-    defense for exp: 0.053125000000000006
+    energy for 1: 2588.235294117647
+    exp for 1: 376.4705882352941
+    attack for energy: 0.001159090909090909
+    defense for energy: 0.003863636363636364
+    attack for exp: 0.00796875
+    defense for exp: 0.026562500000000003
 - target: Pizza Parlor
   job: Collect DNA
   energy: 74
