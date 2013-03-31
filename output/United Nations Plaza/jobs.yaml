@@ -13,15 +13,15 @@
   loot:
   - name: SA58 Carbine
     type: gun
-    percent: 0.14
+    percent: 0.56
     attack: 9
     defense: 8
-    energy for 1: 4285.714285714285
-    exp for 1: 1557.1428571428569
-    attack for energy: 0.0021000000000000003
-    defense for energy: 0.0018666666666666669
-    attack for exp: 0.005779816513761469
-    defense for exp: 0.005137614678899083
+    energy for 1: 1071.4285714285713
+    exp for 1: 389.2857142857142
+    attack for energy: 0.008400000000000001
+    defense for energy: 0.0074666666666666675
+    attack for exp: 0.023119266055045877
+    defense for exp: 0.020550458715596333
 - target: Giacomo Bastiani
   job: Hire Muscle
   energy: 150
@@ -60,15 +60,15 @@
   loot:
   - name: Carbine
     type: gun
-    percent: 0.17
+    percent: 0.68
     attack: 4
     defense: 6
-    energy for 1: 4235.294117647059
-    exp for 1: 1694.1176470588234
-    attack for energy: 0.0009444444444444445
-    defense for energy: 0.0014166666666666668
-    attack for exp: 0.002361111111111111
-    defense for exp: 0.003541666666666667
+    energy for 1: 1058.8235294117646
+    exp for 1: 423.52941176470586
+    attack for energy: 0.003777777777777778
+    defense for energy: 0.005666666666666667
+    attack for exp: 0.009444444444444445
+    defense for exp: 0.014166666666666668
 - target: Pizza Parlor
   job: Steal Dossier
   energy: 270
@@ -83,15 +83,15 @@
   loot:
   - name: Samurai Knife
     type: melee
-    percent: 0.13
+    percent: 0.52
     attack: 9
     defense: 13
-    energy for 1: 8307.692307692307
-    exp for 1: 2861.5384615384614
-    attack for energy: 0.0010833333333333335
-    defense for energy: 0.001564814814814815
-    attack for exp: 0.0031451612903225807
-    defense for exp: 0.004543010752688172
+    energy for 1: 2076.9230769230767
+    exp for 1: 715.3846153846154
+    attack for energy: 0.004333333333333334
+    defense for energy: 0.00625925925925926
+    attack for exp: 0.012580645161290323
+    defense for exp: 0.01817204301075269
 - target: Interpol Agent
   job: Take Out
   energy: 360
@@ -129,15 +129,15 @@
   loot:
   - name: Skull Shotgun
     type: gun
-    percent: 0.15
+    percent: 0.6
     attack: 18
     defense: 7
-    energy for 1: 11200.0
-    exp for 1: 4293.333333333334
-    attack for energy: 0.0016071428571428571
-    defense for energy: 0.000625
-    attack for exp: 0.004192546583850931
-    defense for exp: 0.0016304347826086953
+    energy for 1: 2800.0
+    exp for 1: 1073.3333333333335
+    attack for energy: 0.0064285714285714285
+    defense for energy: 0.0025
+    attack for exp: 0.016770186335403725
+    defense for exp: 0.006521739130434781
 - target: Ambassador Leone
   job: Intimidate
   energy: 300
@@ -152,15 +152,15 @@
   loot:
   - name: Security Shotgun
     type: gun
-    percent: 0.11
+    percent: 0.44
     attack: 10
     defense: 14
-    energy for 1: 8181.818181818182
-    exp for 1: 2972.7272727272725
-    attack for energy: 0.0012222222222222222
-    defense for energy: 0.0017111111111111112
-    attack for exp: 0.0033639143730886853
-    defense for exp: 0.00470948012232416
+    energy for 1: 2045.4545454545455
+    exp for 1: 743.1818181818181
+    attack for energy: 0.004888888888888889
+    defense for energy: 0.006844444444444445
+    attack for exp: 0.013455657492354741
+    defense for exp: 0.01883792048929664
 - target: Ambassador Hu
   job: Threaten
   energy: 270
@@ -175,15 +175,15 @@
   loot:
   - name: Nail Bat
     type: melee
-    percent: 0.14
+    percent: 0.56
     attack: 7
     defense: 5
-    energy for 1: 3857.142857142857
-    exp for 1: 1328.5714285714284
-    attack for energy: 0.001814814814814815
-    defense for energy: 0.0012962962962962965
-    attack for exp: 0.0052688172043010755
-    defense for exp: 0.003763440860215054
+    energy for 1: 964.2857142857142
+    exp for 1: 332.1428571428571
+    attack for energy: 0.00725925925925926
+    defense for energy: 0.005185185185185186
+    attack for exp: 0.021075268817204302
+    defense for exp: 0.015053763440860216
 - target: Ambassador Orlov
   job: Beat Down
   energy: 300
@@ -198,15 +198,15 @@
   loot:
   - name: Bomb Squad Suit
     type: armor
-    percent: 0.14
+    percent: 0.56
     attack: 5
     defense: 18
-    energy for 1: 10714.285714285714
-    exp for 1: 3892.8571428571427
-    attack for energy: 0.0004666666666666667
-    defense for energy: 0.00168
-    attack for exp: 0.0012844036697247708
-    defense for exp: 0.004623853211009174
+    energy for 1: 2678.5714285714284
+    exp for 1: 973.2142857142857
+    attack for energy: 0.0018666666666666669
+    defense for energy: 0.00672
+    attack for exp: 0.005137614678899083
+    defense for exp: 0.018495412844036697
 - target: Agent McCarthy
   job: Defeat
   energy: 540
@@ -266,15 +266,15 @@
   loot:
   - name: Police Car
     type: car
-    percent: 0.09
+    percent: 0.36
     attack: 4
     defense: 6
-    energy for 1: 14000.0
-    exp for 1: 4766.666666666667
-    attack for energy: 0.00028571428571428574
-    defense for energy: 0.00042857142857142855
-    attack for exp: 0.0008391608391608392
-    defense for exp: 0.0012587412587412587
+    energy for 1: 3500.0
+    exp for 1: 1191.6666666666667
+    attack for energy: 0.001142857142857143
+    defense for energy: 0.0017142857142857142
+    attack for exp: 0.0033566433566433566
+    defense for exp: 0.005034965034965035
 - target: Dick Adams
   job: Bribe
   energy: 180
@@ -301,15 +301,15 @@
   loot:
   - name: Government Limo
     type: car
-    percent: 0.09
+    percent: 0.36
     attack: 8
     defense: 21
-    energy for 1: 53333.333333333336
-    exp for 1: 16555.555555555555
-    attack for energy: 0.00015
-    defense for energy: 0.00039375
-    attack for exp: 0.0004832214765100671
-    defense for exp: 0.0012684563758389262
+    energy for 1: 13333.333333333334
+    exp for 1: 4138.888888888889
+    attack for energy: 0.0006
+    defense for energy: 0.001575
+    attack for exp: 0.0019328859060402685
+    defense for exp: 0.005073825503355705
 - target: Pizza Parlor
   job: Set Up Snipers
   energy: 270
@@ -336,15 +336,15 @@
   loot:
   - name: Blow Torch
     type: gun
-    percent: 0.19
+    percent: 0.76
     attack: 8
     defense: 6
-    energy for 1: 11368.421052631578
-    exp for 1: 3884.2105263157896
-    attack for energy: 0.0007037037037037038
-    defense for energy: 0.0005277777777777778
-    attack for exp: 0.002059620596205962
-    defense for exp: 0.0015447154471544715
+    energy for 1: 2842.1052631578946
+    exp for 1: 971.0526315789474
+    attack for energy: 0.002814814814814815
+    defense for energy: 0.0021111111111111113
+    attack for exp: 0.008238482384823848
+    defense for exp: 0.006178861788617886
 - target: Pizza Parlor
   job: Plant Bomb
   energy: 180
@@ -383,15 +383,15 @@
   loot:
   - name: Trick Shotgun
     type: gun
-    percent: 0.02
+    percent: 0.08
     attack: 16
     defense: 13
-    energy for 1: 12000.0
-    exp for 1: 4600.0
-    attack for energy: 0.0013333333333333333
-    defense for energy: 0.0010833333333333333
-    attack for exp: 0.0034782608695652175
-    defense for exp: 0.002826086956521739
+    energy for 1: 3000.0
+    exp for 1: 1150.0
+    attack for energy: 0.005333333333333333
+    defense for energy: 0.004333333333333333
+    attack for exp: 0.01391304347826087
+    defense for exp: 0.011304347826086957
 - target: Pizza Parlor
   job: Smuggle Weapons
   energy: 270
@@ -406,12 +406,12 @@
   loot:
   - name: Urban Warfare Vest
     type: armor
-    percent: 0.08
+    percent: 0.32
     attack: 11
     defense: 20
-    energy for 1: 10125.0
-    exp for 1: 3487.5
-    attack for energy: 0.0010864197530864198
-    defense for energy: 0.0019753086419753087
-    attack for exp: 0.003154121863799283
-    defense for exp: 0.005734767025089606
+    energy for 1: 2531.25
+    exp for 1: 871.875
+    attack for energy: 0.004345679012345679
+    defense for energy: 0.007901234567901235
+    attack for exp: 0.012616487455197133
+    defense for exp: 0.022939068100358423
