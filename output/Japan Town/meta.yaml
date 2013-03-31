@@ -1,0 +1,23 @@
+---
+name: Japan Town
+unlock_level: 165
+is_available: 1
+is_coming_soon: 0
+mastery rewards:
+- level: 1
+  exp: 176
+  money: 780000
+- level: 2
+  exp: 176
+  respect: 1000
+- level: 3
+  exp: 176
+  item: Shogun Armor
+  item attack: 47
+  item defense: 98
+- level: 4
+  exp: 176
+  mafia: 1
+- level: 5
+  exp: 176
+  skill points: 1

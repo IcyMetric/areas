@@ -1,0 +1,404 @@
+---
+- target: Pizza Parlor
+  job: Pilfer from the Dragon Gang
+  energy: 383
+  exp: 165
+  money max: 160860
+  money min: 53620
+  clicks needed: 4
+  total energy: 1532
+  total exp: 660
+  average money per energy: 70
+  average money per exp: 162
+  loot:
+  - name: Ancient Tanto
+    type: melee
+    percent: 0.25
+    attack: 25
+    defense: 21
+    energy for 1: 6128.0
+    exp for 1: 2640.0
+    attack for energy: 0.004079634464751959
+    defense for energy: 0.003426892950391645
+    attack for exp: 0.00946969696969697
+    defense for exp: 0.007954545454545454
+- target: Pizza Parlor
+  job: Ambush the Tiger Gang
+  energy: 527
+  exp: 227
+  money max: 276675
+  money min: 92225
+  clicks needed: 5
+  total energy: 2635
+  total exp: 1135
+  average money per energy: 70
+  average money per exp: 162
+  loot:
+  - name: Japanese Firework
+    type: explosive
+    percent: 0.25
+    attack: 31
+    defense: 15
+    energy for 1: 10540.0
+    exp for 1: 4540.0
+    attack for energy: 0.0029411764705882353
+    defense for energy: 0.0014231499051233396
+    attack for exp: 0.006828193832599119
+    defense for exp: 0.003303964757709251
+- target: Pizza Parlor
+  job: Assassinate the Head of the Tiger Gang
+  energy: 590
+  exp: 254
+  money max: 371700
+  money min: 123900
+  clicks needed: 6
+  total energy: 3540
+  total exp: 1524
+  average money per energy: 70
+  average money per exp: 162
+  loot:
+  - name: Serrated Tonfas
+    type: melee
+    percent: 0.4
+    attack: 16
+    defense: 34
+    energy for 1: 8850.0
+    exp for 1: 3810.0
+    attack for energy: 0.001807909604519774
+    defense for energy: 0.0038418079096045198
+    attack for exp: 0.004199475065616798
+    defense for exp: 0.008923884514435695
+- target: Pizza Parlor
+  job: Reduce Dragon Gang's Numbers
+  energy: 215
+  exp: 92
+  money max: 112875
+  money min: 37625
+  clicks needed: 5
+  total energy: 1075
+  total exp: 460
+  average money per energy: 70
+  average money per exp: 163
+  loot:
+  - name: Japanese Firework
+    type: explosive
+    percent: 0.25
+    attack: 31
+    defense: 15
+    energy for 1: 4300.0
+    exp for 1: 1840.0
+    attack for energy: 0.007209302325581395
+    defense for energy: 0.0034883720930232558
+    attack for exp: 0.01684782608695652
+    defense for exp: 0.008152173913043478
+- target: Pizza Parlor
+  job: Hijack some Wheels
+  energy: 175
+  exp: 75
+  money max: 18375
+  money min: 6125
+  clicks needed: 1
+  total energy: 175
+  total exp: 75
+  average money per energy: 70
+  average money per exp: 163
+  loot: []
+- target: Pizza Parlor
+  job: Loot the Store
+  energy: 428
+  exp: 184
+  money max: 134820
+  money min: 44940
+  clicks needed: 3
+  total energy: 1284
+  total exp: 552
+  average money per energy: 70
+  average money per exp: 162
+  loot:
+  - name: Serrated Tonfas
+    type: melee
+    percent: 0.15
+    attack: 16
+    defense: 34
+    energy for 1: 8560.0
+    exp for 1: 3680.0
+    attack for energy: 0.001869158878504673
+    defense for energy: 0.00397196261682243
+    attack for exp: 0.004347826086956522
+    defense for exp: 0.00923913043478261
+- target: Pizza Parlor
+  job: Rob the Market
+  energy: 388
+  exp: 167
+  money max: 40740
+  money min: 13580
+  clicks needed: 1
+  total energy: 388
+  total exp: 167
+  average money per energy: 70
+  average money per exp: 162
+  loot: []
+- target: Pizza Parlor
+  job: Procure a Hideout
+  energy: 518
+  exp: 223
+  money max: 108780
+  money min: 36260
+  clicks needed: 2
+  total energy: 1036
+  total exp: 446
+  average money per energy: 70
+  average money per exp: 162
+  loot:
+  - name: Eastern Justice
+    type: gun
+    percent: 0.15
+    attack: 29
+    defense: 26
+    energy for 1: 6906.666666666667
+    exp for 1: 2973.3333333333335
+    attack for energy: 0.004198841698841699
+    defense for energy: 0.0037644787644787645
+    attack for exp: 0.009753363228699552
+    defense for exp: 0.00874439461883408
+- target: Pizza Parlor
+  job: Steal from the Tiger Gang
+  energy: 478
+  exp: 206
+  money max: 200760
+  money min: 66920
+  clicks needed: 4
+  total energy: 1912
+  total exp: 824
+  average money per energy: 70
+  average money per exp: 162
+  loot:
+  - name: Serrated Tonfas
+    type: melee
+    percent: 0.25
+    attack: 16
+    defense: 34
+    energy for 1: 7648.0
+    exp for 1: 3296.0
+    attack for energy: 0.0020920502092050207
+    defense for energy: 0.00444560669456067
+    attack for exp: 0.0048543689320388345
+    defense for exp: 0.010315533980582525
+- target: Pizza Parlor
+  job: Kill the Dragon Boss
+  energy: 253
+  exp: 109
+  money max: 185955
+  money min: 61985
+  clicks needed: 7
+  total energy: 1771
+  total exp: 763
+  average money per energy: 70
+  average money per exp: 162
+  loot:
+  - name: Japanese Firework
+    type: explosive
+    percent: 0.4
+    attack: 31
+    defense: 15
+    energy for 1: 4427.5
+    exp for 1: 1907.5
+    attack for energy: 0.007001693958215698
+    defense for energy: 0.0033879164313946925
+    attack for exp: 0.016251638269986893
+    defense for exp: 0.007863695937090432
+- target: Pizza Parlor
+  job: Loot the Jewelry
+  energy: 213
+  exp: 92
+  money max: 67095
+  money min: 22365
+  clicks needed: 3
+  total energy: 639
+  total exp: 276
+  average money per energy: 70
+  average money per exp: 162
+  loot:
+  - name: Serrated Tonfas
+    type: melee
+    percent: 0.15
+    attack: 16
+    defense: 34
+    energy for 1: 4260.0
+    exp for 1: 1840.0
+    attack for energy: 0.003755868544600939
+    defense for energy: 0.007981220657276996
+    attack for exp: 0.008695652173913044
+    defense for exp: 0.01847826086956522
+- target: Pizza Parlor
+  job: Shoot up the Teahouse
+  energy: 295
+  exp: 127
+  money max: 30975
+  money min: 10325
+  clicks needed: 1
+  total energy: 295
+  total exp: 127
+  average money per energy: 70
+  average money per exp: 162
+  loot: []
+- target: Kazuo Maki
+  job: Kill a member of the Dragon Gang
+  energy: 255
+  exp: 110
+  money max: 107100
+  money min: 35700
+  clicks needed: 4
+  total energy: 1020
+  total exp: 440
+  average money per energy: 70
+  average money per exp: 162
+  loot:
+  - name: Eastern Justice
+    type: gun
+    percent: 0.25
+    attack: 29
+    defense: 26
+    energy for 1: 4080.0
+    exp for 1: 1760.0
+    attack for energy: 0.007107843137254902
+    defense for energy: 0.006372549019607843
+    attack for exp: 0.016477272727272726
+    defense for exp: 0.014772727272727272
+- target: Nobu Makoto
+  job: Kill a member of the Tiger Gang
+  energy: 212
+  exp: 91
+  money max: 89040
+  money min: 29680
+  clicks needed: 4
+  total energy: 848
+  total exp: 364
+  average money per energy: 70
+  average money per exp: 163
+  loot:
+  - name: Ceremonial Katana
+    type: melee
+    percent: 0.25
+    attack: 35
+    defense: 18
+    energy for 1: 3392.0
+    exp for 1: 1456.0
+    attack for energy: 0.010318396226415094
+    defense for energy: 0.005306603773584905
+    attack for exp: 0.02403846153846154
+    defense for exp: 0.012362637362637362
+- target: Jurou Takashi
+  job: Interrogate the Hydra Captain
+  energy: 172
+  exp: 74
+  money max: 144480
+  money min: 48160
+  clicks needed: 8
+  total energy: 1376
+  total exp: 592
+  average money per energy: 70
+  average money per exp: 162
+  loot:
+  - name: Serrated Tonfas
+    type: melee
+    percent: 0.4
+    attack: 16
+    defense: 34
+    energy for 1: 3440.0
+    exp for 1: 1480.0
+    attack for energy: 0.004651162790697674
+    defense for energy: 0.009883720930232558
+    attack for exp: 0.010810810810810811
+    defense for exp: 0.022972972972972974
+- target: Ken Kobayashi
+  job: Question the Hydra Underboss
+  energy: 198
+  exp: 85
+  money max: 166320
+  money min: 55440
+  clicks needed: 8
+  total energy: 1584
+  total exp: 680
+  average money per energy: 70
+  average money per exp: 163
+  loot:
+  - name: Eastern Justice
+    type: gun
+    percent: 0.4
+    attack: 29
+    defense: 26
+    energy for 1: 3960.0
+    exp for 1: 1700.0
+    attack for energy: 0.0073232323232323236
+    defense for energy: 0.0065656565656565654
+    attack for exp: 0.017058823529411765
+    defense for exp: 0.015294117647058824
+- target: Kimiko Yamauchi
+  job: Mug a Local
+  energy: 158
+  exp: 68
+  money max: 49770
+  money min: 16590
+  clicks needed: 3
+  total energy: 474
+  total exp: 204
+  average money per energy: 70
+  average money per exp: 162
+  loot:
+  - name: Ceremonial Katana
+    type: melee
+    percent: 0.15
+    attack: 35
+    defense: 18
+    energy for 1: 3160.0
+    exp for 1: 1360.0
+    attack for energy: 0.011075949367088608
+    defense for energy: 0.00569620253164557
+    attack for exp: 0.025735294117647058
+    defense for exp: 0.013235294117647059
+- target: Ren Nori
+  job: Defeat
+  energy: 986
+  exp: 424
+  money max: 2070600
+  money min: 690200
+  clicks needed: 20
+  total energy: 19720
+  total exp: 8480
+  average money per energy: 70
+  average money per exp: 162
+  loot:
+  - name: Japanese Firework
+    type: explosive
+    percent: 0.72
+    attack: 31
+    defense: 15
+    energy for 1: 27388.88888888889
+    exp for 1: 11777.777777777777
+    attack for energy: 0.0011318458417849898
+    defense for energy: 0.0005476673427991886
+    attack for exp: 0.0026320754716981135
+    defense for exp: 0.0012735849056603773
+  - name: Dragon Racer
+    type: car
+    percent: 0.22
+    attack: 52
+    defense: 46
+    energy for 1: 89636.36363636363
+    exp for 1: 38545.454545454544
+    attack for energy: 0.0005801217038539554
+    defense for energy: 0.0005131845841784991
+    attack for exp: 0.001349056603773585
+    defense for exp: 0.0011933962264150944
+  - name: Shogun Armor
+    type: armor
+    percent: 0.06
+    attack: 47
+    defense: 98
+    energy for 1: 328666.6666666667
+    exp for 1: 141333.33333333334
+    attack for energy: 0.0001430020283975659
+    defense for energy: 0.00029817444219066934
+    attack for exp: 0.00033254716981132075
+    defense for exp: 0.0006933962264150943

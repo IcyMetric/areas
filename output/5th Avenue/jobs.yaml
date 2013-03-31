@@ -1,0 +1,393 @@
+---
+- target: Pizza Parlor
+  job: Pilfer Jewelry
+  energy: 214
+  exp: 91
+  money max: 87312
+  money min: 29104
+  clicks needed: 4
+  total energy: 856
+  total exp: 364
+  average money per energy: 68
+  average money per exp: 159
+  loot:
+  - name: Clubhouse Club
+    type: melee
+    percent: 0.25
+    attack: 26
+    defense: 10
+    energy for 1: 3424.0
+    exp for 1: 1456.0
+    attack for energy: 0.007593457943925234
+    defense for energy: 0.0029205607476635513
+    attack for exp: 0.017857142857142856
+    defense for exp: 0.006868131868131868
+- target: Pizza Parlor
+  job: Burglarize the Bar
+  energy: 451
+  exp: 192
+  money max: 46002
+  money min: 15334
+  clicks needed: 1
+  total energy: 451
+  total exp: 192
+  average money per energy: 68
+  average money per exp: 159
+  loot: []
+- target: Pizza Parlor
+  job: Steal Art
+  energy: 345
+  exp: 147
+  money max: 140760
+  money min: 46920
+  clicks needed: 4
+  total energy: 1380
+  total exp: 588
+  average money per energy: 68
+  average money per exp: 159
+  loot:
+  - name: Snakeskin Jacket
+    type: armor
+    percent: 0.25
+    attack: 14
+    defense: 30
+    energy for 1: 5520.0
+    exp for 1: 2352.0
+    attack for energy: 0.002536231884057971
+    defense for energy: 0.005434782608695652
+    attack for exp: 0.005952380952380952
+    defense for exp: 0.012755102040816327
+- target: Pizza Parlor
+  job: Coerce a New Client
+  energy: 242
+  exp: 103
+  money max: 123420
+  money min: 41140
+  clicks needed: 5
+  total energy: 1210
+  total exp: 515
+  average money per energy: 68
+  average money per exp: 159
+  loot:
+  - name: Crime Deterrent
+    type: melee
+    percent: 0.25
+    attack: 15
+    defense: 32
+    energy for 1: 4840.0
+    exp for 1: 2060.0
+    attack for energy: 0.0030991735537190084
+    defense for energy: 0.006611570247933884
+    attack for exp: 0.007281553398058253
+    defense for exp: 0.015533980582524271
+- target: Pizza Parlor
+  job: Rob the Executive Car
+  energy: 202
+  exp: 86
+  money max: 41208
+  money min: 13736
+  clicks needed: 2
+  total energy: 404
+  total exp: 172
+  average money per energy: 68
+  average money per exp: 159
+  loot:
+  - name: Snakeskin Jacket
+    type: armor
+    percent: 0.15
+    attack: 14
+    defense: 30
+    energy for 1: 2693.3333333333335
+    exp for 1: 1146.6666666666667
+    attack for energy: 0.005198019801980197
+    defense for energy: 0.011138613861386138
+    attack for exp: 0.012209302325581395
+    defense for exp: 0.026162790697674417
+- target: Pizza Parlor
+  job: Hijack the Taxi
+  energy: 454
+  exp: 193
+  money max: 324156
+  money min: 108052
+  clicks needed: 7
+  total energy: 3178
+  total exp: 1351
+  average money per energy: 68
+  average money per exp: 159
+  loot:
+  - name: Crime Deterrent
+    type: melee
+    percent: 0.4
+    attack: 15
+    defense: 32
+    energy for 1: 7945.0
+    exp for 1: 3377.5
+    attack for energy: 0.0018879798615481435
+    defense for energy: 0.004027690371302706
+    attack for exp: 0.0044411547002220575
+    defense for exp: 0.009474463360473723
+- target: Pizza Parlor
+  job: Aquire a Condo
+  energy: 414
+  exp: 176
+  money max: 126684
+  money min: 42228
+  clicks needed: 3
+  total energy: 1242
+  total exp: 528
+  average money per energy: 68
+  average money per exp: 159
+  loot:
+  - name: Gentleman's Revolver
+    type: gun
+    percent: 0.15
+    attack: 32
+    defense: 15
+    energy for 1: 8280.0
+    exp for 1: 3520.0
+    attack for energy: 0.003864734299516908
+    defense for energy: 0.0018115942028985507
+    attack for exp: 0.00909090909090909
+    defense for exp: 0.004261363636363636
+- target: Pizza Parlor
+  job: Extort the Owner
+  energy: 276
+  exp: 117
+  money max: 112608
+  money min: 37536
+  clicks needed: 4
+  total energy: 1104
+  total exp: 468
+  average money per energy: 68
+  average money per exp: 160
+  loot:
+  - name: Snakeskin Jacket
+    type: armor
+    percent: 0.25
+    attack: 14
+    defense: 30
+    energy for 1: 4416.0
+    exp for 1: 1872.0
+    attack for energy: 0.003170289855072464
+    defense for energy: 0.006793478260869565
+    attack for exp: 0.007478632478632479
+    defense for exp: 0.016025641025641024
+- target: Pizza Parlor
+  job: Shoot up the Theater
+  energy: 236
+  exp: 100
+  money max: 24072
+  money min: 8024
+  clicks needed: 1
+  total energy: 236
+  total exp: 100
+  average money per energy: 68
+  average money per exp: 160
+  loot: []
+- target: Pizza Parlor
+  job: Pillage the Store
+  energy: 361
+  exp: 153
+  money max: 184110
+  money min: 61370
+  clicks needed: 5
+  total energy: 1805
+  total exp: 765
+  average money per energy: 68
+  average money per exp: 160
+  loot:
+  - name: Crime Deterrent
+    type: melee
+    percent: 0.25
+    attack: 15
+    defense: 32
+    energy for 1: 7220.0
+    exp for 1: 3060.0
+    attack for energy: 0.002077562326869806
+    defense for energy: 0.00443213296398892
+    attack for exp: 0.004901960784313725
+    defense for exp: 0.01045751633986928
+- target: Pizza Parlor
+  job: Ransack the Shop
+  energy: 321
+  exp: 136
+  money max: 130968
+  money min: 43656
+  clicks needed: 4
+  total energy: 1284
+  total exp: 544
+  average money per energy: 68
+  average money per exp: 160
+  loot:
+  - name: Gentleman's Revolver
+    type: gun
+    percent: 0.25
+    attack: 32
+    defense: 15
+    energy for 1: 5136.0
+    exp for 1: 2176.0
+    attack for energy: 0.006230529595015576
+    defense for energy: 0.0029205607476635513
+    attack for exp: 0.014705882352941176
+    defense for exp: 0.006893382352941176
+- target: Pizza Parlor
+  job: Loot the Vault
+  energy: 207
+  exp: 88
+  money max: 168912
+  money min: 56304
+  clicks needed: 8
+  total energy: 1656
+  total exp: 704
+  average money per energy: 68
+  average money per exp: 159
+  loot:
+  - name: First Class Ride
+    type: car
+    percent: 0.4
+    attack: 25
+    defense: 27
+    energy for 1: 4140.0
+    exp for 1: 1760.0
+    attack for energy: 0.006038647342995169
+    defense for energy: 0.006521739130434782
+    attack for exp: 0.014204545454545454
+    defense for exp: 0.01534090909090909
+- target: Audley Greer
+  job: Take Valuables
+  energy: 167
+  exp: 71
+  money max: 17034
+  money min: 5678
+  clicks needed: 1
+  total energy: 167
+  total exp: 71
+  average money per energy: 68
+  average money per exp: 159
+  loot: []
+- target: Wanda Putnam
+  job: Snatch Purse
+  energy: 460
+  exp: 196
+  money max: 46920
+  money min: 15640
+  clicks needed: 1
+  total energy: 460
+  total exp: 196
+  average money per energy: 68
+  average money per exp: 159
+  loot: []
+- target: Robbie Haden
+  job: Interrogate a Local
+  energy: 420
+  exp: 179
+  money max: 128520
+  money min: 42840
+  clicks needed: 3
+  total energy: 1260
+  total exp: 537
+  average money per energy: 68
+  average money per exp: 159
+  loot:
+  - name: Crime Deterrent
+    type: melee
+    percent: 0.15
+    attack: 15
+    defense: 32
+    energy for 1: 8400.0
+    exp for 1: 3580.0
+    attack for energy: 0.0017857142857142857
+    defense for energy: 0.0038095238095238095
+    attack for exp: 0.004189944134078212
+    defense for exp: 0.008938547486033519
+- target: Jude Taylor
+  job: Dispatch the Thug
+  energy: 269
+  exp: 114
+  money max: 192066
+  money min: 64022
+  clicks needed: 7
+  total energy: 1883
+  total exp: 798
+  average money per energy: 68
+  average money per exp: 160
+  loot:
+  - name: Gentleman's Revolver
+    type: gun
+    percent: 0.4
+    attack: 32
+    defense: 15
+    energy for 1: 4707.5
+    exp for 1: 1995.0
+    attack for energy: 0.006797663303239511
+    defense for energy: 0.003186404673393521
+    attack for exp: 0.016040100250626566
+    defense for exp: 0.007518796992481203
+- target: Brad Harlan
+  job: Execute the Gunman
+  energy: 229
+  exp: 97
+  money max: 186864
+  money min: 62288
+  clicks needed: 8
+  total energy: 1832
+  total exp: 776
+  average money per energy: 68
+  average money per exp: 160
+  loot:
+  - name: First Class Ride
+    type: car
+    percent: 0.4
+    attack: 25
+    defense: 27
+    energy for 1: 4580.0
+    exp for 1: 1940.0
+    attack for energy: 0.0054585152838427945
+    defense for energy: 0.0058951965065502186
+    attack for exp: 0.01288659793814433
+    defense for exp: 0.013917525773195877
+- target: Gabriel Monette
+  job: Defeat
+  energy: 1104
+  exp: 469
+  money max: 2252160
+  money min: 750720
+  clicks needed: 20
+  total energy: 22080
+  total exp: 9380
+  average money per energy: 68
+  average money per exp: 160
+  loot:
+  - name: Snakeskin Jacket
+    type: armor
+    percent: 0.72
+    attack: 14
+    defense: 30
+    energy for 1: 30666.666666666668
+    exp for 1: 13027.777777777777
+    attack for energy: 0.00045652173913043474
+    defense for energy: 0.0009782608695652173
+    attack for exp: 0.0010746268656716418
+    defense for exp: 0.002302771855010661
+  - name: Prized Pistol
+    type: gun
+    percent: 0.22
+    attack: 59
+    defense: 25
+    energy for 1: 100363.63636363637
+    exp for 1: 42636.36363636364
+    attack for energy: 0.0005878623188405797
+    defense for energy: 0.0002490942028985507
+    attack for exp: 0.0013837953091684434
+    defense for exp: 0.0005863539445628998
+  - name: Luxury Limo
+    type: car
+    percent: 0.06
+    attack: 70
+    defense: 68
+    energy for 1: 368000.0
+    exp for 1: 156333.33333333334
+    attack for energy: 0.00019021739130434782
+    defense for energy: 0.00018478260869565218
+    attack for exp: 0.0004477611940298507
+    defense for exp: 0.00043496801705756927

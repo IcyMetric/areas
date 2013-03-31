@@ -1,0 +1,23 @@
+---
+name: 5th Avenue
+unlock_level: 160
+is_available: 1
+is_coming_soon: 0
+mastery rewards:
+- level: 1
+  exp: 172
+  money: 750000
+- level: 2
+  exp: 172
+  respect: 970
+- level: 3
+  exp: 172
+  item: Luxury Limo
+  item attack: 70
+  item defense: 68
+- level: 4
+  exp: 172
+  mafia: 1
+- level: 5
+  exp: 172
+  skill points: 1
