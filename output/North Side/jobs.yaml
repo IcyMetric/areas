@@ -1,0 +1,298 @@
+---
+- target: Pizza Parlor
+  job: Cap Gang Tags
+  energy: 362
+  exp: 55
+  money max: 4000
+  money min: 4000
+  clicks needed: 4
+  total energy: 1448
+  total exp: 220
+  average money per energy: 2
+  average money per exp: 18
+  loot: []
+- target: Pizza Parlor
+  job: Steal Stash
+  energy: 290
+  exp: 35
+  money max: 6000
+  money min: 6000
+  clicks needed: 4
+  total energy: 1160
+  total exp: 140
+  average money per energy: 5
+  average money per exp: 42
+  loot: []
+- target: Luther Greene
+  job: Hold Up
+  energy: 210
+  exp: 26
+  money max: 0
+  money min: 1125
+  clicks needed: 1
+  total energy: 210
+  total exp: 26
+  average money per energy: 2
+  average money per exp: 21
+  loot: []
+- target: Pizza Parlor
+  job: Bust Up Hideout
+  energy: 396
+  exp: 59
+  money max: 10800
+  money min: 10800
+  clicks needed: 8
+  total energy: 3168
+  total exp: 472
+  average money per energy: 3
+  average money per exp: 22
+  loot: []
+- target: Pizza Parlor
+  job: Take Hostages
+  energy: 348
+  exp: 44
+  money max: 10200
+  money min: 10200
+  clicks needed: 6
+  total energy: 2088
+  total exp: 264
+  average money per energy: 4
+  average money per exp: 38
+  loot: []
+- target: Pizza Parlor
+  job: Mug Patrons
+  energy: 238
+  exp: 30
+  money max: 0
+  money min: 1200
+  clicks needed: 1
+  total energy: 238
+  total exp: 30
+  average money per energy: 2
+  average money per exp: 20
+  loot: []
+- target: Jasmine Walker
+  job: Threaten
+  energy: 196
+  exp: 29
+  money max: 0
+  money min: 550
+  clicks needed: 1
+  total energy: 196
+  total exp: 29
+  average money per energy: 1
+  average money per exp: 9
+  loot: []
+- target: Latisha Jones
+  job: Kidnap
+  energy: 274
+  exp: 38
+  money max: 5000
+  money min: 5000
+  clicks needed: 4
+  total energy: 1096
+  total exp: 152
+  average money per energy: 4
+  average money per exp: 32
+  loot: []
+- target: Oscar Phillips
+  job: Cut Up
+  energy: 306
+  exp: 47
+  money max: 2975
+  money min: 2975
+  clicks needed: 5
+  total energy: 1530
+  total exp: 235
+  average money per energy: 1
+  average money per exp: 12
+  loot: []
+- target: Andre Johnson
+  job: Smack Down
+  energy: 334
+  exp: 52
+  money max: 4050
+  money min: 4050
+  clicks needed: 6
+  total energy: 2004
+  total exp: 312
+  average money per energy: 2
+  average money per exp: 12
+  loot: []
+- target: Juice Dawg
+  job: Defeat
+  energy: 542
+  exp: 83
+  money max: 28800
+  money min: 28800
+  clicks needed: 18
+  total energy: 9756
+  total exp: 1494
+  average money per energy: 2
+  average money per exp: 19
+  loot:
+  - name: Juice's Side Arm
+    type: gun
+    percent: 0.72
+    attack: 19
+    defense: 16
+    energy for 1: 13550.0
+    exp for 1: 2075.0
+    attack for energy: 0.0014022140221402214
+    defense for energy: 0.0011808118081180813
+    attack for exp: 0.009156626506024097
+    defense for exp: 0.0077108433734939755
+  - name: Gangsta MAC-10
+    type: gun
+    percent: 0.22
+    attack: 21
+    defense: 20
+    energy for 1: 44345.454545454544
+    exp for 1: 6790.909090909091
+    attack for energy: 0.0004735547355473555
+    defense for energy: 0.00045100451004510047
+    attack for exp: 0.0030923694779116466
+    defense for exp: 0.0029451137884872825
+  - name: Pimped-Out SUV
+    type: car
+    percent: 0.06
+    attack: 23
+    defense: 28
+    energy for 1: 162600.0
+    exp for 1: 24900.0
+    attack for energy: 0.00014145141451414513
+    defense for energy: 0.00017220172201722018
+    attack for exp: 0.0009236947791164659
+    defense for exp: 0.0011244979919678715
+- target: Pizza Parlor
+  job: Shake Down
+  energy: 286
+  exp: 41
+  money max: 4600
+  money min: 4600
+  clicks needed: 4
+  total energy: 1144
+  total exp: 164
+  average money per energy: 4
+  average money per exp: 28
+  loot: []
+- target: Pizza Parlor
+  job: Heist Cigarettes
+  energy: 150
+  exp: 18
+  money max: 1340
+  money min: 1340
+  clicks needed: 2
+  total energy: 300
+  total exp: 36
+  average money per energy: 4
+  average money per exp: 37
+  loot: []
+- target: Pizza Parlor
+  job: Take Booze
+  energy: 184
+  exp: 25
+  money max: 2700
+  money min: 2700
+  clicks needed: 3
+  total energy: 552
+  total exp: 75
+  average money per energy: 4
+  average money per exp: 36
+  loot: []
+- target: Pizza Parlor
+  job: Shoot Out Windows
+  energy: 1
+  exp: 1
+  money max: 2250
+  money min: 2250
+  clicks needed: 3
+  total energy: 3
+  total exp: 3
+  average money per energy: 750
+  average money per exp: 750
+  loot: []
+- target: Pizza Parlor
+  job: Steal a Disguise
+  energy: 1
+  exp: 1
+  money max: 0
+  money min: 1
+  clicks needed: 1
+  total energy: 1
+  total exp: 1
+  average money per energy: 0
+  average money per exp: 0
+  loot: []
+- target: Pizza Parlor
+  job: Threaten Family
+  energy: 1
+  exp: 1
+  money max: 0
+  money min: 1
+  clicks needed: 1
+  total energy: 1
+  total exp: 1
+  average money per energy: 0
+  average money per exp: 0
+  loot: []
+- target: Pizza Parlor
+  job: Hawk Stolen Goods
+  energy: 1
+  exp: 1
+  money max: 0
+  money min: 1
+  clicks needed: 1
+  total energy: 1
+  total exp: 1
+  average money per energy: 0
+  average money per exp: 0
+  loot: []
+- target: Pizza Parlor
+  job: Bust Up Equipment
+  energy: 1
+  exp: 1
+  money max: 8750
+  money min: 8750
+  clicks needed: 7
+  total energy: 7
+  total exp: 7
+  average money per energy: 1250
+  average money per exp: 1250
+  loot: []
+- target: Pizza Parlor
+  job: Stick Up
+  energy: 1
+  exp: 1
+  money max: 0
+  money min: 1
+  clicks needed: 1
+  total energy: 1
+  total exp: 1
+  average money per energy: 0
+  average money per exp: 0
+  loot: []
+- target: Pizza Parlor
+  job: Menace Gangsters
+  energy: 1
+  exp: 1
+  money max: 0
+  money min: 1
+  clicks needed: 1
+  total energy: 1
+  total exp: 1
+  average money per energy: 0
+  average money per exp: 0
+  loot: []
+- target: Pizza Parlor
+  job: Rip Off Stash
+  energy: 1
+  exp: 1
+  money max: 5000
+  money min: 5000
+  clicks needed: 5
+  total energy: 5
+  total exp: 5
+  average money per energy: 1000
+  average money per exp: 1000
+  loot: []

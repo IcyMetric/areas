@@ -1,417 +1,274 @@
 ---
 - target: Pizza Parlor
   job: Hit Funeral
-  energy: 175
-  exp: 57
-  money max: 10800
-  money min: 4200
-  clicks needed: 4
-  total energy: 700
-  total exp: 228
-  average money per energy: 10
-  average money per exp: 32
-  loot:
-  - name: State Jacket
-    type: armor
-    percent: 0.28
-    attack: 3
-    defense: 10
-    energy for 1: 2499.9999999999995
-    exp for 1: 814.2857142857142
-    attack for energy: 0.0012000000000000001
-    defense for energy: 0.004000000000000001
-    attack for exp: 0.00368421052631579
-    defense for exp: 0.012280701754385967
+  energy: 290
+  exp: 44
+  money max: 4500
+  money min: 4500
+  clicks needed: 5
+  total energy: 1450
+  total exp: 220
+  average money per energy: 3
+  average money per exp: 20
+  loot: []
 - target: Pizza Parlor
   job: Wipe Out Underbosses
-  energy: 300
-  exp: 103
-  money max: 37800
-  money min: 14000
-  clicks needed: 7
-  total energy: 2100
-  total exp: 721
-  average money per energy: 12
-  average money per exp: 35
-  loot:
-  - name: M14 Sniper Rifle
-    type: gun
-    percent: 0.35
-    attack: 9
-    defense: 7
-    energy for 1: 6000.0
-    exp for 1: 2060.0
-    attack for energy: 0.0015
-    defense for energy: 0.0011666666666666668
-    attack for exp: 0.004368932038834952
-    defense for exp: 0.0033980582524271844
+  energy: 360
+  exp: 55
+  money max: 12400
+  money min: 12400
+  clicks needed: 8
+  total energy: 2880
+  total exp: 440
+  average money per energy: 4
+  average money per exp: 28
+  loot: []
 - target: Pizza Parlor
   job: Assassinate Enforcers
-  energy: 245
-  exp: 82
-  money max: 24000
-  money min: 9600
+  energy: 336
+  exp: 53
+  money max: 5250
+  money min: 5250
   clicks needed: 6
-  total energy: 1470
-  total exp: 492
-  average money per energy: 11
-  average money per exp: 34
-  loot:
-  - name: DP MachineGun
-    type: gun
-    percent: 0.31
-    attack: 5
-    defense: 10
-    energy for 1: 4741.935483870968
-    exp for 1: 1587.0967741935483
-    attack for energy: 0.001054421768707483
-    defense for energy: 0.002108843537414966
-    attack for exp: 0.0031504065040650407
-    defense for exp: 0.006300813008130081
+  total energy: 2016
+  total exp: 318
+  average money per energy: 2
+  average money per exp: 16
+  loot: []
 - target: Pizza Parlor
   job: Gather Information
-  energy: 78
-  exp: 21
-  money max: 1050
-  money min: 400
+  energy: 156
+  exp: 20
+  money max: 0
+  money min: 620
   clicks needed: 1
-  total energy: 78
-  total exp: 21
-  average money per energy: 9
-  average money per exp: 34
+  total energy: 156
+  total exp: 20
+  average money per energy: 1
+  average money per exp: 15
   loot: []
 - target: Oksana Poliskova
   job: Recruit Hooker
-  energy: 67
-  exp: 16
-  money max: 700
-  money min: 450
+  energy: 180
+  exp: 25
+  money max: 0
+  money min: 690
   clicks needed: 1
-  total energy: 67
-  total exp: 16
-  average money per energy: 8
-  average money per exp: 35
+  total energy: 180
+  total exp: 25
+  average money per energy: 1
+  average money per exp: 13
   loot: []
 - target: Ludmilla Vasin
   job: Blackmail
-  energy: 105
-  exp: 26
-  money max: 2200
-  money min: 1000
-  clicks needed: 1
-  total energy: 105
-  total exp: 26
-  average money per energy: 15
-  average money per exp: 61
-  loot:
-  - name: SMG K01
-    type: gun
-    percent: 0.3
-    attack: 4
-    defense: 5
-    energy for 1: 350.0
-    exp for 1: 86.66666666666667
-    attack for energy: 0.011428571428571429
-    defense for energy: 0.014285714285714285
-    attack for exp: 0.04615384615384615
-    defense for exp: 0.05769230769230769
+  energy: 296
+  exp: 37
+  money max: 3100
+  money min: 3100
+  clicks needed: 2
+  total energy: 592
+  total exp: 74
+  average money per energy: 5
+  average money per exp: 41
+  loot: []
 - target: Evgeni Malkovich
   job: Extort
-  energy: 112
-  exp: 22
-  money max: 2100
-  money min: 1100
-  clicks needed: 1
-  total energy: 112
-  total exp: 22
-  average money per energy: 14
-  average money per exp: 72
-  loot:
-  - name: Mac 10
-    type: gun
-    percent: 0.32
-    attack: 4
-    defense: 4
-    energy for 1: 350.0
-    exp for 1: 68.75
-    attack for energy: 0.011428571428571429
-    defense for energy: 0.011428571428571429
-    attack for exp: 0.05818181818181818
-    defense for exp: 0.05818181818181818
+  energy: 272
+  exp: 30
+  money max: 5600
+  money min: 5600
+  clicks needed: 4
+  total energy: 1088
+  total exp: 120
+  average money per energy: 5
+  average money per exp: 46
+  loot: []
 - target: Jaroslav Andreyev
   job: Execute
-  energy: 210
-  exp: 68
-  money max: 21600
-  money min: 8400
-  clicks needed: 6
-  total energy: 1260
-  total exp: 408
-  average money per energy: 11
-  average money per exp: 36
-  loot:
-  - name: Carbine
-    type: gun
-    percent: 0.43
-    attack: 4
-    defense: 6
-    energy for 1: 2930.232558139535
-    exp for 1: 948.8372093023256
-    attack for energy: 0.0013650793650793651
-    defense for energy: 0.0020476190476190477
-    attack for exp: 0.0042156862745098035
-    defense for exp: 0.006323529411764705
+  energy: 375
+  exp: 58
+  money max: 5950
+  money min: 5950
+  clicks needed: 7
+  total energy: 2625
+  total exp: 406
+  average money per energy: 2
+  average money per exp: 14
+  loot: []
 - target: Dasha Semak
   job: Neutralize
-  energy: 170
-  exp: 52
-  money max: 10000
-  money min: 4400
-  clicks needed: 4
-  total energy: 680
-  total exp: 208
-  average money per energy: 10
-  average money per exp: 34
-  loot:
-  - name: Devilish Taxi
-    type: car
-    percent: 0.15
-    attack: 6
-    defense: 5
-    energy for 1: 4533.333333333334
-    exp for 1: 1386.6666666666667
-    attack for energy: 0.0013235294117647056
-    defense for energy: 0.001102941176470588
-    attack for exp: 0.004326923076923076
-    defense for exp: 0.0036057692307692305
+  energy: 315
+  exp: 48
+  money max: 4000
+  money min: 4000
+  clicks needed: 5
+  total energy: 1575
+  total exp: 240
+  average money per energy: 2
+  average money per exp: 16
+  loot: []
 - target: Mr. Ivanovich
   job: Defeat
-  energy: 263
-  exp: 91
-  money max: 52800
-  money min: 33000
-  clicks needed: 12
-  total energy: 3156
-  total exp: 1092
-  average money per energy: 13
-  average money per exp: 39
+  energy: 575
+  exp: 88
+  money max: 31050
+  money min: 31050
+  clicks needed: 18
+  total energy: 10350
+  total exp: 1584
+  average money per energy: 3
+  average money per exp: 19
   loot:
   - name: Don's Coat
     type: armor
     percent: 0.72
-    attack: 2
-    defense: 10
-    energy for 1: 4383.333333333334
-    exp for 1: 1516.6666666666667
-    attack for energy: 0.0004562737642585551
-    defense for energy: 0.0022813688212927753
-    attack for exp: 0.0013186813186813187
-    defense for exp: 0.006593406593406593
+    attack: 7
+    defense: 30
+    energy for 1: 14375.0
+    exp for 1: 2200.0
+    attack for energy: 0.00048695652173913045
+    defense for energy: 0.0020869565217391303
+    attack for exp: 0.003181818181818182
+    defense for exp: 0.013636363636363636
   - name: Don's Limousine
     type: car
     percent: 0.22
-    attack: 4
-    defense: 11
-    energy for 1: 14345.454545454546
-    exp for 1: 4963.636363636364
-    attack for energy: 0.0002788339670468948
-    defense for energy: 0.0007667934093789607
-    attack for exp: 0.0008058608058608059
-    defense for exp: 0.002216117216117216
+    attack: 10
+    defense: 32
+    energy for 1: 47045.454545454544
+    exp for 1: 7200.0
+    attack for energy: 0.00021256038647342996
+    defense for energy: 0.0006801932367149759
+    attack for exp: 0.001388888888888889
+    defense for exp: 0.0044444444444444444
   - name: Ivanovich's AT4
     type: gun
     percent: 0.06
-    attack: 15
-    defense: 9
-    energy for 1: 52600.0
-    exp for 1: 18200.0
-    attack for energy: 0.00028517110266159697
-    defense for energy: 0.00017110266159695817
-    attack for exp: 0.0008241758241758242
-    defense for exp: 0.0004945054945054945
+    attack: 35
+    defense: 18
+    energy for 1: 172500.0
+    exp for 1: 26400.0
+    attack for energy: 0.00020289855072463768
+    defense for energy: 0.00010434782608695653
+    attack for exp: 0.0013257575757575758
+    defense for exp: 0.0006818181818181819
 - target: Pizza Parlor
   job: Steal Lottery Tickets
-  energy: 80
-  exp: 14
-  money max: 2500
-  money min: 1
+  energy: 330
+  exp: 45
+  money max: 0
+  money min: 1850
   clicks needed: 1
-  total energy: 80
-  total exp: 14
-  average money per energy: 15
-  average money per exp: 89
+  total energy: 330
+  total exp: 45
+  average money per energy: 2
+  average money per exp: 20
   loot: []
 - target: Pizza Parlor
   job: Steal Vodka
-  energy: 110
-  exp: 18
-  money max: 2200
-  money min: 1000
-  clicks needed: 1
-  total energy: 110
-  total exp: 18
-  average money per energy: 14
-  average money per exp: 88
-  loot:
-  - name: HK Mark 23
-    type: gun
-    percent: 0.28
-    attack: 5
-    defense: 5
-    energy for 1: 392.85714285714283
-    exp for 1: 64.28571428571428
-    attack for energy: 0.012727272727272728
-    defense for energy: 0.012727272727272728
-    attack for exp: 0.07777777777777779
-    defense for exp: 0.07777777777777779
+  energy: 245
+  exp: 29
+  money max: 2800
+  money min: 2800
+  clicks needed: 2
+  total energy: 490
+  total exp: 58
+  average money per energy: 5
+  average money per exp: 48
+  loot: []
 - target: Pizza Parlor
   job: Break In
-  energy: 118
-  exp: 23
-  money max: 4000
-  money min: 2600
-  clicks needed: 2
-  total energy: 236
-  total exp: 46
-  average money per energy: 13
-  average money per exp: 71
-  loot:
-  - name: Steyr AUG
-    type: gun
-    percent: 0.23
-    attack: 7
-    defense: 6
-    energy for 1: 1026.086956521739
-    exp for 1: 200.0
-    attack for energy: 0.006822033898305086
-    defense for energy: 0.005847457627118645
-    attack for exp: 0.035
-    defense for exp: 0.03
+  energy: 256
+  exp: 34
+  money max: 3450
+  money min: 3450
+  clicks needed: 3
+  total energy: 768
+  total exp: 102
+  average money per energy: 4
+  average money per exp: 33
+  loot: []
 - target: Pizza Parlor
   job: Hack Visa Database
-  energy: 165
-  exp: 48
-  money max: 10800
-  money min: 7500
-  clicks needed: 3
-  total energy: 495
-  total exp: 144
-  average money per energy: 18
-  average money per exp: 63
-  loot:
-  - name: Army Helmet
-    type: armor
-    percent: 0.33
-    attack: 3
-    defense: 6
-    energy for 1: 1500.0
-    exp for 1: 436.3636363636363
-    attack for energy: 0.002
-    defense for energy: 0.004
-    attack for exp: 0.006875000000000001
-    defense for exp: 0.013750000000000002
+  energy: 1
+  exp: 1
+  money max: 0
+  money min: 1
+  clicks needed: 1
+  total energy: 1
+  total exp: 1
+  average money per energy: 0
+  average money per exp: 0
+  loot: []
 - target: Pizza Parlor
   job: Steal Meds
-  energy: 140
-  exp: 29
-  money max: 3000
-  money min: 1900
+  energy: 1
+  exp: 1
+  money max: 0
+  money min: 1
   clicks needed: 1
-  total energy: 140
-  total exp: 29
-  average money per energy: 17
-  average money per exp: 84
-  loot:
-  - name: Hazmat Suit
-    type: armor
-    percent: 0.28
-    attack: 2
-    defense: 8
-    energy for 1: 499.99999999999994
-    exp for 1: 103.57142857142856
-    attack for energy: 0.004
-    defense for energy: 0.016
-    attack for exp: 0.01931034482758621
-    defense for exp: 0.07724137931034485
+  total energy: 1
+  total exp: 1
+  average money per energy: 0
+  average money per exp: 0
+  loot: []
 - target: Pizza Parlor
   job: Wash Bloodstained Clothes
-  energy: 72
-  exp: 17
-  money max: 950
-  money min: 300
+  energy: 1
+  exp: 1
+  money max: 0
+  money min: 1
   clicks needed: 1
-  total energy: 72
-  total exp: 17
-  average money per energy: 8
-  average money per exp: 36
+  total energy: 1
+  total exp: 1
+  average money per energy: 0
+  average money per exp: 0
   loot: []
 - target: Pizza Parlor
   job: Crack Safe Deposit Boxes
-  energy: 375
-  exp: 109
-  money max: 60000
-  money min: 26000
-  clicks needed: 6
-  total energy: 2250
-  total exp: 654
-  average money per energy: 19
-  average money per exp: 65
-  loot:
-  - name: M4 A1
-    type: gun
-    percent: 0.29
-    attack: 20
-    defense: 22
-    energy for 1: 7758.620689655173
-    exp for 1: 2255.1724137931037
-    attack for energy: 0.002577777777777778
-    defense for energy: 0.002835555555555555
-    attack for exp: 0.008868501529051987
-    defense for exp: 0.009755351681957186
+  energy: 1
+  exp: 1
+  money max: 0
+  money min: 1
+  clicks needed: 1
+  total energy: 1
+  total exp: 1
+  average money per energy: 0
+  average money per exp: 0
+  loot: []
 - target: Pizza Parlor
   job: Empty Till
-  energy: 136
-  exp: 36
-  money max: 2500
-  money min: 1200
+  energy: 1
+  exp: 1
+  money max: 0
+  money min: 1
   clicks needed: 1
-  total energy: 136
-  total exp: 36
-  average money per energy: 13
-  average money per exp: 51
-  loot:
-  - name: SWAT Pistol
-    type: gun
-    percent: 0.24
-    attack: 4
-    defense: 8
-    energy for 1: 566.6666666666667
-    exp for 1: 150.0
-    attack for energy: 0.007058823529411764
-    defense for energy: 0.014117647058823528
-    attack for exp: 0.02666666666666667
-    defense for exp: 0.05333333333333334
+  total energy: 1
+  total exp: 1
+  average money per energy: 0
+  average money per exp: 0
+  loot: []
 - target: Pizza Parlor
   job: Push Steroids
-  energy: 92
-  exp: 17
-  money max: 2000
-  money min: 900
+  energy: 1
+  exp: 1
+  money max: 0
+  money min: 1
   clicks needed: 1
-  total energy: 92
-  total exp: 17
-  average money per energy: 15
-  average money per exp: 85
+  total energy: 1
+  total exp: 1
+  average money per energy: 0
+  average money per exp: 0
   loot: []
 - target: Pizza Parlor
   job: Collect Kickbacks
-  energy: 82
-  exp: 15
-  money max: 1650
-  money min: 750
+  energy: 1
+  exp: 1
+  money max: 0
+  money min: 1
   clicks needed: 1
-  total energy: 82
-  total exp: 15
-  average money per energy: 14
-  average money per exp: 80
+  total energy: 1
+  total exp: 1
+  average money per energy: 0
+  average money per exp: 0
   loot: []

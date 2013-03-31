@@ -1,23 +1,6 @@
 ---
 name: Auto Row
-unlock_level: 32
+unlock_level: 43
 is_available: 1
 is_coming_soon: 0
-mastery rewards:
-- level: 1
-  exp: 34
-  money: 19000
-- level: 2
-  exp: 34
-  respect: 140
-- level: 3
-  exp: 34
-  item: Impreza
-  item attack: 10
-  item defense: 14
-- level: 4
-  exp: 34
-  mafia: 1
-- level: 5
-  exp: 34
-  skill points: 1
+mastery rewards: []

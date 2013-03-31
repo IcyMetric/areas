@@ -1,0 +1,310 @@
+---
+- target: Pizza Parlor
+  job: Shake down
+  energy: 30
+  exp: 4
+  money max: 120
+  money min: 120
+  clicks needed: 2
+  total energy: 60
+  total exp: 8
+  average money per energy: 2
+  average money per exp: 15
+  loot: []
+- target: Pizza Parlor
+  job: Hold meeting with local gangs
+  energy: 21
+  exp: 3
+  money max: 132
+  money min: 132
+  clicks needed: 3
+  total energy: 63
+  total exp: 9
+  average money per energy: 2
+  average money per exp: 14
+  loot: []
+- target: Pizza Parlor
+  job: Spy on dealers
+  energy: 18
+  exp: 2
+  money max: 46
+  money min: 46
+  clicks needed: 1
+  total energy: 18
+  total exp: 2
+  average money per energy: 2
+  average money per exp: 23
+  loot: []
+- target: Pizza Parlor
+  job: Negotiate sales with dealers
+  energy: 34
+  exp: 4
+  money max: 154
+  money min: 154
+  clicks needed: 2
+  total energy: 68
+  total exp: 8
+  average money per energy: 2
+  average money per exp: 19
+  loot: []
+- target: Pizza Parlor
+  job: Ice rogue dealer
+  energy: 45
+  exp: 6
+  money max: 200
+  money min: 200
+  clicks needed: 4
+  total energy: 180
+  total exp: 24
+  average money per energy: 1
+  average money per exp: 8
+  loot: []
+- target: Pizza Parlor
+  job: Store product
+  energy: 27
+  exp: 3
+  money max: 54
+  money min: 54
+  clicks needed: 1
+  total energy: 27
+  total exp: 3
+  average money per energy: 2
+  average money per exp: 18
+  loot: []
+- target: Pizza Parlor
+  job: Observe drug transaction
+  energy: 22
+  exp: 3
+  money max: 80
+  money min: 80
+  clicks needed: 2
+  total energy: 44
+  total exp: 6
+  average money per energy: 1
+  average money per exp: 13
+  loot: []
+- target: Pizza Parlor
+  job: Treat members to dinner
+  energy: 18
+  exp: 2
+  money max: 38
+  money min: 38
+  clicks needed: 1
+  total energy: 18
+  total exp: 2
+  average money per energy: 2
+  average money per exp: 19
+  loot: []
+- target: Pizza Parlor
+  job: Pay off police officers
+  energy: 26
+  exp: 3
+  money max: 48
+  money min: 48
+  clicks needed: 1
+  total energy: 26
+  total exp: 3
+  average money per energy: 1
+  average money per exp: 16
+  loot: []
+- target: Tony Fantone
+  job: Pay for information
+  energy: 27
+  exp: 3
+  money max: 50
+  money min: 50
+  clicks needed: 1
+  total energy: 27
+  total exp: 3
+  average money per energy: 1
+  average money per exp: 16
+  loot: []
+- target: Chef Roussel
+  job: Interrogate
+  energy: 29
+  exp: 4
+  money max: 86
+  money min: 86
+  clicks needed: 2
+  total energy: 58
+  total exp: 8
+  average money per energy: 1
+  average money per exp: 10
+  loot: []
+- target: Tommy Blade
+  job: Beat up
+  energy: 41
+  exp: 5
+  money max: 174
+  money min: 174
+  clicks needed: 3
+  total energy: 123
+  total exp: 15
+  average money per energy: 1
+  average money per exp: 11
+  loot: []
+- target: Line Cook Martinez
+  job: Trail
+  energy: 19
+  exp: 2
+  money max: 34
+  money min: 34
+  clicks needed: 1
+  total energy: 19
+  total exp: 2
+  average money per energy: 1
+  average money per exp: 17
+  loot: []
+- target: Food Critic Robbins
+  job: Mug
+  energy: 26
+  exp: 3
+  money max: 65
+  money min: 65
+  clicks needed: 1
+  total energy: 26
+  total exp: 3
+  average money per energy: 2
+  average money per exp: 21
+  loot: []
+- target: Roberta McCormick
+  job: Bribe
+  energy: 23
+  exp: 3
+  money max: 44
+  money min: 44
+  clicks needed: 1
+  total energy: 23
+  total exp: 3
+  average money per energy: 1
+  average money per exp: 14
+  loot: []
+- target: The Butcher
+  job: Defeat The Butcher
+  energy: 49
+  exp: 6
+  money max: 434
+  money min: 434
+  clicks needed: 7
+  total energy: 343
+  total exp: 42
+  average money per energy: 1
+  average money per exp: 10
+  loot:
+  - name: Dealer Fatigues
+    type: armor
+    percent: 0.72
+    attack: 4
+    defense: 6
+    energy for 1: 476.3888888888889
+    exp for 1: 58.333333333333336
+    attack for energy: 0.008396501457725946
+    defense for energy: 0.01259475218658892
+    attack for exp: 0.06857142857142857
+    defense for exp: 0.10285714285714286
+  - name: Enforcer AK
+    type: gun
+    percent: 0.22
+    attack: 6
+    defense: 6
+    energy for 1: 1559.090909090909
+    exp for 1: 190.9090909090909
+    attack for energy: 0.003848396501457726
+    defense for energy: 0.003848396501457726
+    attack for exp: 0.03142857142857143
+    defense for exp: 0.03142857142857143
+  - name: Chef's Cleaver
+    type: melee
+    percent: 0.06
+    attack: 10
+    defense: 7
+    energy for 1: 5716.666666666667
+    exp for 1: 700.0
+    attack for energy: 0.001749271137026239
+    defense for energy: 0.0012244897959183673
+    attack for exp: 0.014285714285714285
+    defense for exp: 0.01
+- target: Pizza Parlor
+  job: Meet New Recruits
+  energy: 1
+  exp: 1
+  money max: 1
+  money min: 1
+  clicks needed: 1
+  total energy: 1
+  total exp: 1
+  average money per energy: 1
+  average money per exp: 1
+  loot: []
+- target: Pizza Parlor
+  job: Ransack Imports
+  energy: 1
+  exp: 1
+  money max: 135
+  money min: 135
+  clicks needed: 3
+  total energy: 3
+  total exp: 3
+  average money per energy: 45
+  average money per exp: 45
+  loot: []
+- target: Pizza Parlor
+  job: Extort Supplies
+  energy: 1
+  exp: 1
+  money max: 1
+  money min: 1
+  clicks needed: 1
+  total energy: 1
+  total exp: 1
+  average money per energy: 1
+  average money per exp: 1
+  loot: []
+- target: Pizza Parlor
+  job: Pry Open Register
+  energy: 1
+  exp: 1
+  money max: 1
+  money min: 1
+  clicks needed: 1
+  total energy: 1
+  total exp: 1
+  average money per energy: 1
+  average money per exp: 1
+  loot: []
+- target: Pizza Parlor
+  job: Collect Tribute Money
+  energy: 1
+  exp: 1
+  money max: 1
+  money min: 1
+  clicks needed: 1
+  total energy: 1
+  total exp: 1
+  average money per energy: 1
+  average money per exp: 1
+  loot: []
+- target: Pizza Parlor
+  job: Manhandle Manager
+  energy: 1
+  exp: 1
+  money max: 135
+  money min: 135
+  clicks needed: 3
+  total energy: 3
+  total exp: 3
+  average money per energy: 45
+  average money per exp: 45
+  loot: []
+- target: Pizza Parlor
+  job: Smash Windows
+  energy: 1
+  exp: 1
+  money max: 135
+  money min: 135
+  clicks needed: 3
+  total energy: 3
+  total exp: 3
+  average money per energy: 45
+  average money per exp: 45
+  loot: []

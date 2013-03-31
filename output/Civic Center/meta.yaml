@@ -12,9 +12,6 @@ mastery rewards:
   respect: 30
 - level: 3
   exp: 12
-  item: Police Car
-  item attack: 4
-  item defense: 6
 - level: 4
   exp: 12
   mafia: 1

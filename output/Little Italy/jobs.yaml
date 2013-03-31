@@ -362,14 +362,14 @@
   - name: Hudson Hornet
     type: car
     percent: 0.1
-    attack: 1
-    defense: 1
+    attack: 2
+    defense: 2
     energy for 1: 330.0
     exp for 1: 40.0
-    attack for energy: 0.0030303030303030303
-    defense for energy: 0.0030303030303030303
-    attack for exp: 0.025
-    defense for exp: 0.025
+    attack for energy: 0.006060606060606061
+    defense for energy: 0.006060606060606061
+    attack for exp: 0.05
+    defense for exp: 0.05
 - target: Pizza Parlor
   job: Put Body on Ice
   energy: 34

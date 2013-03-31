@@ -1,0 +1,322 @@
+---
+- target: Pizza Parlor
+  job: Search
+  energy: 28
+  exp: 3
+  money max: 0
+  money min: 88
+  clicks needed: 1
+  total energy: 28
+  total exp: 3
+  average money per energy: 1
+  average money per exp: 14
+  loot: []
+- target: Pizza Parlor
+  job: Ransack
+  energy: 45
+  exp: 5
+  money max: 200
+  money min: 200
+  clicks needed: 2
+  total energy: 90
+  total exp: 10
+  average money per energy: 2
+  average money per exp: 20
+  loot: []
+- target: Guillermo Torres
+  job: Interrogate
+  energy: 34
+  exp: 4
+  money max: 150
+  money min: 150
+  clicks needed: 2
+  total energy: 68
+  total exp: 8
+  average money per energy: 2
+  average money per exp: 18
+  loot: []
+- target: Pizza Parlor
+  job: Raid
+  energy: 61
+  exp: 7
+  money max: 585
+  money min: 585
+  clicks needed: 5
+  total energy: 305
+  total exp: 35
+  average money per energy: 1
+  average money per exp: 16
+  loot: []
+- target: Pizza Parlor
+  job: Plunder
+  energy: 47
+  exp: 5
+  money max: 0
+  money min: 110
+  clicks needed: 1
+  total energy: 47
+  total exp: 5
+  average money per energy: 1
+  average money per exp: 11
+  loot: []
+- target: Pizza Parlor
+  job: Rob
+  energy: 41
+  exp: 5
+  money max: 0
+  money min: 102
+  clicks needed: 1
+  total energy: 41
+  total exp: 5
+  average money per energy: 1
+  average money per exp: 10
+  loot: []
+- target: Pizza Parlor
+  job: Smash Up
+  energy: 42
+  exp: 6
+  money max: 0
+  money min: 72
+  clicks needed: 1
+  total energy: 42
+  total exp: 6
+  average money per energy: 0
+  average money per exp: 6
+  loot: []
+- target: Blanca Diaz
+  job: Beat Down
+  energy: 49
+  exp: 7
+  money max: 210
+  money min: 210
+  clicks needed: 3
+  total energy: 147
+  total exp: 21
+  average money per energy: 1
+  average money per exp: 10
+  loot: []
+- target: Domingo Guzman
+  job: Bust Up
+  energy: 45
+  exp: 5
+  money max: 160
+  money min: 160
+  clicks needed: 2
+  total energy: 90
+  total exp: 10
+  average money per energy: 1
+  average money per exp: 16
+  loot: []
+- target: Ramon Reyes
+  job: Hit
+  energy: 54
+  exp: 7
+  money max: 246
+  money min: 246
+  clicks needed: 3
+  total energy: 162
+  total exp: 21
+  average money per energy: 1
+  average money per exp: 11
+  loot: []
+- target: Queen Sophia
+  job: Assassinate
+  energy: 57
+  exp: 8
+  money max: 296
+  money min: 296
+  clicks needed: 4
+  total energy: 228
+  total exp: 32
+  average money per energy: 1
+  average money per exp: 9
+  loot: []
+- target: Lord Felipe
+  job: Defeat
+  energy: 67
+  exp: 9
+  money max: 918
+  money min: 918
+  clicks needed: 9
+  total energy: 603
+  total exp: 81
+  average money per energy: 1
+  average money per exp: 11
+  loot:
+  - name: Caesar Butterfly Blade
+    type: melee
+    percent: 0.72
+    attack: 23
+    defense: 17
+    energy for 1: 837.5
+    exp for 1: 112.5
+    attack for energy: 0.02746268656716418
+    defense for energy: 0.020298507462686566
+    attack for exp: 0.20444444444444446
+    defense for exp: 0.1511111111111111
+  - name: Lordly Overcoat
+    type: armor
+    percent: 0.22
+    attack: 15
+    defense: 32
+    energy for 1: 2740.909090909091
+    exp for 1: 368.1818181818182
+    attack for energy: 0.0054726368159203976
+    defense for energy: 0.011674958540630182
+    attack for exp: 0.04074074074074074
+    defense for exp: 0.08691358024691358
+  - name: Felipe's Room Broom
+    type: gun
+    percent: 0.06
+    attack: 37
+    defense: 18
+    energy for 1: 10050.0
+    exp for 1: 1350.0
+    attack for energy: 0.003681592039800995
+    defense for energy: 0.001791044776119403
+    attack for exp: 0.027407407407407408
+    defense for exp: 0.013333333333333334
+- target: Pizza Parlor
+  job: Stick Up
+  energy: 35
+  exp: 4
+  money max: 0
+  money min: 90
+  clicks needed: 1
+  total energy: 35
+  total exp: 4
+  average money per energy: 1
+  average money per exp: 11
+  loot: []
+- target: Pizza Parlor
+  job: Break In
+  energy: 40
+  exp: 5
+  money max: 0
+  money min: 96
+  clicks needed: 1
+  total energy: 40
+  total exp: 5
+  average money per energy: 1
+  average money per exp: 9
+  loot: []
+- target: Alma Rivera
+  job: Mug
+  energy: 39
+  exp: 5
+  money max: 0
+  money min: 95
+  clicks needed: 1
+  total energy: 39
+  total exp: 5
+  average money per energy: 1
+  average money per exp: 9
+  loot: []
+- target: Pizza Parlor
+  job: Demand Kickbacks
+  energy: 1
+  exp: 1
+  money max: 0
+  money min: 1
+  clicks needed: 1
+  total energy: 1
+  total exp: 1
+  average money per energy: 0
+  average money per exp: 0
+  loot: []
+- target: Pizza Parlor
+  job: Steal Lockbox
+  energy: 1
+  exp: 1
+  money max: 0
+  money min: 1
+  clicks needed: 1
+  total energy: 1
+  total exp: 1
+  average money per energy: 0
+  average money per exp: 0
+  loot: []
+- target: Pizza Parlor
+  job: Install Henchmen
+  energy: 1
+  exp: 1
+  money max: 0
+  money min: 1
+  clicks needed: 1
+  total energy: 1
+  total exp: 1
+  average money per energy: 0
+  average money per exp: 0
+  loot: []
+- target: Pizza Parlor
+  job: Smash Windows
+  energy: 1
+  exp: 1
+  money max: 258
+  money min: 258
+  clicks needed: 3
+  total energy: 3
+  total exp: 3
+  average money per energy: 86
+  average money per exp: 86
+  loot: []
+- target: Pizza Parlor
+  job: Install Dealers
+  energy: 1
+  exp: 1
+  money max: 0
+  money min: 1
+  clicks needed: 1
+  total energy: 1
+  total exp: 1
+  average money per energy: 0
+  average money per exp: 0
+  loot: []
+- target: Pizza Parlor
+  job: Get Rid of Evidence
+  energy: 1
+  exp: 1
+  money max: 0
+  money min: 1
+  clicks needed: 1
+  total energy: 1
+  total exp: 1
+  average money per energy: 0
+  average money per exp: 0
+  loot: []
+- target: Pizza Parlor
+  job: Clear Shelves
+  energy: 1
+  exp: 1
+  money max: 475
+  money min: 475
+  clicks needed: 5
+  total energy: 5
+  total exp: 5
+  average money per energy: 95
+  average money per exp: 95
+  loot: []
+- target: Pizza Parlor
+  job: Pump for Info
+  energy: 1
+  exp: 1
+  money max: 0
+  money min: 1
+  clicks needed: 1
+  total energy: 1
+  total exp: 1
+  average money per energy: 0
+  average money per exp: 0
+  loot: []
+- target: Pizza Parlor
+  job: Threaten Workers
+  energy: 1
+  exp: 1
+  money max: 0
+  money min: 1
+  clicks needed: 1
+  total energy: 1
+  total exp: 1
+  average money per energy: 0
+  average money per exp: 0
+  loot: []

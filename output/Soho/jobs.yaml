@@ -2,14 +2,14 @@
 - target: Yoshimi Saito
   job: Execute
   energy: 88
-  exp: 19
+  exp: 13
   money max: 820
   money min: 290
   clicks needed: 2
   total energy: 176
-  total exp: 38
+  total exp: 26
   average money per energy: 3
-  average money per exp: 14
+  average money per exp: 21
   loot:
   - name: Rasta Jacket
     type: armor
@@ -17,22 +17,22 @@
     attack: 3
     defense: 5
     energy for 1: 3520.0
-    exp for 1: 760.0
+    exp for 1: 520.0
     attack for energy: 0.0008522727272727272
     defense for energy: 0.0014204545454545455
-    attack for exp: 0.003947368421052632
-    defense for exp: 0.006578947368421052
+    attack for exp: 0.0057692307692307696
+    defense for exp: 0.009615384615384616
 - target: Pizza Parlor
   job: Bust Up Stakeout
   energy: 136
-  exp: 27
+  exp: 18
   money max: 2225
   money min: 615
   clicks needed: 3
   total energy: 408
-  total exp: 81
+  total exp: 54
   average money per energy: 3
-  average money per exp: 17
+  average money per exp: 26
   loot:
   - name: Mac 10
     type: gun
@@ -40,22 +40,22 @@
     attack: 4
     defense: 4
     energy for 1: 6800.0
-    exp for 1: 1350.0
+    exp for 1: 900.0
     attack for energy: 0.000588235294117647
     defense for energy: 0.000588235294117647
-    attack for exp: 0.002962962962962963
-    defense for exp: 0.002962962962962963
+    attack for exp: 0.0044444444444444444
+    defense for exp: 0.0044444444444444444
 - target: Pizza Parlor
   job: Rip Off Gems
   energy: 87
-  exp: 15
+  exp: 10
   money max: 2385
   money min: 1075
   clicks needed: 4
   total energy: 348
-  total exp: 60
+  total exp: 40
   average money per energy: 4
-  average money per exp: 28
+  average money per exp: 43
   loot:
   - name: Micro Uzi
     type: gun
@@ -63,34 +63,34 @@
     attack: 4
     defense: 3
     energy for 1: 3480.0
-    exp for 1: 600.0
+    exp for 1: 400.0
     attack for energy: 0.0011494252873563218
     defense for energy: 0.0008620689655172414
-    attack for exp: 0.006666666666666667
-    defense for exp: 0.005
+    attack for exp: 0.01
+    defense for exp: 0.0075
 - target: Sarah Singer
   job: Steal Certificates
   energy: 45
-  exp: 7
+  exp: 5
   money max: 285
   money min: 155
   clicks needed: 1
   total energy: 45
-  total exp: 7
+  total exp: 5
   average money per energy: 4
-  average money per exp: 31
+  average money per exp: 44
   loot: []
 - target: Pizza Parlor
   job: Pocket Protection Money
   energy: 28
-  exp: 4
+  exp: 3
   money max: 160
   money min: 120
   clicks needed: 1
   total energy: 28
-  total exp: 4
+  total exp: 3
   average money per energy: 5
-  average money per exp: 35
+  average money per exp: 46
   loot:
   - name: Shovel
     type: melee
@@ -98,22 +98,22 @@
     attack: 2
     defense: 3
     energy for 1: 140.0
-    exp for 1: 20.0
+    exp for 1: 15.0
     attack for energy: 0.014285714285714285
     defense for energy: 0.02142857142857143
-    attack for exp: 0.1
-    defense for exp: 0.15
+    attack for exp: 0.13333333333333333
+    defense for exp: 0.2
 - target: Pizza Parlor
   job: Pull Credit Scam
   energy: 60
-  exp: 7
+  exp: 5
   money max: 1270
   money min: 90
   clicks needed: 2
   total energy: 120
-  total exp: 14
+  total exp: 10
   average money per energy: 5
-  average money per exp: 48
+  average money per exp: 68
   loot:
   - name: Taxi Cab
     type: car
@@ -121,22 +121,22 @@
     attack: 2
     defense: 2
     energy for 1: 1600.0
-    exp for 1: 186.66666666666669
+    exp for 1: 133.33333333333334
     attack for energy: 0.00125
     defense for energy: 0.00125
-    attack for exp: 0.010714285714285713
-    defense for exp: 0.010714285714285713
+    attack for exp: 0.015
+    defense for exp: 0.015
 - target: Pizza Parlor
   job: Boost Inventory
   energy: 76
-  exp: 16
+  exp: 11
   money max: 875
   money min: 775
   clicks needed: 2
   total energy: 152
-  total exp: 32
+  total exp: 22
   average money per energy: 5
-  average money per exp: 25
+  average money per exp: 37
   loot:
   - name: Hunting Rifle
     type: gun
@@ -144,22 +144,22 @@
     attack: 5
     defense: 3
     energy for 1: 3040.0
-    exp for 1: 640.0
+    exp for 1: 440.0
     attack for energy: 0.001644736842105263
     defense for energy: 0.000986842105263158
-    attack for exp: 0.0078125
-    defense for exp: 0.0046875
+    attack for exp: 0.011363636363636364
+    defense for exp: 0.006818181818181818
 - target: John Lawson
   job: Beat Down
   energy: 56
-  exp: 15
+  exp: 10
   money max: 605
   money min: 280
   clicks needed: 2
   total energy: 112
-  total exp: 30
+  total exp: 20
   average money per energy: 3
-  average money per exp: 14
+  average money per exp: 22
   loot:
   - name: Metal Bat
     type: melee
@@ -167,22 +167,22 @@
     attack: 3
     defense: 3
     energy for 1: 933.3333333333334
-    exp for 1: 250.0
+    exp for 1: 166.66666666666669
     attack for energy: 0.0032142857142857142
     defense for energy: 0.0032142857142857142
-    attack for exp: 0.012
-    defense for exp: 0.012
+    attack for exp: 0.018
+    defense for exp: 0.018
 - target: Lon Armstrong
   job: Mess Up
   energy: 53
-  exp: 15
+  exp: 10
   money max: 455
   money min: 340
   clicks needed: 2
   total energy: 106
-  total exp: 30
+  total exp: 20
   average money per energy: 3
-  average money per exp: 13
+  average money per exp: 19
   loot:
   - name: Pocket Knife
     type: melee
@@ -190,22 +190,22 @@
     attack: 3
     defense: 1
     energy for 1: 481.8181818181818
-    exp for 1: 136.36363636363637
+    exp for 1: 90.9090909090909
     attack for energy: 0.006226415094339623
     defense for energy: 0.0020754716981132076
-    attack for exp: 0.022
-    defense for exp: 0.007333333333333333
+    attack for exp: 0.033
+    defense for exp: 0.011000000000000001
 - target: Toshiro Takenaka
   job: Defeat
   energy: 108
-  exp: 22
+  exp: 15
   money max: 4270
   money min: 2695
   clicks needed: 7
   total energy: 756
-  total exp: 154
+  total exp: 105
   average money per energy: 4
-  average money per exp: 22
+  average money per exp: 33
   loot:
   - name: Yakuza Katana
     type: melee
@@ -213,33 +213,33 @@
     attack: 2
     defense: 3
     energy for 1: 1050.0
-    exp for 1: 213.88888888888889
+    exp for 1: 145.83333333333334
     attack for energy: 0.0019047619047619048
     defense for energy: 0.002857142857142857
-    attack for exp: 0.00935064935064935
-    defense for exp: 0.014025974025974027
+    attack for exp: 0.013714285714285714
+    defense for exp: 0.02057142857142857
   - name: Toshiro's Assassin Rifle
     type: gun
     percent: 0.22
     attack: 4
     defense: 3
     energy for 1: 3436.3636363636365
-    exp for 1: 700.0
+    exp for 1: 477.27272727272725
     attack for energy: 0.001164021164021164
     defense for energy: 0.000873015873015873
-    attack for exp: 0.005714285714285714
-    defense for exp: 0.004285714285714286
+    attack for exp: 0.008380952380952381
+    defense for exp: 0.006285714285714286
   - name: Toshiro's Deathgrip Gloves
     type: armor
     percent: 0.06
     attack: 5
     defense: 6
     energy for 1: 12600.0
-    exp for 1: 2566.666666666667
+    exp for 1: 1750.0
     attack for energy: 0.0003968253968253968
     defense for energy: 0.0004761904761904762
-    attack for exp: 0.0019480519480519478
-    defense for exp: 0.0023376623376623372
+    attack for exp: 0.002857142857142857
+    defense for exp: 0.0034285714285714284
 - target: Kazue Fujimoto
   job: Rob
   energy: 27
@@ -255,26 +255,26 @@
 - target: Gloria Washington
   job: Mug
   energy: 21
-  exp: 4
+  exp: 3
   money max: 150
   money min: 60
   clicks needed: 1
   total energy: 21
-  total exp: 4
+  total exp: 3
   average money per energy: 5
-  average money per exp: 26
+  average money per exp: 35
   loot: []
 - target: Pizza Parlor
   job: Search Hideout
   energy: 32
-  exp: 4
+  exp: 5
   money max: 150
   money min: 45
   clicks needed: 1
   total energy: 32
-  total exp: 4
+  total exp: 5
   average money per energy: 3
-  average money per exp: 24
+  average money per exp: 19
   loot:
   - name: Dark Alley Coat
     type: armor
@@ -282,22 +282,22 @@
     attack: 3
     defense: 3
     energy for 1: 320.0
-    exp for 1: 40.0
+    exp for 1: 50.0
     attack for energy: 0.009375
     defense for energy: 0.009375
-    attack for exp: 0.075
-    defense for exp: 0.075
+    attack for exp: 0.06
+    defense for exp: 0.06
 - target: Pizza Parlor
   job: Ambush Yakuza Allies
   energy: 80
-  exp: 7
+  exp: 13
   money max: 940
   money min: 350
   clicks needed: 2
   total energy: 160
-  total exp: 14
+  total exp: 26
   average money per energy: 4
-  average money per exp: 46
+  average money per exp: 24
   loot:
   - name: SMG A4
     type: gun
@@ -305,22 +305,22 @@
     attack: 2
     defense: 4
     energy for 1: 1142.8571428571427
-    exp for 1: 99.99999999999999
+    exp for 1: 185.7142857142857
     attack for energy: 0.0017500000000000003
     defense for energy: 0.0035000000000000005
-    attack for exp: 0.020000000000000004
-    defense for exp: 0.04000000000000001
+    attack for exp: 0.01076923076923077
+    defense for exp: 0.02153846153846154
 - target: Pizza Parlor
   job: Crash Private Party
   energy: 36
-  exp: 19
+  exp: 5
   money max: 375
   money min: 225
   clicks needed: 2
   total energy: 72
-  total exp: 38
+  total exp: 10
   average money per energy: 4
-  average money per exp: 7
+  average money per exp: 30
   loot:
   - name: Top Hat
     type: armor
@@ -328,22 +328,22 @@
     attack: 0
     defense: 4
     energy for 1: 240.0
-    exp for 1: 126.66666666666667
+    exp for 1: 33.333333333333336
     attack for energy: 0.0
     defense for energy: 0.016666666666666666
     attack for exp: 0.0
-    defense for exp: 0.031578947368421054
+    defense for exp: 0.12
 - target: Pizza Parlor
   job: Steal Designer Suit
   energy: 32
-  exp: 7
+  exp: 3
   money max: 220
   money min: 75
   clicks needed: 1
   total energy: 32
-  total exp: 7
+  total exp: 3
   average money per energy: 4
-  average money per exp: 21
+  average money per exp: 49
   loot:
   - name: Motorcycle Jacket
     type: armor
@@ -351,22 +351,22 @@
     attack: 2
     defense: 2
     energy for 1: 128.0
-    exp for 1: 28.0
+    exp for 1: 12.0
     attack for energy: 0.015625
     defense for energy: 0.015625
-    attack for exp: 0.07142857142857142
-    defense for exp: 0.07142857142857142
+    attack for exp: 0.16666666666666666
+    defense for exp: 0.16666666666666666
 - target: Pizza Parlor
   job: Destroy Evidence
   energy: 40
-  exp: 4
+  exp: 7
   money max: 300
   money min: 140
   clicks needed: 1
   total energy: 40
-  total exp: 4
+  total exp: 7
   average money per energy: 5
-  average money per exp: 55
+  average money per exp: 31
   loot:
   - name: Pilot Helmet
     type: armor
@@ -374,22 +374,22 @@
     attack: 1
     defense: 6
     energy for 1: 400.0
-    exp for 1: 40.0
+    exp for 1: 70.0
     attack for energy: 0.0025
     defense for energy: 0.015
-    attack for exp: 0.025
-    defense for exp: 0.15
+    attack for exp: 0.014285714285714285
+    defense for exp: 0.08571428571428572
 - target: Pizza Parlor
   job: Break in
   energy: 37
-  exp: 10
+  exp: 6
   money max: 270
   money min: 120
   clicks needed: 1
   total energy: 37
-  total exp: 10
+  total exp: 6
   average money per energy: 5
-  average money per exp: 19
+  average money per exp: 32
   loot:
   - name: .38 Special
     type: gun
@@ -397,34 +397,34 @@
     attack: 3
     defense: 2
     energy for 1: 185.0
-    exp for 1: 50.0
+    exp for 1: 30.0
     attack for energy: 0.016216216216216217
     defense for energy: 0.010810810810810811
-    attack for exp: 0.06
-    defense for exp: 0.04
+    attack for exp: 0.1
+    defense for exp: 0.06666666666666667
 - target: Pizza Parlor
   job: Set up Stakeout
   energy: 34
-  exp: 9
+  exp: 5
   money max: 190
   money min: 80
   clicks needed: 1
   total energy: 34
-  total exp: 9
+  total exp: 5
   average money per energy: 3
-  average money per exp: 15
+  average money per exp: 27
   loot: []
 - target: Pizza Parlor
   job: Crack Private Safe
   energy: 145
-  exp: 7
+  exp: 19
   money max: 5000
   money min: 2400
   clicks needed: 5
   total energy: 725
-  total exp: 35
+  total exp: 95
   average money per energy: 5
-  average money per exp: 105
+  average money per exp: 38
   loot:
   - name: Colt 45
     type: gun
@@ -432,20 +432,20 @@
     attack: 2
     defense: 4
     energy for 1: 4833.333333333334
-    exp for 1: 233.33333333333334
+    exp for 1: 633.3333333333334
     attack for energy: 0.0004137931034482758
     defense for energy: 0.0008275862068965516
-    attack for exp: 0.008571428571428572
-    defense for exp: 0.017142857142857144
+    attack for exp: 0.003157894736842105
+    defense for exp: 0.00631578947368421
 - target: Pizza Parlor
   job: Hijack
   energy: 35
-  exp: 10
+  exp: 5
   money max: 225
   money min: 75
   clicks needed: 1
   total energy: 35
-  total exp: 10
+  total exp: 5
   average money per energy: 4
-  average money per exp: 15
+  average money per exp: 30
   loot: []

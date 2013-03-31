@@ -1,0 +1,298 @@
+---
+- target: Pizza Parlor
+  job: Heist Inventory
+  energy: 1
+  exp: 1
+  money max: 5100
+  money min: 5100
+  clicks needed: 3
+  total energy: 3
+  total exp: 3
+  average money per energy: 1700
+  average money per exp: 1700
+  loot: []
+- target: Pizza Parlor
+  job: Set Up Hideout
+  energy: 1
+  exp: 1
+  money max: 0
+  money min: 1
+  clicks needed: 1
+  total energy: 1
+  total exp: 1
+  average money per energy: 0
+  average money per exp: 0
+  loot: []
+- target: Pizza Parlor
+  job: Take Over
+  energy: 1
+  exp: 1
+  money max: 7000
+  money min: 7000
+  clicks needed: 4
+  total energy: 4
+  total exp: 4
+  average money per energy: 1750
+  average money per exp: 1750
+  loot: []
+- target: Pizza Parlor
+  job: Kill Guards
+  energy: 1
+  exp: 1
+  money max: 7100
+  money min: 7100
+  clicks needed: 4
+  total energy: 4
+  total exp: 4
+  average money per energy: 1775
+  average money per exp: 1775
+  loot: []
+- target: Pierce Winchester
+  job: Dominate
+  energy: 1
+  exp: 1
+  money max: 9000
+  money min: 9000
+  clicks needed: 5
+  total energy: 5
+  total exp: 5
+  average money per energy: 1800
+  average money per exp: 1800
+  loot: []
+- target: Pizza Parlor
+  job: Install Henchmen
+  energy: 1
+  exp: 1
+  money max: 0
+  money min: 1
+  clicks needed: 1
+  total energy: 1
+  total exp: 1
+  average money per energy: 0
+  average money per exp: 0
+  loot: []
+- target: Pizza Parlor
+  job: Swipe Product
+  energy: 1
+  exp: 1
+  money max: 9100
+  money min: 9100
+  clicks needed: 5
+  total energy: 5
+  total exp: 5
+  average money per energy: 1820
+  average money per exp: 1820
+  loot: []
+- target: Lady Feelgood
+  job: Subjugate
+  energy: 1
+  exp: 1
+  money max: 9400
+  money min: 9400
+  clicks needed: 5
+  total energy: 5
+  total exp: 5
+  average money per energy: 1880
+  average money per exp: 1880
+  loot: []
+- target: Pizza Parlor
+  job: Hit
+  energy: 1
+  exp: 1
+  money max: 9200
+  money min: 9200
+  clicks needed: 5
+  total energy: 5
+  total exp: 5
+  average money per energy: 1840
+  average money per exp: 1840
+  loot: []
+- target: Wheels McLaren
+  job: Subdue
+  energy: 1
+  exp: 1
+  money max: 11300
+  money min: 11300
+  clicks needed: 6
+  total energy: 6
+  total exp: 6
+  average money per energy: 1883
+  average money per exp: 1883
+  loot: []
+- target: Lightning Liu
+  job: Put Down
+  energy: 1
+  exp: 1
+  money max: 13500
+  money min: 13500
+  clicks needed: 7
+  total energy: 7
+  total exp: 7
+  average money per energy: 1928
+  average money per exp: 1928
+  loot: []
+- target: Phoenix Fang
+  job: Assassinate
+  energy: 1
+  exp: 1
+  money max: 15800
+  money min: 15800
+  clicks needed: 8
+  total energy: 8
+  total exp: 8
+  average money per energy: 1975
+  average money per exp: 1975
+  loot: []
+- target: Ma Sheng
+  job: Defeat
+  energy: 1
+  exp: 1
+  money max: 67400
+  money min: 67400
+  clicks needed: 15
+  total energy: 15
+  total exp: 15
+  average money per energy: 4493
+  average money per exp: 4493
+  loot:
+  - name: Reinforced Tonfa
+    type: melee
+    percent: 0.72
+    attack: 24
+    defense: 19
+    energy for 1: 20.833333333333336
+    exp for 1: 20.833333333333336
+    attack for energy: 1.152
+    defense for energy: 0.9119999999999999
+    attack for exp: 1.152
+    defense for exp: 0.9119999999999999
+  - name: Experimental Mech Suit
+    type: armor
+    percent: 0.22
+    attack: 17
+    defense: 33
+    energy for 1: 68.18181818181819
+    exp for 1: 68.18181818181819
+    attack for energy: 0.24933333333333332
+    defense for energy: 0.484
+    attack for exp: 0.24933333333333332
+    defense for exp: 0.484
+  - name: Chinese Assault Rifle
+    type: gun
+    percent: 0.06
+    attack: 35
+    defense: 23
+    energy for 1: 250.0
+    exp for 1: 250.0
+    attack for energy: 0.14
+    defense for energy: 0.092
+    attack for exp: 0.14
+    defense for exp: 0.092
+- target: Pizza Parlor
+  job: Rob
+  energy: 1
+  exp: 1
+  money max: 0
+  money min: 1
+  clicks needed: 1
+  total energy: 1
+  total exp: 1
+  average money per energy: 0
+  average money per exp: 0
+  loot: []
+- target: Pizza Parlor
+  job: Steal Guns
+  energy: 1
+  exp: 1
+  money max: 6900
+  money min: 6900
+  clicks needed: 4
+  total energy: 4
+  total exp: 4
+  average money per energy: 1725
+  average money per exp: 1725
+  loot: []
+- target: Pizza Parlor
+  job: Decimate Henchmen
+  energy: 1
+  exp: 1
+  money max: 0
+  money min: 1
+  clicks needed: 1
+  total energy: 1
+  total exp: 1
+  average money per energy: 0
+  average money per exp: 0
+  loot: []
+- target: Pizza Parlor
+  job: Firebomb
+  energy: 1
+  exp: 1
+  money max: 0
+  money min: 1
+  clicks needed: 1
+  total energy: 1
+  total exp: 1
+  average money per energy: 0
+  average money per exp: 0
+  loot: []
+- target: Pizza Parlor
+  job: Hide Weapons
+  energy: 1
+  exp: 1
+  money max: 0
+  money min: 1
+  clicks needed: 1
+  total energy: 1
+  total exp: 1
+  average money per energy: 0
+  average money per exp: 0
+  loot: []
+- target: Pizza Parlor
+  job: Take Control
+  energy: 1
+  exp: 1
+  money max: 0
+  money min: 1
+  clicks needed: 1
+  total energy: 1
+  total exp: 1
+  average money per energy: 0
+  average money per exp: 0
+  loot: []
+- target: Pizza Parlor
+  job: Collect Cut
+  energy: 1
+  exp: 1
+  money max: 0
+  money min: 1
+  clicks needed: 1
+  total energy: 1
+  total exp: 1
+  average money per energy: 0
+  average money per exp: 0
+  loot: []
+- target: Pizza Parlor
+  job: Steal Containers
+  energy: 1
+  exp: 1
+  money max: 0
+  money min: 1
+  clicks needed: 1
+  total energy: 1
+  total exp: 1
+  average money per energy: 0
+  average money per exp: 0
+  loot: []
+- target: Pizza Parlor
+  job: Push Bootlegs
+  energy: 1
+  exp: 1
+  money max: 0
+  money min: 1
+  clicks needed: 1
+  total energy: 1
+  total exp: 1
+  average money per energy: 0
+  average money per exp: 0
+  loot: []

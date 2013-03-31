@@ -1,0 +1,214 @@
+---
+- target: Pizza Parlor
+  job: Drug Food
+  energy: 143
+  exp: 21
+  money max: 0
+  money min: 350
+  clicks needed: 1
+  total energy: 143
+  total exp: 21
+  average money per energy: 1
+  average money per exp: 8
+  loot: []
+- target: Inmate Smith
+  job: Deliver Goods
+  energy: 134
+  exp: 15
+  money max: 0
+  money min: 575
+  clicks needed: 1
+  total energy: 134
+  total exp: 15
+  average money per energy: 2
+  average money per exp: 19
+  loot: []
+- target: Inmate Melrose
+  job: Steal Psych Meds
+  energy: 154
+  exp: 17
+  money max: 1950
+  money min: 1950
+  clicks needed: 3
+  total energy: 462
+  total exp: 51
+  average money per energy: 4
+  average money per exp: 38
+  loot: []
+- target: Inmate Greene
+  job: Whack Informant
+  energy: 175
+  exp: 25
+  money max: 2250
+  money min: 2250
+  clicks needed: 5
+  total energy: 875
+  total exp: 125
+  average money per energy: 2
+  average money per exp: 18
+  loot: []
+- target: Officer Hsu
+  job: Bribe
+  energy: 103
+  exp: 15
+  money max: 0
+  money min: 265
+  clicks needed: 1
+  total energy: 103
+  total exp: 15
+  average money per energy: 1
+  average money per exp: 8
+  loot: []
+- target: Pizza Parlor
+  job: Move Product
+  energy: 140
+  exp: 15
+  money max: 0
+  money min: 750
+  clicks needed: 1
+  total energy: 140
+  total exp: 15
+  average money per energy: 2
+  average money per exp: 25
+  loot: []
+- target: Pizza Parlor
+  job: Steal Weapons
+  energy: 178
+  exp: 20
+  money max: 2740
+  money min: 2740
+  clicks needed: 4
+  total energy: 712
+  total exp: 80
+  average money per energy: 3
+  average money per exp: 34
+  loot: []
+- target: Pizza Parlor
+  job: Falsify Records
+  energy: 160
+  exp: 24
+  money max: 0
+  money min: 420
+  clicks needed: 1
+  total energy: 160
+  total exp: 24
+  average money per energy: 1
+  average money per exp: 8
+  loot: []
+- target: Inmate Hodgkins
+  job: Whack Snitch
+  energy: 190
+  exp: 29
+  money max: 2400
+  money min: 2400
+  clicks needed: 6
+  total energy: 1140
+  total exp: 174
+  average money per energy: 2
+  average money per exp: 13
+  loot: []
+- target: Inmate Mekonen
+  job: Gut
+  energy: 186
+  exp: 28
+  money max: 2280
+  money min: 2280
+  clicks needed: 6
+  total energy: 1116
+  total exp: 168
+  average money per energy: 2
+  average money per exp: 13
+  loot: []
+- target: Warden Grabowski
+  job: Defeat
+  energy: 293
+  exp: 41
+  money max: 8820
+  money min: 8820
+  clicks needed: 14
+  total energy: 4102
+  total exp: 574
+  average money per energy: 2
+  average money per exp: 15
+  loot:
+  - name: Warden's Billy Club
+    type: melee
+    percent: 0.72
+    attack: 11
+    defense: 14
+    energy for 1: 5697.222222222223
+    exp for 1: 797.2222222222223
+    attack for energy: 0.0019307654802535347
+    defense for energy: 0.0024573378839590444
+    attack for exp: 0.013797909407665504
+    defense for exp: 0.017560975609756096
+  - name: Warden's Riot Shield
+    type: armor
+    percent: 0.22
+    attack: 1
+    defense: 29
+    energy for 1: 18645.454545454544
+    exp for 1: 2609.090909090909
+    attack for energy: 5.363237445148708e-05
+    defense for energy: 0.0015553388590931255
+    attack for exp: 0.0003832752613240418
+    defense for exp: 0.011114982578397213
+  - name: Warden's Scattergun
+    type: gun
+    percent: 0.06
+    attack: 21
+    defense: 17
+    energy for 1: 68366.66666666667
+    exp for 1: 9566.666666666668
+    attack for energy: 0.00030716723549488055
+    defense for energy: 0.0002486591906387128
+    attack for exp: 0.002195121951219512
+    defense for exp: 0.0017770034843205573
+- target: Pizza Parlor
+  job: Incite Riot
+  energy: 210
+  exp: 32
+  money max: 3570
+  money min: 3570
+  clicks needed: 7
+  total energy: 1470
+  total exp: 224
+  average money per energy: 2
+  average money per exp: 15
+  loot: []
+- target: Pizza Parlor
+  job: Stash Contraband
+  energy: 158
+  exp: 18
+  money max: 1875
+  money min: 1875
+  clicks needed: 3
+  total energy: 474
+  total exp: 54
+  average money per energy: 3
+  average money per exp: 34
+  loot: []
+- target: Pizza Parlor
+  job: Disable
+  energy: 1
+  exp: 1
+  money max: 0
+  money min: 1
+  clicks needed: 1
+  total energy: 1
+  total exp: 1
+  average money per energy: 0
+  average money per exp: 0
+  loot: []
+- target: Pizza Parlor
+  job: Set Up Gambling Ring
+  energy: 1
+  exp: 1
+  money max: 0
+  money min: 1
+  clicks needed: 1
+  total energy: 1
+  total exp: 1
+  average money per energy: 0
+  average money per exp: 0
+  loot: []
