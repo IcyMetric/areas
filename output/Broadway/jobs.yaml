@@ -37,15 +37,15 @@
   loot:
   - name: Steyr AUG
     type: gun
-    percent: 0.16
+    percent: 0.32
     attack: 7
     defense: 6
-    energy for 1: 3150.0
-    exp for 1: 1012.5
-    attack for energy: 0.0022222222222222222
-    defense for energy: 0.0019047619047619048
-    attack for exp: 0.006913580246913581
-    defense for exp: 0.005925925925925926
+    energy for 1: 1575.0
+    exp for 1: 506.25
+    attack for energy: 0.0044444444444444444
+    defense for energy: 0.0038095238095238095
+    attack for exp: 0.013827160493827161
+    defense for exp: 0.011851851851851851
 - target: Ellis Bernard
   job: Beat Up Federal Agent
   energy: 185
@@ -209,15 +209,15 @@
   loot:
   - name: SWAT Pistol
     type: gun
-    percent: 0.16
+    percent: 0.32
     attack: 4
     defense: 8
-    energy for 1: 2625.0
-    exp for 1: 537.5
-    attack for energy: 0.0015238095238095239
-    defense for energy: 0.0030476190476190477
-    attack for exp: 0.0074418604651162795
-    defense for exp: 0.014883720930232559
+    energy for 1: 1312.5
+    exp for 1: 268.75
+    attack for energy: 0.0030476190476190477
+    defense for energy: 0.006095238095238095
+    attack for exp: 0.014883720930232559
+    defense for exp: 0.029767441860465118
 - target: Pizza Parlor
   job: Sell Forged Tickets
   energy: 100
@@ -244,15 +244,15 @@
   loot:
   - name: SA58 Carbine
     type: gun
-    percent: 0.18
+    percent: 0.36
     attack: 9
     defense: 8
-    energy for 1: 7400.0
-    exp for 1: 2500.0
-    attack for energy: 0.0012162162162162162
-    defense for energy: 0.001081081081081081
-    attack for exp: 0.0036
-    defense for exp: 0.0032
+    energy for 1: 3700.0
+    exp for 1: 1250.0
+    attack for energy: 0.0024324324324324323
+    defense for energy: 0.002162162162162162
+    attack for exp: 0.0072
+    defense for exp: 0.0064
 - target: Pizza Parlor
   job: Stash Federal Agent Corpses
   energy: 325
@@ -314,15 +314,15 @@
   loot:
   - name: Carbine
     type: gun
-    percent: 0.16
+    percent: 0.32
     attack: 4
     defense: 6
-    energy for 1: 1375.0
-    exp for 1: 375.0
-    attack for energy: 0.002909090909090909
-    defense for energy: 0.004363636363636364
-    attack for exp: 0.010666666666666666
-    defense for exp: 0.016
+    energy for 1: 687.5
+    exp for 1: 187.5
+    attack for energy: 0.005818181818181818
+    defense for energy: 0.008727272727272728
+    attack for exp: 0.021333333333333333
+    defense for exp: 0.032
 - target: Pizza Parlor
   job: Crack Safe
   energy: 400

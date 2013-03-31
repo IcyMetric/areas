@@ -107,15 +107,15 @@
   loot:
   - name: Toxic Sprayer
     type: gun
-    percent: 0.04
+    percent: 0.16
     attack: 27
     defense: 12
-    energy for 1: 37500.0
-    exp for 1: 16375.0
-    attack for energy: 0.00072
-    defense for energy: 0.00032
-    attack for exp: 0.001648854961832061
-    defense for exp: 0.000732824427480916
+    energy for 1: 9375.0
+    exp for 1: 4093.75
+    attack for energy: 0.00288
+    defense for energy: 0.00128
+    attack for exp: 0.006595419847328244
+    defense for exp: 0.002931297709923664
 - target: Mrs. Crabtree
   job: Keep Teacher Quiet
   energy: 200
@@ -153,15 +153,15 @@
   loot:
   - name: Irish Shooter
     type: gun
-    percent: 0.06
+    percent: 0.24
     attack: 11
     defense: 10
-    energy for 1: 18000.0
-    exp for 1: 7666.666666666667
-    attack for energy: 0.0006111111111111111
-    defense for energy: 0.0005555555555555556
-    attack for exp: 0.0014347826086956522
-    defense for exp: 0.0013043478260869564
+    energy for 1: 4500.0
+    exp for 1: 1916.6666666666667
+    attack for energy: 0.0024444444444444444
+    defense for energy: 0.0022222222222222222
+    attack for exp: 0.005739130434782609
+    defense for exp: 0.005217391304347826
 - target: Trent the Trigger
   job: Pull the Trigger
   energy: 292
@@ -176,15 +176,15 @@
   loot:
   - name: Mk 14 Battle Rifle
     type: gun
-    percent: 0.04
+    percent: 0.16
     attack: 14
     defense: 14
-    energy for 1: 36500.0
-    exp for 1: 16000.0
-    attack for energy: 0.0003835616438356164
-    defense for energy: 0.0003835616438356164
-    attack for exp: 0.000875
-    defense for exp: 0.000875
+    energy for 1: 9125.0
+    exp for 1: 4000.0
+    attack for energy: 0.0015342465753424657
+    defense for energy: 0.0015342465753424657
+    attack for exp: 0.0035
+    defense for exp: 0.0035
 - target: Slugger McManis
   job: Cut Up Slugger
   energy: 344
@@ -199,15 +199,15 @@
   loot:
   - name: Trick Razor
     type: melee
-    percent: 0.06
+    percent: 0.24
     attack: 11
     defense: 9
-    energy for 1: 28666.666666666668
-    exp for 1: 12833.333333333334
-    attack for energy: 0.00038372093023255813
-    defense for energy: 0.000313953488372093
-    attack for exp: 0.0008571428571428571
-    defense for exp: 0.0007012987012987012
+    energy for 1: 7166.666666666667
+    exp for 1: 3208.3333333333335
+    attack for energy: 0.0015348837209302325
+    defense for energy: 0.001255813953488372
+    attack for exp: 0.0034285714285714284
+    defense for exp: 0.002805194805194805
 - target: Stone Cold Sergei
   job: Defeat
   energy: 444
@@ -313,12 +313,12 @@
   loot:
   - name: Mossberg 590 Shotgun
     type: gun
-    percent: 0.04
+    percent: 0.16
     attack: 12
     defense: 8
-    energy for 1: 8500.0
-    exp for 1: 3000.0
-    attack for energy: 0.001411764705882353
-    defense for energy: 0.0009411764705882353
-    attack for exp: 0.004
-    defense for exp: 0.0026666666666666666
+    energy for 1: 2125.0
+    exp for 1: 750.0
+    attack for energy: 0.005647058823529412
+    defense for energy: 0.0037647058823529413
+    attack for exp: 0.016
+    defense for exp: 0.010666666666666666
