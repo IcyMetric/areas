@@ -25,15 +25,15 @@
   loot:
   - name: Company Car
     type: car
-    percent: 0.04
+    percent: 0.16
     attack: 11
     defense: 16
-    energy for 1: 25125.0
-    exp for 1: 9525.0
-    attack for energy: 0.00043781094527363184
-    defense for energy: 0.00063681592039801
-    attack for exp: 0.0011548556430446195
-    defense for exp: 0.0016797900262467192
+    energy for 1: 6281.25
+    exp for 1: 2381.25
+    attack for energy: 0.0017512437810945274
+    defense for energy: 0.00254726368159204
+    attack for exp: 0.004619422572178478
+    defense for exp: 0.006719160104986877
 - target: Fynn Boyd
   job: Beat Up guitarist
   energy: 195
@@ -48,15 +48,15 @@
   loot:
   - name: Lead Sprayer
     type: gun
-    percent: 0.11
+    percent: 0.44
     attack: 16
     defense: 12
-    energy for 1: 10636.363636363636
-    exp for 1: 3327.2727272727275
-    attack for energy: 0.0015042735042735042
-    defense for energy: 0.0011282051282051283
-    attack for exp: 0.004808743169398907
-    defense for exp: 0.00360655737704918
+    energy for 1: 2659.090909090909
+    exp for 1: 831.8181818181819
+    attack for energy: 0.006017094017094017
+    defense for energy: 0.004512820512820513
+    attack for exp: 0.01923497267759563
+    defense for exp: 0.01442622950819672
 - target: Mumbles McGee
   job: Rig Boxing Match
   energy: 391
@@ -94,15 +94,15 @@
   loot:
   - name: MG08 Heavy Machine Gun
     type: gun
-    percent: 0.1
+    percent: 0.4
     attack: 13
     defense: 16
-    energy for 1: 13380.0
-    exp for 1: 4140.0
-    attack for energy: 0.0009715994020926756
-    defense for energy: 0.001195814648729447
-    attack for exp: 0.003140096618357488
-    defense for exp: 0.003864734299516908
+    energy for 1: 3345.0
+    exp for 1: 1035.0
+    attack for energy: 0.0038863976083707025
+    defense for energy: 0.004783258594917788
+    attack for exp: 0.012560386473429951
+    defense for exp: 0.015458937198067632
 - target: Pizza Parlor
   job: Crack Safe
   energy: 279
@@ -117,15 +117,15 @@
   loot:
   - name: Rusted Minigun
     type: gun
-    percent: 0.14
+    percent: 0.56
     attack: 8
     defense: 10
-    energy for 1: 7971.428571428571
-    exp for 1: 2742.8571428571427
-    attack for energy: 0.001003584229390681
-    defense for energy: 0.0012544802867383515
-    attack for exp: 0.002916666666666667
-    defense for exp: 0.0036458333333333334
+    energy for 1: 1992.8571428571427
+    exp for 1: 685.7142857142857
+    attack for energy: 0.004014336917562724
+    defense for energy: 0.005017921146953406
+    attack for exp: 0.011666666666666667
+    defense for exp: 0.014583333333333334
 - target: Pizza Parlor
   job: Spread Rumor
   energy: 167
@@ -152,15 +152,15 @@
   loot:
   - name: SG 550
     type: gun
-    percent: 0.14
+    percent: 0.56
     attack: 10
     defense: 7
-    energy for 1: 7971.428571428571
-    exp for 1: 2742.8571428571427
-    attack for energy: 0.0012544802867383515
-    defense for energy: 0.000878136200716846
-    attack for exp: 0.0036458333333333334
-    defense for exp: 0.0025520833333333337
+    energy for 1: 1992.8571428571427
+    exp for 1: 685.7142857142857
+    attack for energy: 0.005017921146953406
+    defense for energy: 0.003512544802867384
+    attack for exp: 0.014583333333333334
+    defense for exp: 0.010208333333333335
 - target: Pizza Parlor
   job: Rob
   energy: 391
@@ -187,15 +187,15 @@
   loot:
   - name: FBI Silenced Pistol
     type: gun
-    percent: 0.11
+    percent: 0.44
     attack: 13
     defense: 20
-    energy for 1: 24363.636363636364
-    exp for 1: 9236.363636363636
-    attack for energy: 0.0005335820895522388
-    defense for energy: 0.0008208955223880597
-    attack for exp: 0.00140748031496063
-    defense for exp: 0.0021653543307086614
+    energy for 1: 6090.909090909091
+    exp for 1: 2309.090909090909
+    attack for energy: 0.002134328358208955
+    defense for energy: 0.0032835820895522386
+    attack for exp: 0.00562992125984252
+    defense for exp: 0.008661417322834646
 - target: Pizza Parlor
   job: Vandalize Posters
   energy: 195
@@ -222,15 +222,15 @@
   loot:
   - name: Samurai Knife
     type: melee
-    percent: 0.13
+    percent: 0.52
     attack: 9
     defense: 13
-    energy for 1: 9653.846153846154
-    exp for 1: 3153.846153846154
-    attack for energy: 0.0009322709163346613
-    defense for energy: 0.001346613545816733
-    attack for exp: 0.002853658536585366
-    defense for exp: 0.004121951219512195
+    energy for 1: 2413.4615384615386
+    exp for 1: 788.4615384615385
+    attack for energy: 0.003729083665338645
+    defense for energy: 0.005386454183266932
+    attack for exp: 0.011414634146341463
+    defense for exp: 0.01648780487804878
 - target: Pizza Parlor
   job: Rob
   energy: 447
@@ -245,15 +245,15 @@
   loot:
   - name: Killer's Goggles
     type: armor
-    percent: 0.07
+    percent: 0.28
     attack: 16
     defense: 17
-    energy for 1: 31928.571428571424
-    exp for 1: 9357.142857142857
-    attack for energy: 0.0005011185682326623
-    defense for energy: 0.0005324384787472037
-    attack for exp: 0.0017099236641221374
-    defense for exp: 0.001816793893129771
+    energy for 1: 7982.142857142856
+    exp for 1: 2339.285714285714
+    attack for energy: 0.002004474272930649
+    defense for energy: 0.0021297539149888146
+    attack for exp: 0.00683969465648855
+    defense for exp: 0.007267175572519084
 - target: Ladd Rock
   job: Defeat Ladd Rock
   energy: 503
@@ -313,15 +313,15 @@
   loot:
   - name: Rusted Minigun
     type: gun
-    percent: 0.04
+    percent: 0.16
     attack: 8
     defense: 10
-    energy for 1: 4175.0
-    exp for 1: 1825.0
-    attack for energy: 0.0019161676646706587
-    defense for energy: 0.0023952095808383233
-    attack for exp: 0.004383561643835616
-    defense for exp: 0.005479452054794521
+    energy for 1: 1043.75
+    exp for 1: 456.25
+    attack for energy: 0.007664670658682635
+    defense for energy: 0.009580838323353293
+    attack for exp: 0.017534246575342465
+    defense for exp: 0.021917808219178082
 - target: Pizza Parlor
   job: Shoot Out Windows
   energy: 223
@@ -336,15 +336,15 @@
   loot:
   - name: Deviant Coat
     type: armor
-    percent: 0.08
+    percent: 0.32
     attack: 8
     defense: 20
-    energy for 1: 8362.5
-    exp for 1: 2587.5
-    attack for energy: 0.0009566517189835576
-    defense for energy: 0.002391629297458894
-    attack for exp: 0.0030917874396135265
-    defense for exp: 0.007729468599033816
+    energy for 1: 2090.625
+    exp for 1: 646.875
+    attack for energy: 0.0038266068759342303
+    defense for energy: 0.009566517189835576
+    attack for exp: 0.012367149758454106
+    defense for exp: 0.030917874396135265
 - target: Pizza Parlor
   job: Pilfer Lingerie
   energy: 279
@@ -383,15 +383,15 @@
   loot:
   - name: Killer Machine Gun
     type: gun
-    percent: 0.11
+    percent: 0.44
     attack: 13
     defense: 11
-    energy for 1: 9136.363636363636
-    exp for 1: 3463.6363636363635
-    attack for energy: 0.0014228855721393036
-    defense for energy: 0.0012039800995024875
-    attack for exp: 0.0037532808398950132
-    defense for exp: 0.0031758530183727037
+    energy for 1: 2284.090909090909
+    exp for 1: 865.9090909090909
+    attack for energy: 0.0056915422885572145
+    defense for energy: 0.00481592039800995
+    attack for exp: 0.015013123359580053
+    defense for exp: 0.012703412073490815
 - target: Pizza Parlor
   job: Shoplift a Handbag
   energy: 195
@@ -406,12 +406,12 @@
   loot:
   - name: Urban Warfare Vest
     type: armor
-    percent: 0.06
+    percent: 0.24
     attack: 11
     defense: 20
-    energy for 1: 3250.0
-    exp for 1: 1183.3333333333335
-    attack for energy: 0.003384615384615385
-    defense for energy: 0.006153846153846154
-    attack for exp: 0.009295774647887323
-    defense for exp: 0.016901408450704224
+    energy for 1: 812.5
+    exp for 1: 295.83333333333337
+    attack for energy: 0.01353846153846154
+    defense for energy: 0.024615384615384615
+    attack for exp: 0.03718309859154929
+    defense for exp: 0.0676056338028169
