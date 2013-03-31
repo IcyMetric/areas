@@ -3,105 +3,105 @@
   job: Mess Up
   energy: 72
   exp: 20
-  money max: 2640
-  money min: 2640
-  clicks needed: 4
-  total energy: 288
-  total exp: 80
-  average money per energy: 9
-  average money per exp: 33
+  money max: 1400
+  money min: 580
+  clicks needed: 2
+  total energy: 144
+  total exp: 40
+  average money per energy: 6
+  average money per exp: 24
   loot:
   - name: Steyr AUG
     type: gun
     percent: 0.05
     attack: 7
     defense: 6
-    energy for 1: 5760.0
-    exp for 1: 1600.0
-    attack for energy: 0.0012152777777777778
-    defense for energy: 0.0010416666666666667
-    attack for exp: 0.004375
-    defense for exp: 0.00375
+    energy for 1: 2880.0
+    exp for 1: 800.0
+    attack for energy: 0.0024305555555555556
+    defense for energy: 0.0020833333333333333
+    attack for exp: 0.00875
+    defense for exp: 0.0075
 - target: Melina Raposo
   job: Beat Down
   energy: 84
   exp: 24
-  money max: 4440
-  money min: 4440
-  clicks needed: 6
-  total energy: 504
-  total exp: 144
-  average money per energy: 8
-  average money per exp: 30
+  money max: 2775
+  money min: 465
+  clicks needed: 3
+  total energy: 252
+  total exp: 72
+  average money per energy: 6
+  average money per exp: 22
   loot:
   - name: Nail Bat
     type: melee
     percent: 0.07
     attack: 7
     defense: 5
-    energy for 1: 7199.999999999999
-    exp for 1: 2057.142857142857
-    attack for energy: 0.0009722222222222223
-    defense for energy: 0.0006944444444444446
-    attack for exp: 0.003402777777777778
-    defense for exp: 0.002430555555555556
+    energy for 1: 3599.9999999999995
+    exp for 1: 1028.5714285714284
+    attack for energy: 0.0019444444444444446
+    defense for energy: 0.0013888888888888892
+    attack for exp: 0.006805555555555556
+    defense for exp: 0.004861111111111112
 - target: Mike Seletti
   job: Bust Up
   energy: 90
   exp: 27
-  money max: 3600
-  money min: 3600
-  clicks needed: 5
-  total energy: 450
-  total exp: 135
-  average money per energy: 8
-  average money per exp: 26
+  money max: 2430
+  money min: 900
+  clicks needed: 3
+  total energy: 270
+  total exp: 81
+  average money per energy: 6
+  average money per exp: 20
   loot:
   - name: Butterfly Knife
     type: melee
     percent: 0.12
     attack: 5
     defense: 5
-    energy for 1: 3750.0
-    exp for 1: 1125.0
-    attack for energy: 0.0013333333333333333
-    defense for energy: 0.0013333333333333333
-    attack for exp: 0.0044444444444444444
-    defense for exp: 0.0044444444444444444
+    energy for 1: 2250.0
+    exp for 1: 675.0
+    attack for energy: 0.0022222222222222222
+    defense for energy: 0.0022222222222222222
+    attack for exp: 0.007407407407407408
+    defense for exp: 0.007407407407407408
 - target: Pizza Parlor
   job: Steal Weapons
   energy: 116
   exp: 26
-  money max: 7500
-  money min: 7500
-  clicks needed: 6
-  total energy: 696
-  total exp: 156
-  average money per energy: 10
-  average money per exp: 48
+  money max: 4050
+  money min: 2700
+  clicks needed: 3
+  total energy: 348
+  total exp: 78
+  average money per energy: 9
+  average money per exp: 43
   loot:
   - name: M249 SAW
     type: gun
     percent: 0.06
     attack: 5
     defense: 8
-    energy for 1: 11600.0
-    exp for 1: 2600.0
-    attack for energy: 0.0004310344827586207
-    defense for energy: 0.000689655172413793
-    attack for exp: 0.0019230769230769232
-    defense for exp: 0.003076923076923077
+    energy for 1: 5800.0
+    exp for 1: 1300.0
+    attack for energy: 0.0008620689655172414
+    defense for energy: 0.001379310344827586
+    attack for exp: 0.0038461538461538464
+    defense for exp: 0.006153846153846154
 - target: Pizza Parlor
   job: Destroy Shipment
   energy: 130
   exp: 35
-  money max: 5800
-  money min: 5800
+  money max: 7200
+  money min: 800
   clicks needed: 4
   total energy: 520
   total exp: 140
-  average money per energy: 11
-  average money per exp: 41
+  average money per energy: 7
+  average money per exp: 28
   loot:
   - name: GMC Yukon
     type: car
@@ -165,11 +165,11 @@
   job: Put Down
   energy: 114
   exp: 34
-  money max: 4500
-  money min: 4500
-  clicks needed: 6
-  total energy: 684
-  total exp: 204
+  money max: 2320
+  money min: 800
+  clicks needed: 2
+  total energy: 228
+  total exp: 68
   average money per energy: 6
   average money per exp: 22
   loot:
@@ -178,80 +178,80 @@
     percent: 0.09
     attack: 4
     defense: 7
-    energy for 1: 7600.0
-    exp for 1: 2266.666666666667
-    attack for energy: 0.0005263157894736842
-    defense for energy: 0.0009210526315789473
-    attack for exp: 0.001764705882352941
-    defense for exp: 0.003088235294117647
+    energy for 1: 2533.3333333333335
+    exp for 1: 755.5555555555555
+    attack for energy: 0.0015789473684210526
+    defense for energy: 0.002763157894736842
+    attack for exp: 0.005294117647058823
+    defense for exp: 0.00926470588235294
 - target: Alonzo Prather
   job: Take Out
   energy: 108
   exp: 32
-  money max: 4200
-  money min: 4200
-  clicks needed: 6
-  total energy: 648
-  total exp: 192
-  average money per energy: 6
-  average money per exp: 21
+  money max: 2760
+  money min: 1800
+  clicks needed: 3
+  total energy: 324
+  total exp: 96
+  average money per energy: 7
+  average money per exp: 23
   loot:
   - name: Rasta Jacket
     type: armor
     percent: 0.16
     attack: 3
     defense: 5
-    energy for 1: 4050.0
-    exp for 1: 1200.0
-    attack for energy: 0.0007407407407407407
-    defense for energy: 0.0012345679012345679
-    attack for exp: 0.0025
-    defense for exp: 0.004166666666666667
+    energy for 1: 2025.0
+    exp for 1: 600.0
+    attack for energy: 0.0014814814814814814
+    defense for energy: 0.0024691358024691358
+    attack for exp: 0.005
+    defense for exp: 0.008333333333333333
 - target: Nat Kinney
   job: Defeat
   energy: 172
   exp: 49
-  money max: 27900
-  money min: 27900
-  clicks needed: 18
-  total energy: 3096
-  total exp: 882
-  average money per energy: 9
-  average money per exp: 31
+  money max: 16220
+  money min: 9600
+  clicks needed: 10
+  total energy: 1720
+  total exp: 490
+  average money per energy: 7
+  average money per exp: 26
   loot:
   - name: Poisoned Blade
     type: melee
     percent: 0.72
     attack: 4
     defense: 4
-    energy for 1: 4300.0
-    exp for 1: 1225.0
-    attack for energy: 0.0009302325581395349
-    defense for energy: 0.0009302325581395349
-    attack for exp: 0.0032653061224489797
-    defense for exp: 0.0032653061224489797
+    energy for 1: 2388.888888888889
+    exp for 1: 680.5555555555555
+    attack for energy: 0.0016744186046511627
+    defense for energy: 0.0016744186046511627
+    attack for exp: 0.005877551020408163
+    defense for exp: 0.005877551020408163
   - name: Vigilante Rocket Launcher
     type: gun
     percent: 0.22
     attack: 7
     defense: 4
-    energy for 1: 14072.727272727272
-    exp for 1: 4009.090909090909
-    attack for energy: 0.0004974160206718347
-    defense for energy: 0.00028423772609819124
-    attack for exp: 0.001746031746031746
-    defense for exp: 0.000997732426303855
+    energy for 1: 7818.181818181818
+    exp for 1: 2227.2727272727275
+    attack for energy: 0.0008953488372093023
+    defense for energy: 0.0005116279069767442
+    attack for exp: 0.0031428571428571426
+    defense for exp: 0.0017959183673469385
   - name: Nat's Bomber Vest
     type: armor
     percent: 0.06
     attack: 7
     defense: 9
-    energy for 1: 51600.0
-    exp for 1: 14700.0
-    attack for energy: 0.00013565891472868216
-    defense for energy: 0.0001744186046511628
-    attack for exp: 0.0004761904761904762
-    defense for exp: 0.0006122448979591836
+    energy for 1: 28666.666666666668
+    exp for 1: 8166.666666666667
+    attack for energy: 0.0002441860465116279
+    defense for energy: 0.000313953488372093
+    attack for exp: 0.0008571428571428571
+    defense for exp: 0.0011020408163265306
 - target: Pizza Parlor
   job: Hijack
   energy: 63
