@@ -1,0 +1,214 @@
+---
+- target: Pizza Parlor
+  job: Set Up Video
+  energy: 155
+  exp: 62
+  money max: 7500
+  money min: 1000
+  clicks needed: 1
+  total energy: 155
+  total exp: 62
+  average money per energy: 27
+  average money per exp: 68
+  loot: []
+- target: Pizza Parlor
+  job: Surveil the Perimeter
+  energy: 218
+  exp: 80
+  money max: 12500
+  money min: 1000
+  clicks needed: 1
+  total energy: 218
+  total exp: 80
+  average money per energy: 30
+  average money per exp: 84
+  loot: []
+- target: Jake Rothstein
+  job: Enlist Mob Defector
+  energy: 184
+  exp: 66
+  money max: 7500
+  money min: 3500
+  clicks needed: 1
+  total energy: 184
+  total exp: 66
+  average money per energy: 29
+  average money per exp: 83
+  loot: []
+- target: Pizza Parlor
+  job: Steal Optics
+  energy: 256
+  exp: 88
+  money max: 60000
+  money min: 36000
+  clicks needed: 4
+  total energy: 1024
+  total exp: 352
+  average money per energy: 46
+  average money per exp: 136
+  loot: []
+- target: Pizza Parlor
+  job: Heist Computers
+  energy: 325
+  exp: 100
+  money max: 115000
+  money min: 60000
+  clicks needed: 5
+  total energy: 1625
+  total exp: 500
+  average money per energy: 53
+  average money per exp: 175
+  loot: []
+- target: Eugene Snodgrass
+  job: Mug Astronomy Nerd
+  energy: 140
+  exp: 46
+  money max: 9000
+  money min: 1000
+  clicks needed: 1
+  total energy: 140
+  total exp: 46
+  average money per energy: 35
+  average money per exp: 108
+  loot: []
+- target: Professor Kepler
+  job: Shut Kepler's Mouth
+  energy: 300
+  exp: 131
+  money max: 70000
+  money min: 30000
+  clicks needed: 5
+  total energy: 1500
+  total exp: 655
+  average money per energy: 33
+  average money per exp: 76
+  loot: []
+- target: Mrs. Crabtree
+  job: Keep Teacher Quiet
+  energy: 200
+  exp: 84
+  money max: 40000
+  money min: 8000
+  clicks needed: 4
+  total energy: 800
+  total exp: 336
+  average money per energy: 30
+  average money per exp: 71
+  loot: []
+- target: Carmella Song
+  job: Stop Song from Singing
+  energy: 270
+  exp: 115
+  money max: 44000
+  money min: 28000
+  clicks needed: 4
+  total energy: 1080
+  total exp: 460
+  average money per energy: 33
+  average money per exp: 78
+  loot: []
+- target: Trent the Trigger
+  job: Pull the Trigger
+  energy: 292
+  exp: 128
+  money max: 80000
+  money min: 22500
+  clicks needed: 5
+  total energy: 1460
+  total exp: 640
+  average money per energy: 35
+  average money per exp: 80
+  loot: []
+- target: Slugger McManis
+  job: Cut Up Slugger
+  energy: 344
+  exp: 154
+  money max: 85000
+  money min: 35000
+  clicks needed: 5
+  total energy: 1720
+  total exp: 770
+  average money per energy: 34
+  average money per exp: 77
+  loot: []
+- target: Stone Cold Sergei
+  job: Defeat
+  energy: 444
+  exp: 205
+  money max: 396000
+  money min: 180000
+  clicks needed: 18
+  total energy: 7992
+  total exp: 3690
+  average money per energy: 36
+  average money per exp: 78
+  loot:
+  - name: Mechanic Pistol
+    type: gun
+    percent: 0.72
+    attack: 9
+    defense: 13
+    energy for 1: 11100.0
+    exp for 1: 5125.0
+    attack for energy: 0.0008108108108108108
+    defense for energy: 0.0011711711711711711
+    attack for exp: 0.0017560975609756098
+    defense for exp: 0.0025365853658536586
+  - name: Stealth Vest
+    type: armor
+    percent: 0.22
+    attack: 12
+    defense: 18
+    energy for 1: 36327.27272727273
+    exp for 1: 16772.727272727272
+    attack for energy: 0.0003303303303303303
+    defense for energy: 0.0004954954954954955
+    attack for exp: 0.0007154471544715447
+    defense for exp: 0.0010731707317073172
+  - name: Pink Mist Sniper Rifle
+    type: gun
+    percent: 0.06
+    attack: 27
+    defense: 17
+    energy for 1: 133200.0
+    exp for 1: 61500.0
+    attack for energy: 0.0002027027027027027
+    defense for energy: 0.00012762762762762763
+    attack for exp: 0.00043902439024390245
+    defense for exp: 0.0002764227642276423
+- target: Pizza Parlor
+  job: Take Precious Metals
+  energy: 470
+  exp: 176
+  money max: 153000
+  money min: 114000
+  clicks needed: 6
+  total energy: 2820
+  total exp: 1056
+  average money per energy: 47
+  average money per exp: 126
+  loot: []
+- target: Pizza Parlor
+  job: Take Care of Witnesses
+  energy: 272
+  exp: 122
+  money max: 37500
+  money min: 12000
+  clicks needed: 3
+  total energy: 816
+  total exp: 366
+  average money per energy: 30
+  average money per exp: 67
+  loot: []
+- target: Pizza Parlor
+  job: Deface Monument
+  energy: 170
+  exp: 60
+  money max: 16000
+  money min: 4000
+  clicks needed: 2
+  total energy: 340
+  total exp: 120
+  average money per energy: 29
+  average money per exp: 83
+  loot: []

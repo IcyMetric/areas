@@ -1,0 +1,23 @@
+---
+name: Lookout Hill
+unlock_level: 93
+is_available: 1
+is_coming_soon: 0
+mastery rewards:
+- level: 1
+  exp: 108
+  money: 265000
+- level: 2
+  exp: 108
+  respect: 490
+- level: 3
+  exp: 108
+  item: Pink Mist Sniper Rifle
+  item attack: 27
+  item defense: 17
+- level: 4
+  exp: 108
+  mafia: 1
+- level: 5
+  exp: 108
+  skill points: 1

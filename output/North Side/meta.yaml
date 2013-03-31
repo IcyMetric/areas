@@ -1,6 +1,23 @@
 ---
 name: North Side
-unlock_level: 70
+unlock_level: 90
 is_available: 1
 is_coming_soon: 0
-mastery rewards: []
+mastery rewards:
+- level: 1
+  exp: 105
+  money: 240000
+- level: 2
+  exp: 105
+  respect: 460
+- level: 3
+  exp: 105
+  item: Pimped-Out SUV
+  item attack: 19
+  item defense: 24
+- level: 4
+  exp: 105
+  mafia: 1
+- level: 5
+  exp: 105
+  skill points: 1

@@ -1,0 +1,23 @@
+---
+name: Municipal District
+unlock_level: 96
+is_available: 1
+is_coming_soon: 0
+mastery rewards:
+- level: 1
+  exp: 113
+  money: 285000
+- level: 2
+  exp: 113
+  respect: 520
+- level: 3
+  exp: 113
+  item: Mobile HQ
+  item attack: 19
+  item defense: 26
+- level: 4
+  exp: 113
+  mafia: 1
+- level: 5
+  exp: 113
+  skill points: 1

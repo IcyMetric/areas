@@ -1,0 +1,298 @@
+---
+- target: Pizza Parlor
+  job: Start a Fire
+  energy: 510
+  exp: 238
+  money max: 300000
+  money min: 6000
+  clicks needed: 6
+  total energy: 3060
+  total exp: 1428
+  average money per energy: 50
+  average money per exp: 107
+  loot: []
+- target: Pizza Parlor
+  job: Plant Bomb
+  energy: 218
+  exp: 92
+  money max: 22000
+  money min: 8000
+  clicks needed: 2
+  total energy: 436
+  total exp: 184
+  average money per energy: 34
+  average money per exp: 81
+  loot: []
+- target: Pizza Parlor
+  job: Destroy Evidence
+  energy: 310
+  exp: 125
+  money max: 64000
+  money min: 40000
+  clicks needed: 4
+  total energy: 1240
+  total exp: 500
+  average money per energy: 41
+  average money per exp: 104
+  loot: []
+- target: Dale Waters
+  job: Bump Off
+  energy: 340
+  exp: 154
+  money max: 108000
+  money min: 42000
+  clicks needed: 6
+  total energy: 2040
+  total exp: 924
+  average money per energy: 36
+  average money per exp: 81
+  loot: []
+- target: Mike Chu
+  job: Intimidate
+  energy: 184
+  exp: 70
+  money max: 18000
+  money min: 5000
+  clicks needed: 2
+  total energy: 368
+  total exp: 140
+  average money per energy: 31
+  average money per exp: 82
+  loot: []
+- target: Pizza Parlor
+  job: Cut Brake Lines
+  energy: 172
+  exp: 62
+  money max: 19000
+  money min: 200
+  clicks needed: 2
+  total energy: 344
+  total exp: 124
+  average money per energy: 27
+  average money per exp: 77
+  loot: []
+- target: Nurse Pratt
+  job: Beat Up
+  energy: 278
+  exp: 125
+  money max: 57500
+  money min: 32500
+  clicks needed: 5
+  total energy: 1390
+  total exp: 625
+  average money per energy: 32
+  average money per exp: 72
+  loot: []
+- target: Doctor Hubbard
+  job: Put Down
+  energy: 328
+  exp: 148
+  money max: 105000
+  money min: 63000
+  clicks needed: 7
+  total energy: 2296
+  total exp: 1036
+  average money per energy: 36
+  average money per exp: 81
+  loot: []
+- target: Pizza Parlor
+  job: Steal Evidence
+  energy: 300
+  exp: 120
+  money max: 110000
+  money min: 40000
+  clicks needed: 5
+  total energy: 1500
+  total exp: 600
+  average money per energy: 50
+  average money per exp: 125
+  loot: []
+- target: Pizza Parlor
+  job: Lean On Judge
+  energy: 225
+  exp: 88
+  money max: 12000
+  money min: 7000
+  clicks needed: 1
+  total energy: 225
+  total exp: 88
+  average money per energy: 42
+  average money per exp: 107
+  loot: []
+- target: Officer Roundtree
+  job: Assassinate
+  energy: 384
+  exp: 172
+  money max: 147000
+  money min: 63000
+  clicks needed: 7
+  total energy: 2688
+  total exp: 1204
+  average money per energy: 39
+  average money per exp: 87
+  loot: []
+- target: Lt. Fong
+  job: Defeat
+  energy: 455
+  exp: 211
+  money max: 432000
+  money min: 198000
+  clicks needed: 18
+  total energy: 8190
+  total exp: 3798
+  average money per energy: 38
+  average money per exp: 82
+  loot:
+  - name: .40 Police Special
+    type: gun
+    percent: 0.72
+    attack: 9
+    defense: 14
+    energy for 1: 11375.0
+    exp for 1: 5275.0
+    attack for energy: 0.0007912087912087913
+    defense for energy: 0.0012307692307692308
+    attack for exp: 0.0017061611374407583
+    defense for exp: 0.002654028436018957
+  - name: Riot Gun
+    type: gun
+    percent: 0.22
+    attack: 14
+    defense: 17
+    energy for 1: 37227.27272727273
+    exp for 1: 17263.636363636364
+    attack for energy: 0.00037606837606837606
+    defense for energy: 0.0004566544566544566
+    attack for exp: 0.0008109531332280148
+    defense for exp: 0.0009847288046340179
+  - name: Mobile HQ
+    type: car
+    percent: 0.06
+    attack: 19
+    defense: 26
+    energy for 1: 136500.0
+    exp for 1: 63300.0
+    attack for energy: 0.0001391941391941392
+    defense for energy: 0.00019047619047619048
+    attack for exp: 0.0003001579778830964
+    defense for exp: 0.0004107424960505529
+- target: Pizza Parlor
+  job: Break In
+  energy: 260
+  exp: 107
+  money max: 43500
+  money min: 16500
+  clicks needed: 3
+  total energy: 780
+  total exp: 321
+  average money per energy: 38
+  average money per exp: 93
+  loot: []
+- target: Pizza Parlor
+  job: Steal Stereo
+  energy: 195
+  exp: 65
+  money max: 20000
+  money min: 7000
+  clicks needed: 2
+  total energy: 390
+  total exp: 130
+  average money per energy: 34
+  average money per exp: 103
+  loot: []
+- target: Pizza Parlor
+  job: Puncture Tires
+  energy: 170
+  exp: 61
+  money max: 9000
+  money min: 500
+  clicks needed: 1
+  total energy: 170
+  total exp: 61
+  average money per energy: 27
+  average money per exp: 77
+  loot: []
+- target: Pizza Parlor
+  job: Pilfer Painkillers
+  energy: 205
+  exp: 67
+  money max: 50000
+  money min: 30000
+  clicks needed: 4
+  total energy: 820
+  total exp: 268
+  average money per energy: 48
+  average money per exp: 149
+  loot: []
+- target: Pizza Parlor
+  job: Falsify IDs
+  energy: 178
+  exp: 63
+  money max: 9500
+  money min: 1500
+  clicks needed: 1
+  total energy: 178
+  total exp: 63
+  average money per energy: 30
+  average money per exp: 87
+  loot: []
+- target: Pizza Parlor
+  job: Sabotage Exhibit
+  energy: 296
+  exp: 114
+  money max: 120000
+  money min: 15000
+  clicks needed: 6
+  total energy: 1776
+  total exp: 684
+  average money per energy: 38
+  average money per exp: 98
+  loot: []
+- target: Pizza Parlor
+  job: Smash Equipment
+  energy: 433
+  exp: 185
+  money max: 272000
+  money min: 120000
+  clicks needed: 8
+  total energy: 3464
+  total exp: 1480
+  average money per energy: 56
+  average money per exp: 132
+  loot: []
+- target: Pizza Parlor
+  job: Lace Doughnuts
+  energy: 188
+  exp: 70
+  money max: 30000
+  money min: 4500
+  clicks needed: 3
+  total energy: 564
+  total exp: 210
+  average money per energy: 30
+  average money per exp: 82
+  loot: []
+- target: Pizza Parlor
+  job: Rip off Merchandise
+  energy: 242
+  exp: 78
+  money max: 36000
+  money min: 15000
+  clicks needed: 3
+  total energy: 726
+  total exp: 234
+  average money per energy: 35
+  average money per exp: 108
+  loot: []
+- target: Pizza Parlor
+  job: Set up Informant
+  energy: 168
+  exp: 68
+  money max: 7500
+  money min: 2000
+  clicks needed: 1
+  total energy: 168
+  total exp: 68
+  average money per energy: 28
+  average money per exp: 69
+  loot: []
