@@ -13,15 +13,15 @@
   loot:
   - name: Police Armor
     type: armor
-    percent: 0.36
+    percent: 0.18
     attack: 5
     defense: 14
-    energy for 1: 2666.666666666667
-    exp for 1: 900.0
-    attack for energy: 0.0018749999999999997
-    defense for energy: 0.0052499999999999995
-    attack for exp: 0.005555555555555556
-    defense for exp: 0.015555555555555555
+    energy for 1: 5333.333333333334
+    exp for 1: 1800.0
+    attack for energy: 0.0009374999999999999
+    defense for energy: 0.0026249999999999997
+    attack for exp: 0.002777777777777778
+    defense for exp: 0.0077777777777777776
 - target: Pizza Parlor
   job: Steal Access Codes
   energy: 212
@@ -59,15 +59,15 @@
   loot:
   - name: Bomb Squad Suit
     type: armor
-    percent: 0.32
+    percent: 0.16
     attack: 5
     defense: 18
-    energy for 1: 4187.5
-    exp for 1: 1468.75
-    attack for energy: 0.0011940298507462687
-    defense for energy: 0.004298507462686567
-    attack for exp: 0.003404255319148936
-    defense for exp: 0.01225531914893617
+    energy for 1: 8375.0
+    exp for 1: 2937.5
+    attack for energy: 0.0005970149253731343
+    defense for energy: 0.0021492537313432835
+    attack for exp: 0.001702127659574468
+    defense for exp: 0.006127659574468085
 - target: Pizza Parlor
   job: Steal Cargo
   energy: 450
@@ -82,15 +82,15 @@
   loot:
   - name: Security Shotgun
     type: gun
-    percent: 0.42
+    percent: 0.21
     attack: 10
     defense: 14
-    energy for 1: 7500.0
-    exp for 1: 2083.3333333333335
-    attack for energy: 0.0013333333333333333
-    defense for energy: 0.0018666666666666666
-    attack for exp: 0.0048
-    defense for exp: 0.006719999999999999
+    energy for 1: 15000.0
+    exp for 1: 4166.666666666667
+    attack for energy: 0.0006666666666666666
+    defense for energy: 0.0009333333333333333
+    attack for exp: 0.0024
+    defense for exp: 0.0033599999999999997
 - target: Pizza Parlor
   job: Rob
   energy: 138
@@ -141,15 +141,15 @@
   loot:
   - name: SA58 Carbine
     type: gun
-    percent: 0.48
+    percent: 0.24
     attack: 9
     defense: 8
-    energy for 1: 3875.0
-    exp for 1: 1450.0
-    attack for energy: 0.00232258064516129
-    defense for energy: 0.002064516129032258
-    attack for exp: 0.006206896551724138
-    defense for exp: 0.005517241379310344
+    energy for 1: 7750.0
+    exp for 1: 2900.0
+    attack for energy: 0.001161290322580645
+    defense for energy: 0.001032258064516129
+    attack for exp: 0.003103448275862069
+    defense for exp: 0.002758620689655172
 - target: Rebecca Martinez
   job: Whack
   energy: 336
@@ -164,15 +164,15 @@
   loot:
   - name: Rusted Minigun
     type: gun
-    percent: 0.52
+    percent: 0.26
     attack: 8
     defense: 10
-    energy for 1: 4523.076923076923
-    exp for 1: 1709.6153846153845
-    attack for energy: 0.0017687074829931973
-    defense for energy: 0.002210884353741497
-    attack for exp: 0.004679415073115861
-    defense for exp: 0.005849268841394826
+    energy for 1: 9046.153846153846
+    exp for 1: 3419.230769230769
+    attack for energy: 0.0008843537414965987
+    defense for energy: 0.0011054421768707484
+    attack for exp: 0.0023397075365579304
+    defense for exp: 0.002924634420697413
 - target: Choon Hee Park
   job: Remove
   energy: 344
@@ -348,15 +348,15 @@
   loot:
   - name: DP MachineGun
     type: gun
-    percent: 0.36
+    percent: 0.18
     attack: 5
     defense: 10
-    energy for 1: 1100.0
-    exp for 1: 372.22222222222223
-    attack for energy: 0.004545454545454545
-    defense for energy: 0.00909090909090909
-    attack for exp: 0.013432835820895522
-    defense for exp: 0.026865671641791045
+    energy for 1: 2200.0
+    exp for 1: 744.4444444444445
+    attack for energy: 0.0022727272727272726
+    defense for energy: 0.004545454545454545
+    attack for exp: 0.006716417910447761
+    defense for exp: 0.013432835820895522
 - target: Pizza Parlor
   job: Park Long Term
   energy: 120
