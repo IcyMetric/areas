@@ -13,15 +13,15 @@
   loot:
   - name: Stealth Vest
     type: armor
-    percent: 0.14
+    percent: 0.028
     attack: 12
     defense: 18
-    energy for 1: 5357.142857142857
-    exp for 1: 1821.4285714285713
-    attack for energy: 0.0022400000000000002
-    defense for energy: 0.00336
-    attack for exp: 0.006588235294117647
-    defense for exp: 0.00988235294117647
+    energy for 1: 26785.714285714286
+    exp for 1: 9107.142857142857
+    attack for energy: 0.000448
+    defense for energy: 0.000672
+    attack for exp: 0.0013176470588235295
+    defense for exp: 0.0019764705882352944
 - target: Councilman Robinson
   job: Blackmail
   energy: 313
@@ -36,15 +36,15 @@
   loot:
   - name: Government Limo
     type: car
-    percent: 0.32
+    percent: 0.064
     attack: 8
     defense: 21
-    energy for 1: 4890.625
-    exp for 1: 1843.75
-    attack for energy: 0.0016357827476038338
-    defense for energy: 0.004293929712460064
-    attack for exp: 0.004338983050847458
-    defense for exp: 0.011389830508474577
+    energy for 1: 24453.125
+    exp for 1: 9218.75
+    attack for energy: 0.0003271565495207668
+    defense for energy: 0.0008587859424920128
+    attack for exp: 0.0008677966101694915
+    defense for exp: 0.0022779661016949153
 - target: Doug Fisher
   job: Beat Up
   energy: 156
@@ -71,15 +71,15 @@
   loot:
   - name: MG08 Heavy Machine Gun
     type: gun
-    percent: 0.22
+    percent: 0.044
     attack: 13
     defense: 16
-    energy for 1: 5127.272727272727
-    exp for 1: 1836.3636363636363
-    attack for energy: 0.0025354609929078013
-    defense for energy: 0.003120567375886525
-    attack for exp: 0.007079207920792079
-    defense for exp: 0.008712871287128714
+    energy for 1: 25636.363636363636
+    exp for 1: 9181.818181818182
+    attack for energy: 0.0005070921985815603
+    defense for energy: 0.000624113475177305
+    attack for exp: 0.0014158415841584158
+    defense for exp: 0.0017425742574257426
 - target: Pizza Parlor
   job: Dump Limbs
   energy: 188
@@ -94,15 +94,15 @@
   loot:
   - name: Splatter Gun
     type: gun
-    percent: 0.07
+    percent: 0.014
     attack: 15
     defense: 15
-    energy for 1: 5371.428571428571
-    exp for 1: 2571.428571428571
-    attack for energy: 0.0027925531914893623
-    defense for energy: 0.0027925531914893623
-    attack for exp: 0.0058333333333333345
-    defense for exp: 0.0058333333333333345
+    energy for 1: 26857.142857142855
+    exp for 1: 12857.142857142857
+    attack for energy: 0.0005585106382978724
+    defense for energy: 0.0005585106382978724
+    attack for exp: 0.0011666666666666668
+    defense for exp: 0.0011666666666666668
 - target: Pizza Parlor
   job: Bury Torsos
   energy: 376
@@ -117,15 +117,15 @@
   loot:
   - name: M1014 Shotgun
     type: gun
-    percent: 0.4
+    percent: 0.08
     attack: 20
     defense: 13
-    energy for 1: 5640.0
-    exp for 1: 1995.0
-    attack for energy: 0.0035460992907801418
-    defense for energy: 0.002304964539007092
-    attack for exp: 0.010025062656641603
-    defense for exp: 0.006516290726817042
+    energy for 1: 28200.0
+    exp for 1: 9975.0
+    attack for energy: 0.0007092198581560284
+    defense for energy: 0.0004609929078014184
+    attack for exp: 0.0020050125313283208
+    defense for exp: 0.0013032581453634084
 - target: Pizza Parlor
   job: Steal Copper Pipe
   energy: 439
@@ -152,15 +152,15 @@
   loot:
   - name: Kunai
     type: melee
-    percent: 0.42
+    percent: 0.084
     attack: 12
     defense: 14
-    energy for 1: 4028.571428571429
-    exp for 1: 1442.857142857143
-    attack for energy: 0.002978723404255319
-    defense for energy: 0.0034751773049645387
-    attack for exp: 0.008316831683168317
-    defense for exp: 0.009702970297029703
+    energy for 1: 20142.85714285714
+    exp for 1: 7214.285714285714
+    attack for energy: 0.0005957446808510638
+    defense for energy: 0.0006950354609929079
+    attack for exp: 0.0016633663366336635
+    defense for exp: 0.0019405940594059408
 - target: Inspector Li
   job: Mug
   energy: 219
@@ -175,15 +175,15 @@
   loot:
   - name: Deviant Coat
     type: armor
-    percent: 0.32
+    percent: 0.064
     attack: 8
     defense: 20
-    energy for 1: 4790.625
-    exp for 1: 2428.125
-    attack for energy: 0.001669928245270711
-    defense for energy: 0.004174820613176778
-    attack for exp: 0.0032947232947232947
-    defense for exp: 0.008236808236808236
+    energy for 1: 23953.125
+    exp for 1: 12140.625
+    attack for energy: 0.0003339856490541422
+    defense for energy: 0.0008349641226353555
+    attack for exp: 0.000658944658944659
+    defense for exp: 0.0016473616473616473
 - target: Francesca Floyd White
   job: Whack
   energy: 376
@@ -198,15 +198,15 @@
   loot:
   - name: FBI SWAT Van
     type: car
-    percent: 0.27
+    percent: 0.054
     attack: 12
     defense: 15
-    energy for 1: 11140.74074074074
-    exp for 1: 4622.222222222222
-    attack for energy: 0.0010771276595744682
-    defense for energy: 0.001346409574468085
-    attack for exp: 0.0025961538461538466
-    defense for exp: 0.003245192307692308
+    energy for 1: 55703.7037037037
+    exp for 1: 23111.111111111113
+    attack for energy: 0.00021542553191489363
+    defense for energy: 0.00026928191489361704
+    attack for exp: 0.0005192307692307692
+    defense for exp: 0.0006490384615384615
 - target: Jose Castillo
   job: Terminate
   energy: 313
@@ -221,15 +221,15 @@
   loot:
   - name: NATO Gas Mask
     type: armor
-    percent: 0.2
+    percent: 0.04
     attack: 4
     defense: 18
-    energy for 1: 3130.0
-    exp for 1: 1180.0
-    attack for energy: 0.0012779552715654952
-    defense for energy: 0.005750798722044728
-    attack for exp: 0.003389830508474576
-    defense for exp: 0.015254237288135594
+    energy for 1: 15650.0
+    exp for 1: 5900.0
+    attack for energy: 0.00025559105431309905
+    defense for energy: 0.0011501597444089457
+    attack for exp: 0.0006779661016949153
+    defense for exp: 0.0030508474576271187
 - target: Foreman Phil
   job: Defeat
   energy: 564
@@ -289,15 +289,15 @@
   loot:
   - name: Killer Machine Gun
     type: gun
-    percent: 0.27
+    percent: 0.054
     attack: 13
     defense: 11
-    energy for 1: 3477.7777777777774
-    exp for 1: 1311.111111111111
-    attack for energy: 0.0037380191693290737
-    defense for energy: 0.003162939297124601
-    attack for exp: 0.009915254237288135
-    defense for exp: 0.008389830508474576
+    energy for 1: 17388.88888888889
+    exp for 1: 6555.555555555556
+    attack for energy: 0.0007476038338658146
+    defense for energy: 0.0006325878594249201
+    attack for exp: 0.001983050847457627
+    defense for exp: 0.0016779661016949152
 - target: Pizza Parlor
   job: Hide Evidence
   energy: 250
@@ -324,15 +324,15 @@
   loot:
   - name: Skull Shotgun
     type: gun
-    percent: 0.48
+    percent: 0.096
     attack: 18
     defense: 7
-    energy for 1: 3916.666666666667
-    exp for 1: 1385.4166666666667
-    attack for energy: 0.004595744680851064
-    defense for energy: 0.0017872340425531914
-    attack for exp: 0.012992481203007519
-    defense for exp: 0.0050526315789473685
+    energy for 1: 19583.333333333332
+    exp for 1: 6927.083333333333
+    attack for energy: 0.0009191489361702128
+    defense for energy: 0.0003574468085106383
+    attack for exp: 0.002598496240601504
+    defense for exp: 0.0010105263157894737
 - target: Pizza Parlor
   job: Steal Payroll
   energy: 250
@@ -347,15 +347,15 @@
   loot:
   - name: Nail Bat
     type: melee
-    percent: 0.33
+    percent: 0.066
     attack: 7
     defense: 5
-    energy for 1: 1515.151515151515
-    exp for 1: 515.1515151515151
-    attack for energy: 0.004620000000000001
-    defense for energy: 0.0033000000000000004
-    attack for exp: 0.013588235294117647
-    defense for exp: 0.009705882352941177
+    energy for 1: 7575.757575757575
+    exp for 1: 2575.7575757575755
+    attack for energy: 0.0009240000000000001
+    defense for energy: 0.0006600000000000001
+    attack for exp: 0.0027176470588235295
+    defense for exp: 0.0019411764705882354
 - target: Pizza Parlor
   job: Squelch Informant Activity
   energy: 313
@@ -370,15 +370,15 @@
   loot:
   - name: Mark 2 Blade
     type: melee
-    percent: 0.6
+    percent: 0.12
     attack: 7
     defense: 9
-    energy for 1: 2608.3333333333335
-    exp for 1: 983.3333333333334
-    attack for energy: 0.00268370607028754
-    defense for energy: 0.003450479233226837
-    attack for exp: 0.00711864406779661
-    defense for exp: 0.009152542372881356
+    energy for 1: 13041.666666666668
+    exp for 1: 4916.666666666667
+    attack for energy: 0.0005367412140575079
+    defense for energy: 0.0006900958466453674
+    attack for exp: 0.0014237288135593219
+    defense for exp: 0.001830508474576271
 - target: Pizza Parlor
   job: Hide Stolen Cash
   energy: 188
@@ -405,12 +405,12 @@
   loot:
   - name: Security Shotgun
     type: gun
-    percent: 0.55
+    percent: 0.11
     attack: 10
     defense: 14
-    energy for 1: 3643.6363636363635
-    exp for 1: 1170.9090909090908
-    attack for energy: 0.0027445109780439123
-    defense for energy: 0.003842315369261477
-    attack for exp: 0.008540372670807454
-    defense for exp: 0.011956521739130437
+    energy for 1: 18218.18181818182
+    exp for 1: 5854.545454545455
+    attack for energy: 0.0005489021956087824
+    defense for energy: 0.0007684630738522953
+    attack for exp: 0.0017080745341614906
+    defense for exp: 0.002391304347826087
