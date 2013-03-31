@@ -294,47 +294,47 @@
   job: Defeat Biggie Willis
   energy: 205
   exp: 54
-  money max: 1920
-  money min: 1160
-  clicks needed: 2
-  total energy: 410
-  total exp: 108
-  average money per energy: 3
-  average money per exp: 14
+  money max: 27000
+  money min: 10000
+  clicks needed: 10
+  total energy: 2050
+  total exp: 540
+  average money per energy: 9
+  average money per exp: 34
   loot:
   - name: Willis' Uzi
     type: gun
     percent: 0.72
     attack: 5
     defense: 4
-    energy for 1: 569.4444444444445
-    exp for 1: 150.0
-    attack for energy: 0.008780487804878048
-    defense for energy: 0.007024390243902439
-    attack for exp: 0.03333333333333333
-    defense for exp: 0.02666666666666667
+    energy for 1: 2847.222222222222
+    exp for 1: 750.0
+    attack for energy: 0.0017560975609756098
+    defense for energy: 0.001404878048780488
+    attack for exp: 0.006666666666666667
+    defense for exp: 0.005333333333333333
   - name: Boss Jacket
     type: armor
     percent: 0.22
     attack: 5
     defense: 8
-    energy for 1: 1863.6363636363637
-    exp for 1: 490.90909090909093
-    attack for energy: 0.0026829268292682925
-    defense for energy: 0.004292682926829268
-    attack for exp: 0.010185185185185184
-    defense for exp: 0.016296296296296295
+    energy for 1: 9318.181818181818
+    exp for 1: 2454.5454545454545
+    attack for energy: 0.0005365853658536586
+    defense for energy: 0.0008585365853658537
+    attack for exp: 0.002037037037037037
+    defense for exp: 0.0032592592592592595
   - name: Willis' Sawn-Off Shotgun
     type: gun
     percent: 0.06
     attack: 10
     defense: 8
-    energy for 1: 6833.333333333334
-    exp for 1: 1800.0
-    attack for energy: 0.0014634146341463412
-    defense for energy: 0.0011707317073170731
-    attack for exp: 0.005555555555555556
-    defense for exp: 0.0044444444444444444
+    energy for 1: 34166.66666666667
+    exp for 1: 9000.0
+    attack for energy: 0.00029268292682926823
+    defense for energy: 0.0002341463414634146
+    attack for exp: 0.0011111111111111111
+    defense for exp: 0.0008888888888888889
 - target: Pizza Parlor
   job: Smash Inventory
   energy: 240
@@ -385,25 +385,25 @@
   job: Smoke Out Snitch
   energy: 136
   exp: 33
-  money max: 33000
-  money min: 11000
-  clicks needed: 11
-  total energy: 1496
-  total exp: 363
-  average money per energy: 14
-  average money per exp: 60
+  money max: 3600
+  money min: 2100
+  clicks needed: 3
+  total energy: 408
+  total exp: 99
+  average money per energy: 6
+  average money per exp: 28
   loot:
   - name: PP19 SMG
     type: gun
     percent: 0.14
     attack: 4
     defense: 7
-    energy for 1: 10685.714285714284
-    exp for 1: 2592.8571428571427
-    attack for energy: 0.0003743315508021391
-    defense for energy: 0.0006550802139037434
-    attack for exp: 0.0015426997245179064
-    defense for exp: 0.0026997245179063364
+    energy for 1: 2914.285714285714
+    exp for 1: 707.1428571428571
+    attack for energy: 0.0013725490196078432
+    defense for energy: 0.0024019607843137254
+    attack for exp: 0.0056565656565656566
+    defense for exp: 0.0098989898989899
 - target: Pizza Parlor
   job: Bury a Stoolie
   energy: 154
@@ -484,4 +484,16 @@
   total exp: 8
   average money per energy: 10
   average money per exp: 81
+  loot: []
+- target: Pizza Parlor
+  job: Rob
+  energy: 75
+  exp: 9
+  money max: 1050
+  money min: 200
+  clicks needed: 1
+  total energy: 75
+  total exp: 9
+  average money per energy: 8
+  average money per exp: 69
   loot: []
