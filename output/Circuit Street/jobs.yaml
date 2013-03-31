@@ -106,15 +106,15 @@
   loot:
   - name: Micro Uzi
     type: gun
-    percent: 16.0
+    percent: 0.32
     attack: 4
     defense: 3
-    energy for 1: 22.5
-    exp for 1: 4.5
-    attack for energy: 0.17777777777777778
-    defense for energy: 0.13333333333333333
-    attack for exp: 0.8888888888888888
-    defense for exp: 0.6666666666666666
+    energy for 1: 1125.0
+    exp for 1: 225.0
+    attack for energy: 0.0035555555555555557
+    defense for energy: 0.0026666666666666666
+    attack for exp: 0.017777777777777778
+    defense for exp: 0.013333333333333334
 - target: Pizza Parlor
   job: Destroy Hideout
   energy: 285
@@ -196,17 +196,17 @@
   average money per energy: 7
   average money per exp: 21
   loot:
-  - name: M4 A1
+  - name: Rusty M4 A1
     type: gun
     percent: 0.23
-    attack: 20
-    defense: 22
+    attack: 7
+    defense: 11
     energy for 1: 4565.217391304348
     exp for 1: 1539.1304347826085
-    attack for energy: 0.004380952380952381
-    defense for energy: 0.004819047619047619
-    attack for exp: 0.012994350282485877
-    defense for exp: 0.014293785310734466
+    attack for energy: 0.0015333333333333334
+    defense for energy: 0.0024095238095238093
+    attack for exp: 0.004548022598870057
+    defense for exp: 0.007146892655367233
 - target: Sonny Campioni
   job: Clip
   energy: 142
@@ -221,15 +221,15 @@
   loot:
   - name: Butterfly Knife
     type: melee
-    percent: 0.16
+    percent: 0.32
     attack: 5
     defense: 5
-    energy for 1: 4437.5
-    exp for 1: 1437.5
-    attack for energy: 0.0011267605633802818
-    defense for energy: 0.0011267605633802818
-    attack for exp: 0.0034782608695652175
-    defense for exp: 0.0034782608695652175
+    energy for 1: 2218.75
+    exp for 1: 718.75
+    attack for energy: 0.0022535211267605635
+    defense for energy: 0.0022535211267605635
+    attack for exp: 0.006956521739130435
+    defense for exp: 0.006956521739130435
 - target: Junior Genova
   job: Defeat
   energy: 236

@@ -13,8 +13,8 @@ mastery rewards:
 - level: 3
   exp: 30
   item: Ghetto Fabulous
-  item attack: 14
-  item defense: 13
+  item attack: 31
+  item defense: 18
 - level: 4
   exp: 30
   mafia: 1

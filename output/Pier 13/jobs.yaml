@@ -59,15 +59,15 @@
   loot:
   - name: SG 550
     type: gun
-    percent: 0.23
+    percent: 0.46
     attack: 10
     defense: 7
-    energy for 1: 9434.782608695652
-    exp for 1: 2313.0434782608695
-    attack for energy: 0.0010599078341013825
-    defense for energy: 0.0007419354838709678
-    attack for exp: 0.004323308270676692
-    defense for exp: 0.0030263157894736843
+    energy for 1: 4717.391304347826
+    exp for 1: 1156.5217391304348
+    attack for energy: 0.002119815668202765
+    defense for energy: 0.0014838709677419356
+    attack for exp: 0.008646616541353383
+    defense for exp: 0.0060526315789473685
 - target: Pizza Parlor
   job: Steal Persian Rugs
   energy: 330
@@ -129,15 +129,15 @@
   loot:
   - name: SA80 Assault Rifle
     type: gun
-    percent: 0.25
+    percent: 0.5
     attack: 13
     defense: 10
-    energy for 1: 9660.0
-    exp for 1: 3584.0
-    attack for energy: 0.0013457556935817805
-    defense for energy: 0.0010351966873706005
-    attack for exp: 0.003627232142857143
-    defense for exp: 0.0027901785714285715
+    energy for 1: 4830.0
+    exp for 1: 1792.0
+    attack for energy: 0.002691511387163561
+    defense for energy: 0.002070393374741201
+    attack for exp: 0.007254464285714286
+    defense for exp: 0.005580357142857143
 - target: Eugenia Ross
   job: Crack Head
   energy: 285
@@ -187,15 +187,15 @@
   loot:
   - name: Mossberg 590 Shotgun
     type: gun
-    percent: 0.23
+    percent: 0.46
     attack: 12
     defense: 8
-    energy for 1: 10295.652173913042
-    exp for 1: 3895.6521739130435
-    attack for energy: 0.0011655405405405408
-    defense for energy: 0.0007770270270270271
-    attack for exp: 0.003080357142857143
-    defense for exp: 0.0020535714285714285
+    energy for 1: 5147.826086956521
+    exp for 1: 1947.8260869565217
+    attack for energy: 0.0023310810810810816
+    defense for energy: 0.0015540540540540542
+    attack for exp: 0.006160714285714286
+    defense for exp: 0.004107142857142857
 - target: Marco Massino
   job: Defeat
   energy: 365
@@ -311,17 +311,17 @@
   average money per energy: 22
   average money per exp: 93
   loot:
-  - name: M4 A1
+  - name: Rusty M4 A1
     type: gun
     percent: 0.19
-    attack: 20
-    defense: 22
+    attack: 7
+    defense: 11
     energy for 1: 1236.842105263158
     exp for 1: 294.7368421052632
-    attack for energy: 0.016170212765957447
-    defense for energy: 0.017787234042553193
-    attack for exp: 0.06785714285714285
-    defense for exp: 0.07464285714285714
+    attack for energy: 0.005659574468085106
+    defense for energy: 0.008893617021276596
+    attack for exp: 0.023749999999999997
+    defense for exp: 0.03732142857142857
 - target: Pizza Parlor
   job: Bribe Workers
   energy: 140

@@ -140,15 +140,15 @@
   loot:
   - name: Survival Knife
     type: melee
-    percent: 0.18
+    percent: 0.36
     attack: 2
     defense: 5
-    energy for 1: 3611.1111111111113
-    exp for 1: 1194.4444444444446
-    attack for energy: 0.0005538461538461538
-    defense for energy: 0.0013846153846153845
-    attack for exp: 0.0016744186046511627
-    defense for exp: 0.004186046511627906
+    energy for 1: 1805.5555555555557
+    exp for 1: 597.2222222222223
+    attack for energy: 0.0011076923076923076
+    defense for energy: 0.002769230769230769
+    attack for exp: 0.0033488372093023254
+    defense for exp: 0.008372093023255813
 - target: Aurora Eaton
   job: Intimidate
   energy: 90
@@ -369,17 +369,17 @@
   average money per energy: 5
   average money per exp: 23
   loot:
-  - name: M4 A1
+  - name: Rusty M4 A1
     type: gun
     percent: 0.08
-    attack: 20
-    defense: 22
+    attack: 7
+    defense: 11
     energy for 1: 10000.0
     exp for 1: 2150.0
-    attack for energy: 0.002
-    defense for energy: 0.0022
-    attack for exp: 0.009302325581395349
-    defense for exp: 0.010232558139534883
+    attack for energy: 0.0007
+    defense for energy: 0.0011
+    attack for exp: 0.0032558139534883722
+    defense for exp: 0.0051162790697674414
 - target: Pizza Parlor
   job: Shoot Up Inventory
   energy: 245

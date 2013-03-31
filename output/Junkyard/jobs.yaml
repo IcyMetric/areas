@@ -334,17 +334,17 @@
   average money per energy: 5
   average money per exp: 25
   loot:
-  - name: M4 A1
+  - name: Rusty M4 A1
     type: gun
     percent: 0.05
-    attack: 20
-    defense: 22
+    attack: 7
+    defense: 11
     energy for 1: 1140.0
     exp for 1: 260.0
-    attack for energy: 0.017543859649122806
-    defense for energy: 0.01929824561403509
-    attack for exp: 0.07692307692307693
-    defense for exp: 0.08461538461538462
+    attack for energy: 0.0061403508771929825
+    defense for energy: 0.009649122807017544
+    attack for exp: 0.026923076923076925
+    defense for exp: 0.04230769230769231
 - target: Pizza Parlor
   job: Dump Toxic Waste
   energy: 200
