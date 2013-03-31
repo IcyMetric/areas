@@ -1,6 +1,23 @@
 ---
 name: Seaside
-unlock_level: 50
+unlock_level: 36
 is_available: 1
 is_coming_soon: 0
-mastery rewards: []
+mastery rewards:
+- level: 1
+  exp: 40
+  money: 25000
+- level: 2
+  exp: 40
+  respect: 160
+- level: 3
+  exp: 40
+  item: Water Suit
+  item attack: 6
+  item defense: 20
+- level: 4
+  exp: 40
+  mafia: 1
+- level: 5
+  exp: 40
+  skill points: 1

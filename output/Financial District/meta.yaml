@@ -1,6 +1,23 @@
 ---
 name: Financial District
-unlock_level: 40
+unlock_level: 44
 is_available: 1
 is_coming_soon: 0
-mastery rewards: []
+mastery rewards:
+- level: 1
+  exp: 48
+  money: 44000
+- level: 2
+  exp: 48
+  respect: 200
+- level: 3
+  exp: 48
+  item: Broker's Safeguard
+  item attack: 5
+  item defense: 25
+- level: 4
+  exp: 48
+  mafia: 
+- level: 5
+  exp: 48
+  skill points: 1

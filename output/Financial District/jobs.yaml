@@ -1,274 +1,406 @@
 ---
 - target: Pizza Parlor
   job: Sell product to employees
-  energy: 98
-  exp: 12
-  money max: 0
-  money min: 350
+  energy: 69
+  exp: 14
+  money max: 1700
+  money min: 600
   clicks needed: 1
-  total energy: 98
-  total exp: 12
-  average money per energy: 1
-  average money per exp: 14
-  loot: []
+  total energy: 69
+  total exp: 14
+  average money per energy: 16
+  average money per exp: 82
+  loot:
+  - name: Survival Knife
+    type: melee
+    percent: 0.3
+    attack: 2
+    defense: 5
+    energy for 1: 230.0
+    exp for 1: 46.66666666666667
+    attack for energy: 0.008695652173913044
+    defense for energy: 0.021739130434782608
+    attack for exp: 0.04285714285714285
+    defense for exp: 0.10714285714285714
 - target: Pizza Parlor
   job: Steal Safe Deposit Boxes
-  energy: 175
-  exp: 22
-  money max: 7560
-  money min: 7560
-  clicks needed: 14
-  total energy: 2450
-  total exp: 308
-  average money per energy: 3
-  average money per exp: 24
-  loot: []
+  energy: 330
+  exp: 88
+  money max: 72000
+  money min: 25600
+  clicks needed: 8
+  total energy: 2640
+  total exp: 704
+  average money per energy: 18
+  average money per exp: 69
+  loot:
+  - name: SG 550
+    type: gun
+    percent: 0.32
+    attack: 10
+    defense: 7
+    energy for 1: 8250.0
+    exp for 1: 2200.0
+    attack for energy: 0.0012121212121212121
+    defense for energy: 0.0008484848484848485
+    attack for exp: 0.004545454545454545
+    defense for exp: 0.003181818181818182
 - target: Pizza Parlor
   job: Bribe Federal officials
-  energy: 95
-  exp: 13
-  money max: 795
-  money min: 795
-  clicks needed: 3
-  total energy: 285
-  total exp: 39
-  average money per energy: 2
-  average money per exp: 20
-  loot: []
+  energy: 148
+  exp: 31
+  money max: 3100
+  money min: 1400
+  clicks needed: 1
+  total energy: 148
+  total exp: 31
+  average money per energy: 15
+  average money per exp: 72
+  loot:
+  - name: SWAT Pistol
+    type: gun
+    percent: 0.28
+    attack: 4
+    defense: 8
+    energy for 1: 528.5714285714286
+    exp for 1: 110.71428571428571
+    attack for energy: 0.0075675675675675675
+    defense for energy: 0.015135135135135135
+    attack for exp: 0.03612903225806452
+    defense for exp: 0.07225806451612904
 - target: Pizza Parlor
   job: Manipulate currencies
-  energy: 140
-  exp: 17
-  money max: 1920
-  money min: 1920
+  energy: 180
+  exp: 37
+  money max: 24000
+  money min: 400
   clicks needed: 4
-  total energy: 560
-  total exp: 68
-  average money per energy: 3
-  average money per exp: 28
-  loot: []
+  total energy: 720
+  total exp: 148
+  average money per energy: 16
+  average money per exp: 82
+  loot:
+  - name: State Jacket
+    type: armor
+    percent: 0.32
+    attack: 3
+    defense: 10
+    energy for 1: 2250.0
+    exp for 1: 462.5
+    attack for energy: 0.0013333333333333333
+    defense for energy: 0.0044444444444444444
+    attack for exp: 0.006486486486486486
+    defense for exp: 0.021621621621621623
 - target: Pizza Parlor
   job: Manipulate market data
-  energy: 136
-  exp: 17
-  money max: 1800
-  money min: 1800
+  energy: 195
+  exp: 42
+  money max: 16000
+  money min: 12000
   clicks needed: 4
-  total energy: 544
-  total exp: 68
-  average money per energy: 3
-  average money per exp: 26
-  loot: []
+  total energy: 780
+  total exp: 168
+  average money per energy: 17
+  average money per exp: 83
+  loot:
+  - name: Carbine
+    type: gun
+    percent: 0.36
+    attack: 4
+    defense: 6
+    energy for 1: 2166.666666666667
+    exp for 1: 466.6666666666667
+    attack for energy: 0.001846153846153846
+    defense for energy: 0.002769230769230769
+    attack for exp: 0.008571428571428572
+    defense for exp: 0.012857142857142857
 - target: Seth Young
   job: Beat up
-  energy: 122
-  exp: 18
-  money max: 1932
-  money min: 1932
-  clicks needed: 6
-  total energy: 732
-  total exp: 108
-  average money per energy: 2
-  average money per exp: 17
-  loot: []
+  energy: 188
+  exp: 64
+  money max: 16500
+  money min: 7000
+  clicks needed: 5
+  total energy: 940
+  total exp: 320
+  average money per energy: 12
+  average money per exp: 36
+  loot:
+  - name: Mark 2 Blade
+    type: melee
+    percent: 0.2
+    attack: 7
+    defense: 9
+    energy for 1: 4700.0
+    exp for 1: 1600.0
+    attack for energy: 0.0014893617021276596
+    defense for energy: 0.0019148936170212765
+    attack for exp: 0.004375
+    defense for exp: 0.005625
 - target: Roger Wood
   job: Buy corporate secrets
-  energy: 118
-  exp: 17
-  money max: 0
-  money min: 295
+  energy: 84
+  exp: 24
+  money max: 1700
+  money min: 400
   clicks needed: 1
-  total energy: 118
-  total exp: 17
-  average money per energy: 1
-  average money per exp: 8
+  total energy: 84
+  total exp: 24
+  average money per energy: 12
+  average money per exp: 43
   loot: []
 - target: Chris Davis
   job: Sell corporate secrets
-  energy: 110
-  exp: 12
-  money max: 0
-  money min: 445
+  energy: 72
+  exp: 13
+  money max: 1800
+  money min: 550
   clicks needed: 1
-  total energy: 110
-  total exp: 12
-  average money per energy: 2
-  average money per exp: 18
+  total energy: 72
+  total exp: 13
+  average money per energy: 16
+  average money per exp: 90
   loot: []
 - target: Jennifer White
   job: Intimidate
-  energy: 120
-  exp: 18
-  money max: 0
-  money min: 270
-  clicks needed: 1
-  total energy: 120
-  total exp: 18
-  average money per energy: 1
-  average money per exp: 7
+  energy: 100
+  exp: 30
+  money max: 4800
+  money min: 2100
+  clicks needed: 3
+  total energy: 300
+  total exp: 90
+  average money per energy: 11
+  average money per exp: 38
   loot: []
 - target: Veronica Green
   job: Sell corporate secrets
-  energy: 110
-  exp: 12
-  money max: 0
-  money min: 445
+  energy: 72
+  exp: 13
+  money max: 1800
+  money min: 550
   clicks needed: 1
-  total energy: 110
-  total exp: 12
-  average money per energy: 2
-  average money per exp: 18
+  total energy: 72
+  total exp: 13
+  average money per energy: 16
+  average money per exp: 90
   loot: []
 - target: Stephanie Wang
-  job: Charm
-  energy: 85
-  exp: 12
-  money max: 0
-  money min: 195
-  clicks needed: 1
-  total energy: 85
-  total exp: 12
-  average money per energy: 1
-  average money per exp: 8
+  job: Intimidate
+  energy: 100
+  exp: 30
+  money max: 4800
+  money min: 2100
+  clicks needed: 3
+  total energy: 300
+  total exp: 90
+  average money per energy: 11
+  average money per exp: 38
   loot: []
 - target: Kevin Chang
   job: Buy corporate secrets
-  energy: 118
-  exp: 17
-  money max: 0
-  money min: 295
+  energy: 84
+  exp: 24
+  money max: 1700
+  money min: 400
   clicks needed: 1
-  total energy: 118
-  total exp: 17
-  average money per energy: 1
-  average money per exp: 8
+  total energy: 84
+  total exp: 24
+  average money per energy: 12
+  average money per exp: 43
   loot: []
 - target: Sam Robinson
   job: Mug for Bank ID
-  energy: 112
-  exp: 14
-  money max: 0
-  money min: 370
+  energy: 90
+  exp: 18
+  money max: 1750
+  money min: 1000
   clicks needed: 1
-  total energy: 112
-  total exp: 14
-  average money per energy: 1
-  average money per exp: 13
-  loot: []
+  total energy: 90
+  total exp: 18
+  average money per energy: 15
+  average money per exp: 76
+  loot:
+  - name: Police Baton
+    type: melee
+    percent: 0.3
+    attack: 3
+    defense: 8
+    energy for 1: 300.0
+    exp for 1: 60.0
+    attack for energy: 0.01
+    defense for energy: 0.02666666666666667
+    attack for exp: 0.05
+    defense for exp: 0.13333333333333333
 - target: John Rhino
   job: Defeat John Rhino
-  energy: 210
-  exp: 30
-  money max: 6110
-  money min: 6110
+  energy: 284
+  exp: 97
+  money max: 81900
+  money min: 29250
   clicks needed: 13
-  total energy: 2730
-  total exp: 390
-  average money per energy: 2
-  average money per exp: 15
+  total energy: 3692
+  total exp: 1261
+  average money per energy: 15
+  average money per exp: 44
   loot:
   - name: Stampeding Shotgun
     type: gun
     percent: 0.72
-    attack: 14
-    defense: 8
-    energy for 1: 3791.666666666667
-    exp for 1: 541.6666666666667
-    attack for energy: 0.0036923076923076922
-    defense for energy: 0.0021098901098901097
-    attack for exp: 0.02584615384615384
-    defense for exp: 0.014769230769230767
+    attack: 7
+    defense: 6
+    energy for 1: 5127.777777777778
+    exp for 1: 1751.388888888889
+    attack for energy: 0.0013651137594799566
+    defense for energy: 0.001170097508125677
+    attack for exp: 0.003996827914353688
+    defense for exp: 0.0034258524980174464
   - name: Hitman's Gloves
     type: armor
     percent: 0.23
-    attack: 15
-    defense: 12
-    energy for 1: 11869.565217391304
-    exp for 1: 1695.6521739130435
-    attack for energy: 0.0012637362637362638
-    defense for energy: 0.001010989010989011
-    attack for exp: 0.008846153846153846
-    defense for exp: 0.007076923076923077
+    attack: 8
+    defense: 10
+    energy for 1: 16052.173913043478
+    exp for 1: 5482.608695652174
+    attack for energy: 0.0004983748645720476
+    defense for energy: 0.0006229685807150596
+    attack for exp: 0.0014591593973037273
+    defense for exp: 0.001823949246629659
   - name: Hitman's Sniper Rifle
     type: gun
     percent: 0.05
-    attack: 19
-    defense: 7
-    energy for 1: 54600.0
-    exp for 1: 7800.0
-    attack for energy: 0.000347985347985348
-    defense for energy: 0.0001282051282051282
-    attack for exp: 0.002435897435897436
-    defense for exp: 0.0008974358974358974
+    attack: 15
+    defense: 11
+    energy for 1: 73840.0
+    exp for 1: 25220.0
+    attack for energy: 0.00020314192849404117
+    defense for energy: 0.00014897074756229685
+    attack for exp: 0.0005947660586835844
+    defense for exp: 0.00043616177636796196
 - target: Pizza Parlor
   job: Meet Crooked Accountant
-  energy: 1
-  exp: 1
-  money max: 0
-  money min: 1
+  energy: 150
+  exp: 42
+  money max: 2400
+  money min: 1100
   clicks needed: 1
-  total energy: 1
-  total exp: 1
-  average money per energy: 0
-  average money per exp: 0
-  loot: []
+  total energy: 150
+  total exp: 42
+  average money per energy: 11
+  average money per exp: 41
+  loot:
+  - name: Devilish Taxi
+    type: car
+    percent: 0.14
+    attack: 6
+    defense: 5
+    energy for 1: 1071.4285714285713
+    exp for 1: 299.99999999999994
+    attack for energy: 0.005600000000000001
+    defense for energy: 0.004666666666666667
+    attack for exp: 0.020000000000000004
+    defense for exp: 0.01666666666666667
 - target: Pizza Parlor
   job: Hack Rivals' Accounts
-  energy: 1
-  exp: 1
-  money max: 1600
-  money min: 1600
-  clicks needed: 4
-  total energy: 4
-  total exp: 4
-  average money per energy: 400
-  average money per exp: 400
-  loot: []
+  energy: 350
+  exp: 97
+  money max: 63000
+  money min: 19800
+  clicks needed: 6
+  total energy: 2100
+  total exp: 582
+  average money per energy: 19
+  average money per exp: 71
+  loot:
+  - name: M4 Shotgun
+    type: gun
+    percent: 0.29
+    attack: 9
+    defense: 8
+    energy for 1: 7241.379310344828
+    exp for 1: 2006.8965517241381
+    attack for energy: 0.0012428571428571428
+    defense for energy: 0.0011047619047619046
+    attack for exp: 0.004484536082474226
+    defense for exp: 0.003986254295532646
 - target: Pizza Parlor
   job: Bug vehicles
-  energy: 1
-  exp: 1
-  money max: 840
-  money min: 840
-  clicks needed: 3
-  total energy: 3
-  total exp: 3
-  average money per energy: 280
-  average money per exp: 280
-  loot: []
+  energy: 145
+  exp: 43
+  money max: 4800
+  money min: 1600
+  clicks needed: 2
+  total energy: 290
+  total exp: 86
+  average money per energy: 11
+  average money per exp: 37
+  loot:
+  - name: Hazmat Suit
+    type: armor
+    percent: 0.31
+    attack: 2
+    defense: 8
+    energy for 1: 935.483870967742
+    exp for 1: 277.4193548387097
+    attack for energy: 0.0021379310344827587
+    defense for energy: 0.008551724137931035
+    attack for exp: 0.007209302325581395
+    defense for exp: 0.02883720930232558
 - target: Pizza Parlor
   job: Hire Escort
-  energy: 1
-  exp: 1
-  money max: 0
-  money min: 1
+  energy: 76
+  exp: 20
+  money max: 1250
+  money min: 300
   clicks needed: 1
-  total energy: 1
-  total exp: 1
-  average money per energy: 0
-  average money per exp: 0
+  total energy: 76
+  total exp: 20
+  average money per energy: 10
+  average money per exp: 38
   loot: []
 - target: Pizza Parlor
   job: Blackmail the CFO
-  energy: 1
-  exp: 1
-  money max: 0
-  money min: 1
-  clicks needed: 1
-  total energy: 1
-  total exp: 1
-  average money per energy: 0
-  average money per exp: 0
-  loot: []
+  energy: 233
+  exp: 56
+  money max: 12800
+  money min: 2400
+  clicks needed: 2
+  total energy: 466
+  total exp: 112
+  average money per energy: 16
+  average money per exp: 67
+  loot:
+  - name: DP MachineGun
+    type: gun
+    percent: 0.21
+    attack: 5
+    defense: 10
+    energy for 1: 2219.0476190476193
+    exp for 1: 533.3333333333334
+    attack for energy: 0.0022532188841201716
+    defense for energy: 0.004506437768240343
+    attack for exp: 0.009375
+    defense for exp: 0.01875
 - target: Pizza Parlor
   job: Steal financial records
-  energy: 1
-  exp: 1
-  money max: 0
-  money min: 1
-  clicks needed: 1
-  total energy: 1
-  total exp: 1
-  average money per energy: 0
-  average money per exp: 0
-  loot: []
+  energy: 365
+  exp: 104
+  money max: 60000
+  money min: 32400
+  clicks needed: 6
+  total energy: 2190
+  total exp: 624
+  average money per energy: 21
+  average money per exp: 74
+  loot:
+  - name: Mossberg 590 Shotgun
+    type: gun
+    percent: 0.19
+    attack: 50
+    defense: 50
+    energy for 1: 11526.315789473683
+    exp for 1: 3284.2105263157896
+    attack for energy: 0.0043378995433789955
+    defense for energy: 0.0043378995433789955
+    attack for exp: 0.015224358974358974
+    defense for exp: 0.015224358974358974

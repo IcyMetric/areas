@@ -1,238 +1,370 @@
 ---
 - target: Pizza Parlor
   job: Steal secret recipe
-  energy: 160
-  exp: 19
-  money max: 1460
-  money min: 1460
-  clicks needed: 2
-  total energy: 320
-  total exp: 38
-  average money per energy: 4
-  average money per exp: 38
-  loot: []
+  energy: 140
+  exp: 31
+  money max: 12600
+  money min: 5250
+  clicks needed: 3
+  total energy: 420
+  total exp: 93
+  average money per energy: 21
+  average money per exp: 95
+  loot:
+  - name: Fire Truck
+    type: car
+    percent: 0.12
+    attack: 6
+    defense: 11
+    energy for 1: 3500.0
+    exp for 1: 775.0
+    attack for energy: 0.0017142857142857142
+    defense for energy: 0.003142857142857143
+    attack for exp: 0.007741935483870968
+    defense for exp: 0.014193548387096775
 - target: Pizza Parlor
   job: Collect vig
-  energy: 185
-  exp: 22
-  money max: 0
-  money min: 800
+  energy: 118
+  exp: 25
+  money max: 3900
+  money min: 1300
   clicks needed: 1
-  total energy: 185
-  total exp: 22
-  average money per energy: 2
-  average money per exp: 18
-  loot: []
+  total energy: 118
+  total exp: 25
+  average money per energy: 22
+  average money per exp: 104
+  loot:
+  - name: Butterfly Knife
+    type: melee
+    percent: 0.3
+    attack: 5
+    defense: 5
+    energy for 1: 393.33333333333337
+    exp for 1: 83.33333333333334
+    attack for energy: 0.01271186440677966
+    defense for energy: 0.01271186440677966
+    attack for exp: 0.05999999999999999
+    defense for exp: 0.05999999999999999
 - target: Pizza Parlor
   job: Steal credit card numbers
-  energy: 236
-  exp: 29
-  money max: 4000
-  money min: 4000
+  energy: 300
+  exp: 72
+  money max: 60000
+  money min: 40
   clicks needed: 4
-  total energy: 944
-  total exp: 116
-  average money per energy: 4
-  average money per exp: 34
-  loot: []
+  total energy: 1200
+  total exp: 288
+  average money per energy: 25
+  average money per exp: 104
+  loot:
+  - name: Hunting Knife
+    type: melee
+    percent: 0.32
+    attack: 8
+    defense: 4
+    energy for 1: 3750.0
+    exp for 1: 900.0
+    attack for energy: 0.0021333333333333334
+    defense for energy: 0.0010666666666666667
+    attack for exp: 0.008888888888888889
+    defense for exp: 0.0044444444444444444
 - target: Pizza Parlor
   job: Plant hidden camera
-  energy: 200
-  exp: 30
-  money max: 0
-  money min: 420
+  energy: 112
+  exp: 37
+  money max: 2250
+  money min: 1000
   clicks needed: 1
-  total energy: 200
-  total exp: 30
-  average money per energy: 1
-  average money per exp: 7
+  total energy: 112
+  total exp: 37
+  average money per energy: 14
+  average money per exp: 43
   loot: []
 - target: Pizza Parlor
   job: Assassinate henchmen
-  energy: 264
-  exp: 40
-  money max: 4480
-  money min: 4480
-  clicks needed: 8
-  total energy: 2112
-  total exp: 320
-  average money per energy: 2
-  average money per exp: 14
-  loot: []
+  energy: 260
+  exp: 89
+  money max: 42000
+  money min: 17500
+  clicks needed: 7
+  total energy: 1820
+  total exp: 623
+  average money per energy: 16
+  average money per exp: 47
+  loot:
+  - name: ARX160
+    type: gun
+    percent: 0.27
+    attack: 13
+    defense: 10
+    energy for 1: 6740.74074074074
+    exp for 1: 2307.4074074074074
+    attack for energy: 0.0019285714285714288
+    defense for energy: 0.0014835164835164836
+    attack for exp: 0.0056340288924558585
+    defense for exp: 0.004333868378812199
 - target: Pizza Parlor
   job: Rob
-  energy: 176
+  energy: 105
   exp: 22
-  money max: 0
-  money min: 750
+  money max: 3100
+  money min: 1300
   clicks needed: 1
-  total energy: 176
+  total energy: 105
   total exp: 22
-  average money per energy: 2
-  average money per exp: 17
+  average money per energy: 20
+  average money per exp: 100
   loot: []
 - target: Pizza Parlor
   job: Crack safe
-  energy: 275
-  exp: 34
-  money max: 10500
-  money min: 10500
-  clicks needed: 10
-  total energy: 2750
-  total exp: 340
-  average money per energy: 3
-  average money per exp: 30
-  loot: []
+  energy: 440
+  exp: 122
+  money max: 112000
+  money min: 64000
+  clicks needed: 8
+  total energy: 3520
+  total exp: 976
+  average money per energy: 25
+  average money per exp: 90
+  loot:
+  - name: DP MachineGun
+    type: gun
+    percent: 0.52
+    attack: 5
+    defense: 10
+    energy for 1: 6769.230769230769
+    exp for 1: 1876.923076923077
+    attack for energy: 0.0007386363636363637
+    defense for energy: 0.0014772727272727275
+    attack for exp: 0.002663934426229508
+    defense for exp: 0.005327868852459016
 - target: Bernie Birnbaum
   job: Collect gambling debt
-  energy: 196
-  exp: 27
-  money max: 0
-  money min: 800
+  energy: 102
+  exp: 20
+  money max: 3600
+  money min: 1000
   clicks needed: 1
-  total energy: 196
-  total exp: 27
-  average money per energy: 2
-  average money per exp: 14
+  total energy: 102
+  total exp: 20
+  average money per energy: 22
+  average money per exp: 115
   loot: []
 - target: Bugsy Horowitz
   job: Defeat Bugsy Horowitz
-  energy: 384
-  exp: 58
-  money max: 16000
-  money min: 16000
-  clicks needed: 16
-  total energy: 6144
-  total exp: 928
-  average money per energy: 2
-  average money per exp: 17
+  energy: 325
+  exp: 112
+  money max: 112000
+  money min: 70000
+  clicks needed: 14
+  total energy: 4550
+  total exp: 1568
+  average money per energy: 20
+  average money per exp: 58
   loot:
   - name: Bugsy's Blade
     type: melee
     percent: 0.72
-    attack: 16
-    defense: 13
-    energy for 1: 8533.333333333334
-    exp for 1: 1288.888888888889
-    attack for energy: 0.001875
-    defense for energy: 0.0015234374999999998
-    attack for exp: 0.012413793103448275
-    defense for exp: 0.010086206896551724
+    attack: 6
+    defense: 10
+    energy for 1: 6319.444444444444
+    exp for 1: 2177.777777777778
+    attack for energy: 0.0009494505494505494
+    defense for energy: 0.0015824175824175825
+    attack for exp: 0.0027551020408163266
+    defense for exp: 0.004591836734693877
   - name: Bugsy's Assault Rifle
     type: gun
     percent: 0.22
-    attack: 19
-    defense: 15
-    energy for 1: 27927.272727272728
-    exp for 1: 4218.181818181818
-    attack for energy: 0.0006803385416666667
-    defense for energy: 0.0005371093749999999
-    attack for exp: 0.004504310344827587
-    defense for exp: 0.003556034482758621
+    attack: 13
+    defense: 8
+    energy for 1: 20681.81818181818
+    exp for 1: 7127.272727272727
+    attack for energy: 0.0006285714285714286
+    defense for energy: 0.00038681318681318684
+    attack for exp: 0.0018239795918367347
+    defense for exp: 0.0011224489795918367
   - name: Horowitz Family Shotgun
     type: gun
     percent: 0.06
-    attack: 25
-    defense: 18
-    energy for 1: 102400.0
-    exp for 1: 15466.666666666668
-    attack for energy: 0.000244140625
-    defense for energy: 0.00017578125
-    attack for exp: 0.0016163793103448276
-    defense for exp: 0.0011637931034482758
+    attack: 19
+    defense: 12
+    energy for 1: 75833.33333333334
+    exp for 1: 26133.333333333336
+    attack for energy: 0.00025054945054945053
+    defense for energy: 0.00015824175824175822
+    attack for exp: 0.0007270408163265305
+    defense for exp: 0.00045918367346938773
 - target: Ester Horowitz
   job: Get intel
-  energy: 116
-  exp: 17
-  money max: 1020
-  money min: 1020
-  clicks needed: 3
-  total energy: 348
-  total exp: 51
-  average money per energy: 2
-  average money per exp: 20
-  loot: []
+  energy: 139
+  exp: 40
+  money max: 2600
+  money min: 900
+  clicks needed: 1
+  total energy: 139
+  total exp: 40
+  average money per energy: 12
+  average money per exp: 43
+  loot:
+  - name: State Jacket
+    type: armor
+    percent: 0.28
+    attack: 3
+    defense: 10
+    energy for 1: 496.4285714285714
+    exp for 1: 142.85714285714283
+    attack for energy: 0.0060431654676258995
+    defense for energy: 0.020143884892086333
+    attack for exp: 0.021000000000000005
+    defense for exp: 0.07
 - target: Rabbi Cohn
   job: Extort information
-  energy: 190
-  exp: 28
-  money max: 2160
-  money min: 2160
+  energy: 172
+  exp: 53
+  money max: 12000
+  money min: 4200
   clicks needed: 3
-  total energy: 570
-  total exp: 84
-  average money per energy: 3
-  average money per exp: 25
-  loot: []
+  total energy: 516
+  total exp: 159
+  average money per energy: 15
+  average money per exp: 50
+  loot:
+  - name: P90
+    type: gun
+    percent: 0.27
+    attack: 7
+    defense: 8
+    energy for 1: 1911.111111111111
+    exp for 1: 588.8888888888888
+    attack for energy: 0.0036627906976744186
+    defense for energy: 0.004186046511627907
+    attack for exp: 0.01188679245283019
+    defense for exp: 0.01358490566037736
 - target: Sarah Goldberg
   job: Con
-  energy: 210
-  exp: 25
-  money max: 3280
-  money min: 3280
-  clicks needed: 4
-  total energy: 840
-  total exp: 100
-  average money per energy: 3
-  average money per exp: 32
-  loot: []
+  energy: 162
+  exp: 42
+  money max: 5400
+  money min: 1800
+  clicks needed: 1
+  total energy: 162
+  total exp: 42
+  average money per energy: 22
+  average money per exp: 85
+  loot:
+  - name: SWAT Pistol
+    type: gun
+    percent: 0.3
+    attack: 4
+    defense: 8
+    energy for 1: 540.0
+    exp for 1: 140.0
+    attack for energy: 0.007407407407407408
+    defense for energy: 0.014814814814814815
+    attack for exp: 0.02857142857142857
+    defense for exp: 0.05714285714285714
 - target: Herschel Miller
   job: Break leg
-  energy: 244
-  exp: 37
-  money max: 1800
-  money min: 1800
-  clicks needed: 4
-  total energy: 976
-  total exp: 148
-  average money per energy: 1
-  average money per exp: 12
-  loot: []
+  energy: 236
+  exp: 77
+  money max: 29500
+  money min: 11000
+  clicks needed: 5
+  total energy: 1180
+  total exp: 385
+  average money per energy: 17
+  average money per exp: 52
+  loot:
+  - name: Trick Razor
+    type: melee
+    percent: 0.2
+    attack: 11
+    defense: 9
+    energy for 1: 5900.0
+    exp for 1: 1925.0
+    attack for energy: 0.001864406779661017
+    defense for energy: 0.0015254237288135593
+    attack for exp: 0.005714285714285714
+    defense for exp: 0.004675324675324675
 - target: Pizza Parlor
   job: Intercept Shipment
-  energy: 1
-  exp: 1
-  money max: 0
-  money min: 1
-  clicks needed: 1
-  total energy: 1
-  total exp: 1
-  average money per energy: 0
-  average money per exp: 0
-  loot: []
+  energy: 185
+  exp: 45
+  money max: 20800
+  money min: 12000
+  clicks needed: 4
+  total energy: 740
+  total exp: 180
+  average money per energy: 22
+  average money per exp: 91
+  loot:
+  - name: GMC Yukon
+    type: car
+    percent: 0.24
+    attack: 3
+    defense: 6
+    energy for 1: 3083.3333333333335
+    exp for 1: 750.0
+    attack for energy: 0.0009729729729729729
+    defense for energy: 0.0019459459459459458
+    attack for exp: 0.004
+    defense for exp: 0.008
 - target: Pizza Parlor
   job: Offer Protection
-  energy: 1
-  exp: 1
-  money max: 0
-  money min: 1
+  energy: 115
+  exp: 34
+  money max: 4200
+  money min: 500
   clicks needed: 1
-  total energy: 1
-  total exp: 1
-  average money per energy: 0
-  average money per exp: 0
+  total energy: 115
+  total exp: 34
+  average money per energy: 20
+  average money per exp: 69
   loot: []
 - target: Pizza Parlor
   job: Smash Storefront
-  energy: 1
-  exp: 1
-  money max: 0
-  money min: 1
-  clicks needed: 1
-  total energy: 1
-  total exp: 1
-  average money per energy: 0
-  average money per exp: 0
-  loot: []
+  energy: 350
+  exp: 116
+  money max: 45000
+  money min: 20000
+  clicks needed: 5
+  total energy: 1750
+  total exp: 580
+  average money per energy: 18
+  average money per exp: 56
+  loot:
+  - name: Bomb Squad Suit
+    type: armor
+    percent: 0.16
+    attack: 5
+    defense: 18
+    energy for 1: 10937.5
+    exp for 1: 3625.0
+    attack for energy: 0.00045714285714285713
+    defense for energy: 0.0016457142857142857
+    attack for exp: 0.001379310344827586
+    defense for exp: 0.004965517241379311
 - target: Pizza Parlor
   job: Steal Generic Drugs
-  energy: 1
-  exp: 1
-  money max: 0
-  money min: 1
-  clicks needed: 1
-  total energy: 1
-  total exp: 1
-  average money per energy: 0
-  average money per exp: 0
-  loot: []
+  energy: 275
+  exp: 69
+  money max: 38000
+  money min: 14000
+  clicks needed: 4
+  total energy: 1100
+  total exp: 276
+  average money per energy: 23
+  average money per exp: 94
+  loot:
+  - name: Carbine
+    type: gun
+    percent: 0.42
+    attack: 4
+    defense: 6
+    energy for 1: 2619.0476190476193
+    exp for 1: 657.1428571428571
+    attack for energy: 0.0015272727272727272
+    defense for energy: 0.002290909090909091
+    attack for exp: 0.00608695652173913
+    defense for exp: 0.009130434782608696

@@ -369,15 +369,4 @@
   total exp: 29
   average money per energy: 15
   average money per exp: 103
-  loot:
-  - name: Armored Truck
-    type: car
-    percent: 0.0
-    attack: 2
-    defense: 5
-    energy for 1: .inf
-    exp for 1: .inf
-    attack for energy: 0.0
-    defense for energy: 0.0
-    attack for exp: 0.0
-    defense for exp: 0.0
+  loot: []

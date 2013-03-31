@@ -1,6 +1,6 @@
 ---
 name: Chinatown
-unlock_level: 60
+unlock_level: 56
 is_available: 1
 is_coming_soon: 0
 mastery rewards:
@@ -18,4 +18,21 @@ mastery rewards:
   skill points: 1
 - level: 5
   exp: 14
+  skill points: 1
+- level: 1
+  exp: 64
+  money: 88000
+- level: 2
+  exp: 64
+  respect: 260
+- level: 3
+  exp: 64
+  item: Triad-Crested Machete
+  item attack: 20
+  item defense: 12
+- level: 4
+  exp: 64
+  mafia: 1
+- level: 5
+  exp: 64
   skill points: 1

@@ -1,6 +1,23 @@
 ---
 name: Monument Park
-unlock_level: 53
+unlock_level: 50
 is_available: 1
 is_coming_soon: 0
-mastery rewards: []
+mastery rewards:
+- level: 1
+  exp: 54
+  money: 65000
+- level: 2
+  exp: 54
+  respect: 230
+- level: 3
+  exp: 54
+  item: Dreadlock Garrote
+  item attack: 20
+  item defense: 9
+- level: 4
+  exp: 54
+  mafia: 1
+- level: 5
+  exp: 54
+  skill points: 1

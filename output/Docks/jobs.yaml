@@ -2,14 +2,14 @@
 - target: Pizza Parlor
   job: Steal shipment
   energy: 56
-  exp: 9
+  exp: 13
   money max: 835
   money min: 350
   clicks needed: 2
   total energy: 112
-  total exp: 18
+  total exp: 26
   average money per energy: 5
-  average money per exp: 32
+  average money per exp: 22
   loot:
   - name: Armored Truck
     type: car
@@ -17,22 +17,22 @@
     attack: 2
     defense: 5
     energy for 1: 5600.0
-    exp for 1: 900.0
+    exp for 1: 1300.0
     attack for energy: 0.00035714285714285714
     defense for energy: 0.0008928571428571428
-    attack for exp: 0.0022222222222222222
-    defense for exp: 0.005555555555555556
+    attack for exp: 0.0015384615384615385
+    defense for exp: 0.0038461538461538464
 - target: Pizza Parlor
   job: Plant evidence
   energy: 35
-  exp: 6
+  exp: 9
   money max: 165
   money min: 100
   clicks needed: 1
   total energy: 35
-  total exp: 6
+  total exp: 9
   average money per energy: 3
-  average money per exp: 22
+  average money per exp: 14
   loot:
   - name: Dark Alley Coat
     type: armor
@@ -40,34 +40,34 @@
     attack: 3
     defense: 3
     energy for 1: 388.8888888888889
-    exp for 1: 66.66666666666667
+    exp for 1: 100.0
     attack for energy: 0.0077142857142857135
     defense for energy: 0.0077142857142857135
-    attack for exp: 0.045
-    defense for exp: 0.045
+    attack for exp: 0.03
+    defense for exp: 0.03
 - target: Pizza Parlor
   job: Forge shipping manifest
   energy: 25
-  exp: 3
+  exp: 4
   money max: 125
   money min: 105
   clicks needed: 1
   total energy: 25
-  total exp: 3
+  total exp: 4
   average money per energy: 4
-  average money per exp: 38
+  average money per exp: 28
   loot: []
 - target: Pizza Parlor
   job: Sabotage control panel
   energy: 58
-  exp: 8
+  exp: 12
   money max: 1585
   money min: 490
   clicks needed: 4
   total energy: 232
-  total exp: 32
+  total exp: 48
   average money per energy: 4
-  average money per exp: 32
+  average money per exp: 21
   loot:
   - name: Micro Uzi
     type: gun
@@ -75,34 +75,34 @@
     attack: 4
     defense: 3
     energy for 1: 2320.0
-    exp for 1: 320.0
+    exp for 1: 480.0
     attack for energy: 0.0017241379310344827
     defense for energy: 0.001293103448275862
-    attack for exp: 0.0125
-    defense for exp: 0.009375
+    attack for exp: 0.008333333333333333
+    defense for exp: 0.00625
 - target: Pizza Parlor
   job: Rip off TV
   energy: 18
-  exp: 2
+  exp: 3
   money max: 110
   money min: 50
   clicks needed: 1
   total energy: 18
-  total exp: 2
+  total exp: 3
   average money per energy: 4
-  average money per exp: 40
+  average money per exp: 26
   loot: []
 - target: Pizza Parlor
   job: Plant bomb
   energy: 47
-  exp: 10
+  exp: 15
   money max: 270
   money min: 75
   clicks needed: 1
   total energy: 47
-  total exp: 10
+  total exp: 15
   average money per energy: 3
-  average money per exp: 17
+  average money per exp: 11
   loot:
   - name: Micro SMG
     type: gun
@@ -110,34 +110,34 @@
     attack: 1
     defense: 3
     energy for 1: 213.63636363636363
-    exp for 1: 45.45454545454545
+    exp for 1: 68.18181818181819
     attack for energy: 0.004680851063829788
     defense for energy: 0.014042553191489362
-    attack for exp: 0.022000000000000002
-    defense for exp: 0.066
+    attack for exp: 0.014666666666666666
+    defense for exp: 0.044
 - target: Pizza Parlor
   job: Shoplift
   energy: 17
-  exp: 2
+  exp: 3
   money max: 115
   money min: 40
   clicks needed: 1
   total energy: 17
-  total exp: 2
+  total exp: 3
   average money per energy: 4
-  average money per exp: 38
+  average money per exp: 25
   loot: []
 - target: Pizza Parlor
   job: Break in
   energy: 27
-  exp: 4
+  exp: 6
   money max: 185
   money min: 60
   clicks needed: 1
   total energy: 27
-  total exp: 4
+  total exp: 6
   average money per energy: 4
-  average money per exp: 30
+  average money per exp: 20
   loot:
   - name: Shovel
     type: melee
@@ -145,34 +145,34 @@
     attack: 2
     defense: 3
     energy for 1: 150.0
-    exp for 1: 22.22222222222222
+    exp for 1: 33.333333333333336
     attack for energy: 0.013333333333333334
     defense for energy: 0.02
-    attack for exp: 0.09
-    defense for exp: 0.135
+    attack for exp: 0.06
+    defense for exp: 0.09
 - target: Dockmaster Mahoney
   job: Bribe
   energy: 22
-  exp: 3
+  exp: 4
   money max: 110
   money min: 75
   clicks needed: 1
   total energy: 22
-  total exp: 3
+  total exp: 4
   average money per energy: 4
-  average money per exp: 30
+  average money per exp: 23
   loot: []
 - target: Longshoreman Perez
   job: Perform hit
   energy: 72
-  exp: 10
+  exp: 15
   money max: 800
   money min: 240
   clicks needed: 2
   total energy: 144
-  total exp: 20
+  total exp: 30
   average money per energy: 3
-  average money per exp: 26
+  average money per exp: 17
   loot:
   - name: Colt 45
     type: gun
@@ -180,22 +180,22 @@
     attack: 2
     defense: 4
     energy for 1: 1200.0
-    exp for 1: 166.66666666666669
+    exp for 1: 250.0
     attack for energy: 0.0016666666666666668
     defense for energy: 0.0033333333333333335
-    attack for exp: 0.011999999999999999
-    defense for exp: 0.023999999999999997
+    attack for exp: 0.008
+    defense for exp: 0.016
 - target: Longshoreman Fletcher
   job: Perform hit
   energy: 72
-  exp: 10
+  exp: 15
   money max: 800
   money min: 240
   clicks needed: 2
   total energy: 144
-  total exp: 20
+  total exp: 30
   average money per energy: 3
-  average money per exp: 26
+  average money per exp: 17
   loot:
   - name: SMG A4
     type: gun
@@ -203,34 +203,34 @@
     attack: 2
     defense: 4
     energy for 1: 1200.0
-    exp for 1: 166.66666666666669
+    exp for 1: 250.0
     attack for energy: 0.0016666666666666668
     defense for energy: 0.0033333333333333335
-    attack for exp: 0.011999999999999999
-    defense for exp: 0.023999999999999997
+    attack for exp: 0.008
+    defense for exp: 0.016
 - target: Snake Malone
   job: Hire Muscle
   energy: 21
-  exp: 2
+  exp: 3
   money max: 100
   money min: 35
   clicks needed: 1
   total energy: 21
-  total exp: 2
+  total exp: 3
   average money per energy: 3
-  average money per exp: 33
+  average money per exp: 22
   loot: []
 - target: Rocco Colcetti
   job: Beat up
   energy: 46
-  exp: 6
+  exp: 9
   money max: 445
   money min: 165
   clicks needed: 2
   total energy: 92
-  total exp: 12
+  total exp: 18
   average money per energy: 3
-  average money per exp: 25
+  average money per exp: 16
   loot:
   - name: Metal Bat
     type: melee
@@ -238,22 +238,22 @@
     attack: 3
     defense: 3
     energy for 1: 920.0
-    exp for 1: 120.0
+    exp for 1: 180.0
     attack for energy: 0.003260869565217391
     defense for energy: 0.003260869565217391
-    attack for exp: 0.025
-    defense for exp: 0.025
+    attack for exp: 0.016666666666666666
+    defense for exp: 0.016666666666666666
 - target: Pizza Parlor
   job: Interrogate Workers
   energy: 42
-  exp: 6
+  exp: 9
   money max: 210
   money min: 75
   clicks needed: 1
   total energy: 42
-  total exp: 6
+  total exp: 9
   average money per energy: 3
-  average money per exp: 23
+  average money per exp: 15
   loot:
   - name: Green Beret
     type: armor
@@ -261,22 +261,22 @@
     attack: 2
     defense: 3
     energy for 1: 280.0
-    exp for 1: 40.0
+    exp for 1: 60.0
     attack for energy: 0.007142857142857143
     defense for energy: 0.010714285714285714
-    attack for exp: 0.05
-    defense for exp: 0.075
+    attack for exp: 0.03333333333333333
+    defense for exp: 0.05
 - target: Pizza Parlor
   job: Load Contraband
   energy: 85
-  exp: 10
+  exp: 15
   money max: 1290
   money min: 455
   clicks needed: 2
   total energy: 170
-  total exp: 20
+  total exp: 30
   average money per energy: 5
-  average money per exp: 43
+  average money per exp: 29
   loot:
   - name: Pilot Helmet
     type: armor
@@ -284,22 +284,22 @@
     attack: 1
     defense: 6
     energy for 1: 2428.5714285714284
-    exp for 1: 285.71428571428567
+    exp for 1: 428.57142857142856
     attack for energy: 0.00041176470588235296
     defense for energy: 0.0024705882352941176
-    attack for exp: 0.0035000000000000005
-    defense for exp: 0.021000000000000005
+    attack for exp: 0.0023333333333333335
+    defense for exp: 0.014
 - target: Pizza Parlor
   job: Bust Up Hideout
   energy: 125
-  exp: 18
+  exp: 27
   money max: 1200
   money min: 500
   clicks needed: 4
   total energy: 500
-  total exp: 72
+  total exp: 108
   average money per energy: 1
-  average money per exp: 11
+  average money per exp: 7
   loot:
   - name: Van
     type: car
@@ -307,34 +307,34 @@
     attack: 1
     defense: 2
     energy for 1: 3333.3333333333335
-    exp for 1: 480.0
+    exp for 1: 720.0
     attack for energy: 0.0003
     defense for energy: 0.0006
-    attack for exp: 0.0020833333333333333
-    defense for exp: 0.004166666666666667
+    attack for exp: 0.001388888888888889
+    defense for exp: 0.002777777777777778
 - target: Pizza Parlor
   job: Home Invasion
   energy: 50
-  exp: 4
+  exp: 6
   money max: 345
   money min: 125
   clicks needed: 1
   total energy: 50
-  total exp: 4
+  total exp: 6
   average money per energy: 4
-  average money per exp: 58
+  average money per exp: 39
   loot: []
 - target: Pizza Parlor
   job: Rip Off Safe House
   energy: 70
-  exp: 8
+  exp: 9
   money max: 425
   money min: 260
   clicks needed: 1
   total energy: 70
-  total exp: 8
+  total exp: 9
   average money per energy: 4
-  average money per exp: 42
+  average money per exp: 38
   loot:
   - name: Beretta 92
     type: gun
@@ -342,22 +342,22 @@
     attack: 2
     defense: 1
     energy for 1: 259.25925925925924
-    exp for 1: 29.629629629629626
+    exp for 1: 33.33333333333333
     attack for energy: 0.007714285714285715
     defense for energy: 0.0038571428571428576
-    attack for exp: 0.0675
-    defense for exp: 0.03375
+    attack for exp: 0.06000000000000001
+    defense for exp: 0.030000000000000006
 - target: Captain Smitz
   job: Defeat
   energy: 94
-  exp: 12
+  exp: 18
   money max: 2970
   money min: 1770
   clicks needed: 6
   total energy: 564
-  total exp: 72
+  total exp: 108
   average money per energy: 4
-  average money per exp: 32
+  average money per exp: 21
   loot:
   - name: Captain's Old Pistol
     type: gun
@@ -365,44 +365,44 @@
     attack: 2
     defense: 3
     energy for 1: 783.3333333333334
-    exp for 1: 100.0
+    exp for 1: 150.0
     attack for energy: 0.002553191489361702
     defense for energy: 0.003829787234042553
-    attack for exp: 0.02
-    defense for exp: 0.03
+    attack for exp: 0.013333333333333334
+    defense for exp: 0.02
   - name: Port Authority Vest
     type: armor
     percent: 0.22
     attack: 1
     defense: 6
     energy for 1: 2563.6363636363635
-    exp for 1: 327.27272727272725
+    exp for 1: 490.90909090909093
     attack for energy: 0.0003900709219858156
     defense for energy: 0.002340425531914894
-    attack for exp: 0.0030555555555555557
-    defense for exp: 0.018333333333333333
+    attack for exp: 0.002037037037037037
+    defense for exp: 0.012222222222222221
   - name: Port Authority Truck
     type: car
     percent: 0.06
     attack: 1
     defense: 9
     energy for 1: 9400.0
-    exp for 1: 1200.0
+    exp for 1: 1800.0
     attack for energy: 0.00010638297872340425
     defense for energy: 0.0009574468085106382
-    attack for exp: 0.0008333333333333334
-    defense for exp: 0.0075
+    attack for exp: 0.0005555555555555556
+    defense for exp: 0.005
 - target: Fisher
   job: Knock Out
   energy: 51
-  exp: 8
+  exp: 12
   money max: 850
   money min: 375
   clicks needed: 3
   total energy: 153
-  total exp: 24
+  total exp: 36
   average money per energy: 4
-  average money per exp: 25
+  average money per exp: 17
   loot:
   - name: Survival Knife
     type: melee
@@ -410,8 +410,8 @@
     attack: 2
     defense: 5
     energy for 1: 1700.0
-    exp for 1: 266.6666666666667
+    exp for 1: 400.0
     attack for energy: 0.001176470588235294
     defense for energy: 0.0029411764705882353
-    attack for exp: 0.0075
-    defense for exp: 0.01875
+    attack for exp: 0.005
+    defense for exp: 0.0125

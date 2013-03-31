@@ -154,14 +154,14 @@
   - name: Hudson Hornet
     type: car
     percent: 0.04
-    attack: 2
-    defense: 2
+    attack: 1
+    defense: 1
     energy for 1: 600.0
     exp for 1: 50.0
-    attack for energy: 0.0033333333333333335
-    defense for energy: 0.0033333333333333335
-    attack for exp: 0.04
-    defense for exp: 0.04
+    attack for energy: 0.0016666666666666668
+    defense for energy: 0.0016666666666666668
+    attack for exp: 0.02
+    defense for exp: 0.02
 - target: Pizza Parlor
   job: Collect Protection Money
   energy: 15
