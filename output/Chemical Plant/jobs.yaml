@@ -13,15 +13,15 @@
   loot:
   - name: Killer Machine Gun
     type: gun
-    percent: 0.12
+    percent: 0.48
     attack: 13
     defense: 11
-    energy for 1: 9766.666666666668
-    exp for 1: 3500.0
-    attack for energy: 0.0013310580204778156
-    defense for energy: 0.0011262798634812286
-    attack for exp: 0.0037142857142857142
-    defense for exp: 0.003142857142857143
+    energy for 1: 2441.666666666667
+    exp for 1: 875.0
+    attack for energy: 0.005324232081911262
+    defense for energy: 0.004505119453924914
+    attack for exp: 0.014857142857142857
+    defense for exp: 0.012571428571428572
 - target: Sheila Franklin
   job: Intimidate
   energy: 234
@@ -36,15 +36,15 @@
   loot:
   - name: Chemical Gun
     type: gun
-    percent: 0.07
+    percent: 0.28
     attack: 16
     defense: 14
-    energy for 1: 16714.285714285714
-    exp for 1: 5357.142857142857
-    attack for energy: 0.0009572649572649573
-    defense for energy: 0.0008376068376068376
-    attack for exp: 0.002986666666666667
-    defense for exp: 0.0026133333333333334
+    energy for 1: 4178.571428571428
+    exp for 1: 1339.2857142857142
+    attack for energy: 0.003829059829059829
+    defense for energy: 0.0033504273504273503
+    attack for exp: 0.011946666666666668
+    defense for exp: 0.010453333333333334
 - target: Pizza Parlor
   job: Break Up Meeting
   energy: 293
@@ -94,15 +94,15 @@
   loot:
   - name: Police Armor
     type: armor
-    percent: 0.12
+    percent: 0.48
     attack: 5
     defense: 14
-    energy for 1: 3900.0
-    exp for 1: 1483.3333333333335
-    attack for energy: 0.001282051282051282
-    defense for energy: 0.0035897435897435897
-    attack for exp: 0.0033707865168539322
-    defense for exp: 0.00943820224719101
+    energy for 1: 975.0
+    exp for 1: 370.83333333333337
+    attack for energy: 0.005128205128205128
+    defense for energy: 0.014358974358974359
+    attack for exp: 0.013483146067415729
+    defense for exp: 0.03775280898876404
 - target: Pizza Parlor
   job: Cause Gas Leak
   energy: 146
@@ -117,15 +117,15 @@
   loot:
   - name: SG 550
     type: gun
-    percent: 0.04
+    percent: 0.16
     attack: 10
     defense: 7
-    energy for 1: 3650.0
-    exp for 1: 1100.0
-    attack for energy: 0.0027397260273972603
-    defense for energy: 0.0019178082191780822
-    attack for exp: 0.00909090909090909
-    defense for exp: 0.006363636363636364
+    energy for 1: 912.5
+    exp for 1: 275.0
+    attack for energy: 0.010958904109589041
+    defense for energy: 0.007671232876712329
+    attack for exp: 0.03636363636363636
+    defense for exp: 0.025454545454545455
 - target: Pizza Parlor
   job: Cause Acid Spill
   energy: 293
@@ -152,15 +152,15 @@
   loot:
   - name: Splatter Gun
     type: gun
-    percent: 0.1
+    percent: 0.4
     attack: 15
     defense: 15
-    energy for 1: 17550.0
-    exp for 1: 6900.0
-    attack for energy: 0.0008547008547008547
-    defense for energy: 0.0008547008547008547
-    attack for exp: 0.002173913043478261
-    defense for exp: 0.002173913043478261
+    energy for 1: 4387.5
+    exp for 1: 1725.0
+    attack for energy: 0.003418803418803419
+    defense for energy: 0.003418803418803419
+    attack for exp: 0.008695652173913044
+    defense for exp: 0.008695652173913044
 - target: Sergeant Kalani
   job: Eliminate
   energy: 293
@@ -175,15 +175,15 @@
   loot:
   - name: SG 550
     type: gun
-    percent: 0.15
+    percent: 0.6
     attack: 10
     defense: 7
-    energy for 1: 7813.333333333334
-    exp for 1: 2800.0
-    attack for energy: 0.001279863481228669
-    defense for energy: 0.0008959044368600682
-    attack for exp: 0.0035714285714285713
-    defense for exp: 0.0025
+    energy for 1: 1953.3333333333335
+    exp for 1: 700.0
+    attack for energy: 0.005119453924914676
+    defense for energy: 0.0035836177474402727
+    attack for exp: 0.014285714285714285
+    defense for exp: 0.01
 - target: Lieutenant Aziz
   job: Assassinate
   energy: 468
@@ -198,15 +198,15 @@
   loot:
   - name: FBI SWAT Van
     type: car
-    percent: 0.08
+    percent: 0.32
     attack: 12
     defense: 15
-    energy for 1: 52650.0
-    exp for 1: 16087.5
-    attack for energy: 0.0002279202279202279
-    defense for energy: 0.0002849002849002849
-    attack for exp: 0.0007459207459207459
-    defense for exp: 0.0009324009324009324
+    energy for 1: 13162.5
+    exp for 1: 4021.875
+    attack for energy: 0.0009116809116809116
+    defense for energy: 0.0011396011396011395
+    attack for exp: 0.0029836829836829837
+    defense for exp: 0.0037296037296037296
 - target: Colonel Firestone
   job: Defeat
   energy: 527
@@ -266,15 +266,15 @@
   loot:
   - name: Police Armor
     type: armor
-    percent: 0.19
+    percent: 0.76
     attack: 5
     defense: 14
-    energy for 1: 14778.947368421052
-    exp for 1: 5810.526315789473
-    attack for energy: 0.00033831908831908833
-    defense for energy: 0.0009472934472934474
-    attack for exp: 0.0008605072463768117
-    defense for exp: 0.0024094202898550725
+    energy for 1: 3694.736842105263
+    exp for 1: 1452.6315789473683
+    attack for energy: 0.0013532763532763533
+    defense for energy: 0.0037891737891737895
+    attack for exp: 0.0034420289855072467
+    defense for exp: 0.00963768115942029
 - target: Pizza Parlor
   job: Bury Evidence
   energy: 234
@@ -301,15 +301,15 @@
   loot:
   - name: State Jacket
     type: armor
-    percent: 0.04
+    percent: 0.16
     attack: 3
     defense: 10
-    energy for 1: 4375.0
-    exp for 1: 1800.0
-    attack for energy: 0.0006857142857142857
-    defense for energy: 0.002285714285714286
-    attack for exp: 0.0016666666666666668
-    defense for exp: 0.005555555555555556
+    energy for 1: 1093.75
+    exp for 1: 450.0
+    attack for energy: 0.002742857142857143
+    defense for energy: 0.009142857142857144
+    attack for exp: 0.006666666666666667
+    defense for exp: 0.022222222222222223
 - target: Pizza Parlor
   job: Steal Shipping List
   energy: 263
@@ -324,15 +324,15 @@
   loot:
   - name: Mk 14 Battle Rifle
     type: gun
-    percent: 0.11
+    percent: 0.44
     attack: 14
     defense: 14
-    energy for 1: 11954.545454545454
-    exp for 1: 4045.4545454545455
-    attack for energy: 0.0011711026615969582
-    defense for energy: 0.0011711026615969582
-    attack for exp: 0.003460674157303371
-    defense for exp: 0.003460674157303371
+    energy for 1: 2988.6363636363635
+    exp for 1: 1011.3636363636364
+    attack for energy: 0.004684410646387833
+    defense for energy: 0.004684410646387833
+    attack for exp: 0.013842696629213483
+    defense for exp: 0.013842696629213483
 - target: Pizza Parlor
   job: Start Chemical Fire
   energy: 410
@@ -370,15 +370,15 @@
   loot:
   - name: Crimson Shotgun
     type: gun
-    percent: 0.06
+    percent: 0.24
     attack: 19
     defense: 14
-    energy for 1: 9766.666666666668
-    exp for 1: 3500.0
-    attack for energy: 0.0019453924914675765
-    defense for energy: 0.001433447098976109
-    attack for exp: 0.0054285714285714284
-    defense for exp: 0.004
+    energy for 1: 2441.666666666667
+    exp for 1: 875.0
+    attack for energy: 0.007781569965870306
+    defense for energy: 0.005733788395904436
+    attack for exp: 0.021714285714285714
+    defense for exp: 0.016
 - target: Pizza Parlor
   job: Steal Tools
   energy: 175
@@ -393,15 +393,15 @@
   loot:
   - name: Mossberg 590 Shotgun
     type: gun
-    percent: 0.03
+    percent: 0.12
     attack: 12
     defense: 8
-    energy for 1: 5833.333333333334
-    exp for 1: 2400.0
-    attack for energy: 0.0020571428571428568
-    defense for energy: 0.0013714285714285712
-    attack for exp: 0.005
-    defense for exp: 0.0033333333333333335
+    energy for 1: 1458.3333333333335
+    exp for 1: 600.0
+    attack for energy: 0.008228571428571427
+    defense for energy: 0.005485714285714285
+    attack for exp: 0.02
+    defense for exp: 0.013333333333333334
 - target: Pizza Parlor
   job: Stash Weapons
   energy: 205
@@ -428,12 +428,12 @@
   loot:
   - name: Double Decker
     type: car
-    percent: 0.03
+    percent: 0.12
     attack: 18
     defense: 14
-    energy for 1: 17533.333333333336
-    exp for 1: 5933.333333333334
-    attack for energy: 0.001026615969581749
-    defense for energy: 0.0007984790874524714
-    attack for exp: 0.003033707865168539
-    defense for exp: 0.0023595505617977526
+    energy for 1: 4383.333333333334
+    exp for 1: 1483.3333333333335
+    attack for energy: 0.004106463878326996
+    defense for energy: 0.0031939163498098857
+    attack for exp: 0.012134831460674156
+    defense for exp: 0.00943820224719101

@@ -13,15 +13,15 @@
   loot:
   - name: Mark 2 Blade
     type: melee
-    percent: 0.05
+    percent: 0.2
     attack: 7
     defense: 9
-    energy for 1: 61200.0
-    exp for 1: 28560.0
-    attack for energy: 0.00011437908496732026
-    defense for energy: 0.00014705882352941175
-    attack for exp: 0.00024509803921568627
-    defense for exp: 0.0003151260504201681
+    energy for 1: 15300.0
+    exp for 1: 7140.0
+    attack for energy: 0.00045751633986928104
+    defense for energy: 0.000588235294117647
+    attack for exp: 0.000980392156862745
+    defense for exp: 0.0012605042016806723
 - target: Pizza Parlor
   job: Plant Bomb
   energy: 218
@@ -59,15 +59,15 @@
   loot:
   - name: Police Armor
     type: armor
-    percent: 0.05
+    percent: 0.2
     attack: 5
     defense: 14
-    energy for 1: 24800.0
-    exp for 1: 10000.0
-    attack for energy: 0.00020161290322580645
-    defense for energy: 0.0005645161290322581
-    attack for exp: 0.0005
-    defense for exp: 0.0014
+    energy for 1: 6200.0
+    exp for 1: 2500.0
+    attack for energy: 0.0008064516129032258
+    defense for energy: 0.0022580645161290325
+    attack for exp: 0.002
+    defense for exp: 0.0056
 - target: Dale Waters
   job: Bump Off
   energy: 340
@@ -82,15 +82,15 @@
   loot:
   - name: ARX160
     type: gun
-    percent: 0.07
+    percent: 0.28
     attack: 13
     defense: 10
-    energy for 1: 29142.85714285714
-    exp for 1: 13199.999999999998
-    attack for energy: 0.00044607843137254904
-    defense for energy: 0.0003431372549019608
-    attack for exp: 0.000984848484848485
-    defense for exp: 0.0007575757575757577
+    energy for 1: 7285.714285714285
+    exp for 1: 3299.9999999999995
+    attack for energy: 0.0017843137254901962
+    defense for energy: 0.0013725490196078432
+    attack for exp: 0.00393939393939394
+    defense for exp: 0.0030303030303030307
 - target: Mike Chu
   job: Intimidate
   energy: 184
@@ -152,15 +152,15 @@
   loot:
   - name: Mark 2 Blade
     type: melee
-    percent: 0.05
+    percent: 0.2
     attack: 7
     defense: 9
-    energy for 1: 45920.0
-    exp for 1: 20720.0
-    attack for energy: 0.0001524390243902439
-    defense for energy: 0.00019599303135888502
-    attack for exp: 0.00033783783783783786
-    defense for exp: 0.00043436293436293434
+    energy for 1: 11480.0
+    exp for 1: 5180.0
+    attack for energy: 0.0006097560975609756
+    defense for energy: 0.0007839721254355401
+    attack for exp: 0.0013513513513513514
+    defense for exp: 0.0017374517374517374
 - target: Pizza Parlor
   job: Steal Evidence
   energy: 300
@@ -210,15 +210,15 @@
   loot:
   - name: Urban Warfare Vest
     type: armor
-    percent: 0.05
+    percent: 0.2
     attack: 11
     defense: 20
-    energy for 1: 53760.0
-    exp for 1: 24080.0
-    attack for energy: 0.00020461309523809524
-    defense for energy: 0.0003720238095238095
-    attack for exp: 0.00045681063122923586
-    defense for exp: 0.0008305647840531562
+    energy for 1: 13440.0
+    exp for 1: 6020.0
+    attack for energy: 0.000818452380952381
+    defense for energy: 0.001488095238095238
+    attack for exp: 0.0018272425249169434
+    defense for exp: 0.0033222591362126247
 - target: Lt. Fong
   job: Defeat
   energy: 455
@@ -325,15 +325,15 @@
   loot:
   - name: NATO Gas Mask
     type: armor
-    percent: 0.06
+    percent: 0.24
     attack: 4
     defense: 18
-    energy for 1: 13666.666666666668
-    exp for 1: 4466.666666666667
-    attack for energy: 0.0002926829268292683
-    defense for energy: 0.0013170731707317072
-    attack for exp: 0.0008955223880597014
-    defense for exp: 0.004029850746268657
+    energy for 1: 3416.666666666667
+    exp for 1: 1116.6666666666667
+    attack for energy: 0.0011707317073170731
+    defense for energy: 0.005268292682926829
+    attack for exp: 0.0035820895522388056
+    defense for exp: 0.016119402985074627
 - target: Pizza Parlor
   job: Falsify IDs
   energy: 178
@@ -383,15 +383,15 @@
   loot:
   - name: Mk 14 Battle Rifle
     type: gun
-    percent: 0.05
+    percent: 0.2
     attack: 14
     defense: 14
-    energy for 1: 69280.0
-    exp for 1: 29600.0
-    attack for energy: 0.0002020785219399538
-    defense for energy: 0.0002020785219399538
-    attack for exp: 0.00047297297297297297
-    defense for exp: 0.00047297297297297297
+    energy for 1: 17320.0
+    exp for 1: 7400.0
+    attack for energy: 0.0008083140877598152
+    defense for energy: 0.0008083140877598152
+    attack for exp: 0.0018918918918918919
+    defense for exp: 0.0018918918918918919
 - target: Pizza Parlor
   job: Lace Doughnuts
   energy: 188
@@ -418,15 +418,15 @@
   loot:
   - name: Mark 2 Blade
     type: melee
-    percent: 0.06
+    percent: 0.24
     attack: 7
     defense: 9
-    energy for 1: 12100.0
-    exp for 1: 3900.0
-    attack for energy: 0.0005785123966942149
-    defense for energy: 0.0007438016528925619
-    attack for exp: 0.0017948717948717949
-    defense for exp: 0.002307692307692308
+    energy for 1: 3025.0
+    exp for 1: 975.0
+    attack for energy: 0.0023140495867768596
+    defense for energy: 0.0029752066115702478
+    attack for exp: 0.0071794871794871795
+    defense for exp: 0.009230769230769232
 - target: Pizza Parlor
   job: Set Up Informant
   energy: 168
