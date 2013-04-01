@@ -1,5 +1,5 @@
 ---
-- target: Pizza Parlor
+- target: Santa Maria Church
   job: Search
   energy: 158
   exp: 57
@@ -22,7 +22,7 @@
     defense for energy: 0.005738396624472574
     attack for exp: 0.025847953216374273
     defense for exp: 0.015906432748538014
-- target: Pizza Parlor
+- target: Old Tenement
   job: Ransack
   energy: 270
   exp: 95
@@ -57,7 +57,7 @@
   average money per energy: 22
   average money per exp: 65
   loot: []
-- target: Pizza Parlor
+- target: La Bodega
   job: Raid
   energy: 375
   exp: 120
@@ -80,7 +80,7 @@
     defense for energy: 0.0020571428571428576
     attack for exp: 0.0051428571428571435
     defense for exp: 0.006428571428571429
-- target: Pizza Parlor
+- target: Mario's Tacos
   job: Plunder
   energy: 262
   exp: 82
@@ -103,7 +103,7 @@
     defense for energy: 0.0028854961832061065
     attack for exp: 0.011268292682926829
     defense for exp: 0.00921951219512195
-- target: Pizza Parlor
+- target: Apartments
   job: Rob
   energy: 154
   exp: 42
@@ -115,7 +115,7 @@
   average money per energy: 29
   average money per exp: 109
   loot: []
-- target: Pizza Parlor
+- target: Latino Gift Shop
   job: Smash Up
   energy: 320
   exp: 124
@@ -275,7 +275,7 @@
     defense for energy: 0.0001702000597193192
     attack for exp: 0.00041651443185970033
     defense for exp: 0.00041651443185970033
-- target: Pizza Parlor
+- target: Taco Truck
   job: Stick Up
   energy: 184
   exp: 49
@@ -287,7 +287,7 @@
   average money per energy: 28
   average money per exp: 106
   loot: []
-- target: Pizza Parlor
+- target: Tenement
   job: Break In
   energy: 228
   exp: 66
@@ -322,7 +322,7 @@
   average money per energy: 27
   average money per exp: 102
   loot: []
-- target: Pizza Parlor
+- target: Tenement
   job: Demand Kickbacks
   energy: 132
   exp: 35
@@ -334,7 +334,7 @@
   average money per energy: 28
   average money per exp: 107
   loot: []
-- target: Pizza Parlor
+- target: Ice Cream Shop
   job: Steal Lockbox
   energy: 400
   exp: 121
@@ -357,7 +357,7 @@
     defense for energy: 0.00198
     attack for exp: 0.005090909090909091
     defense for exp: 0.006545454545454545
-- target: Pizza Parlor
+- target: Small Projects
   job: Install Henchmen
   energy: 125
   exp: 42
@@ -369,7 +369,7 @@
   average money per energy: 20
   average money per exp: 61
   loot: []
-- target: Pizza Parlor
+- target: Pharmacy
   job: Smash Windows
   energy: 151
   exp: 49
@@ -381,7 +381,7 @@
   average money per energy: 21
   average money per exp: 67
   loot: []
-- target: Pizza Parlor
+- target: Laundromat
   job: Install Dealers
   energy: 155
   exp: 55
@@ -393,7 +393,7 @@
   average money per energy: 24
   average money per exp: 69
   loot: []
-- target: Pizza Parlor
+- target: Car Wash
   job: Get Rid of Evidence
   energy: 242
   exp: 89
@@ -416,7 +416,7 @@
     defense for energy: 0.004958677685950413
     attack for exp: 0.017528089887640447
     defense for exp: 0.013483146067415729
-- target: Pizza Parlor
+- target: Pawn Shop
   job: Clear Shelves
   energy: 180
   exp: 50
@@ -428,7 +428,7 @@
   average money per energy: 27
   average money per exp: 99
   loot: []
-- target: Pizza Parlor
+- target: Mini Mart
   job: Pump for Info
   energy: 198
   exp: 67
@@ -440,7 +440,7 @@
   average money per energy: 21
   average money per exp: 64
   loot: []
-- target: Pizza Parlor
+- target: Gas Station
   job: Threaten Workers
   energy: 204
   exp: 73

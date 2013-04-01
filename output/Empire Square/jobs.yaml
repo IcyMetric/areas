@@ -1,5 +1,5 @@
 ---
-- target: Pizza Parlor
+- target: Kristy's Dept. Store
   job: Market Smuggled Goods
   energy: 64
   exp: 10
@@ -22,7 +22,7 @@
     defense for energy: 0.010312499999999999
     attack for exp: 0.066
     defense for exp: 0.066
-- target: Pizza Parlor
+- target: Mega Music Store
   job: Sell Bootleg CDs and DVDs
   energy: 48
   exp: 6
@@ -34,7 +34,7 @@
   average money per energy: 5
   average money per exp: 43
   loot: []
-- target: Pizza Parlor
+- target: Grimshaw Bell Building
   job: Destroy Documents
   energy: 56
   exp: 13
@@ -57,7 +57,7 @@
     defense for energy: 0.002857142857142857
     attack for exp: 0.012307692307692308
     defense for exp: 0.012307692307692308
-- target: Pizza Parlor
+- target: Empire Media Tower
   job: Hire Celebrities to Sell Products
   energy: 21
   exp: 3
@@ -80,7 +80,7 @@
     defense for energy: 0.006666666666666668
     attack for exp: 0.04666666666666667
     defense for exp: 0.04666666666666667
-- target: Pizza Parlor
+- target: Eschelman Tower
   job: Hit Crooked Lawyer
   energy: 60
   exp: 13
@@ -103,7 +103,7 @@
     defense for energy: 0.002
     attack for exp: 0.006153846153846154
     defense for exp: 0.009230769230769232
-- target: Pizza Parlor
+- target: 1 Empire Square
   job: Throw Traitor off Building
   energy: 50
   exp: 12
@@ -126,7 +126,7 @@
     defense for energy: 0.0048
     attack for exp: 0.01
     defense for exp: 0.02
-- target: Pizza Parlor
+- target: Freamon Building
   job: Hold Talks with Allied Bosses
   energy: 24
   exp: 6
@@ -265,7 +265,7 @@
   average money per energy: 1
   average money per exp: 11
   loot: []
-- target: Pizza Parlor
+- target: Pharmacy
   job: Steal First Aid Supplies
   energy: 44
   exp: 6
@@ -288,7 +288,7 @@
     defense for energy: 0.006818181818181817
     attack for exp: 0.05
     defense for exp: 0.05
-- target: Pizza Parlor
+- target: Shoe Store
   job: Get Welcome-Home Present
   energy: 22
   exp: 4
@@ -311,7 +311,7 @@
     defense for energy: 0.024545454545454544
     attack for exp: 0.2025
     defense for exp: 0.135
-- target: Pizza Parlor
+- target: Electronics Store
   job: Shoplift Listening Device
   energy: 20
   exp: 3
@@ -323,7 +323,7 @@
   average money per energy: 4
   average money per exp: 29
   loot: []
-- target: Pizza Parlor
+- target: Movie Theater
   job: Swipe Rare Movie Posters
   energy: 19
   exp: 3
@@ -346,7 +346,7 @@
     defense for energy: 0.01105263157894737
     attack for exp: 0.04666666666666667
     defense for exp: 0.07
-- target: Pizza Parlor
+- target: Italian Cafe
   job: Spy on Reni Meeting
   energy: 37
   exp: 9

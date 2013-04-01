@@ -1,5 +1,5 @@
 ---
-- target: Pizza Parlor
+- target: Jewelry Store
   job: Steal Jewelry
   energy: 136
   exp: 30
@@ -22,7 +22,7 @@
     defense for energy: 0.0006617647058823528
     attack for exp: 0.0015
     defense for exp: 0.003
-- target: Pizza Parlor
+- target: Coffee Shop
   job: Harass a Hipster
   energy: 35
   exp: 9
@@ -45,7 +45,7 @@
     defense for energy: 0.014285714285714285
     attack for exp: 0.03333333333333333
     defense for exp: 0.05555555555555555
-- target: Pizza Parlor
+- target: Deli
   job: Setup a Hideout
   energy: 50
   exp: 10
@@ -125,7 +125,7 @@
     defense for energy: 0.00033582089552238804
     attack for exp: 0.00125
     defense for exp: 0.00125
-- target: Pizza Parlor
+- target: Boutique
   job: Shoplift
   energy: 26
   exp: 4
@@ -137,7 +137,7 @@
   average money per energy: 4
   average money per exp: 31
   loot: []
-- target: Pizza Parlor
+- target: Bank
   job: Crack Bank Vault
   energy: 196
   exp: 43
@@ -160,7 +160,7 @@
     defense for energy: 0.0006122448979591836
     attack for exp: 0.0034883720930232553
     defense for exp: 0.0027906976744186043
-- target: Pizza Parlor
+- target: Condos
   job: Rob
   energy: 36
   exp: 6
@@ -172,7 +172,7 @@
   average money per energy: 5
   average money per exp: 30
   loot: []
-- target: Pizza Parlor
+- target: Condos
   job: Rob
   energy: 36
   exp: 6
@@ -184,7 +184,7 @@
   average money per energy: 5
   average money per exp: 30
   loot: []
-- target: Pizza Parlor
+- target: Condos
   job: Rob
   energy: 36
   exp: 6
@@ -196,7 +196,7 @@
   average money per energy: 5
   average money per exp: 30
   loot: []
-- target: Pizza Parlor
+- target: Brownstone
   job: Vandalize
   energy: 48
   exp: 15
@@ -243,7 +243,7 @@
   average money per energy: 5
   average money per exp: 29
   loot: []
-- target: Pizza Parlor
+- target: Coffee Shop
   job: Meet with Supplier
   energy: 56
   exp: 15
@@ -289,7 +289,7 @@
     defense for energy: 0.0004032258064516129
     attack for exp: 0.001388888888888889
     defense for exp: 0.001388888888888889
-- target: Pizza Parlor
+- target: Diner
   job: Mug Patrons
   energy: 75
   exp: 13
@@ -312,7 +312,7 @@
     defense for energy: 0.0
     attack for exp: 0.0
     defense for exp: 0.0
-- target: Pizza Parlor
+- target: Centurion
   job: Steal Stereo
   energy: 40
   exp: 6
@@ -324,7 +324,7 @@
   average money per energy: 4
   average money per exp: 32
   loot: []
-- target: Pizza Parlor
+- target: Grand
   job: Boost Hub Caps
   energy: 48
   exp: 9
@@ -336,7 +336,7 @@
   average money per energy: 5
   average money per exp: 27
   loot: []
-- target: Pizza Parlor
+- target: Gas Station
   job: Make Molotovs
   energy: 88
   exp: 25
@@ -359,7 +359,7 @@
     defense for energy: 0.0022727272727272726
     attack for exp: 0.004
     defense for exp: 0.008
-- target: Pizza Parlor
+- target: Jewelry Store
   job: Heist Diamonds
   energy: 144
   exp: 30
@@ -382,7 +382,7 @@
     defense for energy: 0.0
     attack for exp: 0.0
     defense for exp: 0.0
-- target: Pizza Parlor
+- target: EU Library
   job: Steal First Edition
   energy: 175
   exp: 37
@@ -405,7 +405,7 @@
     defense for energy: 0.0
     attack for exp: 0.0
     defense for exp: 0.0
-- target: Pizza Parlor
+- target: Cube Theater
   job: Rob Box Office
   energy: 47
   exp: 10
@@ -417,7 +417,7 @@
   average money per energy: 8
   average money per exp: 39
   loot: []
-- target: Pizza Parlor
+- target: Ultra Fit Gym
   job: Vandalize
   energy: 45
   exp: 15
@@ -429,7 +429,7 @@
   average money per energy: 3
   average money per exp: 11
   loot: []
-- target: Pizza Parlor
+- target: Brownstone
   job: Break In
   energy: 50
   exp: 13
@@ -452,7 +452,7 @@
     defense for energy: 0.002
     attack for exp: 0.007692307692307693
     defense for exp: 0.007692307692307693
-- target: Pizza Parlor
+- target: Brownstone
   job: Rob Apartment
   energy: 36
   exp: 6
@@ -464,7 +464,7 @@
   average money per energy: 5
   average money per exp: 30
   loot: []
-- target: Pizza Parlor
+- target: Brownstone
   job: Plant Bug
   energy: 60
   exp: 16
@@ -487,7 +487,7 @@
     defense for energy: 0.0
     attack for exp: 0.0
     defense for exp: 0.0
-- target: Pizza Parlor
+- target: Brownstone
   job: Home Invasion
   energy: 78
   exp: 18

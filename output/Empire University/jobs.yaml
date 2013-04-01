@@ -126,7 +126,7 @@
   average money per energy: 22
   average money per exp: 103
   loot: []
-- target: Pizza Parlor
+- target: EU Book Store
   job: Hold Hostages
   energy: 365
   exp: 106
@@ -149,7 +149,7 @@
     defense for energy: 0.004383561643835616
     attack for exp: 0.019622641509433963
     defense for exp: 0.01509433962264151
-- target: Pizza Parlor
+- target: Large Dorm
   job: Break In
   energy: 220
   exp: 47
@@ -172,7 +172,7 @@
     defense for energy: 0.003863636363636364
     attack for exp: 0.009042553191489363
     defense for exp: 0.018085106382978725
-- target: Pizza Parlor
+- target: Large Dorm
   job: Pull Fire Alarm
   energy: 96
   exp: 29
@@ -184,7 +184,7 @@
   average money per energy: 16
   average money per exp: 53
   loot: []
-- target: Pizza Parlor
+- target: Small Dorm
   job: Break In
   energy: 220
   exp: 47
@@ -207,7 +207,7 @@
     defense for energy: 0.0028636363636363638
     attack for exp: 0.013404255319148935
     defense for exp: 0.013404255319148935
-- target: Pizza Parlor
+- target: Gazebo
   job: Vandalize
   energy: 210
   exp: 71
@@ -219,7 +219,7 @@
   average money per energy: 19
   average money per exp: 56
   loot: []
-- target: Pizza Parlor
+- target: EU Library
   job: Research Explosives
   energy: 200
   exp: 76
@@ -242,7 +242,7 @@
     defense for energy: 0.0016499999999999998
     attack for exp: 0.006271929824561404
     defense for exp: 0.004342105263157895
-- target: Pizza Parlor
+- target: EU Med School
   job: Sell Organs
   energy: 450
   exp: 125
@@ -265,7 +265,7 @@
     defense for energy: 0.0011
     attack for exp: 0.0048400000000000006
     defense for exp: 0.00396
-- target: Pizza Parlor
+- target: EU Science Lab
   job: Setup Chem Production
   energy: 400
   exp: 144
@@ -288,7 +288,7 @@
     defense for energy: 0.00225
     attack for exp: 0.001388888888888889
     defense for exp: 0.00625
-- target: Pizza Parlor
+- target: Student Union
   job: Sell Pick-Me-Ups
   energy: 130
   exp: 29
@@ -300,7 +300,7 @@
   average money per energy: 23
   average money per exp: 103
   loot: []
-- target: Pizza Parlor
+- target: EU Theater
   job: Sell Happy Pills
   energy: 150
   exp: 36
@@ -312,7 +312,7 @@
   average money per energy: 24
   average money per exp: 102
   loot: []
-- target: Pizza Parlor
+- target: Fitness Gym
   job: Sell Performance Enhancers
   energy: 250
   exp: 56
@@ -335,7 +335,7 @@
     defense for energy: 0.006840000000000001
     attack for exp: 0.033928571428571426
     defense for exp: 0.030535714285714284
-- target: Pizza Parlor
+- target: Coffee Shop
   job: Sell Uppers
   energy: 175
   exp: 40
@@ -358,7 +358,7 @@
     defense for energy: 0.010799999999999999
     attack for exp: 0.03675
     defense for exp: 0.04725
-- target: Pizza Parlor
+- target: Diner
   job: Chat Up Staff
   energy: 126
   exp: 28
@@ -370,7 +370,7 @@
   average money per energy: 23
   average money per exp: 105
   loot: []
-- target: Pizza Parlor
+- target: Sports Bar
   job: Cajole Bartender
   energy: 125
   exp: 42

@@ -1,5 +1,5 @@
 ---
-- target: Pizza Parlor
+- target: Highrise Condo
   job: Set Up Hideout
   energy: 184
   exp: 80
@@ -22,7 +22,7 @@
     defense for energy: 0.007744565217391304
     attack for exp: 0.028124999999999997
     defense for exp: 0.0178125
-- target: Pizza Parlor
+- target: Convention Center
   job: Extort Money
   energy: 239
   exp: 104
@@ -45,7 +45,7 @@
     defense for energy: 0.015899581589958158
     attack for exp: 0.06346153846153846
     defense for exp: 0.03653846153846154
-- target: Pizza Parlor
+- target: Beach Patrol
   job: Bribe Cops
   energy: 103
   exp: 45
@@ -57,7 +57,7 @@
   average money per energy: 72
   average money per exp: 164
   loot: []
-- target: Pizza Parlor
+- target: Beachfront Hotel
   job: Rob Hotel
   energy: 509
   exp: 221
@@ -80,7 +80,7 @@
     defense for energy: 0.002128356254092993
     attack for exp: 0.01583710407239819
     defense for exp: 0.004901960784313725
-- target: Pizza Parlor
+- target: Sports Bar
   job: Convince Sports Bar
   energy: 469
   exp: 204
@@ -103,7 +103,7 @@
     defense for energy: 0.0030383795309168442
     attack for exp: 0.011029411764705883
     defense for exp: 0.006985294117647059
-- target: Pizza Parlor
+- target: Techno Club
   job: Assure Techno Club
   energy: 426
   exp: 185
@@ -126,7 +126,7 @@
     defense for energy: 0.0022300469483568074
     attack for exp: 0.00891891891891892
     defense for exp: 0.005135135135135135
-- target: Pizza Parlor
+- target: Loft
   job: Burn Loft
   energy: 386
   exp: 168
@@ -149,7 +149,7 @@
     defense for energy: 0.0021049222797927462
     attack for exp: 0.015625
     defense for exp: 0.004836309523809524
-- target: Pizza Parlor
+- target: Hotel
   job: Shootup
   energy: 331
   exp: 144
@@ -172,7 +172,7 @@
     defense for energy: 0.0033534743202416916
     attack for exp: 0.004375
     defense for exp: 0.0077083333333333335
-- target: Pizza Parlor
+- target: Rock Cafe
   job: Steal Ticket Sales
   energy: 291
   exp: 127
@@ -195,7 +195,7 @@
     defense for energy: 0.0032646048109965637
     attack for exp: 0.012992125984251968
     defense for exp: 0.007480314960629921
-- target: Pizza Parlor
+- target: Tiki Bar
   job: Rob Tiki Bar
   energy: 319
   exp: 139
@@ -218,7 +218,7 @@
     defense for energy: 0.0032601880877742946
     attack for exp: 0.024172661870503598
     defense for exp: 0.007482014388489209
-- target: Pizza Parlor
+- target: Green Lifeguard Hut
   job: Remove Witnesses
   energy: 279
   exp: 121
@@ -241,7 +241,7 @@
     defense for energy: 0.003315412186379928
     attack for exp: 0.0043388429752066115
     defense for exp: 0.007644628099173554
-- target: Pizza Parlor
+- target: Red Lifeguard Hut
   job: Set Up Weapon Depot
   energy: 524
   exp: 228
@@ -253,7 +253,7 @@
   average money per energy: 72
   average money per exp: 165
   loot: []
-- target: Pizza Parlor
+- target: Kristy's Dept. Store
   job: Rob Store
   energy: 484
   exp: 211

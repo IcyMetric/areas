@@ -1,5 +1,5 @@
 ---
-- target: Pizza Parlor
+- target: Circus Tent
   job: Find the Girlfriend
   energy: 235
   exp: 98
@@ -22,7 +22,7 @@
     defense for energy: 0.004042553191489362
     attack for exp: 0.009183673469387756
     defense for exp: 0.009693877551020408
-- target: Pizza Parlor
+- target: Ferris Wheel
   job: Break the Ferris Wheel
   energy: 471
   exp: 195
@@ -45,7 +45,7 @@
     defense for energy: 0.001326963906581741
     attack for exp: 0.008012820512820512
     defense for exp: 0.003205128205128205
-- target: Pizza Parlor
+- target: Bumper Cars
   job: Destroy the Bumper Cars
   energy: 386
   exp: 160
@@ -68,7 +68,7 @@
     defense for energy: 0.003238341968911917
     attack for exp: 0.008984375
     defense for exp: 0.0078125
-- target: Pizza Parlor
+- target: Portable Toilet
   job: Question the Rat
   energy: 350
   exp: 145
@@ -91,7 +91,7 @@
     defense for energy: 0.0027142857142857142
     attack for exp: 0.006206896551724138
     defense for exp: 0.006551724137931035
-- target: Pizza Parlor
+- target: Dominican Food Stand
   job: Trash the Food Stand
   energy: 310
   exp: 129
@@ -114,7 +114,7 @@
     defense for energy: 0.0016129032258064516
     attack for exp: 0.009689922480620155
     defense for exp: 0.003875968992248062
-- target: Pizza Parlor
+- target: T Shirt Stand
   job: Steal the Cash Drawer
   energy: 227
   exp: 94
@@ -137,7 +137,7 @@
     defense for energy: 0.004405286343612335
     attack for exp: 0.01223404255319149
     defense for exp: 0.010638297872340425
-- target: Pizza Parlor
+- target: Jewelry Stand
   job: Rob the Jewelry Stand
   energy: 187
   exp: 78
@@ -160,7 +160,7 @@
     defense for energy: 0.009358288770053475
     attack for exp: 0.01282051282051282
     defense for exp: 0.022435897435897436
-- target: Pizza Parlor
+- target: Hidden Treasure Stand
   job: Loot
   energy: 363
   exp: 151
@@ -183,7 +183,7 @@
     defense for energy: 0.0013774104683195593
     attack for exp: 0.008278145695364239
     defense for exp: 0.0033112582781456954
-- target: Pizza Parlor
+- target: Carousel
   job: Locate the Girlfriend
   energy: 323
   exp: 134
@@ -195,7 +195,7 @@
   average money per energy: 64
   average money per exp: 154
   loot: []
-- target: Pizza Parlor
+- target: Taco Truck
   job: Poison the Taco Truck
   energy: 291
   exp: 121
@@ -207,7 +207,7 @@
   average money per energy: 64
   average money per exp: 153
   loot: []
-- target: Pizza Parlor
+- target: School Bus
   job: Dismantle the Bus
   energy: 251
   exp: 104
@@ -230,7 +230,7 @@
     defense for energy: 0.00398406374501992
     attack for exp: 0.011057692307692308
     defense for exp: 0.009615384615384616
-- target: Pizza Parlor
+- target: Pickup Truck
   job: Shoot the Tires
   energy: 399
   exp: 166

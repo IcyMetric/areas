@@ -34,7 +34,7 @@
   average money per energy: 29
   average money per exp: 69
   loot: []
-- target: Pizza Parlor
+- target: Italian Embassy
   job: Bug
   energy: 210
   exp: 81
@@ -46,7 +46,7 @@
   average money per energy: 35
   average money per exp: 91
   loot: []
-- target: Pizza Parlor
+- target: Russian Embassy
   job: Spy
   energy: 360
   exp: 144
@@ -69,7 +69,7 @@
     defense for energy: 0.005666666666666667
     attack for exp: 0.009444444444444445
     defense for exp: 0.014166666666666668
-- target: Pizza Parlor
+- target: Chinese Embassy
   job: Steal Dossier
   energy: 270
   exp: 93
@@ -115,7 +115,7 @@
     defense for energy: 0.0
     attack for exp: 0.0
     defense for exp: 0.0
-- target: Pizza Parlor
+- target: UN Headquarters
   job: Kidnap Ambassador
   energy: 240
   exp: 92
@@ -252,7 +252,7 @@
     defense for energy: 0.0002105263157894737
     attack for exp: 0.00018909549322407816
     defense for exp: 0.0006807437756066813
-- target: Pizza Parlor
+- target: UN Headquarters
   job: Rob Diplomat
   energy: 420
   exp: 143
@@ -287,7 +287,7 @@
   average money per energy: 29
   average money per exp: 69
   loot: []
-- target: Pizza Parlor
+- target: Courthouse
   job: Pay Off Judge
   energy: 480
   exp: 149
@@ -310,7 +310,7 @@
     defense for energy: 0.001575
     attack for exp: 0.0019328859060402685
     defense for exp: 0.005073825503355705
-- target: Pizza Parlor
+- target: Memorial Library
   job: Set Up Snipers
   energy: 270
   exp: 93
@@ -322,7 +322,7 @@
   average money per energy: 43
   average money per exp: 127
   loot: []
-- target: Pizza Parlor
+- target: Municipal Police Station
   job: Infiltrate Security
   energy: 360
   exp: 123
@@ -345,7 +345,7 @@
     defense for energy: 0.0021111111111111113
     attack for exp: 0.008238482384823848
     defense for exp: 0.006178861788617886
-- target: Pizza Parlor
+- target: Obelisk
   job: Plant Bomb
   energy: 180
   exp: 75
@@ -357,7 +357,7 @@
   average money per energy: 29
   average money per exp: 69
   loot: []
-- target: Pizza Parlor
+- target: Stretch Limo
   job: Hold Attache Hostage
   energy: 300
   exp: 109
@@ -369,7 +369,7 @@
   average money per energy: 46
   average money per exp: 126
   loot: []
-- target: Pizza Parlor
+- target: Bolero
   job: Set Up Arms Deal
   energy: 240
   exp: 92
@@ -392,7 +392,7 @@
     defense for energy: 0.004333333333333333
     attack for exp: 0.01391304347826087
     defense for exp: 0.011304347826086957
-- target: Pizza Parlor
+- target: Emissary
   job: Smuggle Weapons
   energy: 270
   exp: 93

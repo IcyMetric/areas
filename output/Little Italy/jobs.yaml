@@ -1,5 +1,5 @@
 ---
-- target: Pizza Parlor
+- target: Old Tenement
   job: Ask about Riccis
   energy: 12
   exp: 1
@@ -23,7 +23,7 @@
   average money per energy: 3
   average money per exp: 28
   loot: []
-- target: Pizza Parlor
+- target: Church
   job: Stash Illegal Goods
   energy: 24
   exp: 3
@@ -46,7 +46,7 @@
     defense for energy: 0.0025
     attack for exp: 0.02
     defense for exp: 0.02
-- target: Pizza Parlor
+- target: Little Italy Art Gallery
   job: Sell Art Forgeries
   energy: 20
   exp: 2
@@ -58,7 +58,7 @@
   average money per energy: 4
   average money per exp: 40
   loot: []
-- target: Pizza Parlor
+- target: Italian Import Shop
   job: Import Italian Goods
   energy: 22
   exp: 2
@@ -81,7 +81,7 @@
     defense for energy: 0.0018181818181818182
     attack for exp: 0.01
     defense for exp: 0.02
-- target: Pizza Parlor
+- target: Meat Factory
   job: Get Rid of Evidence
   energy: 54
   exp: 7
@@ -104,7 +104,7 @@
     defense for energy: 0.001388888888888889
     attack for exp: 0.021428571428571425
     defense for exp: 0.010714285714285713
-- target: Pizza Parlor
+- target: Mini Mart
   job: Rob
   energy: 18
   exp: 2
@@ -116,7 +116,7 @@
   average money per energy: 2
   average money per exp: 26
   loot: []
-- target: Pizza Parlor
+- target: Italian Pastry Bar
   job: Question Ricci Agent
   energy: 10
   exp: 1
@@ -128,7 +128,7 @@
   average money per energy: 1
   average money per exp: 15
   loot: []
-- target: Pizza Parlor
+- target: Italian Cafe
   job: Break Up Ricci meeting
   energy: 48
   exp: 6
@@ -151,7 +151,7 @@
     defense for energy: 0.0
     attack for exp: 0.0
     defense for exp: 0.0
-- target: Pizza Parlor
+- target: Little Italy Barber Shop
   job: Take Out Ricci Patron
   energy: 36
   exp: 5
@@ -174,7 +174,7 @@
     defense for energy: 0.00375
     attack for exp: 0.009
     defense for exp: 0.027
-- target: Pizza Parlor
+- target: Italian Bakery
   job: Plant bug in Ricci hangout
   energy: 25
   exp: 4
@@ -324,7 +324,7 @@
   average money per energy: 1
   average money per exp: 12
   loot: []
-- target: Pizza Parlor
+- target: Pharmacy
   job: Pocket Knockout Drops
   energy: 30
   exp: 2
@@ -347,7 +347,7 @@
     defense for energy: 0.0013333333333333333
     attack for exp: 0.02
     defense for exp: 0.02
-- target: Pizza Parlor
+- target: Armored Truck
   job: Hit Truck
   energy: 33
   exp: 4
@@ -370,7 +370,7 @@
     defense for energy: 0.0030303030303030303
     attack for exp: 0.025
     defense for exp: 0.025
-- target: Pizza Parlor
+- target: Fish Market
   job: Put Body on Ice
   energy: 34
   exp: 4
@@ -393,7 +393,7 @@
     defense for energy: 0.013235294117647057
     attack for exp: 0.075
     defense for exp: 0.11249999999999999
-- target: Pizza Parlor
+- target: House
   job: Offer Protection
   energy: 15
   exp: 1
@@ -405,7 +405,7 @@
   average money per energy: 2
   average money per exp: 37
   loot: []
-- target: Pizza Parlor
+- target: Latino Gift Shop
   job: Push Counterfeit Goods
   energy: 27
   exp: 2
@@ -428,7 +428,7 @@
     defense for energy: 0.02
     attack for exp: 0.135
     defense for exp: 0.27
-- target: Pizza Parlor
+- target: Apartments
   job: Rough-Up Super
   energy: 26
   exp: 3
@@ -451,7 +451,7 @@
     defense for energy: 0.0
     attack for exp: 0.08
     defense for exp: 0.0
-- target: Pizza Parlor
+- target: Garbage Truck
   job: Dispose of Evidence
   energy: 25
   exp: 3
@@ -463,7 +463,7 @@
   average money per energy: 2
   average money per exp: 18
   loot: []
-- target: Pizza Parlor
+- target: Electronics Store
   job: Steal Surveillance Gear
   energy: 12
   exp: 1

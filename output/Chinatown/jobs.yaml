@@ -1,5 +1,5 @@
 ---
-- target: Pizza Parlor
+- target: Chinese Restaurant
   job: Wiretap Conversation
   energy: 166
   exp: 54
@@ -11,7 +11,7 @@
   average money per energy: 17
   average money per exp: 53
   loot: []
-- target: Pizza Parlor
+- target: Chinatown Grocery Store
   job: Poison Triad Food
   energy: 250
   exp: 80
@@ -34,7 +34,7 @@
     defense for energy: 0.002304
     attack for exp: 0.0056
     defense for exp: 0.0072
-- target: Pizza Parlor
+- target: Chinatown Gift Shop
   job: Pick Up Knock-offs
   energy: 125
   exp: 27
@@ -57,7 +57,7 @@
     defense for energy: 0.0168
     attack for exp: 0.044444444444444446
     defense for exp: 0.07777777777777778
-- target: Pizza Parlor
+- target: Chinese Embassy
   job: Intimidate Ambassador
   energy: 242
   exp: 80
@@ -80,7 +80,7 @@
     defense for energy: 0.0023140495867768596
     attack for exp: 0.007875000000000002
     defense for exp: 0.007000000000000001
-- target: Pizza Parlor
+- target: Chinatown Bank
   job: Break into Triad vault
   energy: 480
   exp: 122
@@ -103,7 +103,7 @@
     defense for energy: 0.00043541666666666663
     attack for exp: 0.0003606557377049181
     defense for exp: 0.0017131147540983608
-- target: Pizza Parlor
+- target: Jade Shop
   job: Steal Triad shipment
   energy: 330
   exp: 78
@@ -126,7 +126,7 @@
     defense for energy: 0.0011616161616161617
     attack for exp: 0.006388888888888889
     defense for exp: 0.004914529914529915
-- target: Pizza Parlor
+- target: Chinatown Jewelry Store
   job: Shake Down
   energy: 175
   exp: 37
@@ -149,7 +149,7 @@
     defense for energy: 0.0037142857142857142
     attack for exp: 0.014054054054054056
     defense for exp: 0.01756756756756757
-- target: Pizza Parlor
+- target: Teahouse
   job: Set Up Opium trade
   energy: 190
   exp: 48
@@ -172,7 +172,7 @@
     defense for energy: 0.0029999999999999996
     attack for exp: 0.0025
     defense for exp: 0.011875
-- target: Pizza Parlor
+- target: House
   job: Search Triad hideout
   energy: 95
   exp: 30
@@ -322,7 +322,7 @@
   average money per energy: 15
   average money per exp: 67
   loot: []
-- target: Pizza Parlor
+- target: Shoe Store
   job: Hawk Knockoffs
   energy: 92
   exp: 22
@@ -334,7 +334,7 @@
   average money per energy: 23
   average money per exp: 97
   loot: []
-- target: Pizza Parlor
+- target: Muay Thai Studio
   job: Test Your Mettle
   energy: 135
   exp: 40
@@ -357,7 +357,7 @@
     defense for energy: 0.008888888888888889
     attack for exp: 0.03
     defense for exp: 0.03
-- target: Pizza Parlor
+- target: Tenement
   job: Rough Up Residents
   energy: 236
   exp: 75
@@ -380,7 +380,7 @@
     defense for energy: 0.0020702179176755446
     attack for exp: 0.007238095238095238
     defense for exp: 0.006514285714285715
-- target: Pizza Parlor
+- target: Latino Gift Shop
   job: Scam Tourists
   energy: 128
   exp: 30
@@ -392,7 +392,7 @@
   average money per energy: 21
   average money per exp: 91
   loot: []
-- target: Pizza Parlor
+- target: Electronics Shack
   job: Smash Storefront
   energy: 380
   exp: 128
@@ -415,7 +415,7 @@
     defense for energy: 0.001894736842105263
     attack for exp: 0.0028125
     defense for exp: 0.005625
-- target: Pizza Parlor
+- target: House
   job: Hide Stolen Goods
   energy: 140
   exp: 30
@@ -427,7 +427,7 @@
   average money per energy: 23
   average money per exp: 111
   loot: []
-- target: Pizza Parlor
+- target: Fish Market
   job: Pump for Information
   energy: 154
   exp: 48

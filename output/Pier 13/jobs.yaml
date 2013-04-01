@@ -1,5 +1,5 @@
 ---
-- target: Pizza Parlor
+- target: Small Projects
   job: Set Up Hideout
   energy: 160
   exp: 40
@@ -22,7 +22,7 @@
     defense for energy: 0.0039375
     attack for exp: 0.01575
     defense for exp: 0.01575
-- target: Pizza Parlor
+- target: Warehouse
   job: Threaten Foreman
   energy: 154
   exp: 47
@@ -45,7 +45,7 @@
     defense for energy: 0.008474025974025974
     attack for exp: 0.03085106382978723
     defense for exp: 0.027765957446808508
-- target: Pizza Parlor
+- target: Shipping Crane
   job: Hijack Electronics
   energy: 310
   exp: 76
@@ -68,7 +68,7 @@
     defense for energy: 0.0014838709677419356
     attack for exp: 0.008646616541353383
     defense for exp: 0.0060526315789473685
-- target: Pizza Parlor
+- target: Shipping Crane
   job: Steal Persian Rugs
   energy: 330
   exp: 80
@@ -161,7 +161,7 @@
     defense for energy: 0.001080701754385965
     attack for exp: 0.007123809523809524
     defense for exp: 0.0029333333333333334
-- target: Pizza Parlor
+- target: Large Projects
   job: Plant Evidence
   energy: 138
   exp: 48
@@ -241,7 +241,7 @@
     defense for energy: 0.0002876712328767123
     attack for exp: 0.00018749999999999998
     defense for exp: 0.0007499999999999999
-- target: Pizza Parlor
+- target: Chem Lab
   job: Stash Contraband
   energy: 240
   exp: 70
@@ -264,7 +264,7 @@
     defense for energy: 0.002361111111111111
     attack for exp: 0.010523809523809524
     defense for exp: 0.008095238095238096
-- target: Pizza Parlor
+- target: Factory
   job: Steal Equipment
   energy: 254
   exp: 71
@@ -287,7 +287,7 @@
     defense for energy: 0.005669291338582677
     attack for exp: 0.005633802816901409
     defense for exp: 0.02028169014084507
-- target: Pizza Parlor
+- target: Red Cascade
   job: Break In
   energy: 195
   exp: 60
@@ -299,7 +299,7 @@
   average money per energy: 24
   average money per exp: 78
   loot: []
-- target: Pizza Parlor
+- target: Shipping Crane
   job: Replace Cargo
   energy: 235
   exp: 56
@@ -322,7 +322,7 @@
     defense for energy: 0.008893617021276596
     attack for exp: 0.023749999999999997
     defense for exp: 0.03732142857142857
-- target: Pizza Parlor
+- target: Warehouse
   job: Bribe Workers
   energy: 140
   exp: 44
@@ -334,7 +334,7 @@
   average money per energy: 22
   average money per exp: 72
   loot: []
-- target: Pizza Parlor
+- target: Wholesale Warehouse
   job: Alter Destination
   energy: 165
   exp: 42
@@ -346,7 +346,7 @@
   average money per energy: 18
   average money per exp: 73
   loot: []
-- target: Pizza Parlor
+- target: Minivan
   job: Puncture Tires
   energy: 185
   exp: 62
@@ -358,7 +358,7 @@
   average money per energy: 21
   average money per exp: 65
   loot: []
-- target: Pizza Parlor
+- target: Pickup Truck
   job: Cut Brakes
   energy: 218
   exp: 72

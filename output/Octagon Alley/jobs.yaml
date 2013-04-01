@@ -1,5 +1,5 @@
 ---
-- target: Pizza Parlor
+- target: Loan Shark Office
   job: Rip Off
   energy: 196
   exp: 97
@@ -22,7 +22,7 @@
     defense for energy: 0.0026020408163265306
     attack for exp: 0.004329896907216494
     defense for exp: 0.005257731958762887
-- target: Pizza Parlor
+- target: Purple Viper
   job: Break in
   energy: 327
   exp: 127
@@ -68,7 +68,7 @@
     defense for energy: 0.0012746972594008922
     attack for exp: 0.0036127167630057803
     defense for exp: 0.0038535645472061657
-- target: Pizza Parlor
+- target: Muay Thai Studio
   job: Smash Up
   energy: 163
   exp: 81
@@ -103,7 +103,7 @@
     defense for energy: 0.0029605263157894733
     attack for exp: 0.00625
     defense for exp: 0.00625
-- target: Pizza Parlor
+- target: Cage Fight Arena
   job: Disrupt Event
   energy: 294
   exp: 128
@@ -126,7 +126,7 @@
     defense for energy: 0.0038095238095238095
     attack for exp: 0.0075
     defense for exp: 0.00875
-- target: Pizza Parlor
+- target: Mob Doctor's Office
   job: Enlist Doctors
   energy: 392
   exp: 143
@@ -149,7 +149,7 @@
     defense for energy: 0.002891156462585034
     attack for exp: 0.007459207459207459
     defense for exp: 0.007925407925407926
-- target: Pizza Parlor
+- target: Pharmacy
   job: Steal Meds
   energy: 327
   exp: 127
@@ -161,7 +161,7 @@
   average money per energy: 54
   average money per exp: 139
   loot: []
-- target: Pizza Parlor
+- target: Black Lowrider
   job: Break Windows
   energy: 261
   exp: 107
@@ -264,7 +264,7 @@
     defense for energy: 0.0001530612244897959
     attack for exp: 0.00046285714285714284
     defense for exp: 0.0005142857142857143
-- target: Pizza Parlor
+- target: Safehouse
   job: Clear Out
   energy: 327
   exp: 127
@@ -287,7 +287,7 @@
     defense for energy: 0.0023853211009174312
     attack for exp: 0.009448818897637793
     defense for exp: 0.006141732283464566
-- target: Pizza Parlor
+- target: Red Cascade
   job: Steal Stereo
   energy: 261
   exp: 107
@@ -310,7 +310,7 @@
     defense for energy: 0.0032019704433497538
     attack for exp: 0.00540720961281709
     defense for exp: 0.007810413885180241
-- target: Pizza Parlor
+- target: Chem Lab
   job: Steal Enhancers
   energy: 327
   exp: 127
@@ -333,7 +333,7 @@
     defense for energy: 0.0023853211009174312
     attack for exp: 0.008188976377952756
     defense for exp: 0.006141732283464567
-- target: Pizza Parlor
+- target: Rundown Apartments
   job: Take Bets
   energy: 196
   exp: 97
@@ -345,7 +345,7 @@
   average money per energy: 30
   average money per exp: 61
   loot: []
-- target: Pizza Parlor
+- target: Warehouse
   job: Set Up Gambling Ring
   energy: 294
   exp: 109
@@ -368,7 +368,7 @@
     defense for energy: 0.003673469387755102
     attack for exp: 0.007706422018348624
     defense for exp: 0.009908256880733945
-- target: Pizza Parlor
+- target: Fitness Gym
   job: Intimidate Contenders
   energy: 392
   exp: 143

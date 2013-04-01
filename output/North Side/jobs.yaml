@@ -1,5 +1,5 @@
 ---
-- target: Pizza Parlor
+- target: Rundown Apartments
   job: Cap Gang Tags
   energy: 310
   exp: 136
@@ -22,7 +22,7 @@
     defense for energy: 0.0012043010752688173
     attack for exp: 0.00411764705882353
     defense for exp: 0.0027450980392156863
-- target: Pizza Parlor
+- target: Brownstone
   job: Steal Stash
   energy: 172
   exp: 59
@@ -57,7 +57,7 @@
   average money per energy: 32
   average money per exp: 110
   loot: []
-- target: Pizza Parlor
+- target: Abandoned Building
   job: Bust Up Hideout
   energy: 450
   exp: 206
@@ -80,7 +80,7 @@
     defense for energy: 0.0009777777777777777
     attack for exp: 0.002524271844660194
     defense for exp: 0.0021359223300970874
-- target: Pizza Parlor
+- target: Baptist Church
   job: Take Hostages
   energy: 410
   exp: 178
@@ -103,7 +103,7 @@
     defense for energy: 0.0019121951219512197
     attack for exp: 0.0015730337078651685
     defense for exp: 0.004404494382022472
-- target: Pizza Parlor
+- target: Zeus Theater
   job: Mug Patrons
   energy: 133
   exp: 50
@@ -252,7 +252,7 @@
     defense for energy: 0.0001834862385321101
     attack for exp: 0.00031666666666666665
     defense for exp: 0.0004
-- target: Pizza Parlor
+- target: Chicken and Waffles
   job: Shake Down
   energy: 325
   exp: 110
@@ -275,7 +275,7 @@
     defense for energy: 0.002215384615384615
     attack for exp: 0.007636363636363636
     defense for exp: 0.006545454545454545
-- target: Pizza Parlor
+- target: Mini Mart
   job: Heist Cigarettes
   energy: 188
   exp: 63
@@ -298,7 +298,7 @@
     defense for energy: 0.0007446808510638298
     attack for exp: 0.0022222222222222222
     defense for exp: 0.0022222222222222222
-- target: Pizza Parlor
+- target: Bar
   job: Take Booze
   energy: 140
   exp: 49
@@ -310,7 +310,7 @@
   average money per energy: 30
   average money per exp: 86
   loot: []
-- target: Pizza Parlor
+- target: Large Projects
   job: Shoot Out Windows
   energy: 336
   exp: 149
@@ -333,7 +333,7 @@
     defense for energy: 0.0008333333333333334
     attack for exp: 0.0018791946308724832
     defense for exp: 0.0018791946308724832
-- target: Pizza Parlor
+- target: Laundromat
   job: Steal a Disguise
   energy: 210
   exp: 76
@@ -356,7 +356,7 @@
     defense for energy: 0.0023333333333333335
     attack for exp: 0.00368421052631579
     defense for exp: 0.006447368421052632
-- target: Pizza Parlor
+- target: Apartments
   job: Threaten Family
   energy: 178
   exp: 70
@@ -368,7 +368,7 @@
   average money per energy: 26
   average money per exp: 67
   loot: []
-- target: Pizza Parlor
+- target: Pawn Shop
   job: Hawk Stolen Goods
   energy: 150
   exp: 51
@@ -380,7 +380,7 @@
   average money per energy: 30
   average money per exp: 88
   loot: []
-- target: Pizza Parlor
+- target: Chop Shop
   job: Bust Up Equipment
   energy: 365
   exp: 166
@@ -403,7 +403,7 @@
     defense for energy: 0.0009589041095890411
     attack for exp: 0.0007530120481927711
     defense for exp: 0.002108433734939759
-- target: Pizza Parlor
+- target: Mini Mart
   job: Stick Up
   energy: 167
   exp: 57
@@ -415,7 +415,7 @@
   average money per energy: 32
   average money per exp: 96
   loot: []
-- target: Pizza Parlor
+- target: House
   job: Menace Gangsters
   energy: 340
   exp: 153
@@ -438,7 +438,7 @@
     defense for energy: 0.0008823529411764706
     attack for exp: 0.0015250544662309367
     defense for exp: 0.00196078431372549
-- target: Pizza Parlor
+- target: Tenement
   job: Rip Off Stash
   energy: 284
   exp: 85

@@ -1,5 +1,5 @@
 ---
-- target: Pizza Parlor
+- target: Basketball Court
   job: Sell Goods
   energy: 14
   exp: 1
@@ -22,7 +22,7 @@
     defense for energy: 0.008571428571428572
     attack for exp: 0.24
     defense for exp: 0.12
-- target: Pizza Parlor
+- target: Mini Mart
   job: Rob
   energy: 15
   exp: 1
@@ -171,7 +171,7 @@
     defense for energy: 0.008275862068965516
     attack for exp: 0.12
     defense for exp: 0.12
-- target: Pizza Parlor
+- target: Apartments
   job: Break In
   energy: 17
   exp: 1
@@ -194,7 +194,7 @@
     defense for energy: 0.025882352941176474
     attack for exp: 0.21999999999999997
     defense for exp: 0.43999999999999995
-- target: Pizza Parlor
+- target: Pawn Shop
   job: Pawn Off Stolen Merchandise
   energy: 12
   exp: 1
@@ -217,7 +217,7 @@
     defense for energy: 0.011666666666666667
     attack for exp: 0.07
     defense for exp: 0.14
-- target: Pizza Parlor
+- target: Deli
   job: Crack Safe
   energy: 42
   exp: 3
@@ -240,7 +240,7 @@
     defense for energy: 0.0007142857142857143
     attack for exp: 0.01
     defense for exp: 0.01
-- target: Pizza Parlor
+- target: Meat Factory
   job: Steal Employee Payroll
   energy: 18
   exp: 1
@@ -263,7 +263,7 @@
     defense for energy: 0.008888888888888889
     attack for exp: 0.16
     defense for exp: 0.16
-- target: Pizza Parlor
+- target: Laundromat
   job: Steal Clothes Out of Dryer
   energy: 15
   exp: 1
@@ -287,7 +287,7 @@
   average money per energy: 1
   average money per exp: 17
   loot: []
-- target: Pizza Parlor
+- target: Loan Shark Office
   job: Shakedown
   energy: 15
   exp: 1
@@ -310,7 +310,7 @@
     defense for energy: 0.004
     attack for exp: 0.18
     defense for exp: 0.06
-- target: Pizza Parlor
+- target: Chicken and Waffles
   job: Stakeout
   energy: 12
   exp: 1
@@ -322,7 +322,7 @@
   average money per energy: 1
   average money per exp: 17
   loot: []
-- target: Pizza Parlor
+- target: Old Tenement
   job: Find the Snitch
   energy: 17
   exp: 1
@@ -345,7 +345,7 @@
     defense for energy: 0.009411764705882352
     attack for exp: 0.16
     defense for exp: 0.16
-- target: Pizza Parlor
+- target: Motel
   job: Bribe Manager
   energy: 15
   exp: 1

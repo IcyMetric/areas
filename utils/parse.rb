@@ -74,7 +74,7 @@ areas.each do |area|
         if area_building.nil?
             next
         end
-        building = buildings.select{ |b| b[ 'id' ] = area_building[ 'building_id' ] }.first
+        building = buildings.select{ |b| b[ 'id' ] == area_building[ 'building_id' ] }.first
         job_meta[ 'target' ] = building[ 'name' ].force_encoding("UTF-8")
     end
     job_meta[ 'job' ] = job[ 'name' ].force_encoding("UTF-8")

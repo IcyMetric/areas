@@ -1,5 +1,5 @@
 ---
-- target: Pizza Parlor
+- target: Bagel Shop
   job: Steal Secret Recipe
   energy: 140
   exp: 31
@@ -22,7 +22,7 @@
     defense for energy: 0.003142857142857143
     attack for exp: 0.007741935483870968
     defense for exp: 0.014193548387096775
-- target: Pizza Parlor
+- target: Kosher Butcher
   job: Collect Vig
   energy: 118
   exp: 25
@@ -45,7 +45,7 @@
     defense for energy: 0.01271186440677966
     attack for exp: 0.05999999999999999
     defense for exp: 0.05999999999999999
-- target: Pizza Parlor
+- target: Kosher Deli
   job: Steal Credit Card Numbers
   energy: 300
   exp: 72
@@ -68,7 +68,7 @@
     defense for energy: 0.0010666666666666667
     attack for exp: 0.008888888888888889
     defense for exp: 0.0044444444444444444
-- target: Pizza Parlor
+- target: Jewish Community Center
   job: Plant Hidden Camera
   energy: 112
   exp: 37
@@ -80,7 +80,7 @@
   average money per energy: 13
   average money per exp: 41
   loot: []
-- target: Pizza Parlor
+- target: Synagogue
   job: Assassinate Henchmen
   energy: 260
   exp: 89
@@ -103,7 +103,7 @@
     defense for energy: 0.0014835164835164836
     attack for exp: 0.0056340288924558585
     defense for exp: 0.004333868378812199
-- target: Pizza Parlor
+- target: Old Tenement
   job: Rob
   energy: 105
   exp: 22
@@ -115,7 +115,7 @@
   average money per energy: 19
   average money per exp: 93
   loot: []
-- target: Pizza Parlor
+- target: Old Tenement
   job: Crack Safe
   energy: 440
   exp: 122
@@ -287,7 +287,7 @@
     defense for energy: 0.0015254237288135593
     attack for exp: 0.005714285714285714
     defense for exp: 0.004675324675324675
-- target: Pizza Parlor
+- target: Municipal Hospital
   job: Intercept Shipment
   energy: 185
   exp: 45
@@ -310,7 +310,7 @@
     defense for energy: 0.0019459459459459458
     attack for exp: 0.004
     defense for exp: 0.008
-- target: Pizza Parlor
+- target: Parkside Apartments
   job: Offer Protection
   energy: 115
   exp: 34
@@ -322,7 +322,7 @@
   average money per energy: 19
   average money per exp: 66
   loot: []
-- target: Pizza Parlor
+- target: Electronics Store
   job: Smash Storefront
   energy: 350
   exp: 116
@@ -345,7 +345,7 @@
     defense for energy: 0.0016457142857142857
     attack for exp: 0.001379310344827586
     defense for exp: 0.004965517241379311
-- target: Pizza Parlor
+- target: Pharmacy
   job: Steal Generic Drugs
   energy: 275
   exp: 69

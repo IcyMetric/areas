@@ -1,5 +1,5 @@
 ---
-- target: Pizza Parlor
+- target: Food Truck
   job: Collect Payment
   energy: 368
   exp: 149
@@ -22,7 +22,7 @@
     defense for energy: 0.002717391304347826
     attack for exp: 0.015436241610738255
     defense for exp: 0.006711409395973154
-- target: Pizza Parlor
+- target: Portable Toilet
   job: Tip
   energy: 325
   exp: 132
@@ -34,7 +34,7 @@
   average money per energy: 60
   average money per exp: 147
   loot: []
-- target: Pizza Parlor
+- target: Jewelry Stand
   job: Loot
   energy: 373
   exp: 151
@@ -57,7 +57,7 @@
     defense for energy: 0.004289544235924933
     attack for exp: 0.020309050772626933
     defense for exp: 0.010596026490066225
-- target: Pizza Parlor
+- target: Accessories Stand
   job: Launder Money
   energy: 301
   exp: 122
@@ -80,7 +80,7 @@
     defense for energy: 0.0049833887043189366
     attack for exp: 0.020491803278688523
     defense for exp: 0.012295081967213115
-- target: Pizza Parlor
+- target: Hidden Treasure Stand
   job: Dispose of Evidence
   energy: 261
   exp: 106
@@ -103,7 +103,7 @@
     defense for energy: 0.0026053639846743294
     attack for exp: 0.009433962264150943
     defense for exp: 0.006415094339622641
-- target: Pizza Parlor
+- target: Fruit and Vegetable Stand
   job: Deliver Goods
   energy: 373
   exp: 151
@@ -115,7 +115,7 @@
   average money per energy: 60
   average money per exp: 148
   loot: []
-- target: Pizza Parlor
+- target: Tropical Produce Stand
   job: Change Inventory
   energy: 333
   exp: 135
@@ -138,7 +138,7 @@
     defense for energy: 0.0045045045045045045
     attack for exp: 0.025555555555555557
     defense for exp: 0.011111111111111112
-- target: Pizza Parlor
+- target: Fish Stand
   job: Replace Merchandise
   energy: 302
   exp: 122
@@ -161,7 +161,7 @@
     defense for energy: 0.0033112582781456954
     attack for exp: 0.015710382513661202
     defense for exp: 0.00819672131147541
-- target: Pizza Parlor
+- target: Plant Stand
   job: Take Guns
   energy: 262
   exp: 106

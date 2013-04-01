@@ -1,5 +1,5 @@
 ---
-- target: Pizza Parlor
+- target: Art Museum
   job: Pilfer from the Dragon Gang
   energy: 383
   exp: 165
@@ -22,7 +22,7 @@
     defense for energy: 0.003426892950391645
     attack for exp: 0.00946969696969697
     defense for exp: 0.007954545454545454
-- target: Pizza Parlor
+- target: Spa
   job: Ambush the Tiger Gang
   energy: 527
   exp: 227
@@ -45,7 +45,7 @@
     defense for energy: 0.0014231499051233396
     attack for exp: 0.006828193832599119
     defense for exp: 0.003303964757709251
-- target: Pizza Parlor
+- target: Sushi Restaurant
   job: Assassinate the Head of the Tiger Gang
   energy: 590
   exp: 254
@@ -68,7 +68,7 @@
     defense for energy: 0.0038418079096045198
     attack for exp: 0.004199475065616798
     defense for exp: 0.008923884514435695
-- target: Pizza Parlor
+- target: Stretch Limo
   job: Reduce Dragon Gang's Numbers
   energy: 215
   exp: 92
@@ -91,7 +91,7 @@
     defense for energy: 0.0034883720930232558
     attack for exp: 0.01684782608695652
     defense for exp: 0.008152173913043478
-- target: Pizza Parlor
+- target: Executive Car
   job: Hijack some Wheels
   energy: 175
   exp: 75
@@ -103,7 +103,7 @@
   average money per energy: 70
   average money per exp: 163
   loot: []
-- target: Pizza Parlor
+- target: Asian Gift Shop
   job: Loot the Store
   energy: 428
   exp: 184
@@ -126,7 +126,7 @@
     defense for energy: 0.00397196261682243
     attack for exp: 0.004347826086956522
     defense for exp: 0.00923913043478261
-- target: Pizza Parlor
+- target: Asian Market
   job: Rob the Market
   energy: 388
   exp: 167
@@ -138,7 +138,7 @@
   average money per energy: 70
   average money per exp: 162
   loot: []
-- target: Pizza Parlor
+- target: Modern Loft
   job: Procure a Hideout
   energy: 518
   exp: 223
@@ -161,7 +161,7 @@
     defense for energy: 0.0037644787644787645
     attack for exp: 0.009753363228699552
     defense for exp: 0.00874439461883408
-- target: Pizza Parlor
+- target: Jade Shop
   job: Steal from the Tiger Gang
   energy: 478
   exp: 206
@@ -184,7 +184,7 @@
     defense for energy: 0.00444560669456067
     attack for exp: 0.0048543689320388345
     defense for exp: 0.010315533980582525
-- target: Pizza Parlor
+- target: Asian Crime Den
   job: Kill the Dragon Boss
   energy: 253
   exp: 109
@@ -207,7 +207,7 @@
     defense for energy: 0.0033879164313946925
     attack for exp: 0.016251638269986893
     defense for exp: 0.007863695937090432
-- target: Pizza Parlor
+- target: Asian Jewelry Store
   job: Loot the Jewelry
   energy: 213
   exp: 92
@@ -230,7 +230,7 @@
     defense for energy: 0.007981220657276996
     attack for exp: 0.008695652173913044
     defense for exp: 0.01847826086956522
-- target: Pizza Parlor
+- target: Teahouse
   job: Shoot up the Teahouse
   energy: 295
   exp: 127

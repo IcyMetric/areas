@@ -1,5 +1,5 @@
 ---
-- target: Pizza Parlor
+- target: Warehouse
   job: Rob Arms Shipment
   energy: 330
   exp: 68
@@ -22,7 +22,7 @@
     defense for energy: 0.0010606060606060607
     attack for exp: 0.006691176470588236
     defense for exp: 0.0051470588235294126
-- target: Pizza Parlor
+- target: Meat Factory
   job: Raid Rival Warehouse
   energy: 410
   exp: 136
@@ -114,7 +114,7 @@
     defense for energy: 0.0033647058823529415
     attack for exp: 0.0068679245283018876
     defense for exp: 0.01079245283018868
-- target: Pizza Parlor
+- target: Warehouse
   job: Fend Off Police Raid
   energy: 300
   exp: 102
@@ -137,7 +137,7 @@
     defense for energy: 0.00065
     attack for exp: 0.0012745098039215685
     defense for exp: 0.0019117647058823528
-- target: Pizza Parlor
+- target: Warehouse
   job: Clear Storage Space
   energy: 90
   exp: 23
@@ -149,7 +149,7 @@
   average money per energy: 8
   average money per exp: 34
   loot: []
-- target: Pizza Parlor
+- target: Factory
   job: Set Up a Hidden Camera
   energy: 104
   exp: 30
@@ -161,7 +161,7 @@
   average money per energy: 8
   average money per exp: 30
   loot: []
-- target: Pizza Parlor
+- target: Factory
   job: Rob Rival Arms Depot
   energy: 275
   exp: 64
@@ -196,7 +196,7 @@
   average money per energy: 7
   average money per exp: 27
   loot: []
-- target: Pizza Parlor
+- target: Shipping Crane
   job: Booby Trap
   energy: 74
   exp: 15
@@ -208,7 +208,7 @@
   average money per energy: 10
   average money per exp: 50
   loot: []
-- target: Pizza Parlor
+- target: Pickup Truck
   job: Shoot Out Tires
   energy: 132
   exp: 39
@@ -220,7 +220,7 @@
   average money per energy: 8
   average money per exp: 29
   loot: []
-- target: Pizza Parlor
+- target: Steel Mill
   job: Melt Down Rival's Weapons
   energy: 190
   exp: 42
@@ -243,7 +243,7 @@
     defense for energy: 0.0023578947368421053
     attack for exp: 0.012000000000000002
     defense for exp: 0.010666666666666668
-- target: Pizza Parlor
+- target: Steel Mill
   job: Forge Gun Parts
   energy: 148
   exp: 31
@@ -266,7 +266,7 @@
     defense for energy: 0.00563063063063063
     attack for exp: 0.013440860215053764
     defense for exp: 0.026881720430107527
-- target: Pizza Parlor
+- target: Silver Chemical Tank
   job: Investigate
   energy: 94
   exp: 25
@@ -278,7 +278,7 @@
   average money per energy: 7
   average money per exp: 30
   loot: []
-- target: Pizza Parlor
+- target: Silver Chemical Tank
   job: Steal Explosives Supplies
   energy: 220
   exp: 53
@@ -346,7 +346,7 @@
     defense for energy: 0.00020338983050847457
     attack for exp: 0.0006397562833206396
     defense for exp: 0.000594059405940594
-- target: Pizza Parlor
+- target: Chop Shop
   job: Set Up Gambling Ring
   energy: 115
   exp: 21
@@ -358,7 +358,7 @@
   average money per energy: 13
   average money per exp: 71
   loot: []
-- target: Pizza Parlor
+- target: Pawn Shop
   job: Pawn Off Stolen Merchandise
   energy: 70
   exp: 13
@@ -381,7 +381,7 @@
     defense for energy: 0.012857142857142857
     attack for exp: 0.06923076923076922
     defense for exp: 0.06923076923076922
-- target: Pizza Parlor
+- target: Gas Station
   job: Rob
   energy: 108
   exp: 21
@@ -404,7 +404,7 @@
     defense for energy: 0.008333333333333333
     attack for exp: 0.05714285714285714
     defense for exp: 0.04285714285714286
-- target: Pizza Parlor
+- target: Warehouse
   job: Prepare Shipment for Transport
   energy: 84
   exp: 24
@@ -427,7 +427,7 @@
     defense for energy: 0.009523809523809525
     attack for exp: 0.013333333333333334
     defense for exp: 0.03333333333333333
-- target: Pizza Parlor
+- target: Blue Container Car
   job: Rob Shipment
   energy: 115
   exp: 27
@@ -450,7 +450,7 @@
     defense for energy: 0.013043478260869565
     attack for exp: 0.044444444444444446
     defense for exp: 0.05555555555555555
-- target: Pizza Parlor
+- target: Blue Locomotive
   job: Train Robbery
   energy: 160
   exp: 40

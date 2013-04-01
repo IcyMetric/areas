@@ -34,7 +34,7 @@
   average money per energy: 1
   average money per exp: 15
   loot: []
-- target: Pizza Parlor
+- target: Gas Station
   job: Vandalize
   energy: 11
   exp: 1
@@ -57,7 +57,7 @@
     defense for energy: 0.0
     attack for exp: 0.3
     defense for exp: 0.0
-- target: Pizza Parlor
+- target: Mini Mart
   job: Rob
   energy: 12
   exp: 1
@@ -80,7 +80,7 @@
     defense for energy: 0.0
     attack for exp: 2.0
     defense for exp: 0.0
-- target: Pizza Parlor
+- target: Motel
   job: Rob
   energy: 14
   exp: 1
@@ -103,7 +103,7 @@
     defense for energy: 0.017857142857142856
     attack for exp: 0.25
     defense for exp: 0.25
-- target: Pizza Parlor
+- target: Deli
   job: Break In
   energy: 17
   exp: 1

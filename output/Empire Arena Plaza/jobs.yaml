@@ -103,7 +103,7 @@
     defense for energy: 0.004783258594917788
     attack for exp: 0.012560386473429951
     defense for exp: 0.015458937198067632
-- target: Pizza Parlor
+- target: Stadium
   job: Crack Safe
   energy: 279
   exp: 96
@@ -126,7 +126,7 @@
     defense for energy: 0.005017921146953406
     attack for exp: 0.011666666666666667
     defense for exp: 0.014583333333333334
-- target: Pizza Parlor
+- target: Hotel
   job: Spread Rumor
   energy: 167
   exp: 66
@@ -138,7 +138,7 @@
   average money per energy: 25
   average money per exp: 63
   loot: []
-- target: Pizza Parlor
+- target: Shopland Dept. Store
   job: Steal Fur Coat
   energy: 279
   exp: 96
@@ -161,7 +161,7 @@
     defense for energy: 0.003512544802867384
     attack for exp: 0.014583333333333334
     defense for exp: 0.010208333333333335
-- target: Pizza Parlor
+- target: Movie Theater
   job: Rob
   energy: 391
   exp: 126
@@ -173,7 +173,7 @@
   average money per energy: 51
   average money per exp: 160
   loot: []
-- target: Pizza Parlor
+- target: Office Tower
   job: Extort Money
   energy: 335
   exp: 127
@@ -196,7 +196,7 @@
     defense for energy: 0.0032835820895522386
     attack for exp: 0.00562992125984252
     defense for exp: 0.008661417322834646
-- target: Pizza Parlor
+- target: Mega Music Store
   job: Vandalize Posters
   energy: 195
   exp: 71
@@ -208,7 +208,7 @@
   average money per energy: 30
   average money per exp: 84
   loot: []
-- target: Pizza Parlor
+- target: Italian Cafe
   job: Trash Practice Space
   energy: 251
   exp: 82
@@ -231,7 +231,7 @@
     defense for energy: 0.005386454183266932
     attack for exp: 0.011414634146341463
     defense for exp: 0.01648780487804878
-- target: Pizza Parlor
+- target: Jewelry Store
   job: Rob
   energy: 447
   exp: 131
@@ -299,7 +299,7 @@
     defense for energy: 8.161556973945799e-05
     attack for exp: 0.00035615354174910955
     defense for exp: 0.0003086664028492283
-- target: Pizza Parlor
+- target: Taxi Cab
   job: Rob Driver
   energy: 167
   exp: 73
@@ -322,7 +322,7 @@
     defense for energy: 0.009580838323353293
     attack for exp: 0.017534246575342465
     defense for exp: 0.021917808219178082
-- target: Pizza Parlor
+- target: Grand
   job: Shoot Out Windows
   energy: 223
   exp: 69
@@ -345,7 +345,7 @@
     defense for energy: 0.009566517189835576
     attack for exp: 0.012367149758454106
     defense for exp: 0.030917874396135265
-- target: Pizza Parlor
+- target: Boutique
   job: Pilfer Lingerie
   energy: 279
   exp: 96
@@ -357,7 +357,7 @@
   average money per energy: 40
   average money per exp: 116
   loot: []
-- target: Pizza Parlor
+- target: Rock Cafe
   job: Steal Ticket Revenue
   energy: 251
   exp: 82
@@ -369,7 +369,7 @@
   average money per energy: 38
   average money per exp: 116
   loot: []
-- target: Pizza Parlor
+- target: Shoe Store
   job: Steal Promo Merchandise
   energy: 335
   exp: 127
@@ -392,7 +392,7 @@
     defense for energy: 0.00481592039800995
     attack for exp: 0.015013123359580053
     defense for exp: 0.012703412073490815
-- target: Pizza Parlor
+- target: Clothing Store
   job: Shoplift a Handbag
   energy: 195
   exp: 71

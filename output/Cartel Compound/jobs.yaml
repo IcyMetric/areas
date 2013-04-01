@@ -1,5 +1,5 @@
 ---
-- target: Pizza Parlor
+- target: Limousine
   job: Cut Brakes
   energy: 259
   exp: 106
@@ -22,7 +22,7 @@
     defense for energy: 0.0052123552123552125
     attack for exp: 0.01768867924528302
     defense for exp: 0.012735849056603772
-- target: Pizza Parlor
+- target: Fuentes House
   job: Break In
   energy: 378
   exp: 155
@@ -34,7 +34,7 @@
   average money per energy: 62
   average money per exp: 151
   loot: []
-- target: Pizza Parlor
+- target: Executive Car
   job: Take Out Guard
   energy: 317
   exp: 130
@@ -57,7 +57,7 @@
     defense for energy: 0.0037854889589905363
     attack for exp: 0.013846153846153847
     defense for exp: 0.009230769230769232
-- target: Pizza Parlor
+- target: Cartel Stash House
   job: Rob
   energy: 272
   exp: 112
@@ -80,7 +80,7 @@
     defense for energy: 0.009375
     attack for exp: 0.034821428571428566
     defense for exp: 0.022767857142857142
-- target: Pizza Parlor
+- target: Cartel Clubhouse
   job: Find Records
   energy: 232
   exp: 95
@@ -103,7 +103,7 @@
     defense for energy: 0.008189655172413794
     attack for exp: 0.02736842105263158
     defense for exp: 0.02
-- target: Pizza Parlor
+- target: Consigliere's House
   job: Hack Computer
   energy: 373
   exp: 153
@@ -126,7 +126,7 @@
     defense for energy: 0.004021447721179625
     attack for exp: 0.00784313725490196
     defense for exp: 0.00980392156862745
-- target: Pizza Parlor
+- target: Cali House
   job: ! 'Dismantle '
   energy: 333
   exp: 137
@@ -149,7 +149,7 @@
     defense for energy: 0.0045045045045045045
     attack for exp: 0.015206812652068127
     defense for exp: 0.010948905109489052
-- target: Pizza Parlor
+- target: Stretch Limo
   job: Wire Bomb
   energy: 356
   exp: 146
@@ -161,7 +161,7 @@
   average money per energy: 62
   average money per exp: 151
   loot: []
-- target: Pizza Parlor
+- target: Escobar House
   job: Hack Records
   energy: 316
   exp: 130
@@ -173,7 +173,7 @@
   average money per energy: 62
   average money per exp: 150
   loot: []
-- target: Pizza Parlor
+- target: Armored Car
   job: Steal Ammunition
   energy: 362
   exp: 148
@@ -185,7 +185,7 @@
   average money per energy: 62
   average money per exp: 151
   loot: []
-- target: Pizza Parlor
+- target: White Guard House
   job: Cut Power
   energy: 322
   exp: 132
@@ -208,7 +208,7 @@
     defense for energy: 0.005031055900621119
     attack for exp: 0.01840909090909091
     defense for exp: 0.012272727272727274
-- target: Pizza Parlor
+- target: Yellow Guard House
   job: Burn Down
   energy: 384
   exp: 157

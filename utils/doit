@@ -6,9 +6,9 @@ LAST_VERSION=$( git log -n1 | tail -n1 | tr -d ' ' )
 
 wget -rN -np --no-remove-listing -A plist http://${BASE}/
 
-find ${BASE} -newer ${BASE}/${LAST_VERSION}/area.plist -type f -printf "%h\n" | sort -u |\
+find ${BASE} -newer ${BASE}/${LAST_VERSION}/area.plist -type f -printf "%h\n" | sort -u | awk -F/ '{ print $NF }' |\
   while read new_data; do
-    ./util/parse.rb $new_data
+    ./utils/parse.rb $new_data
     git add output/*
     git commit -a -m $new_data && git push
 done

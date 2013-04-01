@@ -1,5 +1,5 @@
 ---
-- target: Pizza Parlor
+- target: Cemetery Administration
   job: Steal Records
   energy: 128
   exp: 26
@@ -22,7 +22,7 @@
     defense for energy: 0.0046875
     attack for exp: 0.011538461538461537
     defense for exp: 0.023076923076923075
-- target: Pizza Parlor
+- target: Octagonal Mausoleum
   job: Break In
   energy: 136
   exp: 25
@@ -92,7 +92,7 @@
   average money per energy: 6
   average money per exp: 25
   loot: []
-- target: Pizza Parlor
+- target: Funeral Hall
   job: Mug Mourners
   energy: 96
   exp: 18
@@ -161,7 +161,7 @@
     defense for energy: 0.0015517241379310344
     attack for exp: 0.006486486486486485
     defense for exp: 0.004864864864864865
-- target: Pizza Parlor
+- target: Crematorium
   job: Burn Body
   energy: 300
   exp: 98
@@ -184,7 +184,7 @@
     defense for energy: 0.0008166666666666667
     attack for exp: 0.0025000000000000005
     defense for exp: 0.0025000000000000005
-- target: Pizza Parlor
+- target: Square Mausoleum
   job: Bury Head
   energy: 335
   exp: 106
@@ -207,7 +207,7 @@
     defense for energy: 0.0014776119402985074
     attack for exp: 0.003632075471698113
     defense for exp: 0.004669811320754717
-- target: Pizza Parlor
+- target: Morgue
   job: Discard Remains
   energy: 165
   exp: 47
@@ -275,7 +275,7 @@
     defense for energy: 0.00020361990950226245
     attack for exp: 0.0006382978723404255
     defense for exp: 0.0005891980360065466
-- target: Pizza Parlor
+- target: Funeral Chapel
   job: Burglarize
   energy: 122
   exp: 25
@@ -298,7 +298,7 @@
     defense for energy: 0.014754098360655736
     attack for exp: 0.047999999999999994
     defense for exp: 0.072
-- target: Pizza Parlor
+- target: Flower Shop
   job: Rob
   energy: 100
   exp: 19
@@ -310,7 +310,7 @@
   average money per energy: 9
   average money per exp: 50
   loot: []
-- target: Pizza Parlor
+- target: Square Mausoleum
   job: Grab Jewelry
   energy: 232
   exp: 53
@@ -333,7 +333,7 @@
     defense for energy: 0.0024137931034482764
     attack for exp: 0.003962264150943397
     defense for exp: 0.010566037735849057
-- target: Pizza Parlor
+- target: White Winscott
   job: Slash Tires
   energy: 105
   exp: 29
@@ -345,7 +345,7 @@
   average money per energy: 7
   average money per exp: 25
   loot: []
-- target: Pizza Parlor
+- target: Grey Goliath
   job: Jimmy Trunk
   energy: 125
   exp: 35
@@ -368,7 +368,7 @@
     defense for energy: 0.0072
     attack for exp: 0.012857142857142857
     defense for exp: 0.025714285714285714
-- target: Pizza Parlor
+- target: Octagonal Mausoleum
   job: Dump Bodies
   energy: 256
   exp: 86
@@ -391,7 +391,7 @@
     defense for energy: 0.0012369791666666668
     attack for exp: 0.0022093023255813954
     defense for exp: 0.003682170542635659
-- target: Pizza Parlor
+- target: Minivan
   job: Steal Purse
   energy: 75
   exp: 12
@@ -403,7 +403,7 @@
   average money per energy: 9
   average money per exp: 58
   loot: []
-- target: Pizza Parlor
+- target: Grand
   job: Boost Stereo
   energy: 90
   exp: 17
@@ -415,7 +415,7 @@
   average money per energy: 9
   average money per exp: 48
   loot: []
-- target: Pizza Parlor
+- target: Gazebo
   job: Cache Ammo
   energy: 196
   exp: 43
@@ -438,7 +438,7 @@
     defense for energy: 0.0017959183673469385
     attack for exp: 0.009209302325581396
     defense for exp: 0.008186046511627907
-- target: Pizza Parlor
+- target: Church
   job: Install Sniper
   energy: 108
   exp: 32
@@ -450,7 +450,7 @@
   average money per energy: 7
   average money per exp: 26
   loot: []
-- target: Pizza Parlor
+- target: Russian Church
   job: Forge Death Notices
   energy: 140
   exp: 41

@@ -171,7 +171,7 @@
     defense for energy: 0.004074074074074074
     attack for exp: 0.006111111111111111
     defense for exp: 0.024444444444444446
-- target: Pizza Parlor
+- target: Lakeside Restaurant
   job: Rob Park Patrons
   energy: 68
   exp: 16
@@ -194,7 +194,7 @@
     defense for energy: 0.003676470588235294
     attack for exp: 0.00625
     defense for exp: 0.015625
-- target: Pizza Parlor
+- target: Museum
   job: Steal Valuable Art Work
   energy: 75
   exp: 22
@@ -217,7 +217,7 @@
     defense for energy: 0.0003
     attack for exp: 0.0003409090909090909
     defense for exp: 0.0010227272727272726
-- target: Pizza Parlor
+- target: Zoo
   job: Hold Patrons Hostage
   energy: 132
   exp: 18
@@ -263,7 +263,7 @@
     defense for energy: 0.005645161290322581
     attack for exp: 0.015555555555555557
     defense for exp: 0.038888888888888896
-- target: Pizza Parlor
+- target: Parkside Apartments
   job: Search Ricci Hideout
   energy: 45
   exp: 12
@@ -286,7 +286,7 @@
     defense for energy: 0.0026666666666666666
     attack for exp: 0.01
     defense for exp: 0.01
-- target: Pizza Parlor
+- target: Spa
   job: Surveil Meeting
   energy: 33
   exp: 10
@@ -298,7 +298,7 @@
   average money per energy: 3
   average money per exp: 13
   loot: []
-- target: Pizza Parlor
+- target: Modern Loft
   job: Make Secret Drop
   energy: 56
   exp: 33
@@ -321,7 +321,7 @@
     defense for energy: 0.017142857142857144
     attack for exp: 0.014545454545454545
     defense for exp: 0.02909090909090909
-- target: Pizza Parlor
+- target: Modern Loft
   job: Trash Ricci Loft
   energy: 147
   exp: 6
@@ -344,7 +344,7 @@
     defense for energy: 0.0006122448979591836
     attack for exp: 0.02
     defense for exp: 0.015
-- target: Pizza Parlor
+- target: Condos
   job: Burglarize
   energy: 50
   exp: 9
@@ -367,7 +367,7 @@
     defense for energy: 0.0048
     attack for exp: 0.04
     defense for exp: 0.02666666666666667
-- target: Pizza Parlor
+- target: Van
   job: Booby-Trap Package
   energy: 33
   exp: 18
@@ -379,7 +379,7 @@
   average money per energy: 3
   average money per exp: 6
   loot: []
-- target: Pizza Parlor
+- target: Obelisk
   job: Deface
   energy: 45
   exp: 9

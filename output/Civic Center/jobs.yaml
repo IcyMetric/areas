@@ -1,5 +1,5 @@
 ---
-- target: Pizza Parlor
+- target: Police Station
   job: Destroy Evidence
   energy: 32
   exp: 7
@@ -80,7 +80,7 @@
     defense for energy: 0.01
     attack for exp: 0.09
     defense for exp: 0.06
-- target: Pizza Parlor
+- target: Bank
   job: Conduct Bank Heist
   energy: 108
   exp: 18
@@ -126,7 +126,7 @@
     defense for energy: 0.015428571428571427
     attack for exp: 0.045
     defense for exp: 0.135
-- target: Pizza Parlor
+- target: City Hall
   job: Firebomb
   energy: 95
   exp: 16
@@ -194,7 +194,7 @@
     defense for energy: 0.005806451612903225
     attack for exp: 0.01
     defense for exp: 0.03
-- target: Pizza Parlor
+- target: Old Tenement
   job: Rob
   energy: 20
   exp: 3
@@ -206,7 +206,7 @@
   average money per energy: 3
   average money per exp: 24
   loot: []
-- target: Pizza Parlor
+- target: Apartments
   job: Steal Stereo System
   energy: 15
   exp: 3
@@ -229,7 +229,7 @@
     defense for energy: 0.01
     attack for exp: 0.05
     defense for exp: 0.05
-- target: Pizza Parlor
+- target: Coffee Shop
   job: Vandalize
   energy: 20
   exp: 4
@@ -241,7 +241,7 @@
   average money per energy: 2
   average money per exp: 13
   loot: []
-- target: Pizza Parlor
+- target: Mini Mart
   job: Shoplift
   energy: 12
   exp: 1
@@ -264,7 +264,7 @@
     defense for energy: 0.0
     attack for exp: 0.6
     defense for exp: 0.0
-- target: Pizza Parlor
+- target: Old Tenement
   job: Break In
   energy: 23
   exp: 4
@@ -287,7 +287,7 @@
     defense for energy: 0.003913043478260869
     attack for exp: 0.0225
     defense for exp: 0.0225
-- target: Pizza Parlor
+- target: Diner
   job: Collect Protection Money
   energy: 16
   exp: 3
@@ -299,7 +299,7 @@
   average money per energy: 3
   average money per exp: 20
   loot: []
-- target: Pizza Parlor
+- target: Deli
   job: Rob
   energy: 20
   exp: 3
@@ -322,7 +322,7 @@
     defense for energy: 0.023999999999999997
     attack for exp: 0.08
     defense for exp: 0.16
-- target: Pizza Parlor
+- target: Church
   job: Spy on Confession
   energy: 30
   exp: 6
@@ -334,7 +334,7 @@
   average money per energy: 3
   average money per exp: 15
   loot: []
-- target: Pizza Parlor
+- target: Motel
   job: Take Blackmail Photos
   energy: 33
   exp: 7
@@ -357,7 +357,7 @@
     defense for energy: 0.002727272727272727
     attack for exp: 0.03857142857142857
     defense for exp: 0.012857142857142855
-- target: Pizza Parlor
+- target: Car Wash
   job: Place Hidden Camera
   energy: 24
   exp: 4
@@ -369,7 +369,7 @@
   average money per energy: 2
   average money per exp: 17
   loot: []
-- target: Pizza Parlor
+- target: Courthouse
   job: Blackmail Judge
   energy: 50
   exp: 9
@@ -392,7 +392,7 @@
     defense for energy: 0.005600000000000001
     attack for exp: 0.015555555555555557
     defense for exp: 0.031111111111111114
-- target: Pizza Parlor
+- target: Hatchback
   job: Search Judge's Car
   energy: 28
   exp: 4

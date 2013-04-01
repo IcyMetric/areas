@@ -1,5 +1,5 @@
 ---
-- target: Pizza Parlor
+- target: Art Museum
   job: Steal Valuable Art
   energy: 300
   exp: 75
@@ -22,7 +22,7 @@
     defense for energy: 0.0009000000000000001
     attack for exp: 0.0014400000000000003
     defense for exp: 0.0036000000000000003
-- target: Pizza Parlor
+- target: Museum
   job: Make Art Forgeries
   energy: 240
   exp: 62
@@ -45,7 +45,7 @@
     defense for energy: 0.0025
     attack for exp: 0.004838709677419355
     defense for exp: 0.00967741935483871
-- target: Pizza Parlor
+- target: Parkside Apartments
   job: Peddle Art Forgeries
   energy: 145
   exp: 32
@@ -57,7 +57,7 @@
   average money per energy: 16
   average money per exp: 73
   loot: []
-- target: Pizza Parlor
+- target: Brownstone
   job: Bust Rasta Gang Hideout
   energy: 420
   exp: 134
@@ -241,7 +241,7 @@
     defense for energy: 0.00012442396313364055
     attack for exp: 0.0007936507936507937
     defense for exp: 0.00035714285714285714
-- target: Pizza Parlor
+- target: Hotel
   job: Setup Lookout
   energy: 125
   exp: 33
@@ -253,7 +253,7 @@
   average money per energy: 12
   average money per exp: 48
   loot: []
-- target: Pizza Parlor
+- target: Bank
   job: Perform Heist
   energy: 275
   exp: 70
@@ -276,7 +276,7 @@
     defense for energy: 0.0022909090909090913
     attack for exp: 0.0032142857142857147
     defense for exp: 0.009000000000000001
-- target: Pizza Parlor
+- target: EU Library
   job: Research Narcotics
   energy: 105
   exp: 28
@@ -288,7 +288,7 @@
   average money per energy: 12
   average money per exp: 46
   loot: []
-- target: Pizza Parlor
+- target: Opera House
   job: Entertain Partners
   energy: 90
   exp: 20
@@ -311,7 +311,7 @@
     defense for energy: 0.0
     attack for exp: 0.0
     defense for exp: 0.0
-- target: Pizza Parlor
+- target: Obelisk
   job: Exchange Product
   energy: 133
   exp: 25

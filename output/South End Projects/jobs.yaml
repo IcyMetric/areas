@@ -1,5 +1,5 @@
 ---
-- target: Pizza Parlor
+- target: Old Tenement
   job: Sell Product
   energy: 54
   exp: 9
@@ -22,7 +22,7 @@
     defense for energy: 0.018518518518518517
     attack for exp: 0.06666666666666667
     defense for exp: 0.1111111111111111
-- target: Pizza Parlor
+- target: Old Tenement
   job: Destroy Drug Supply
   energy: 275
   exp: 84
@@ -45,7 +45,7 @@
     defense for energy: 5.090909090909091e-05
     attack for exp: 0.00016666666666666666
     defense for exp: 0.00016666666666666666
-- target: Pizza Parlor
+- target: Tattoo Parlor
   job: Sell Fake IDs
   energy: 48
   exp: 9
@@ -57,7 +57,7 @@
   average money per energy: 6
   average money per exp: 36
   loot: []
-- target: Pizza Parlor
+- target: Chem Lab
   job: Assault Chem Lab
   energy: 325
   exp: 104
@@ -80,7 +80,7 @@
     defense for energy: 0.0002637362637362637
     attack for exp: 0.0004120879120879121
     defense for exp: 0.0008241758241758242
-- target: Pizza Parlor
+- target: Pawn Shop
   job: Shake Down
   energy: 98
   exp: 17
@@ -103,7 +103,7 @@
     defense for energy: 0.004591836734693877
     attack for exp: 0.021176470588235293
     defense for exp: 0.026470588235294117
-- target: Pizza Parlor
+- target: Large Projects
   job: Recruit Dealers
   energy: 42
   exp: 11
@@ -115,7 +115,7 @@
   average money per energy: 5
   average money per exp: 21
   loot: []
-- target: Pizza Parlor
+- target: Large Projects
   job: Sell Product
   energy: 54
   exp: 9
@@ -138,7 +138,7 @@
     defense for energy: 0.012222222222222221
     attack for exp: 0.09777777777777778
     defense for exp: 0.07333333333333333
-- target: Pizza Parlor
+- target: Large Projects
   job: Ask about Dealers
   energy: 50
   exp: 14
@@ -150,7 +150,7 @@
   average money per energy: 5
   average money per exp: 20
   loot: []
-- target: Pizza Parlor
+- target: Basketball Court
   job: Sell Product
   energy: 54
   exp: 9
@@ -173,7 +173,7 @@
     defense for energy: 0.020740740740740744
     attack for exp: 0.06222222222222223
     defense for exp: 0.12444444444444445
-- target: Pizza Parlor
+- target: Basketball Court
   job: Set Up Dice Game
   energy: 70
   exp: 11
@@ -335,7 +335,7 @@
     defense for energy: 0.0002341463414634146
     attack for exp: 0.0008823529411764705
     defense for exp: 0.0007058823529411764
-- target: Pizza Parlor
+- target: La Bodega
   job: Smash Inventory
   energy: 240
   exp: 74
@@ -358,7 +358,7 @@
     defense for energy: 0.00044444444444444447
     attack for exp: 0.0012612612612612612
     defense for exp: 0.0014414414414414415
-- target: Pizza Parlor
+- target: Food Truck
   job: Set Up Surveillance
   energy: 60
   exp: 17
@@ -381,7 +381,7 @@
     defense for energy: 0.024
     attack for exp: 0.014117647058823528
     defense for exp: 0.08470588235294116
-- target: Pizza Parlor
+- target: Abandoned Building
   job: Smoke Out Snitch
   energy: 136
   exp: 17
@@ -404,7 +404,7 @@
     defense for energy: 0.0024019607843137254
     attack for exp: 0.010980392156862745
     defense for exp: 0.019215686274509803
-- target: Pizza Parlor
+- target: Basement Foundation
   job: Bury a Stoolie
   energy: 154
   exp: 41
@@ -427,7 +427,7 @@
     defense for energy: 0.0011688311688311688
     attack for exp: 0.00548780487804878
     defense for exp: 0.004390243902439024
-- target: Pizza Parlor
+- target: Baptist Church
   job: Raid Collection Box
   energy: 110
   exp: 50
@@ -450,7 +450,7 @@
     defense for energy: 0.003818181818181818
     attack for exp: 0.0084
     defense for exp: 0.0084
-- target: Pizza Parlor
+- target: Gun Shop
   job: Score Guns
   energy: 132
   exp: 17
@@ -473,7 +473,7 @@
     defense for energy: 0.0021212121212121214
     attack for exp: 0.010980392156862745
     defense for exp: 0.01647058823529412
-- target: Pizza Parlor
+- target: Adult Store
   job: Sell Bootleg Videos
   energy: 65
   exp: 30
@@ -485,7 +485,7 @@
   average money per energy: 18
   average money per exp: 40
   loot: []
-- target: Pizza Parlor
+- target: Mini Mart
   job: Rob
   energy: 75
   exp: 10

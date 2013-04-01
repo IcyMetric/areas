@@ -1,5 +1,5 @@
 ---
-- target: Pizza Parlor
+- target: Russian Church
   job: Hit Funeral
   energy: 175
   exp: 57
@@ -22,7 +22,7 @@
     defense for energy: 0.004000000000000001
     attack for exp: 0.00368421052631579
     defense for exp: 0.012280701754385967
-- target: Pizza Parlor
+- target: Russian Sauna
   job: Wipe Out Underbosses
   energy: 300
   exp: 103
@@ -45,7 +45,7 @@
     defense for energy: 0.0012
     attack for exp: 0.00449375866851595
     defense for exp: 0.003495145631067961
-- target: Pizza Parlor
+- target: Russian Bar
   job: Assassinate Enforcers
   energy: 245
   exp: 82
@@ -68,7 +68,7 @@
     defense for energy: 0.0021768707482993197
     attack for exp: 0.0032520325203252032
     defense for exp: 0.0065040650406504065
-- target: Pizza Parlor
+- target: Russian Restaurant
   job: Gather Information
   energy: 78
   exp: 21
@@ -229,7 +229,7 @@
     defense for energy: 0.00017110266159695817
     attack for exp: 0.0008241758241758242
     defense for exp: 0.0004945054945054945
-- target: Pizza Parlor
+- target: Mini Mart
   job: Steal Lottery Tickets
   energy: 80
   exp: 14
@@ -241,7 +241,7 @@
   average money per energy: 7
   average money per exp: 44
   loot: []
-- target: Pizza Parlor
+- target: Russian Market
   job: Steal Vodka
   energy: 110
   exp: 18
@@ -264,7 +264,7 @@
     defense for energy: 0.012727272727272728
     attack for exp: 0.07777777777777779
     defense for exp: 0.07777777777777779
-- target: Pizza Parlor
+- target: Tenement
   job: Break In
   energy: 118
   exp: 23
@@ -287,7 +287,7 @@
     defense for energy: 0.005847457627118645
     attack for exp: 0.035
     defense for exp: 0.03
-- target: Pizza Parlor
+- target: Russian Embassy
   job: Hack Visa Database
   energy: 165
   exp: 48
@@ -310,7 +310,7 @@
     defense for energy: 0.004121212121212122
     attack for exp: 0.007083333333333334
     defense for exp: 0.014166666666666668
-- target: Pizza Parlor
+- target: Pharmacy
   job: Steal Meds
   energy: 140
   exp: 29
@@ -333,7 +333,7 @@
     defense for energy: 0.016
     attack for exp: 0.01931034482758621
     defense for exp: 0.07724137931034485
-- target: Pizza Parlor
+- target: Laundromat
   job: Wash Bloodstained Clothes
   energy: 72
   exp: 17
@@ -345,7 +345,7 @@
   average money per energy: 5
   average money per exp: 25
   loot: []
-- target: Pizza Parlor
+- target: Bank
   job: Crack Safe Deposit Boxes
   energy: 375
   exp: 109
@@ -368,7 +368,7 @@
     defense for energy: 0.0014177777777777776
     attack for exp: 0.0031039755351681955
     defense for exp: 0.004877675840978593
-- target: Pizza Parlor
+- target: Coffee Shop
   job: Empty Till
   energy: 136
   exp: 36
@@ -391,7 +391,7 @@
     defense for energy: 0.014117647058823528
     attack for exp: 0.02666666666666667
     defense for exp: 0.05333333333333334
-- target: Pizza Parlor
+- target: Fitness Gym
   job: Push Steroids
   energy: 92
   exp: 17
@@ -403,7 +403,7 @@
   average money per energy: 8
   average money per exp: 48
   loot: []
-- target: Pizza Parlor
+- target: Flower Shop
   job: Collect Kickbacks
   energy: 82
   exp: 15

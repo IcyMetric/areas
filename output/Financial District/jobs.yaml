@@ -1,5 +1,5 @@
 ---
-- target: Pizza Parlor
+- target: World Broadcast Tower
   job: Sell Product to Employees
   energy: 69
   exp: 14
@@ -22,7 +22,7 @@
     defense for energy: 0.021739130434782608
     attack for exp: 0.04285714285714285
     defense for exp: 0.10714285714285714
-- target: Pizza Parlor
+- target: Empire Bank
   job: Steal Safe Deposit Boxes
   energy: 330
   exp: 88
@@ -45,7 +45,7 @@
     defense for energy: 0.0008484848484848485
     attack for exp: 0.004545454545454545
     defense for exp: 0.003181818181818182
-- target: Pizza Parlor
+- target: Federal Hall
   job: Bribe Federal Officials
   energy: 148
   exp: 31
@@ -68,7 +68,7 @@
     defense for energy: 0.015135135135135135
     attack for exp: 0.03612903225806452
     defense for exp: 0.07225806451612904
-- target: Pizza Parlor
+- target: Financial Center
   job: Manipulate Currencies
   energy: 180
   exp: 37
@@ -91,7 +91,7 @@
     defense for energy: 0.0044444444444444444
     attack for exp: 0.006486486486486486
     defense for exp: 0.021621621621621623
-- target: Pizza Parlor
+- target: Stock Exchange
   job: Manipulate Market Data
   energy: 195
   exp: 42
@@ -277,7 +277,7 @@
     defense for energy: 0.00014897074756229685
     attack for exp: 0.0005947660586835844
     defense for exp: 0.00043616177636796196
-- target: Pizza Parlor
+- target: Fancy Restaurant
   job: Meet Crooked Accountant
   energy: 150
   exp: 42
@@ -300,7 +300,7 @@
     defense for energy: 0.004666666666666667
     attack for exp: 0.020000000000000004
     defense for exp: 0.01666666666666667
-- target: Pizza Parlor
+- target: Credit Express
   job: Hack Rivals' Accounts
   energy: 350
   exp: 97
@@ -323,7 +323,7 @@
     defense for energy: 0.0011047619047619046
     attack for exp: 0.004484536082474226
     defense for exp: 0.003986254295532646
-- target: Pizza Parlor
+- target: Parking Garage
   job: Bug Vehicles
   energy: 145
   exp: 43
@@ -346,7 +346,7 @@
     defense for energy: 0.008827586206896552
     attack for exp: 0.0074418604651162795
     defense for exp: 0.029767441860465118
-- target: Pizza Parlor
+- target: Force
   job: Hire Escort
   energy: 76
   exp: 20
@@ -358,7 +358,7 @@
   average money per energy: 7
   average money per exp: 28
   loot: []
-- target: Pizza Parlor
+- target: Old Office Building
   job: Blackmail the CFO
   energy: 233
   exp: 56
@@ -381,7 +381,7 @@
     defense for energy: 0.004506437768240343
     attack for exp: 0.009375
     defense for exp: 0.01875
-- target: Pizza Parlor
+- target: Hotel
   job: Steal Financial Records
   energy: 365
   exp: 104

@@ -1,5 +1,5 @@
 ---
-- target: Pizza Parlor
+- target: Adult Movie Theater
   job: Take Over
   energy: 228
   exp: 72
@@ -22,7 +22,7 @@
     defense for energy: 0.007017543859649123
     attack for exp: 0.011111111111111112
     defense for exp: 0.022222222222222223
-- target: Pizza Parlor
+- target: Gentlemen's Club
   job: Collect Cut
   energy: 257
   exp: 86
@@ -57,7 +57,7 @@
     defense for energy: 0.0013061224489795918
     attack for exp: 0.004330827067669173
     defense for exp: 0.003368421052631579
-- target: Pizza Parlor
+- target: Smoke Shop
   job: Heist Inventory
   energy: 343
   exp: 133
@@ -80,7 +80,7 @@
     defense for energy: 0.002285714285714286
     attack for exp: 0.008
     defense for exp: 0.005894736842105263
-- target: Pizza Parlor
+- target: Adult Store
   job: Bust Out
   energy: 143
   exp: 58
@@ -161,7 +161,7 @@
     defense for energy: 0.0
     attack for exp: 0.0
     defense for exp: 0.0
-- target: Pizza Parlor
+- target: Gun Shop
   job: Steal Guns
   energy: 228
   exp: 72
@@ -229,7 +229,7 @@
     defense for energy: 0.00013490035769034235
     attack for exp: 0.00032809295967190703
     defense for exp: 0.00045112781954887213
-- target: Pizza Parlor
+- target: Mini Mart
   job: Hold Up
   energy: 286
   exp: 101
@@ -252,7 +252,7 @@
     defense for energy: 0.004755244755244755
     attack for exp: 0.011089108910891089
     defense for exp: 0.013465346534653465
-- target: Pizza Parlor
+- target: Motel
   job: Take Hostages
   energy: 457
   exp: 157
@@ -275,7 +275,7 @@
     defense for energy: 0.0
     attack for exp: 0.0
     defense for exp: 0.0
-- target: Pizza Parlor
+- target: Tattoo Parlor
   job: Rob
   energy: 257
   exp: 86
@@ -287,7 +287,7 @@
   average money per energy: 39
   average money per exp: 119
   loot: []
-- target: Pizza Parlor
+- target: Red Cascade
   job: Steal Airbags
   energy: 171
   exp: 60
@@ -310,7 +310,7 @@
     defense for energy: 0.011929824561403509
     attack for exp: 0.03
     defense for exp: 0.034
-- target: Pizza Parlor
+- target: White Winscott
   job: Carjack
   energy: 200
   exp: 63
@@ -322,7 +322,7 @@
   average money per energy: 37
   average money per exp: 120
   loot: []
-- target: Pizza Parlor
+- target: Black Lowrider
   job: Steal Stereo
   energy: 286
   exp: 101
@@ -345,7 +345,7 @@
     defense for energy: 0.006993006993006993
     attack for exp: 0.02574257425742574
     defense for exp: 0.019801980198019802
-- target: Pizza Parlor
+- target: Police Car
   job: Buy Off 5-0
   energy: 343
   exp: 133
@@ -368,7 +368,7 @@
     defense for energy: 0.004498125780924614
     attack for exp: 0.0032223415682062296
     defense for exp: 0.011600429645542427
-- target: Pizza Parlor
+- target: Loan Shark Office
   job: Demand Tribute
   energy: 257
   exp: 86
@@ -391,7 +391,7 @@
     defense for energy: 0.004357976653696498
     attack for exp: 0.013953488372093023
     defense for exp: 0.013023255813953489
-- target: Pizza Parlor
+- target: Rundown Apartments
   job: Recruit Muscle
   energy: 228
   exp: 72
@@ -403,7 +403,7 @@
   average money per energy: 37
   average money per exp: 119
   loot: []
-- target: Pizza Parlor
+- target: Underground Club
   job: Foil Sting
   energy: 343
   exp: 133
@@ -426,7 +426,7 @@
     defense for energy: 0.005714285714285715
     attack for exp: 0.015789473684210527
     defense for exp: 0.01473684210526316
-- target: Pizza Parlor
+- target: Old Tenement
   job: Waste Undercover Cops
   energy: 400
   exp: 132
@@ -449,7 +449,7 @@
     defense for energy: 0.0
     attack for exp: 0.0
     defense for exp: 0.0
-- target: Pizza Parlor
+- target: Rusty Debris Box
   job: Stash Product
   energy: 200
   exp: 74

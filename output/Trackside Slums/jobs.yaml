@@ -1,5 +1,5 @@
 ---
-- target: Pizza Parlor
+- target: Meat Factory
   job: Wreck the Meat Factory
   energy: 298
   exp: 125
@@ -22,7 +22,7 @@
     defense for energy: 0.0020973154362416107
     attack for exp: 0.0125
     defense for exp: 0.005
-- target: Pizza Parlor
+- target: Apartments
   job: Rob the apartments
   energy: 289
   exp: 121
@@ -34,7 +34,7 @@
   average money per energy: 66
   average money per exp: 157
   loot: []
-- target: Pizza Parlor
+- target: Bar
   job: Question the Bartender
   energy: 267
   exp: 112
@@ -57,7 +57,7 @@
     defense for energy: 0.005742821473158552
     attack for exp: 0.011904761904761904
     defense for exp: 0.01369047619047619
-- target: Pizza Parlor
+- target: Warehouse
   job: Destroy the Surplus
   energy: 357
   exp: 150
@@ -80,7 +80,7 @@
     defense for energy: 0.00507703081232493
     attack for exp: 0.00625
     defense for exp: 0.012083333333333333
-- target: Pizza Parlor
+- target: Factory
   job: Sabotage the Factory
   energy: 317
   exp: 133
@@ -103,7 +103,7 @@
     defense for energy: 0.001971608832807571
     attack for exp: 0.011748120300751879
     defense for exp: 0.004699248120300752
-- target: Pizza Parlor
+- target: Tenement
   job: Kill the Workers
   energy: 272
   exp: 114
@@ -126,7 +126,7 @@
     defense for energy: 0.004227941176470588
     attack for exp: 0.008771929824561403
     defense for exp: 0.010087719298245614
-- target: Pizza Parlor
+- target: Steel Mill
   job: Steal the Steel
   energy: 232
   exp: 97
@@ -149,7 +149,7 @@
     defense for energy: 0.009375
     attack for exp: 0.011597938144329896
     defense for exp: 0.02242268041237113
-- target: Pizza Parlor
+- target: Rundown Apartments
   job: Disable the Labor Force
   energy: 278
   exp: 117
@@ -172,7 +172,7 @@
     defense for energy: 0.002697841726618705
     attack for exp: 0.013247863247863248
     defense for exp: 0.00641025641025641
-- target: Pizza Parlor
+- target: Basketball Court
   job: Bust up Business
   energy: 238
   exp: 100
@@ -184,7 +184,7 @@
   average money per energy: 66
   average money per exp: 157
   loot: []
-- target: Pizza Parlor
+- target: Black Market Warehouse
   job: Raid
   energy: 245
   exp: 103
@@ -207,7 +207,7 @@
     defense for energy: 0.004693877551020408
     attack for exp: 0.009708737864077669
     defense for exp: 0.01116504854368932
-- target: Pizza Parlor
+- target: Loan Shark Office
   job: Interrogate the Shark
   energy: 205
   exp: 86
@@ -230,7 +230,7 @@
     defense for energy: 0.008083623693379791
     attack for exp: 0.009966777408637873
     defense for exp: 0.019269102990033222
-- target: Pizza Parlor
+- target: Blue Container Car
   job: Rob the Container Car
   energy: 387
   exp: 163

@@ -1,5 +1,5 @@
 ---
-- target: Pizza Parlor
+- target: Waste Treatment Office
   job: Steal Payroll
   energy: 255
   exp: 81
@@ -22,7 +22,7 @@
     defense for energy: 0.003952941176470588
     attack for exp: 0.008888888888888889
     defense for exp: 0.012444444444444444
-- target: Pizza Parlor
+- target: Waste Treatment Tanks
   job: Hunt for Treasure
   energy: 218
   exp: 64
@@ -45,7 +45,7 @@
     defense for energy: 0.003486238532110092
     attack for exp: 0.0059375
     defense for exp: 0.011875
-- target: Pizza Parlor
+- target: Office Trailer
   job: Forge Paperwork
   energy: 168
   exp: 51
@@ -57,7 +57,7 @@
   average money per energy: 31
   average money per exp: 103
   loot: []
-- target: Pizza Parlor
+- target: Waste Treatment Tanks
   job: Sabotage
   energy: 420
   exp: 172
@@ -92,7 +92,7 @@
   average money per energy: 25
   average money per exp: 77
   loot: []
-- target: Pizza Parlor
+- target: Waste Treatment Tank
   job: Booby Trap
   energy: 144
   exp: 44
@@ -127,7 +127,7 @@
     defense for energy: 0.002306684141546527
     attack for exp: 0.006753246753246753
     defense for exp: 0.005714285714285714
-- target: Pizza Parlor
+- target: White Winscott
   job: Plant Bomb
   energy: 181
   exp: 67
@@ -253,7 +253,7 @@
   average money per energy: 30
   average money per exp: 104
   loot: []
-- target: Pizza Parlor
+- target: Waste Treatment Tank
   job: Dump Body
   energy: 290
   exp: 118
@@ -276,7 +276,7 @@
     defense for energy: 0.0036689655172413792
     attack for exp: 0.007728813559322034
     defense for exp: 0.009016949152542373
-- target: Pizza Parlor
+- target: Red Cascade
   job: Break In
   energy: 242
   exp: 74
@@ -299,7 +299,7 @@
     defense for energy: 0.006060606060606061
     attack for exp: 0.012612612612612612
     defense for exp: 0.01981981981981982
-- target: Pizza Parlor
+- target: Factory
   job: Lock Out Workers
   energy: 176
   exp: 59
@@ -322,7 +322,7 @@
     defense for energy: 0.007954545454545454
     attack for exp: 0.00847457627118644
     defense for exp: 0.023728813559322035
-- target: Pizza Parlor
+- target: Warehouse
   job: Steal Inventory
   energy: 369
   exp: 114
@@ -345,7 +345,7 @@
     defense for energy: 0.0015934959349593494
     attack for exp: 0.007368421052631579
     defense for exp: 0.005157894736842105
-- target: Pizza Parlor
+- target: Fish Cannery
   job: Offer Protection
   energy: 154
   exp: 49
@@ -357,7 +357,7 @@
   average money per energy: 29
   average money per exp: 93
   loot: []
-- target: Pizza Parlor
+- target: Red Chemical Tanks
   job: Drain Chemicals
   energy: 452
   exp: 185
@@ -380,7 +380,7 @@
     defense for energy: 0.0017345132743362833
     attack for exp: 0.004843243243243244
     defense for exp: 0.004237837837837838
-- target: Pizza Parlor
+- target: Wave
   job: Ruin Paint Job
   energy: 149
   exp: 50
@@ -392,7 +392,7 @@
   average money per energy: 22
   average money per exp: 66
   loot: []
-- target: Pizza Parlor
+- target: Van
   job: Slash Tires
   energy: 172
   exp: 56

@@ -1,5 +1,5 @@
 ---
-- target: Pizza Parlor
+- target: Wholesale Warehouse
   job: Heist Inventory
   energy: 320
   exp: 144
@@ -22,7 +22,7 @@
     defense for energy: 0.00309375
     attack for exp: 0.009166666666666668
     defense for exp: 0.006875000000000001
-- target: Pizza Parlor
+- target: Flophouse
   job: Set Up Hideout
   energy: 192
   exp: 84
@@ -34,7 +34,7 @@
   average money per energy: 32
   average money per exp: 75
   loot: []
-- target: Pizza Parlor
+- target: Arms Dealer
   job: Take Over
   energy: 320
   exp: 123
@@ -57,7 +57,7 @@
     defense for energy: 0.0014166666666666668
     attack for exp: 0.0032520325203252032
     defense for exp: 0.0036856368563685637
-- target: Pizza Parlor
+- target: Weapons Factory
   job: Kill Guards
   energy: 384
   exp: 138
@@ -103,7 +103,7 @@
     defense for energy: 0.0013125
     attack for exp: 0.002731707317073171
     defense for exp: 0.003414634146341464
-- target: Pizza Parlor
+- target: Chem Lab
   job: Install Henchmen
   energy: 224
   exp: 104
@@ -126,7 +126,7 @@
     defense for energy: 0.003191964285714286
     attack for exp: 0.007403846153846153
     defense for exp: 0.006875
-- target: Pizza Parlor
+- target: Smoke Shop
   job: Swipe Product
   energy: 320
   exp: 123
@@ -172,7 +172,7 @@
     defense for energy: 0.0040178571428571425
     attack for exp: 0.0030476190476190477
     defense for exp: 0.013714285714285714
-- target: Pizza Parlor
+- target: Chop Shop
   job: Hit
   energy: 256
   exp: 104
@@ -298,7 +298,7 @@
     defense for energy: 0.00011979166666666666
     attack for exp: 0.000621301775147929
     defense for exp: 0.000408284023668639
-- target: Pizza Parlor
+- target: Ammo Factory
   job: Rob
   energy: 320
   exp: 123
@@ -321,7 +321,7 @@
     defense for energy: 0.0048125
     attack for exp: 0.0044715447154471556
     defense for exp: 0.012520325203252034
-- target: Pizza Parlor
+- target: Gun Shop
   job: Steal Guns
   energy: 448
   exp: 161
@@ -344,7 +344,7 @@
     defense for energy: 0.003826530612244898
     attack for exp: 0.005323868677905945
     defense for exp: 0.01064773735581189
-- target: Pizza Parlor
+- target: Flophouse
   job: Decimate Henchmen
   energy: 320
   exp: 123
@@ -367,7 +367,7 @@
     defense for energy: 0.0026249999999999997
     attack for exp: 0.007804878048780488
     defense for exp: 0.006829268292682927
-- target: Pizza Parlor
+- target: Black Market Warehouse
   job: Firebomb
   energy: 256
   exp: 104
@@ -390,7 +390,7 @@
     defense for energy: 0.004218749999999999
     attack for exp: 0.008076923076923077
     defense for exp: 0.010384615384615384
-- target: Pizza Parlor
+- target: Rusty Debris Box
   job: Hide Weapons
   energy: 160
   exp: 78
@@ -402,7 +402,7 @@
   average money per energy: 29
   average money per exp: 60
   loot: []
-- target: Pizza Parlor
+- target: Mob Doctor's Office
   job: Take Control
   energy: 288
   exp: 123
@@ -425,7 +425,7 @@
     defense for energy: 0.003472222222222222
     attack for exp: 0.004471544715447155
     defense for exp: 0.008130081300813009
-- target: Pizza Parlor
+- target: Loan Shark Office
   job: Collect Cut
   energy: 192
   exp: 84
@@ -448,7 +448,7 @@
     defense for energy: 0.00265625
     attack for exp: 0.005
     defense for exp: 0.006071428571428571
-- target: Pizza Parlor
+- target: Ammo Dump
   job: Steal Containers
   energy: 320
   exp: 144
@@ -471,7 +471,7 @@
     defense for energy: 0.004218749999999999
     attack for exp: 0.007291666666666667
     defense for exp: 0.009375
-- target: Pizza Parlor
+- target: Adult Movie Theater
   job: Push Bootlegs
   energy: 288
   exp: 89

@@ -1,5 +1,5 @@
 ---
-- target: Pizza Parlor
+- target: Brown Mansion
   job: Set Hidden Camera
   energy: 72
   exp: 20
@@ -11,7 +11,7 @@
   average money per energy: 6
   average money per exp: 25
   loot: []
-- target: Pizza Parlor
+- target: Beach Hut
   job: Establish Stakeout
   energy: 90
   exp: 21
@@ -57,7 +57,7 @@
     defense for energy: 0.0060416666666666665
     attack for exp: 0.022307692307692306
     defense for exp: 0.022307692307692306
-- target: Pizza Parlor
+- target: Beach House
   job: Booby Trap
   energy: 104
   exp: 15
@@ -69,7 +69,7 @@
   average money per energy: 6
   average money per exp: 46
   loot: []
-- target: Pizza Parlor
+- target: Beach Hut
   job: Stash Weapons
   energy: 124
   exp: 24
@@ -104,7 +104,7 @@
   average money per energy: 7
   average money per exp: 52
   loot: []
-- target: Pizza Parlor
+- target: White Mansion
   job: Home Invasion
   energy: 142
   exp: 24
@@ -150,7 +150,7 @@
     defense for energy: 0.002564102564102564
     attack for exp: 0.0033333333333333335
     defense for exp: 0.008333333333333333
-- target: Pizza Parlor
+- target: Beach Mansion
   job: Poison Dogs
   energy: 172
   exp: 54
@@ -299,7 +299,7 @@
     defense for energy: 0.007727272727272728
     attack for exp: 0.0159375
     defense for exp: 0.053125000000000006
-- target: Pizza Parlor
+- target: Fitness Gym
   job: Collect DNA
   energy: 74
   exp: 16
@@ -311,7 +311,7 @@
   average money per energy: 6
   average money per exp: 29
   loot: []
-- target: Pizza Parlor
+- target: Emissary
   job: Firebomb
   energy: 315
   exp: 97
@@ -334,7 +334,7 @@
     defense for energy: 0.00040740740740740744
     attack for exp: 0.0007216494845360825
     defense for exp: 0.001323024054982818
-- target: Pizza Parlor
+- target: Centurion
   job: Vandalize
   energy: 100
   exp: 29
@@ -357,7 +357,7 @@
     defense for energy: 0.004750000000000001
     attack for exp: 0.02293103448275862
     defense for exp: 0.016379310344827588
-- target: Pizza Parlor
+- target: Tiki Bar
   job: Menace Bartender
   energy: 118
   exp: 36
@@ -369,7 +369,7 @@
   average money per energy: 6
   average money per exp: 22
   loot: []
-- target: Pizza Parlor
+- target: Gazebo
   job: Plant Bomb
   energy: 88
   exp: 23
@@ -392,7 +392,7 @@
     defense for energy: 0.021818181818181816
     attack for exp: 0.020869565217391303
     defense for exp: 0.08347826086956521
-- target: Pizza Parlor
+- target: Beach Patrol
   job: Clip Security Guards
   energy: 156
   exp: 48
@@ -415,7 +415,7 @@
     defense for energy: 0.0028717948717948724
     attack for exp: 0.0035
     defense for exp: 0.009333333333333334
-- target: Pizza Parlor
+- target: Pickup Truck
   job: Total Patrol Truck
   energy: 218
   exp: 55
@@ -438,7 +438,7 @@
     defense for energy: 0.0017889908256880733
     attack for exp: 0.0035454545454545456
     defense for exp: 0.007090909090909091
-- target: Pizza Parlor
+- target: Green Lifeguard Hut
   job: Set Up Sniper Nest
   energy: 95
   exp: 25

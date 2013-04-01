@@ -1,5 +1,5 @@
 ---
-- target: Pizza Parlor
+- target: Warehouse
   job: Steal shipment
   energy: 56
   exp: 13
@@ -22,7 +22,7 @@
     defense for energy: 0.0008928571428571428
     attack for exp: 0.0015384615384615385
     defense for exp: 0.0038461538461538464
-- target: Pizza Parlor
+- target: Warehouse
   job: Plant Evidence
   energy: 35
   exp: 9
@@ -45,7 +45,7 @@
     defense for energy: 0.0077142857142857135
     attack for exp: 0.03
     defense for exp: 0.03
-- target: Pizza Parlor
+- target: Office Trailer
   job: Forge Shipping Manifest
   energy: 25
   exp: 4
@@ -57,7 +57,7 @@
   average money per energy: 4
   average money per exp: 27
   loot: []
-- target: Pizza Parlor
+- target: Shipping Crane
   job: Sabotage Control Panel
   energy: 58
   exp: 12
@@ -80,7 +80,7 @@
     defense for energy: 0.001293103448275862
     attack for exp: 0.008333333333333333
     defense for exp: 0.00625
-- target: Pizza Parlor
+- target: House
   job: Rip Off TV
   energy: 18
   exp: 3
@@ -92,7 +92,7 @@
   average money per energy: 3
   average money per exp: 21
   loot: []
-- target: Pizza Parlor
+- target: Gas Station
   job: Plant Bomb
   energy: 47
   exp: 15
@@ -115,7 +115,7 @@
     defense for energy: 0.014042553191489362
     attack for exp: 0.014666666666666666
     defense for exp: 0.044
-- target: Pizza Parlor
+- target: Mini Mart
   job: Shoplift
   energy: 17
   exp: 3
@@ -127,7 +127,7 @@
   average money per energy: 3
   average money per exp: 21
   loot: []
-- target: Pizza Parlor
+- target: Meat Factory
   job: Break In
   energy: 27
   exp: 6
@@ -243,7 +243,7 @@
     defense for energy: 0.003260869565217391
     attack for exp: 0.016666666666666666
     defense for exp: 0.016666666666666666
-- target: Pizza Parlor
+- target: Fish Cannery
   job: Interrogate Workers
   energy: 42
   exp: 9
@@ -266,7 +266,7 @@
     defense for energy: 0.010714285714285714
     attack for exp: 0.03333333333333333
     defense for exp: 0.05
-- target: Pizza Parlor
+- target: Tuna Boat
   job: Load Contraband
   energy: 85
   exp: 15
@@ -289,7 +289,7 @@
     defense for energy: 0.0024705882352941176
     attack for exp: 0.0023333333333333335
     defense for exp: 0.014
-- target: Pizza Parlor
+- target: Abandoned Building
   job: Bust Up Hideout
   energy: 125
   exp: 27
@@ -312,7 +312,7 @@
     defense for energy: 0.0006
     attack for exp: 0.001388888888888889
     defense for exp: 0.002777777777777778
-- target: Pizza Parlor
+- target: Rundown Apartments
   job: Home Invasion
   energy: 50
   exp: 6
@@ -324,7 +324,7 @@
   average money per energy: 4
   average money per exp: 38
   loot: []
-- target: Pizza Parlor
+- target: Large Projects
   job: Rip Off Safe House
   energy: 70
   exp: 9

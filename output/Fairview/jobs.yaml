@@ -1,5 +1,5 @@
 ---
-- target: Pizza Parlor
+- target: Loft
   job: Break In
   energy: 236
   exp: 68
@@ -22,7 +22,7 @@
     defense for energy: 0.004322033898305085
     attack for exp: 0.016666666666666666
     defense for exp: 0.015
-- target: Pizza Parlor
+- target: Tall Condos
   job: Lay Low
   energy: 160
   exp: 56
@@ -34,7 +34,7 @@
   average money per energy: 21
   average money per exp: 62
   loot: []
-- target: Pizza Parlor
+- target: Condos
   job: Burglarize
   energy: 278
   exp: 82
@@ -57,7 +57,7 @@
     defense for energy: 0.004661870503597122
     attack for exp: 0.0035121951219512196
     defense for exp: 0.015804878048780488
-- target: Pizza Parlor
+- target: Parkside Apartments
   job: Rob
   energy: 148
   exp: 39
@@ -207,7 +207,7 @@
     defense for energy: 0.0001953125
     attack for exp: 0.00038961038961038956
     defense for exp: 0.00048701298701298696
-- target: Pizza Parlor
+- target: Brownstone
   job: Home Invasion
   energy: 400
   exp: 130
@@ -230,7 +230,7 @@
     defense for energy: 0.0036
     attack for exp: 0.006092307692307692
     defense for exp: 0.011076923076923076
-- target: Pizza Parlor
+- target: Loft
   job: Case
   energy: 168
   exp: 60
@@ -242,7 +242,7 @@
   average money per energy: 21
   average money per exp: 60
   loot: []
-- target: Pizza Parlor
+- target: Brownstone
   job: Rob
   energy: 148
   exp: 39
@@ -254,7 +254,7 @@
   average money per energy: 27
   average money per exp: 102
   loot: []
-- target: Pizza Parlor
+- target: Modern Loft
   job: Host a Soiree
   energy: 117
   exp: 33
@@ -266,7 +266,7 @@
   average money per energy: 22
   average money per exp: 78
   loot: []
-- target: Pizza Parlor
+- target: Modern Loft
   job: Push Product
   energy: 190
   exp: 55
@@ -289,7 +289,7 @@
     defense for energy: 0.007894736842105263
     attack for exp: 0.03818181818181818
     defense for exp: 0.02727272727272727
-- target: Pizza Parlor
+- target: Brownstone
   job: Expand Extortion
   energy: 300
   exp: 100
@@ -312,7 +312,7 @@
     defense for energy: 0.0029333333333333334
     attack for exp: 0.0072
     defense for exp: 0.0088
-- target: Pizza Parlor
+- target: Brownstone
   job: Collect with Interest
   energy: 145
   exp: 38

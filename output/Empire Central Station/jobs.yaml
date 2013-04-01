@@ -148,7 +148,7 @@
     defense for energy: 0.00019420208274697437
     attack for exp: 0.00035690680766688697
     defense for exp: 0.00045604758757435555
-- target: Pizza Parlor
+- target: Train Station
   job: Plant Bomb on Train
   energy: 164
   exp: 60
@@ -171,7 +171,7 @@
     defense for energy: 0.007317073170731708
     attack for exp: 0.02666666666666667
     defense for exp: 0.02
-- target: Pizza Parlor
+- target: Motel
   job: Dispose of Ella's bodyguards
   energy: 300
   exp: 122
@@ -194,7 +194,7 @@
     defense for energy: 0.002955555555555556
     attack for exp: 0.00726775956284153
     defense for exp: 0.00726775956284153
-- target: Pizza Parlor
+- target: Sports Bar
   job: Make Fake Bomb Phone Call
   energy: 106
   exp: 35
@@ -206,7 +206,7 @@
   average money per energy: 25
   average money per exp: 78
   loot: []
-- target: Pizza Parlor
+- target: Parking Garage
   job: Plant Bomb Under Ella's Car
   energy: 177
   exp: 68
@@ -229,7 +229,7 @@
     defense for energy: 0.015254237288135594
     attack for exp: 0.011029411764705881
     defense for exp: 0.039705882352941174
-- target: Pizza Parlor
+- target: Bank
   job: Rob
   energy: 480
   exp: 175
@@ -252,7 +252,7 @@
     defense for energy: 0.000575
     attack for exp: 0.0010514285714285714
     defense for exp: 0.0015771428571428573
-- target: Pizza Parlor
+- target: Coffee Shop
   job: Take Out Crooked Cops
   energy: 332
   exp: 134
@@ -275,7 +275,7 @@
     defense for energy: 0.0035140562248995983
     attack for exp: 0.003109452736318408
     defense for exp: 0.008706467661691543
-- target: Pizza Parlor
+- target: Diner
   job: Bribe Waitress
   energy: 114
   exp: 34
@@ -287,7 +287,7 @@
   average money per energy: 30
   average money per exp: 102
   loot: []
-- target: Pizza Parlor
+- target: Muay Thai Studio
   job: Pick a Fight
   energy: 267
   exp: 91
@@ -299,7 +299,7 @@
   average money per energy: 24
   average money per exp: 71
   loot: []
-- target: Pizza Parlor
+- target: Hospital
   job: Unplug Life Support
   energy: 136
   exp: 44
@@ -311,7 +311,7 @@
   average money per energy: 31
   average money per exp: 96
   loot: []
-- target: Pizza Parlor
+- target: Church
   job: Excommunicate Thugs
   energy: 195
   exp: 65
@@ -323,7 +323,7 @@
   average money per energy: 26
   average money per exp: 80
   loot: []
-- target: Pizza Parlor
+- target: Clothing Store
   job: Menace Staff
   energy: 172
   exp: 68
@@ -346,7 +346,7 @@
     defense for energy: 0.012209302325581395
     attack for exp: 0.009264705882352942
     defense for exp: 0.030882352941176472
-- target: Pizza Parlor
+- target: Smoke Shop
   job: Crack Safe
   energy: 450
   exp: 168
@@ -369,7 +369,7 @@
     defense for energy: 0.0024444444444444444
     attack for exp: 0.003601190476190476
     defense for exp: 0.006547619047619048
-- target: Pizza Parlor
+- target: Shoe Store
   job: Manhandle Manager
   energy: 233
   exp: 94
@@ -392,7 +392,7 @@
     defense for energy: 0.004055793991416309
     attack for exp: 0.007819148936170212
     defense for exp: 0.010053191489361702
-- target: Pizza Parlor
+- target: Chinese Restaurant
   job: Filch Fortunes
   energy: 127
   exp: 37
@@ -404,7 +404,7 @@
   average money per energy: 35
   average money per exp: 121
   loot: []
-- target: Pizza Parlor
+- target: Empire Art Gallery
   job: Steal Genuine Articles
   energy: 196
   exp: 59

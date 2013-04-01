@@ -1,5 +1,5 @@
 ---
-- target: Pizza Parlor
+- target: Chinese Restaurant
   job: Shake Down
   energy: 125
   exp: 28
@@ -22,7 +22,7 @@
     defense for energy: 0.00464
     attack for exp: 0.013809523809523808
     defense for exp: 0.020714285714285713
-- target: Pizza Parlor
+- target: Fancy Restaurant
   job: Hold Meeting with Local Gangs
   energy: 98
   exp: 30
@@ -34,7 +34,7 @@
   average money per energy: 7
   average money per exp: 23
   loot: []
-- target: Pizza Parlor
+- target: Crab Shack
   job: Spy on Dealers
   energy: 85
   exp: 24
@@ -57,7 +57,7 @@
     defense for energy: 0.02258823529411765
     attack for exp: 0.013333333333333334
     defense for exp: 0.08
-- target: Pizza Parlor
+- target: Italian Restaurant
   job: Negotiate Sales with Dealers
   energy: 94
   exp: 20
@@ -80,7 +80,7 @@
     defense for energy: 0.015957446808510637
     attack for exp: 0.045
     defense for exp: 0.075
-- target: Pizza Parlor
+- target: Diner
   job: Ice Rogue Dealer
   energy: 212
   exp: 71
@@ -103,7 +103,7 @@
     defense for energy: 0.0016846361185983828
     attack for exp: 0.004024144869215292
     defense for exp: 0.005030181086519115
-- target: Pizza Parlor
+- target: Lakeside Restaurant
   job: Store Product
   energy: 105
   exp: 23
@@ -138,7 +138,7 @@
     defense for energy: 0.02048780487804878
     attack for exp: 0.035
     defense for exp: 0.07
-- target: Pizza Parlor
+- target: French Restaurant
   job: Treat Members to Dinner
   energy: 75
   exp: 12
@@ -150,7 +150,7 @@
   average money per energy: 5
   average money per exp: 35
   loot: []
-- target: Pizza Parlor
+- target: Steak House
   job: Pay Off Police Officers
   energy: 110
   exp: 29
@@ -323,7 +323,7 @@
     defense for energy: 0.00013779527559055118
     attack for exp: 0.0005747126436781609
     defense for exp: 0.00040229885057471265
-- target: Pizza Parlor
+- target: Ice Cream Shop
   job: Meet New Recruits
   energy: 70
   exp: 16
@@ -335,7 +335,7 @@
   average money per energy: 6
   average money per exp: 29
   loot: []
-- target: Pizza Parlor
+- target: Cigar Bar
   job: Ransack Imports
   energy: 355
   exp: 93
@@ -358,7 +358,7 @@
     defense for energy: 0.0004600938967136151
     attack for exp: 0.001756272401433692
     defense for exp: 0.001756272401433692
-- target: Pizza Parlor
+- target: Bagel Shop
   job: Extort Supplies
   energy: 280
   exp: 61
@@ -370,7 +370,7 @@
   average money per energy: 13
   average money per exp: 61
   loot: []
-- target: Pizza Parlor
+- target: Russian Restaurant
   job: Pry Open Register
   energy: 234
   exp: 40
@@ -393,7 +393,7 @@
     defense for energy: 0.0020655270655270653
     attack for exp: 0.012083333333333333
     defense for exp: 0.012083333333333333
-- target: Pizza Parlor
+- target: Taxi Cab
   job: Collect Tribute Money
   energy: 128
   exp: 21
@@ -405,7 +405,7 @@
   average money per energy: 9
   average money per exp: 59
   loot: []
-- target: Pizza Parlor
+- target: Coffee Shop
   job: Manhandle Manager
   energy: 188
   exp: 60
@@ -428,7 +428,7 @@
     defense for energy: 0.0015319148936170212
     attack for exp: 0.005399999999999999
     defense for exp: 0.0048
-- target: Pizza Parlor
+- target: Seafood Restaurant
   job: Smash Windows
   energy: 87
   exp: 24

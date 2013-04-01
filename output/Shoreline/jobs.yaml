@@ -1,5 +1,5 @@
 ---
-- target: Pizza Parlor
+- target: Atlantic Casino
   job: Case Vault
   energy: 200
   exp: 42
@@ -22,7 +22,7 @@
     defense for energy: 0.0005
     attack for exp: 0.0015873015873015873
     defense for exp: 0.002380952380952381
-- target: Pizza Parlor
+- target: Palm Hotel
   job: Plant Bug
   energy: 64
   exp: 18
@@ -45,7 +45,7 @@
     defense for energy: 0.013125000000000001
     attack for exp: 0.007777777777777778
     defense for exp: 0.046666666666666676
-- target: Pizza Parlor
+- target: Casino
   job: Study Security
   energy: 35
   exp: 10
@@ -137,7 +137,7 @@
     defense for energy: 0.004166666666666667
     attack for exp: 0.016666666666666666
     defense for exp: 0.016666666666666666
-- target: Pizza Parlor
+- target: Atlantic Hotel
   job: Set Up Stakeout
   energy: 58
   exp: 13
@@ -160,7 +160,7 @@
     defense for energy: 0.0003448275862068965
     attack for exp: 0.0007692307692307692
     defense for exp: 0.0015384615384615385
-- target: Pizza Parlor
+- target: Nightclub
   job: Take Hostages
   energy: 152
   exp: 36
@@ -275,7 +275,7 @@
   average money per energy: 6
   average money per exp: 31
   loot: []
-- target: Pizza Parlor
+- target: Souvenir Store
   job: Shoplift Snowglobes
   energy: 28
   exp: 6
@@ -287,7 +287,7 @@
   average money per energy: 3
   average money per exp: 18
   loot: []
-- target: Pizza Parlor
+- target: Spark
   job: Plant Tracking Device
   energy: 62
   exp: 15
@@ -310,7 +310,7 @@
     defense for energy: 0.0070967741935483875
     attack for exp: 0.029333333333333333
     defense for exp: 0.029333333333333333
-- target: Pizza Parlor
+- target: Gentlemen's Club
   job: Get Dirt on Pit Boss
   energy: 80
   exp: 18
@@ -333,7 +333,7 @@
     defense for energy: 0.0022500000000000003
     attack for exp: 0.015
     defense for exp: 0.01
-- target: Pizza Parlor
+- target: Surf Shop
   job: Cause a Scene
   energy: 88
   exp: 22
@@ -356,7 +356,7 @@
     defense for energy: 0.0018181818181818182
     attack for exp: 0.0036363636363636364
     defense for exp: 0.007272727272727273
-- target: Pizza Parlor
+- target: Carousel
   job: Abduct Chief's Mistress
   energy: 115
   exp: 28
@@ -379,7 +379,7 @@
     defense for energy: 0.0015652173913043477
     attack for exp: 0.010714285714285714
     defense for exp: 0.0064285714285714285
-- target: Pizza Parlor
+- target: Pirate Tavern
   job: Install Spy
   energy: 62
   exp: 16

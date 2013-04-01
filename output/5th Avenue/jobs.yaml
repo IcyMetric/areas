@@ -1,5 +1,5 @@
 ---
-- target: Pizza Parlor
+- target: Boutique
   job: Pilfer Jewelry
   energy: 214
   exp: 91
@@ -22,7 +22,7 @@
     defense for energy: 0.0029205607476635513
     attack for exp: 0.017857142857142856
     defense for exp: 0.006868131868131868
-- target: Pizza Parlor
+- target: Luxe Lounge
   job: Burglarize the Bar
   energy: 451
   exp: 192
@@ -34,7 +34,7 @@
   average money per energy: 68
   average money per exp: 159
   loot: []
-- target: Pizza Parlor
+- target: Little Italy Art Gallery
   job: Steal Art
   energy: 345
   exp: 147
@@ -57,7 +57,7 @@
     defense for energy: 0.005434782608695652
     attack for exp: 0.005952380952380952
     defense for exp: 0.012755102040816327
-- target: Pizza Parlor
+- target: Fancy Restaurant
   job: Coerce a New Client
   energy: 242
   exp: 103
@@ -80,7 +80,7 @@
     defense for energy: 0.006611570247933884
     attack for exp: 0.007281553398058253
     defense for exp: 0.015533980582524271
-- target: Pizza Parlor
+- target: Executive Car
   job: Rob the Executive Car
   energy: 202
   exp: 86
@@ -103,7 +103,7 @@
     defense for energy: 0.011138613861386138
     attack for exp: 0.012209302325581395
     defense for exp: 0.026162790697674417
-- target: Pizza Parlor
+- target: Taxi Cab
   job: Hijack the Taxi
   energy: 454
   exp: 193
@@ -126,7 +126,7 @@
     defense for energy: 0.004027690371302706
     attack for exp: 0.0044411547002220575
     defense for exp: 0.009474463360473723
-- target: Pizza Parlor
+- target: Condos
   job: Aquire a Condo
   energy: 414
   exp: 176
@@ -149,7 +149,7 @@
     defense for energy: 0.0018115942028985507
     attack for exp: 0.00909090909090909
     defense for exp: 0.004261363636363636
-- target: Pizza Parlor
+- target: French Restaurant
   job: Extort the Owner
   energy: 276
   exp: 117
@@ -172,7 +172,7 @@
     defense for energy: 0.006793478260869565
     attack for exp: 0.007478632478632479
     defense for exp: 0.016025641025641024
-- target: Pizza Parlor
+- target: Luxury Theater
   job: Shoot up the Theater
   energy: 236
   exp: 100
@@ -184,7 +184,7 @@
   average money per energy: 68
   average money per exp: 160
   loot: []
-- target: Pizza Parlor
+- target: Clothing Store
   job: Pillage the Store
   energy: 361
   exp: 153
@@ -207,7 +207,7 @@
     defense for energy: 0.00443213296398892
     attack for exp: 0.004901960784313725
     defense for exp: 0.01045751633986928
-- target: Pizza Parlor
+- target: Shoe Store
   job: Ransack the Shop
   energy: 321
   exp: 136
@@ -230,7 +230,7 @@
     defense for energy: 0.0029205607476635513
     attack for exp: 0.014705882352941176
     defense for exp: 0.006893382352941176
-- target: Pizza Parlor
+- target: Bank
   job: Loot the Vault
   energy: 207
   exp: 88

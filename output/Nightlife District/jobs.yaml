@@ -1,5 +1,5 @@
 ---
-- target: Pizza Parlor
+- target: Modern Loft
   job: Set Up Hideout
   energy: 283
   exp: 112
@@ -22,7 +22,7 @@
     defense for energy: 0.0014134275618374558
     attack for exp: 0.01607142857142857
     defense for exp: 0.0035714285714285713
-- target: Pizza Parlor
+- target: Condos
   job: Empty Safe
   energy: 276
   exp: 109
@@ -45,7 +45,7 @@
     defense for energy: 0.0018115942028985507
     attack for exp: 0.01743119266055046
     defense for exp: 0.0045871559633027525
-- target: Pizza Parlor
+- target: Purple Viper
   job: Search Trunk
   energy: 239
   exp: 94
@@ -68,7 +68,7 @@
     defense for energy: 0.0009762900976290098
     attack for exp: 0.006382978723404255
     defense for exp: 0.0024822695035460994
-- target: Pizza Parlor
+- target: Centurion
   job: Find Drugs
   energy: 391
   exp: 154
@@ -91,7 +91,7 @@
     defense for energy: 0.009207161125319692
     attack for exp: 0.023376623376623377
     defense for exp: 0.023376623376623377
-- target: Pizza Parlor
+- target: Luxury Hotel
   job: Rent Rooms
   energy: 351
   exp: 139
@@ -103,7 +103,7 @@
   average money per energy: 56
   average money per exp: 141
   loot: []
-- target: Pizza Parlor
+- target: Blues Club
   job: Rob Patrons
   energy: 300
   exp: 119
@@ -126,7 +126,7 @@
     defense for energy: 0.0135
     attack for exp: 0.01134453781512605
     defense for exp: 0.03403361344537815
-- target: Pizza Parlor
+- target: Nightclub
   job: Dance
   energy: 260
   exp: 103
@@ -138,7 +138,7 @@
   average money per energy: 56
   average money per exp: 141
   loot: []
-- target: Pizza Parlor
+- target: Rhythm Club
   job: Steal Equipment
   energy: 320
   exp: 126
@@ -161,7 +161,7 @@
     defense for energy: 0.0008333333333333334
     attack for exp: 0.009523809523809525
     defense for exp: 0.0021164021164021165
-- target: Pizza Parlor
+- target: Parking Garage
   job: Threaten Attendent
   energy: 280
   exp: 111
@@ -184,7 +184,7 @@
     defense for energy: 0.0007142857142857143
     attack for exp: 0.006846846846846847
     defense for exp: 0.0018018018018018018
-- target: Pizza Parlor
+- target: Techno Club
   job: Ransack
   energy: 359
   exp: 142
@@ -207,7 +207,7 @@
     defense for energy: 0.0025998142989786446
     attack for exp: 0.016901408450704224
     defense for exp: 0.006572769953051643
-- target: Pizza Parlor
+- target: Gentlemen's Club
   job: Take Strippers Cash
   energy: 319
   exp: 126
@@ -219,7 +219,7 @@
   average money per energy: 56
   average money per exp: 141
   loot: []
-- target: Pizza Parlor
+- target: Sports Bar
   job: Steal Liquor
   energy: 353
   exp: 139

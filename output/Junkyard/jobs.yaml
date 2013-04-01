@@ -1,5 +1,5 @@
 ---
-- target: Pizza Parlor
+- target: Crushed Cars
   job: Search
   energy: 48
   exp: 13
@@ -22,7 +22,7 @@
     defense for energy: 0.013541666666666667
     attack for exp: 0.02
     defense for exp: 0.05
-- target: Pizza Parlor
+- target: Junk Yard Office
   job: Hack Computer
   energy: 156
   exp: 36
@@ -45,7 +45,7 @@
     defense for energy: 0.003076923076923077
     attack for exp: 0.013333333333333334
     defense for exp: 0.013333333333333334
-- target: Pizza Parlor
+- target: Gray Scrap Box
   job: Inspect
   energy: 60
   exp: 17
@@ -68,7 +68,7 @@
     defense for energy: 0.021333333333333333
     attack for exp: 0.03764705882352941
     defense for exp: 0.07529411764705882
-- target: Pizza Parlor
+- target: Rusty Debris Box
   job: Steal Chems
   energy: 210
   exp: 51
@@ -91,7 +91,7 @@
     defense for energy: 0.001142857142857143
     attack for exp: 0.006274509803921568
     defense for exp: 0.004705882352941176
-- target: Pizza Parlor
+- target: Orange Scrap Box
   job: Rip Off Product
   energy: 96
   exp: 15
@@ -114,7 +114,7 @@
     defense for energy: 0.011458333333333333
     attack for exp: 0.058666666666666666
     defense for exp: 0.07333333333333333
-- target: Pizza Parlor
+- target: Smashed Cars
   job: Steal Hidden Cash
   energy: 87
   exp: 12
@@ -137,7 +137,7 @@
     defense for energy: 0.011034482758620689
     attack for exp: 0.05333333333333334
     defense for exp: 0.08
-- target: Pizza Parlor
+- target: Hydraulic Crusher
   job: Crush Cooke's Car
   energy: 175
   exp: 55
@@ -160,7 +160,7 @@
     defense for energy: 0.0016190476190476191
     attack for exp: 0.007212121212121213
     defense for exp: 0.005151515151515152
-- target: Pizza Parlor
+- target: Car Cuber
   job: Destroy Tow Truck
   energy: 188
   exp: 57
@@ -183,7 +183,7 @@
     defense for energy: 0.0006515957446808512
     attack for exp: 0.002149122807017544
     defense for exp: 0.002149122807017544
-- target: Pizza Parlor
+- target: Magnetic Crane
   job: Smash Lab Equipment
   energy: 224
   exp: 73
@@ -195,7 +195,7 @@
   average money per energy: 7
   average money per exp: 22
   loot: []
-- target: Pizza Parlor
+- target: Red Debris Box
   job: Burn Stash
   energy: 127
   exp: 28
@@ -299,7 +299,7 @@
     defense for energy: 0.00017676767676767677
     attack for exp: 0.0008966376089663761
     defense for exp: 0.0005230386052303861
-- target: Pizza Parlor
+- target: Flattened Cars
   job: Steal Catalytic Converters
   energy: 72
   exp: 12
@@ -322,7 +322,7 @@
     defense for energy: 0.004861111111111112
     attack for exp: 0.035
     defense for exp: 0.029166666666666667
-- target: Pizza Parlor
+- target: Blue Scrap Box
   job: Hide Supplies
   energy: 57
   exp: 13
@@ -345,7 +345,7 @@
     defense for energy: 0.009649122807017544
     attack for exp: 0.026923076923076925
     defense for exp: 0.04230769230769231
-- target: Pizza Parlor
+- target: Blue Debris Box
   job: Dump Toxic Waste
   energy: 200
   exp: 63
@@ -368,7 +368,7 @@
     defense for energy: 0.0009
     attack for exp: 0.0014285714285714286
     defense for exp: 0.002857142857142857
-- target: Pizza Parlor
+- target: Factory
   job: Recycle Scrap Metal
   energy: 52
   exp: 12
@@ -380,7 +380,7 @@
   average money per energy: 6
   average money per exp: 29
   loot: []
-- target: Pizza Parlor
+- target: Steel Mill
   job: Melt Down Weapons
   energy: 136
   exp: 33
@@ -403,7 +403,7 @@
     defense for energy: 0.002696078431372549
     attack for exp: 0.005555555555555556
     defense for exp: 0.011111111111111112
-- target: Pizza Parlor
+- target: Warehouse
   job: Stash Stolen Product
   energy: 110
   exp: 20
@@ -426,7 +426,7 @@
     defense for energy: 0.008
     attack for exp: 0.055
     defense for exp: 0.044000000000000004
-- target: Pizza Parlor
+- target: Wholesale Warehouse
   job: Intercept Shipment
   energy: 90
   exp: 15
@@ -449,7 +449,7 @@
     defense for energy: 0.004666666666666667
     attack for exp: 0.036
     defense for exp: 0.028
-- target: Pizza Parlor
+- target: Traveler
   job: Vandalize
   energy: 102
   exp: 29
@@ -472,7 +472,7 @@
     defense for energy: 0.008823529411764704
     attack for exp: 0.03103448275862069
     defense for exp: 0.03103448275862069
-- target: Pizza Parlor
+- target: Muscle Car
   job: Joy Ride
   energy: 64
   exp: 18
@@ -495,7 +495,7 @@
     defense for energy: 0.005625
     attack for exp: 0.02
     defense for exp: 0.02
-- target: Pizza Parlor
+- target: Titan
   job: Load Product
   energy: 80
   exp: 16
@@ -507,7 +507,7 @@
   average money per energy: 8
   average money per exp: 40
   loot: []
-- target: Pizza Parlor
+- target: Pickup Truck
   job: Sweeten the Tank
   energy: 50
   exp: 7

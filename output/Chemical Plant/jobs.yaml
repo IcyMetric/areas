@@ -1,5 +1,5 @@
 ---
-- target: Pizza Parlor
+- target: Blue Chemical Tanks
   job: Steal Explosives
   energy: 293
   exp: 105
@@ -45,7 +45,7 @@
     defense for energy: 0.0033504273504273503
     attack for exp: 0.011946666666666668
     defense for exp: 0.010453333333333334
-- target: Pizza Parlor
+- target: Chemical Plant Office
   job: Break Up Meeting
   energy: 293
   exp: 105
@@ -57,7 +57,7 @@
   average money per energy: 44
   average money per exp: 123
   loot: []
-- target: Pizza Parlor
+- target: Chemical Plant Warehouse
   job: Destroy Weapons Cache
   energy: 351
   exp: 118
@@ -80,7 +80,7 @@
     defense for energy: 0.0
     attack for exp: 0.0
     defense for exp: 0.0
-- target: Pizza Parlor
+- target: Red Chemical Tanks
   job: Ignite Acetylene
   energy: 234
   exp: 89
@@ -103,7 +103,7 @@
     defense for energy: 0.014358974358974359
     attack for exp: 0.013483146067415729
     defense for exp: 0.03775280898876404
-- target: Pizza Parlor
+- target: Black Chemical Tank
   job: Cause Gas Leak
   energy: 146
   exp: 44
@@ -126,7 +126,7 @@
     defense for energy: 0.007671232876712329
     attack for exp: 0.03636363636363636
     defense for exp: 0.025454545454545455
-- target: Pizza Parlor
+- target: Silver Chemical Tank
   job: Cause Acid Spill
   energy: 293
   exp: 105
@@ -252,7 +252,7 @@
     defense for energy: 5.992210126835114e-05
     attack for exp: 0.0004511278195488722
     defense for exp: 0.00019614253023864006
-- target: Pizza Parlor
+- target: Grey Chemical Tanks
   job: Get Drug Materials
   energy: 351
   exp: 138
@@ -275,7 +275,7 @@
     defense for energy: 0.0037891737891737895
     attack for exp: 0.0034420289855072467
     defense for exp: 0.00963768115942029
-- target: Pizza Parlor
+- target: Beige Chemical Tank
   job: Bury Evidence
   energy: 234
   exp: 89
@@ -310,7 +310,7 @@
     defense for energy: 0.009142857142857144
     attack for exp: 0.006666666666666667
     defense for exp: 0.022222222222222223
-- target: Pizza Parlor
+- target: Van
   job: Steal Shipping List
   energy: 263
   exp: 89
@@ -333,7 +333,7 @@
     defense for energy: 0.004684410646387833
     attack for exp: 0.013842696629213483
     defense for exp: 0.013842696629213483
-- target: Pizza Parlor
+- target: Warehouse
   job: Start Chemical Fire
   energy: 410
   exp: 137
@@ -356,7 +356,7 @@
     defense for energy: 0.0
     attack for exp: 0.0
     defense for exp: 0.0
-- target: Pizza Parlor
+- target: Wholesale Warehouse
   job: Loot Inventory
   energy: 293
   exp: 105
@@ -379,7 +379,7 @@
     defense for energy: 0.005733788395904436
     attack for exp: 0.021714285714285714
     defense for exp: 0.016
-- target: Pizza Parlor
+- target: Office Trailer
   job: Steal Tools
   energy: 175
   exp: 72
@@ -402,7 +402,7 @@
     defense for energy: 0.005485714285714285
     attack for exp: 0.02
     defense for exp: 0.013333333333333334
-- target: Pizza Parlor
+- target: Box of Sand
   job: Stash Weapons
   energy: 205
   exp: 89
@@ -414,7 +414,7 @@
   average money per energy: 29
   average money per exp: 67
   loot: []
-- target: Pizza Parlor
+- target: Police Car
   job: Shoot Out Windows
   energy: 263
   exp: 89

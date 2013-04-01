@@ -1,5 +1,5 @@
 ---
-- target: Pizza Parlor
+- target: Online Deals
   job: Collect Kickbacks
   energy: 361
   exp: 157
@@ -22,7 +22,7 @@
     defense for energy: 0.006578947368421052
     attack for exp: 0.026273885350318472
     defense for exp: 0.015127388535031847
-- target: Pizza Parlor
+- target: Credit Express
   job: Launder Money
   energy: 251
   exp: 109
@@ -34,7 +34,7 @@
   average money per energy: 72
   average money per exp: 165
   loot: []
-- target: Pizza Parlor
+- target: Chromo Biotech
   job: Shred Documents
   energy: 292
   exp: 127
@@ -46,7 +46,7 @@
   average money per energy: 72
   average money per exp: 165
   loot: []
-- target: Pizza Parlor
+- target: Empire Security
   job: Take Out Snitches
   energy: 342
   exp: 149
@@ -69,7 +69,7 @@
     defense for energy: 0.003167641325536062
     attack for exp: 0.02348993288590604
     defense for exp: 0.00727069351230425
-- target: Pizza Parlor
+- target: Chase & Chase Law
   job: Threaten Staff
   energy: 302
   exp: 131
@@ -92,7 +92,7 @@
     defense for energy: 0.004594370860927152
     attack for exp: 0.006011450381679389
     defense for exp: 0.010591603053435114
-- target: Pizza Parlor
+- target: Coffee Shop
   job: Poison Cops
   energy: 191
   exp: 83
@@ -115,7 +115,7 @@
     defense for energy: 0.0049738219895287955
     attack for exp: 0.019879518072289156
     defense for exp: 0.01144578313253012
-- target: Pizza Parlor
+- target: Loft
   job: Clear Observation Point
   energy: 151
   exp: 66
@@ -138,7 +138,7 @@
     defense for energy: 0.005380794701986755
     attack for exp: 0.03977272727272727
     defense for exp: 0.01231060606060606
-- target: Pizza Parlor
+- target: Modern Loft
   job: Sabotage Sting
   energy: 519
   exp: 226
@@ -161,7 +161,7 @@
     defense for energy: 0.0021387283236994218
     attack for exp: 0.0027876106194690262
     defense for exp: 0.0049115044247787605
-- target: Pizza Parlor
+- target: Wave
   job: Plant Bomb
   energy: 479
   exp: 208
@@ -184,7 +184,7 @@
     defense for energy: 0.0024356297842727907
     attack for exp: 0.006610576923076923
     defense for exp: 0.005608974358974359
-- target: Pizza Parlor
+- target: Ultra Fit Gym
   job: Sell Steroids
   energy: 348
   exp: 151
@@ -196,7 +196,7 @@
   average money per energy: 72
   average money per exp: 165
   loot: []
-- target: Pizza Parlor
+- target: Influent Marketing
   job: Steal Data
   energy: 308
   exp: 134
@@ -219,7 +219,7 @@
     defense for energy: 0.0010551948051948051
     attack for exp: 0.007835820895522387
     defense for exp: 0.002425373134328358
-- target: Pizza Parlor
+- target: Pickup Truck
   job: Carjack
   energy: 257
   exp: 112

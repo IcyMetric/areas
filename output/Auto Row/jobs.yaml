@@ -34,7 +34,7 @@
   average money per energy: 7
   average money per exp: 45
   loot: []
-- target: Pizza Parlor
+- target: Empire Cars Dealership
   job: Crack Safe
   energy: 285
   exp: 68
@@ -57,7 +57,7 @@
     defense for energy: 0.0008421052631578948
     attack for exp: 0.003970588235294117
     defense for exp: 0.003529411764705882
-- target: Pizza Parlor
+- target: Black Lowrider
   job: Slash Tires
   energy: 76
   exp: 20
@@ -80,7 +80,7 @@
     defense for energy: 0.013157894736842105
     attack for exp: 0.05
     defense for exp: 0.05
-- target: Pizza Parlor
+- target: Fancy Car Dealership
   job: Cause an Accident
   energy: 110
   exp: 35
@@ -161,7 +161,7 @@
   average money per energy: 6
   average money per exp: 22
   loot: []
-- target: Pizza Parlor
+- target: Car Dealership
   job: Steal Cars
   energy: 105
   exp: 22
@@ -184,7 +184,7 @@
     defense for energy: 0.004000000000000001
     attack for exp: 0.019090909090909092
     defense for exp: 0.019090909090909092
-- target: Pizza Parlor
+- target: White Winscott
   job: Hotwire
   energy: 64
   exp: 12
@@ -275,7 +275,7 @@
     defense for energy: 0.00021818181818181818
     attack for exp: 0.0007792207792207791
     defense for exp: 0.0006375442739079102
-- target: Pizza Parlor
+- target: Purple Viper
   job: Smash Windows
   energy: 60
   exp: 12
@@ -287,7 +287,7 @@
   average money per energy: 8
   average money per exp: 43
   loot: []
-- target: Pizza Parlor
+- target: Red Cascade
   job: Steal Stereo
   energy: 70
   exp: 14
@@ -299,7 +299,7 @@
   average money per energy: 4
   average money per exp: 20
   loot: []
-- target: Pizza Parlor
+- target: Grey Goliath
   job: Break In
   energy: 108
   exp: 20
@@ -322,7 +322,7 @@
     defense for energy: 0.005555555555555556
     attack for exp: 0.015
     defense for exp: 0.03
-- target: Pizza Parlor
+- target: White Winscott
   job: Steal Hubcaps
   energy: 84
   exp: 16
@@ -334,7 +334,7 @@
   average money per energy: 8
   average money per exp: 42
   loot: []
-- target: Pizza Parlor
+- target: Gas Station
   job: Make Gasoline Bombs
   energy: 127
   exp: 50
@@ -357,7 +357,7 @@
     defense for energy: 0.0056692913385826766
     attack for exp: 0.0192
     defense for exp: 0.0144
-- target: Pizza Parlor
+- target: Car Wash
   job: Snatch Chemicals
   energy: 200
   exp: 43
@@ -380,7 +380,7 @@
     defense for energy: 0.0011
     attack for exp: 0.0032558139534883722
     defense for exp: 0.0051162790697674414
-- target: Pizza Parlor
+- target: Warehouse
   job: Shoot Up Inventory
   energy: 245
   exp: 62
@@ -403,7 +403,7 @@
     defense for energy: 0.002
     attack for exp: 0.004516129032258064
     defense for exp: 0.007903225806451612
-- target: Pizza Parlor
+- target: Car Dealership
   job: Rob Customers
   energy: 95
   exp: 18
@@ -415,7 +415,7 @@
   average money per energy: 7
   average money per exp: 41
   loot: []
-- target: Pizza Parlor
+- target: Force
   job: Sabotage
   energy: 140
   exp: 45
@@ -438,7 +438,7 @@
     defense for energy: 0.005999999999999999
     attack for exp: 0.004666666666666666
     defense for exp: 0.018666666666666665
-- target: Pizza Parlor
+- target: Minivan
   job: Grab Catalytic Converter
   energy: 90
   exp: 17

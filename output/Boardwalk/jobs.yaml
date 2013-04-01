@@ -1,5 +1,5 @@
 ---
-- target: Pizza Parlor
+- target: Carousel
   job: Sabotage Control Panel
   energy: 320
   exp: 75
@@ -22,7 +22,7 @@
     defense for energy: 0.0010357142857142856
     attack for exp: 0.006628571428571428
     defense for exp: 0.0044190476190476185
-- target: Pizza Parlor
+- target: Ferris Wheel
   job: Hold Hostages
   energy: 390
   exp: 84
@@ -45,7 +45,7 @@
     defense for energy: 0.0010256410256410256
     attack for exp: 0.006190476190476191
     defense for exp: 0.004761904761904762
-- target: Pizza Parlor
+- target: Rollercoaster
   job: Tinker with Speed
   energy: 98
   exp: 27
@@ -57,7 +57,7 @@
   average money per energy: 13
   average money per exp: 50
   loot: []
-- target: Pizza Parlor
+- target: Arcade
   job: Ransack Quarter Machine
   energy: 138
   exp: 27
@@ -69,7 +69,7 @@
   average money per energy: 18
   average money per exp: 94
   loot: []
-- target: Pizza Parlor
+- target: Bumper Cars
   job: Steal Attendant Uniform
   energy: 118
   exp: 24
@@ -92,7 +92,7 @@
     defense for energy: 0.02542372881355932
     attack for exp: 0.0375
     defense for exp: 0.125
-- target: Pizza Parlor
+- target: Souvenir Store
   job: Steal Security Footage
   energy: 162
   exp: 48
@@ -104,7 +104,7 @@
   average money per energy: 16
   average money per exp: 55
   loot: []
-- target: Pizza Parlor
+- target: Cotton Candy Booth
   job: Lace with Hallucinogens
   energy: 175
   exp: 55
@@ -127,7 +127,7 @@
     defense for energy: 0.0028285714285714286
     attack for exp: 0.007
     defense for exp: 0.009
-- target: Pizza Parlor
+- target: Circus Tent
   job: Acquire Attack Animal
   energy: 148
   exp: 44
@@ -139,7 +139,7 @@
   average money per energy: 18
   average money per exp: 61
   loot: []
-- target: Pizza Parlor
+- target: Hot Dog Booth
   job: Win Eating Contest
   energy: 90
   exp: 24
@@ -151,7 +151,7 @@
   average money per energy: 13
   average money per exp: 52
   loot: []
-- target: Pizza Parlor
+- target: Pizza Booth
   job: Rob
   energy: 130
   exp: 25
@@ -163,7 +163,7 @@
   average money per energy: 17
   average money per exp: 92
   loot: []
-- target: Pizza Parlor
+- target: Shooting Game Booth
   job: Play Shooting Game
   energy: 135
   exp: 42
@@ -186,7 +186,7 @@
     defense for energy: 0.011407407407407408
     attack for exp: 0.023333333333333338
     defense for exp: 0.036666666666666674
-- target: Pizza Parlor
+- target: Ice Cream Shop
   job: Rob
   energy: 130
   exp: 25
@@ -381,7 +381,7 @@
     defense for energy: 0.0010372881355932202
     attack for exp: 0.0017052631578947366
     defense for exp: 0.003221052631578947
-- target: Pizza Parlor
+- target: Chute Jump
   job: Install Hidden Camera
   energy: 108
   exp: 30
@@ -393,7 +393,7 @@
   average money per energy: 15
   average money per exp: 56
   loot: []
-- target: Pizza Parlor
+- target: Green Lifeguard Hut
   job: Set Up Surveillance
   energy: 88
   exp: 26
@@ -405,7 +405,7 @@
   average money per energy: 14
   average money per exp: 48
   loot: []
-- target: Pizza Parlor
+- target: Beach Hut
   job: Mug Rich Tourists
   energy: 168
   exp: 33
@@ -417,7 +417,7 @@
   average money per energy: 18
   average money per exp: 95
   loot: []
-- target: Pizza Parlor
+- target: Beach Rentals
   job: Steal Personal Water Craft
   energy: 288
   exp: 62
@@ -440,7 +440,7 @@
     defense for energy: 0.001388888888888889
     attack for exp: 0.005161290322580645
     defense for exp: 0.0064516129032258064
-- target: Pizza Parlor
+- target: Crab Shack
   job: Rob
   energy: 130
   exp: 25
@@ -452,7 +452,7 @@
   average money per energy: 19
   average money per exp: 100
   loot: []
-- target: Pizza Parlor
+- target: Seafood Restaurant
   job: Mug Patrons
   energy: 148
   exp: 26

@@ -160,7 +160,7 @@
     defense for energy: 0.0001686182669789227
     attack for exp: 0.0006593406593406593
     defense for exp: 0.0004945054945054945
-- target: Pizza Parlor
+- target: Symphony Hall
   job: Gun Down Gangster Patron
   energy: 310
   exp: 101
@@ -183,7 +183,7 @@
     defense for energy: 0.001032258064516129
     attack for exp: 0.004752475247524752
     defense for exp: 0.0031683168316831685
-- target: Pizza Parlor
+- target: Opera House
   job: Blackmail Opera Singer
   energy: 130
   exp: 27
@@ -195,7 +195,7 @@
   average money per energy: 14
   average money per exp: 70
   loot: []
-- target: Pizza Parlor
+- target: Peacock Theater
   job: Steal Play Revenue
   energy: 210
   exp: 43
@@ -218,7 +218,7 @@
     defense for energy: 0.006095238095238095
     attack for exp: 0.014883720930232559
     defense for exp: 0.029767441860465118
-- target: Pizza Parlor
+- target: Empire Theater
   job: Sell Forged Tickets
   energy: 100
   exp: 18
@@ -230,7 +230,7 @@
   average money per energy: 14
   average money per exp: 77
   loot: []
-- target: Pizza Parlor
+- target: Cube Theater
   job: Eliminate Tailing FBI Agent
   energy: 222
   exp: 75
@@ -253,7 +253,7 @@
     defense for energy: 0.002162162162162162
     attack for exp: 0.0072
     defense for exp: 0.0064
-- target: Pizza Parlor
+- target: Hotel
   job: Stash Federal Agent Corpses
   energy: 325
   exp: 105
@@ -276,7 +276,7 @@
     defense for energy: 0.001435897435897436
     attack for exp: 0.0044444444444444444
     defense for exp: 0.0044444444444444444
-- target: Pizza Parlor
+- target: Luxury Hotel
   job: Plant Evidence
   energy: 80
   exp: 21
@@ -288,7 +288,7 @@
   average money per energy: 11
   average money per exp: 42
   loot: []
-- target: Pizza Parlor
+- target: Nightclub
   job: Sell Product
   energy: 85
   exp: 16
@@ -300,7 +300,7 @@
   average money per energy: 14
   average money per exp: 75
   loot: []
-- target: Pizza Parlor
+- target: Fancy Restaurant
   job: Threaten Staff
   energy: 110
   exp: 30
@@ -323,7 +323,7 @@
     defense for energy: 0.008727272727272728
     attack for exp: 0.021333333333333333
     defense for exp: 0.032
-- target: Pizza Parlor
+- target: Movie Theater
   job: Crack Safe
   energy: 400
   exp: 93
@@ -346,7 +346,7 @@
     defense for energy: 0.0010791666666666666
     attack for exp: 0.005967741935483871
     defense for exp: 0.004641577060931899
-- target: Pizza Parlor
+- target: Jazz Club
   job: Crash Performance
   energy: 102
   exp: 27
@@ -358,7 +358,7 @@
   average money per energy: 13
   average money per exp: 50
   loot: []
-- target: Pizza Parlor
+- target: Blues Club
   job: Tape Illegal Bootleg
   energy: 190
   exp: 29

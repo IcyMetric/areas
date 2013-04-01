@@ -1,5 +1,5 @@
 ---
-- target: Pizza Parlor
+- target: Jazz Club
   job: Kidnap Guitarist
   energy: 94
   exp: 20
@@ -22,7 +22,7 @@
     defense for energy: 0.002553191489361702
     attack for exp: 0.012
     defense for exp: 0.012
-- target: Pizza Parlor
+- target: Modern Loft
   job: Break Windows
   energy: 45
   exp: 11
@@ -68,7 +68,7 @@
     defense for energy: 0.014285714285714285
     attack for exp: 0.05555555555555555
     defense for exp: 0.05555555555555555
-- target: Pizza Parlor
+- target: The Artery
   job: Steal Paintings
   energy: 122
   exp: 26
@@ -91,7 +91,7 @@
     defense for energy: 0.0007377049180327868
     attack for exp: 0.0008653846153846153
     defense for exp: 0.003461538461538461
-- target: Pizza Parlor
+- target: Empire Art Gallery
   job: Heist Sculptures
   energy: 145
   exp: 28
@@ -114,7 +114,7 @@
     defense for energy: 0.0004827586206896552
     attack for exp: 0.001
     defense for exp: 0.0025000000000000005
-- target: Pizza Parlor
+- target: Blues Club
   job: Rip Off Instruments
   energy: 72
   exp: 16
@@ -297,7 +297,7 @@
     defense for energy: 0.00032323232323232324
     attack for exp: 0.001037037037037037
     defense for exp: 0.0011851851851851852
-- target: Pizza Parlor
+- target: Cigar Bar
   job: Loot Cubans
   energy: 54
   exp: 9
@@ -320,7 +320,7 @@
     defense for energy: 0.001851851851851852
     attack for exp: 0.013333333333333334
     defense for exp: 0.011111111111111112
-- target: Pizza Parlor
+- target: Luxe Lounge
   job: Take Hostages
   energy: 164
   exp: 33
@@ -343,7 +343,7 @@
     defense for energy: 0.00012195121951219512
     attack for exp: 0.0006060606060606061
     defense for exp: 0.0006060606060606061
-- target: Pizza Parlor
+- target: Empire Theater
   job: Set Trap
   energy: 32
   exp: 7
@@ -355,7 +355,7 @@
   average money per energy: 4
   average money per exp: 22
   loot: []
-- target: Pizza Parlor
+- target: Russian Restaurant
   job: Escape Assassination
   energy: 34
   exp: 11
@@ -390,7 +390,7 @@
     defense for energy: 0.025714285714285714
     attack for exp: 0.018
     defense for exp: 0.108
-- target: Pizza Parlor
+- target: Modern Loft
   job: Break In
   energy: 62
   exp: 13
@@ -413,7 +413,7 @@
     defense for energy: 0.00967741935483871
     attack for exp: 0.046153846153846156
     defense for exp: 0.046153846153846156
-- target: Pizza Parlor
+- target: Art Museum
   job: Intercept Art Delivery
   energy: 56
   exp: 14
@@ -436,7 +436,7 @@
     defense for energy: 0.004821428571428571
     attack for exp: 0.02571428571428571
     defense for exp: 0.019285714285714285
-- target: Pizza Parlor
+- target: Chinese Restaurant
   job: Shake Down
   energy: 65
   exp: 13
@@ -448,7 +448,7 @@
   average money per energy: 5
   average money per exp: 28
   loot: []
-- target: Pizza Parlor
+- target: Loft
   job: Rob
   energy: 44
   exp: 9

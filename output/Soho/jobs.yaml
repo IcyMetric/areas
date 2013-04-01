@@ -22,7 +22,7 @@
     defense for energy: 0.0014204545454545455
     attack for exp: 0.003947368421052632
     defense for exp: 0.006578947368421052
-- target: Pizza Parlor
+- target: Brownstone
   job: Bust Up Stakeout
   energy: 136
   exp: 27
@@ -45,7 +45,7 @@
     defense for energy: 0.000588235294117647
     attack for exp: 0.002962962962962963
     defense for exp: 0.002962962962962963
-- target: Pizza Parlor
+- target: Jewelry Store
   job: Rip Off Gems
   energy: 87
   exp: 15
@@ -80,7 +80,7 @@
   average money per energy: 4
   average money per exp: 28
   loot: []
-- target: Pizza Parlor
+- target: Clothing Store
   job: Pocket Protection Money
   energy: 28
   exp: 4
@@ -103,7 +103,7 @@
     defense for energy: 0.02142857142857143
     attack for exp: 0.1
     defense for exp: 0.15
-- target: Pizza Parlor
+- target: Department Store
   job: Pull Credit Scam
   energy: 60
   exp: 7
@@ -126,7 +126,7 @@
     defense for energy: 0.00125
     attack for exp: 0.010714285714285713
     defense for exp: 0.010714285714285713
-- target: Pizza Parlor
+- target: Department Store
   job: Boost Inventory
   energy: 76
   exp: 16
@@ -264,7 +264,7 @@
   average money per energy: 4
   average money per exp: 23
   loot: []
-- target: Pizza Parlor
+- target: Parkside Apartments
   job: Search Hideout
   energy: 32
   exp: 4
@@ -287,7 +287,7 @@
     defense for energy: 0.009375
     attack for exp: 0.075
     defense for exp: 0.075
-- target: Pizza Parlor
+- target: Spa
   job: Ambush Yakuza Allies
   energy: 80
   exp: 7
@@ -310,7 +310,7 @@
     defense for energy: 0.0035000000000000005
     attack for exp: 0.020000000000000004
     defense for exp: 0.04000000000000001
-- target: Pizza Parlor
+- target: Cigar Bar
   job: Crash Private Party
   energy: 36
   exp: 19
@@ -333,7 +333,7 @@
     defense for energy: 0.016666666666666666
     attack for exp: 0.0
     defense for exp: 0.031578947368421054
-- target: Pizza Parlor
+- target: Boutique
   job: Steal Designer Suit
   energy: 32
   exp: 7
@@ -356,7 +356,7 @@
     defense for energy: 0.015625
     attack for exp: 0.07142857142857142
     defense for exp: 0.07142857142857142
-- target: Pizza Parlor
+- target: Municipal Police Station
   job: Destroy Evidence
   energy: 40
   exp: 4
@@ -379,7 +379,7 @@
     defense for energy: 0.015
     attack for exp: 0.025
     defense for exp: 0.15
-- target: Pizza Parlor
+- target: Condos
   job: Break In
   energy: 37
   exp: 10
@@ -402,7 +402,7 @@
     defense for energy: 0.010810810810810811
     attack for exp: 0.06
     defense for exp: 0.04
-- target: Pizza Parlor
+- target: Empire Theater
   job: Set Up Stakeout
   energy: 34
   exp: 9
@@ -414,7 +414,7 @@
   average money per energy: 3
   average money per exp: 12
   loot: []
-- target: Pizza Parlor
+- target: Deluxe Apartments
   job: Crack Private Safe
   energy: 145
   exp: 7
@@ -437,7 +437,7 @@
     defense for energy: 0.0008275862068965516
     attack for exp: 0.008571428571428572
     defense for exp: 0.017142857142857144
-- target: Pizza Parlor
+- target: Police Truck
   job: Hijack
   energy: 35
   exp: 10

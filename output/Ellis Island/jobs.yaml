@@ -57,7 +57,7 @@
   average money per energy: 2
   average money per exp: 55
   loot: []
-- target: Pizza Parlor
+- target: Records Hall
   job: Get Shipping Records
   energy: 24
   exp: 3
@@ -103,7 +103,7 @@
     defense for energy: 0.0055000000000000005
     attack for exp: 0.07333333333333333
     defense for exp: 0.03666666666666667
-- target: Pizza Parlor
+- target: Immigration Center
   job: Capture Weapons
   energy: 35
   exp: 4
@@ -126,7 +126,7 @@
     defense for energy: 0.006857142857142857
     attack for exp: 0.02
     defense for exp: 0.06
-- target: Pizza Parlor
+- target: Deportation Center
   job: Steal Documents
   energy: 20
   exp: 3
@@ -138,7 +138,7 @@
   average money per energy: 3
   average money per exp: 21
   loot: []
-- target: Pizza Parlor
+- target: Medical Inspection Center
   job: Seize Meds
   energy: 25
   exp: 4
@@ -207,7 +207,7 @@
     defense for energy: 0.007692307692307693
     attack for exp: 0.05
     defense for exp: 0.05
-- target: Pizza Parlor
+- target: Statue of Liberty
   job: Eliminate Henchmen
   energy: 48
   exp: 7
@@ -275,7 +275,7 @@
     defense for energy: 0.0006923076923076923
     attack for exp: 0.006
     defense for exp: 0.0036
-- target: Pizza Parlor
+- target: Cell Block
   job: Take Out Sniper
   energy: 21
   exp: 4
@@ -298,7 +298,7 @@
     defense for energy: 0.014285714285714285
     attack for exp: 0.075
     defense for exp: 0.075
-- target: Pizza Parlor
+- target: Records Hall
   job: Get ID Numbers
   energy: 12
   exp: 3
@@ -310,7 +310,7 @@
   average money per energy: 2
   average money per exp: 11
   loot: []
-- target: Pizza Parlor
+- target: Immigration Center
   job: Boost Cache of Weapons
   energy: 22
   exp: 3
@@ -333,7 +333,7 @@
     defense for energy: 0.005454545454545454
     attack for exp: 0.02
     defense for exp: 0.04
-- target: Pizza Parlor
+- target: Museum
   job: Steal Historic Map
   energy: 13
   exp: 3

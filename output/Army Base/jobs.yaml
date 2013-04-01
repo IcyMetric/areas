@@ -1,5 +1,5 @@
 ---
-- target: Pizza Parlor
+- target: Small Barracks
   job: Sell Dirty Mags
   energy: 127
   exp: 42
@@ -11,7 +11,7 @@
   average money per energy: 35
   average money per exp: 108
   loot: []
-- target: Pizza Parlor
+- target: Large Barracks
   job: Distribute Product
   energy: 162
   exp: 50
@@ -46,7 +46,7 @@
   average money per energy: 34
   average money per exp: 111
   loot: []
-- target: Pizza Parlor
+- target: Ammo Dump
   job: Steal DU Rounds
   energy: 256
   exp: 92
@@ -69,7 +69,7 @@
     defense for energy: 0.0018749999999999997
     attack for exp: 0.0041739130434782605
     defense for exp: 0.005217391304347826
-- target: Pizza Parlor
+- target: Army Depot
   job: Heist Shells
   energy: 384
   exp: 149
@@ -92,7 +92,7 @@
     defense for energy: 0.0010416666666666667
     attack for exp: 0.0026845637583892616
     defense for exp: 0.0026845637583892616
-- target: Pizza Parlor
+- target: Missile Turret
   job: Take Missiles
   energy: 475
   exp: 179
@@ -115,7 +115,7 @@
     defense for energy: 0.0008947368421052632
     attack for exp: 0.0023743016759776537
     defense for exp: 0.0023743016759776537
-- target: Pizza Parlor
+- target: Command Center
   job: Hack Database
   energy: 270
   exp: 118
@@ -138,7 +138,7 @@
     defense for energy: 0.0026666666666666666
     attack for exp: 0.001694915254237288
     defense for exp: 0.006101694915254237
-- target: Pizza Parlor
+- target: Communications Center
   job: Tap Comm Lines
   energy: 212
   exp: 90
@@ -161,7 +161,7 @@
     defense for energy: 0.006792452830188679
     attack for exp: 0.0035555555555555557
     defense for exp: 0.016
-- target: Pizza Parlor
+- target: Guard House
   job: Bribe Guards
   energy: 175
   exp: 64
@@ -173,7 +173,7 @@
   average money per energy: 28
   average money per exp: 77
   loot: []
-- target: Pizza Parlor
+- target: Helicopter Gunship
   job: Siphon Fuel
   energy: 188
   exp: 60
@@ -196,7 +196,7 @@
     defense for energy: 0.0009929078014184398
     attack for exp: 0.004
     defense for exp: 0.003111111111111111
-- target: Pizza Parlor
+- target: Military Truck
   job: Smuggle Contraband
   energy: 320
   exp: 108
@@ -219,7 +219,7 @@
     defense for energy: 0.001375
     attack for exp: 0.004814814814814815
     defense for exp: 0.004074074074074074
-- target: Pizza Parlor
+- target: Hangar
   job: Unload Planes
   energy: 200
   exp: 67
@@ -333,7 +333,7 @@
     defense for energy: 0.0001014832162373146
     attack for exp: 0.0005087719298245614
     defense for exp: 0.0002280701754385965
-- target: Pizza Parlor
+- target: Sentry Tower
   job: Shoot Up Sentries
   energy: 332
   exp: 145
@@ -356,7 +356,7 @@
     defense for energy: 0.0009036144578313252
     attack for exp: 0.0011379310344827585
     defense for exp: 0.002068965517241379
-- target: Pizza Parlor
+- target: Battle Tank
   job: Hijack Tank
   energy: 284
   exp: 110
@@ -379,7 +379,7 @@
     defense for energy: 0.001068075117370892
     attack for exp: 0.00296969696969697
     defense for exp: 0.0027575757575757577
-- target: Pizza Parlor
+- target: Van
   job: Slash Tires
   energy: 140
   exp: 52
@@ -391,7 +391,7 @@
   average money per energy: 28
   average money per exp: 76
   loot: []
-- target: Pizza Parlor
+- target: Hatchback
   job: Cause a Crash
   energy: 156
   exp: 62
@@ -403,7 +403,7 @@
   average money per energy: 27
   average money per exp: 69
   loot: []
-- target: Pizza Parlor
+- target: Titan
   job: Machine Gun
   energy: 198
   exp: 80

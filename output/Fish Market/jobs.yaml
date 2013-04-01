@@ -68,7 +68,7 @@
     defense for energy: 0.0022222222222222222
     attack for exp: 0.007407407407407408
     defense for exp: 0.007407407407407408
-- target: Pizza Parlor
+- target: Lobster Boat
   job: Steal Weapons
   energy: 116
   exp: 26
@@ -91,7 +91,7 @@
     defense for energy: 0.001379310344827586
     attack for exp: 0.0038461538461538464
     defense for exp: 0.006153846153846154
-- target: Pizza Parlor
+- target: Shrimp Boat
   job: Destroy Shipment
   energy: 130
   exp: 35
@@ -114,7 +114,7 @@
     defense for energy: 0.000576923076923077
     attack for exp: 0.0010714285714285715
     defense for exp: 0.002142857142857143
-- target: Pizza Parlor
+- target: Tuna Boat
   job: Take Body Armor
   energy: 52
   exp: 9
@@ -137,7 +137,7 @@
     defense for energy: 0.016153846153846154
     attack for exp: 0.046666666666666676
     defense for exp: 0.09333333333333335
-- target: Pizza Parlor
+- target: Fish Market
   job: Shake Down
   energy: 67
   exp: 11
@@ -252,7 +252,7 @@
     defense for energy: 0.000313953488372093
     attack for exp: 0.0008571428571428571
     defense for exp: 0.0011020408163265306
-- target: Pizza Parlor
+- target: Tug Boat
   job: Hijack
   energy: 63
   exp: 12
@@ -275,7 +275,7 @@
     defense for energy: 0.005079365079365079
     attack for exp: 0.013333333333333334
     defense for exp: 0.02666666666666667
-- target: Pizza Parlor
+- target: Seafood Restaurant
   job: Rob
   energy: 45
   exp: 8
@@ -287,7 +287,7 @@
   average money per energy: 6
   average money per exp: 35
   loot: []
-- target: Pizza Parlor
+- target: Crab Shack
   job: Stick Up
   energy: 37
   exp: 5
@@ -299,7 +299,7 @@
   average money per energy: 5
   average money per exp: 38
   loot: []
-- target: Pizza Parlor
+- target: Tug Boat
   job: Put Hole in Hull
   energy: 44
   exp: 11
@@ -322,7 +322,7 @@
     defense for energy: 0.013636363636363634
     attack for exp: 0.054545454545454536
     defense for exp: 0.054545454545454536
-- target: Pizza Parlor
+- target: Shrimp Boat
   job: Booby Trap
   energy: 50
   exp: 14
@@ -334,7 +334,7 @@
   average money per energy: 4
   average money per exp: 16
   loot: []
-- target: Pizza Parlor
+- target: Fish Cannery
   job: Dispose of Bodies
   energy: 152
   exp: 41
@@ -357,7 +357,7 @@
     defense for energy: 0.0011513157894736843
     attack for exp: 0.003414634146341464
     defense for exp: 0.00426829268292683
-- target: Pizza Parlor
+- target: Pickup Truck
   job: Plant Bomb
   energy: 80
   exp: 27
@@ -380,7 +380,7 @@
     defense for energy: 0.005999999999999999
     attack for exp: 0.0044444444444444444
     defense for exp: 0.017777777777777778
-- target: Pizza Parlor
+- target: Force
   job: Cut Fuel Line
   energy: 72
   exp: 22
@@ -392,7 +392,7 @@
   average money per energy: 5
   average money per exp: 17
   loot: []
-- target: Pizza Parlor
+- target: Minivan
   job: Smash Windows
   energy: 50
   exp: 11
@@ -404,7 +404,7 @@
   average money per energy: 4
   average money per exp: 21
   loot: []
-- target: Pizza Parlor
+- target: Warehouse
   job: Destroy Weapons Cache
   energy: 212
   exp: 51
@@ -427,7 +427,7 @@
     defense for energy: 0.0007075471698113207
     attack for exp: 0.0029411764705882353
     defense for exp: 0.0029411764705882353
-- target: Pizza Parlor
+- target: Abandoned Building
   job: Smash Up Hideout
   energy: 184
   exp: 41

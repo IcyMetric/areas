@@ -1,5 +1,5 @@
 ---
-- target: Pizza Parlor
+- target: Cafe Del Sol
   job: Rob
   energy: 314
   exp: 126
@@ -22,7 +22,7 @@
     defense for energy: 0.005732484076433121
     attack for exp: 0.02857142857142857
     defense for exp: 0.014285714285714285
-- target: Pizza Parlor
+- target: Church
   job: Ensure Cooperation
   energy: 378
   exp: 151
@@ -45,7 +45,7 @@
     defense for energy: 0.005643738977072311
     attack for exp: 0.018543046357615896
     defense for exp: 0.0141280353200883
-- target: Pizza Parlor
+- target: Cigar Factory
   job: Steal Shimpment
   energy: 372
   exp: 149
@@ -68,7 +68,7 @@
     defense for energy: 0.0034946236559139786
     attack for exp: 0.0174496644295302
     defense for exp: 0.0087248322147651
-- target: Pizza Parlor
+- target: Cuban Community Center
   job: Move Goods
   energy: 263
   exp: 105
@@ -80,7 +80,7 @@
   average money per energy: 58
   average money per exp: 145
   loot: []
-- target: Pizza Parlor
+- target: Cuban Sandwich Shop
   job: Threaten Owner
   energy: 223
   exp: 89
@@ -103,7 +103,7 @@
     defense for energy: 0.011210762331838564
     attack for exp: 0.01348314606741573
     defense for exp: 0.028089887640449437
-- target: Pizza Parlor
+- target: Little Souvenir Shop
   job: Extort Money
   energy: 289
   exp: 116
@@ -115,7 +115,7 @@
   average money per energy: 58
   average money per exp: 144
   loot: []
-- target: Pizza Parlor
+- target: Cuban Supermarket
   job: Crack Safe
   energy: 249
   exp: 100
@@ -138,7 +138,7 @@
     defense for energy: 0.004016064257028112
     attack for exp: 0.021
     defense for exp: 0.01
-- target: Pizza Parlor
+- target: Cigar Bar
   job: Steal Cigars
   energy: 325
   exp: 130
@@ -150,7 +150,7 @@
   average money per energy: 58
   average money per exp: 145
   loot: []
-- target: Pizza Parlor
+- target: Fish Market
   job: Trash
   energy: 285
   exp: 114
@@ -173,7 +173,7 @@
     defense for energy: 0.004210526315789474
     attack for exp: 0.021052631578947368
     defense for exp: 0.010526315789473684
-- target: Pizza Parlor
+- target: Deli
   job: Muscle Proprietor
   energy: 367
   exp: 147
@@ -196,7 +196,7 @@
     defense for energy: 0.004359673024523161
     attack for exp: 0.014285714285714285
     defense for exp: 0.010884353741496598
-- target: Pizza Parlor
+- target: Electronics Shack
   job: Burn Down
   energy: 327
   exp: 131
@@ -219,7 +219,7 @@
     defense for energy: 0.003975535168195718
     attack for exp: 0.01984732824427481
     defense for exp: 0.009923664122137405
-- target: Pizza Parlor
+- target: Diner
   job: Collect Royalties
   energy: 399
   exp: 160

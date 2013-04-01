@@ -1,5 +1,5 @@
 ---
-- target: Pizza Parlor
+- target: Clock Tower
   job: Set Up Video
   energy: 155
   exp: 62
@@ -11,7 +11,7 @@
   average money per energy: 27
   average money per exp: 68
   loot: []
-- target: Pizza Parlor
+- target: Obelisk
   job: Surveil the Perimeter
   energy: 218
   exp: 80
@@ -35,7 +35,7 @@
   average money per energy: 29
   average money per exp: 83
   loot: []
-- target: Pizza Parlor
+- target: Observatory
   job: Steal Optics
   energy: 256
   exp: 88
@@ -58,7 +58,7 @@
     defense for energy: 0.000546875
     attack for exp: 0.001590909090909091
     defense for exp: 0.001590909090909091
-- target: Pizza Parlor
+- target: Computer Lab
   job: Heist Computers
   energy: 325
   exp: 100
@@ -253,7 +253,7 @@
     defense for energy: 0.00012762762762762763
     attack for exp: 0.00043902439024390245
     defense for exp: 0.0002764227642276423
-- target: Pizza Parlor
+- target: Science Museum
   job: Take Precious Metals
   energy: 470
   exp: 176
@@ -276,7 +276,7 @@
     defense for energy: 0.00033687943262411345
     attack for exp: 0.0001893939393939394
     defense for exp: 0.0008996212121212122
-- target: Pizza Parlor
+- target: Observatory
   job: Take Care of Witnesses
   energy: 272
   exp: 122
@@ -299,7 +299,7 @@
     defense for energy: 0.0008333333333333334
     attack for exp: 0.000546448087431694
     defense for exp: 0.0018579234972677596
-- target: Pizza Parlor
+- target: Obelisk
   job: Deface Monument
   energy: 170
   exp: 60

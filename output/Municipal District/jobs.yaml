@@ -1,5 +1,5 @@
 ---
-- target: Pizza Parlor
+- target: Municipal Hospital
   job: Start a Fire
   energy: 510
   exp: 238
@@ -22,7 +22,7 @@
     defense for energy: 0.000588235294117647
     attack for exp: 0.000980392156862745
     defense for exp: 0.0012605042016806723
-- target: Pizza Parlor
+- target: Purple Viper
   job: Plant Bomb
   energy: 218
   exp: 92
@@ -45,7 +45,7 @@
     defense for energy: 0.0008256880733944953
     attack for exp: 0.0019565217391304345
     defense for exp: 0.0019565217391304345
-- target: Pizza Parlor
+- target: Fire Station
   job: Destroy Evidence
   energy: 310
   exp: 125
@@ -103,7 +103,7 @@
   average money per energy: 31
   average money per exp: 82
   loot: []
-- target: Pizza Parlor
+- target: White Winscott
   job: Cut Brake Lines
   energy: 172
   exp: 62
@@ -161,7 +161,7 @@
     defense for energy: 0.0007839721254355401
     attack for exp: 0.0013513513513513514
     defense for exp: 0.0017374517374517374
-- target: Pizza Parlor
+- target: Municipal Police Station
   job: Steal Evidence
   energy: 300
   exp: 120
@@ -184,7 +184,7 @@
     defense for energy: 0.0003
     attack for exp: 0.0006
     defense for exp: 0.00075
-- target: Pizza Parlor
+- target: Federal Hall
   job: Lean On Judge
   energy: 225
   exp: 88
@@ -264,7 +264,7 @@
     defense for energy: 0.00019047619047619048
     attack for exp: 0.0003001579778830964
     defense for exp: 0.0004107424960505529
-- target: Pizza Parlor
+- target: Red Cascade
   job: Break In
   energy: 260
   exp: 107
@@ -287,7 +287,7 @@
     defense for energy: 0.0005384615384615385
     attack for exp: 0.0006542056074766356
     defense for exp: 0.001308411214953271
-- target: Pizza Parlor
+- target: Grey Goliath
   job: Steal Stereo
   energy: 195
   exp: 65
@@ -299,7 +299,7 @@
   average money per energy: 34
   average money per exp: 103
   loot: []
-- target: Pizza Parlor
+- target: Parking Garage
   job: Puncture Tires
   energy: 170
   exp: 61
@@ -311,7 +311,7 @@
   average money per energy: 27
   average money per exp: 77
   loot: []
-- target: Pizza Parlor
+- target: Pharmacy
   job: Pilfer Painkillers
   energy: 205
   exp: 67
@@ -334,7 +334,7 @@
     defense for energy: 0.005268292682926829
     attack for exp: 0.0035820895522388056
     defense for exp: 0.016119402985074627
-- target: Pizza Parlor
+- target: Records Hall
   job: Falsify IDs
   energy: 178
   exp: 63
@@ -346,7 +346,7 @@
   average money per energy: 30
   average money per exp: 87
   loot: []
-- target: Pizza Parlor
+- target: Museum
   job: Sabotage Exhibit
   energy: 296
   exp: 114
@@ -369,7 +369,7 @@
     defense for energy: 0.0002702702702702703
     attack for exp: 0.0010526315789473684
     defense for exp: 0.0007017543859649122
-- target: Pizza Parlor
+- target: Science Museum
   job: Smash Equipment
   energy: 433
   exp: 185
@@ -392,7 +392,7 @@
     defense for energy: 0.0008083140877598152
     attack for exp: 0.0018918918918918919
     defense for exp: 0.0018918918918918919
-- target: Pizza Parlor
+- target: Coffee Shop
   job: Lace Doughnuts
   energy: 188
   exp: 70
@@ -404,7 +404,7 @@
   average money per energy: 30
   average money per exp: 82
   loot: []
-- target: Pizza Parlor
+- target: Mini Mart
   job: Rip Off Merchandise
   energy: 242
   exp: 78
@@ -427,7 +427,7 @@
     defense for energy: 0.0029752066115702478
     attack for exp: 0.0071794871794871795
     defense for exp: 0.009230769230769232
-- target: Pizza Parlor
+- target: Apartments
   job: Set Up Informant
   energy: 168
   exp: 68

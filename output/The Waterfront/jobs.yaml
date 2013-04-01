@@ -104,7 +104,7 @@
   average money per energy: 2
   average money per exp: 22
   loot: []
-- target: Pizza Parlor
+- target: Crab Shack
   job: Shake Down
   energy: 32
   exp: 3
@@ -127,7 +127,7 @@
     defense for energy: 0.0
     attack for exp: 0.13999999999999999
     defense for exp: 0.0
-- target: Pizza Parlor
+- target: Fancy Restaurant
   job: Intimidate Owner
   energy: 30
   exp: 2
@@ -139,7 +139,7 @@
   average money per energy: 1
   average money per exp: 25
   loot: []
-- target: Pizza Parlor
+- target: French Restaurant
   job: Steal Car Keys from Valet
   energy: 24
   exp: 2
@@ -162,7 +162,7 @@
     defense for energy: 0.0016666666666666668
     attack for exp: 0.02
     defense for exp: 0.02
-- target: Pizza Parlor
+- target: Steak House
   job: Collect Protection Money
   energy: 15
   exp: 1
@@ -185,7 +185,7 @@
     defense for energy: 0.013333333333333334
     attack for exp: 0.1
     defense for exp: 0.2
-- target: Pizza Parlor
+- target: Flower Shop
   job: Sell Goods
   energy: 18
   exp: 1
@@ -253,7 +253,7 @@
     defense for energy: 0.001153846153846154
     attack for exp: 0.01125
     defense for exp: 0.01125
-- target: Pizza Parlor
+- target: Imports
   job: Sell Stolen Furniture
   energy: 12
   exp: 1
@@ -288,7 +288,7 @@
   average money per energy: 1
   average money per exp: 11
   loot: []
-- target: Pizza Parlor
+- target: Ice Cream Shop
   job: Swipe Tip Jar
   energy: 12
   exp: 1
@@ -311,7 +311,7 @@
     defense for energy: 0.04
     attack for exp: 0.24
     defense for exp: 0.48
-- target: Pizza Parlor
+- target: Coffee Shop
   job: Hit Register
   energy: 29
   exp: 2
@@ -334,7 +334,7 @@
     defense for energy: 0.005172413793103448
     attack for exp: 0.15
     defense for exp: 0.075
-- target: Pizza Parlor
+- target: Fish Market
   job: Collect Loan
   energy: 9
   exp: 1
@@ -357,7 +357,7 @@
     defense for energy: 0.0
     attack for exp: 0.3
     defense for exp: 0.0
-- target: Pizza Parlor
+- target: Seafood Restaurant
   job: Rob
   energy: 17
   exp: 1
@@ -369,7 +369,7 @@
   average money per energy: 2
   average money per exp: 40
   loot: []
-- target: Pizza Parlor
+- target: Sushi Restaurant
   job: Rough Up Local Thugs
   energy: 35
   exp: 3
@@ -392,7 +392,7 @@
     defense for energy: 0.0034285714285714284
     attack for exp: 0.04
     defense for exp: 0.04
-- target: Pizza Parlor
+- target: Food Truck
   job: Rob
   energy: 17
   exp: 1

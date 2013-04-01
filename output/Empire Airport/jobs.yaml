@@ -1,5 +1,5 @@
 ---
-- target: Pizza Parlor
+- target: Airport
   job: Disable Surveillance
   energy: 240
   exp: 81
@@ -22,7 +22,7 @@
     defense for energy: 0.0052499999999999995
     attack for exp: 0.005555555555555556
     defense for exp: 0.015555555555555555
-- target: Pizza Parlor
+- target: Control Tower
   job: Steal Access Codes
   energy: 212
   exp: 66
@@ -45,7 +45,7 @@
     defense for energy: 0.016132075471698114
     attack for exp: 0.011515151515151516
     defense for exp: 0.05181818181818182
-- target: Pizza Parlor
+- target: Terminal
   job: Disable Locks
   energy: 268
   exp: 94
@@ -68,7 +68,7 @@
     defense for energy: 0.004298507462686567
     attack for exp: 0.003404255319148936
     defense for exp: 0.01225531914893617
-- target: Pizza Parlor
+- target: Zeohander Airplane
   job: Steal Cargo
   energy: 450
   exp: 125
@@ -91,7 +91,7 @@
     defense for energy: 0.0018666666666666666
     attack for exp: 0.0048
     defense for exp: 0.006719999999999999
-- target: Pizza Parlor
+- target: Terminal
   job: Rob
   energy: 138
   exp: 34
@@ -103,7 +103,7 @@
   average money per energy: 29
   average money per exp: 119
   loot: []
-- target: Pizza Parlor
+- target: EA Airplane
   job: Forge Manifest
   energy: 142
   exp: 38
@@ -241,7 +241,7 @@
     defense for energy: 0.00014
     attack for exp: 0.0005650684931506848
     defense for exp: 0.00035958904109589036
-- target: Pizza Parlor
+- target: SE Airplane
   job: Sabotage
   energy: 295
   exp: 110
@@ -287,7 +287,7 @@
     defense for energy: 0.0025
     attack for exp: 0.00374468085106383
     defense for exp: 0.006808510638297872
-- target: Pizza Parlor
+- target: White Winscott
   job: Car jack
   energy: 205
   exp: 58
@@ -310,7 +310,7 @@
     defense for energy: 0.0026341463414634144
     attack for exp: 0.009310344827586206
     defense for exp: 0.009310344827586206
-- target: Pizza Parlor
+- target: Red Cascade
   job: Enforce No Parking
   energy: 115
   exp: 30
@@ -322,7 +322,7 @@
   average money per energy: 19
   average money per exp: 75
   loot: []
-- target: Pizza Parlor
+- target: Black Lowrider
   job: Steal Hubcaps
   energy: 164
   exp: 46
@@ -334,7 +334,7 @@
   average money per energy: 29
   average money per exp: 104
   loot: []
-- target: Pizza Parlor
+- target: Parking Garage
   job: Plant Carbomb
   energy: 198
   exp: 67
@@ -357,7 +357,7 @@
     defense for energy: 0.00909090909090909
     attack for exp: 0.013432835820895522
     defense for exp: 0.026865671641791045
-- target: Pizza Parlor
+- target: Parking Garage
   job: Park Long Term
   energy: 120
   exp: 29
@@ -369,7 +369,7 @@
   average money per energy: 20
   average money per exp: 82
   loot: []
-- target: Pizza Parlor
+- target: Hotel
   job: Lay Low
   energy: 133
   exp: 38
@@ -381,7 +381,7 @@
   average money per energy: 23
   average money per exp: 81
   loot: []
-- target: Pizza Parlor
+- target: City Bus
   job: Hijack
   energy: 215
   exp: 60
@@ -404,7 +404,7 @@
     defense for energy: 0.0021705426356589145
     attack for exp: 0.01
     defense for exp: 0.0077777777777777776
-- target: Pizza Parlor
+- target: Lift Truck
   job: Rig Cargo Truck
   energy: 188
   exp: 63
