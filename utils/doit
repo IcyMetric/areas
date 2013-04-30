@@ -4,7 +4,7 @@ set -eu
 BASE=static-cdn.crimecitygame.com/ccios/plist
 LAST_VERSION=$( git log -n1 | tail -n1 | tr -d ' ' )
 
-wget -rN -np --no-remove-listing -A plist -X 2011*,2012* http://${BASE}/
+wget -rN -np --no-remove-listing -A plist -X */2011*,*/2012* http://${BASE}/
 
 find ${BASE} -newer ${BASE}/${LAST_VERSION}/area.plist -type f -printf "%h\n" | sort -u | awk -F/ '{ print $NF }' |\
   while read new_data; do
